@@ -16,17 +16,17 @@ See also: [[Sessions]], [[sessions/session-045|Session 45 - The Syndicate's Sile
 
 Session 46 closes one of the campaign's longest-running personal threads in the bleakest possible way. The halfling stalking the camp is not Tobold but an assassin wearing Tobold's face, and under pressure he confirms that Tobold is dead after enduring torture without betraying the party.
 
-The rest of the session shifts from grief to dangerous negotiation. The Bonebreakers gather more rumours about the necropolis and the market, reveal Prince Arthur within the Spider's Market, and finally meet Ash again under controlled terms. Her claim that she herself is the Grey Khan reframes the entire Syndicate question, but the session ends before the exchange, leaving the party committed to a perilous silent strike in the one place where open violence could bring disaster down on them all.
+The rest of the session shifts from grief to dangerous negotiation. The Bonebreakers gather more rumours about the necropolis and the market, reveal Prince Arthur within the Spider Market, and finally meet Ash again under controlled terms. Her claim that she herself is the Grey Khan reframes the entire Syndicate question, but the session ends before the exchange, leaving the party committed to a perilous silent strike in the one place where open violence could bring disaster down on them all.
 
 ## Important events
 
-- Micaelis formally joins the party near the Spider's Market.
+- Micaelis formally joins the party near the Spider Market.
 - A halfling creeps toward the camp during the night and is subdued.
 - The captive is revealed to be an assassin impersonating Tobold.
 - The assassin says Tobold is dead and that he was tortured for information but never broke.
 - The assassin was sent to kill Prince Arthur's secretary and is released after being paid for the truth.
 - Barny checks the invasion fort and sees fresh, though smaller, war preparations.
-- The party enters the Spider's Market with Arthur and the secretary disguised behind masks.
+- The party enters the Spider Market with Arthur and the secretary disguised behind masks.
 - A battered adventuring party reports a western necropolis entrance guarded by skeleton patrols.
 - Arden's confrontation with a watching orc leads to a formal meeting arrangement.
 - Ulrich buys a holy symbol that detects evil and finds Steve to be extremely evil.
@@ -37,8 +37,8 @@ The rest of the session shifts from grief to dangerous negotiation. The Bonebrea
 
 ## Locations visited
 
-- The party camp near the Spider's Market
-- The Spider's Market
+- The party camp near the Spider Market
+- The Spider Market
 - The Broken Crown traders
 - The western necropolis rumour route
 - The meeting place inside the market
@@ -83,7 +83,7 @@ The rest of the session shifts from grief to dangerous negotiation. The Bonebrea
 - Tobold's fate is finally confirmed. Status: Resolved in Session 46.
 - Ash's claim that she is the Grey Khan changes the Syndicate's shape, but the truth of that claim is not yet proven. Status: Partially resolved.
 - The planned exchange for the secretary has not happened yet. Status: Still unresolved.
-- The Bonebreakers' plan to strike inside the Spider's Market remains untested and highly dangerous. Status: Still unresolved.
+- The Bonebreakers' plan to strike inside the Spider Market remains untested and highly dangerous. Status: Still unresolved.
 - The western necropolis entrance may connect to the route beneath the Mercy, but this is not confirmed here. Status: Still unresolved.
 
 ## Related sessions

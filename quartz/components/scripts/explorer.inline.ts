@@ -209,6 +209,15 @@ async function setupExplorer(currentSlug: FullSlug) {
     const explorerUl = explorer.querySelector(".explorer-ul")
     if (!explorerUl) continue
 
+    // Clear any previously rendered tree entries before rebuilding.
+    // Without this, SPA navigation or live-reload updates can leave stale
+    // explorer nodes in place and make the tree appear flat or duplicated.
+    for (const child of Array.from(explorerUl.children)) {
+      if (!child.classList.contains("overflow-end")) {
+        child.remove()
+      }
+    }
+
     // Create and insert new content
     const fragment = document.createDocumentFragment()
     for (const child of trie.children) {

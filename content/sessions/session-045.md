@@ -35,7 +35,7 @@ For a while, that looks workable. The party smooths things over at the cathedral
 - After several nights, a message arrives that the meeting has been cancelled.
 - The party concludes that its contact plan has failed and heads back into Westmarsh.
 - Eight ogres ambush the group on the road, but the party defeats them quickly.
-- The session ends with the Bonebreakers reaching the Spider's Market and seeing a group of halflings approach.
+- The session ends with the Bonebreakers reaching the Spider Market and seeing a group of halflings approach.
 
 ## Locations visited
 
@@ -48,7 +48,7 @@ For a while, that looks workable. The party smooths things over at the cathedral
 - Vex's warehouse
 - The great bridge
 - The road into Westmarsh
-- The Spider's Market
+- The Spider Market
 
 ## NPCs and characters involved
 
@@ -78,7 +78,7 @@ For a while, that looks workable. The party smooths things over at the cathedral
 - Luthien buys and then gifts Arthur a Ring of Water Walking.
 - Steve commissions new armour in Barrow Spa.
 - The cathedral vault is used to store the party's recent treasure.
-- The Spider's Market remains bound by its three rules: no violence, broken deals mean death, and all secrets stay there.
+- The Spider Market remains bound by its three rules: no violence, broken deals mean death, and all secrets stay there.
 
 ## Threads raised this session
 

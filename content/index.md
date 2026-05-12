@@ -24,6 +24,6 @@ Welcome to the campaign wiki for **The Bonebreakers**.
 
 ## Major locations
 
-- [[locations/agria|The Kingdom of Agria]]
-- [[locations/ikiria|Ikiria]]
-- [[locations/flux-academy|Flux Academy]]
+- [[locations/world/agria|The Kingdom of Agria]]
+- [[locations/world/agria/southlands/ikiria|Ikiria]]
+- [[locations/world/agria/southlands/ikiria/flux-academy|Flux Academy]]

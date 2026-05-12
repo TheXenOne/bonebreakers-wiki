@@ -5,6 +5,8 @@ const explorerOptions = {
   mapFn: (node: { displayName: string }) => {
     if (node.displayName === "sessions") {
       node.displayName = "Sessions"
+    } else if (node.displayName === "locations") {
+      node.displayName = "Locations"
     }
   },
 }

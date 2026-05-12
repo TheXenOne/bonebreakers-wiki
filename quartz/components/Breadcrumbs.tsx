@@ -36,7 +36,12 @@ const defaultOptions: BreadcrumbOptions = {
 }
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
-  const normalizedDisplayName = displayName === "sessions" ? "Sessions" : displayName
+  const normalizedDisplayName =
+    displayName === "sessions"
+      ? "Sessions"
+      : displayName === "locations"
+        ? "Locations"
+        : displayName
   return {
     displayName: normalizedDisplayName.replaceAll("-", " "),
     path: resolveRelative(baseSlug, currentSlug),
