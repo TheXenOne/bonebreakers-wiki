@@ -14,25 +14,26 @@ See also: [[Sessions]], [[sessions/session-003|Session 3 - Barrow Blitz]], [[ses
 
 ## Narrative recap
 
-Fresh from their success in the Barrow, the Bonebreakers are summoned to the Guildhall in Barrow Spa. Reginald, Guildmaster of the Tourism Merchants, hires them to investigate disappearances along the King's Road near Kelfrek Marsh. The reward is modest by the party's standards, but the job promises a new site to explore and a chance at further treasure.
+With the Barrow temporarily behind them, the Bonebreakers are summoned to the Guildhall in Barrow Spa. Reginald, the Guildmaster of the Tourism Merchants, asks them to investigate disappearances along the King's Road near the Kelfrek Marsh. The offered pay seems light for the danger, but the party accepts, expecting richer rewards if the threat proves real.
 
-Before leaving town, the Bonebreakers sell off part of their Barrow haul, commission Gus at Pimp My Ride to customize their cart, and gather more supplies. Rumors on the road point toward a "Grease Dragon" in an old shrine beyond the marsh. A farmer confirms that travelers have been taken there and that toad-like humanoids have also been seen in the area.
+Before leaving town, the Bonebreakers sell treasure, commission Gus at Pimp My Ride to repaint their cart, buy supplies, and gather rumors. A farmer confirms that something locals call a "Grease Dragon" has taken over a shrine in the marsh and that toad-like creatures have been seen nearby. The party follows greasy soot-black trails off the road and into the marsh.
 
-Following soot-blackened oil trails into the marsh, the party reaches a ruined shrine hidden in sandstone cliffs. Inside, they find automaton hands, golden gears, a strange recording device, a chained brass statue of the demon Mulvis, secret passages, murals, and a foundry centered around an ornate sword trapped in solid iron. The session ends when four gloop pilgrims appear and admit that travelers have been taken to feed a great serpent deeper within the shrine.
+At the sandstone cliffs on the far side of the marsh, the group enters a ruined shrine through a collapsed iron gate. Inside they discover brass automaton parts, a chained statue of Mulvis holding brass lightning bolts, hidden passages, and a foundry built around a solidified pool of iron. There, an ornate sword remains embedded in the cooled metal. The session ends when four gloop pilgrims calmly explain that travelers are being taken to feed a great serpent deeper within the shrine.
 
 ## Important events
 
-- The Bonebreakers are summoned to the Guildhall and offered a contract by Reginald.
-- The party accepts a 600 GP job to investigate disappearances on the King's Road, along with two draft horses and a cart.
-- The group commissions Gus at Pimp My Ride to repaint their cart.
-- Ulrich acquires a hunting dog named Fred.
-- A farmer confirms rumors of a "Grease Dragon" in a shrine beyond Kelfrek Marsh.
-- The party proves that the black grease trail is highly flammable.
-- The Bonebreakers choose the collapsed iron-gate entrance rather than the open archway.
-- The group defeats attacking brass automaton hands and recovers gears and a crank box.
-- A secret passage behind the statue of Mulvis is discovered.
-- The party finds a foundry, an ornate sword embedded in solid iron, and evidence that lightning was used in the shrine's old machinery.
-- Four gloop pilgrims reveal that travelers have been taken to feed the serpent.
+- Reginald hires the Bonebreakers to investigate disappearances along the King's Road.
+- The party commissions Gus to repaint their cart black with red lettering.
+- Ulrich buys a hunting dog named Fred.
+- A farmer confirms rumors of a "Grease Dragon" in a shrine beyond the marsh.
+- The party proves the greasy trail is highly flammable.
+- The Bonebreakers choose the collapsed iron-gate entrance rather than the main archway.
+- Brass automaton hands attack near the entrance and are destroyed.
+- The party discovers a chamber dominated by a statue of Mulvis with removable brass lightning bolts.
+- Ulrich reveals a hidden passage by pulling the statue's spike.
+- Virien discovers that the brass crank box is a recording device.
+- The group finds a foundry with an ornate sword trapped in solid iron.
+- Four gloop pilgrims reveal that travelers are being taken deeper into the shrine.
 
 ## Locations visited
 
@@ -40,6 +41,7 @@ Following soot-blackened oil trails into the marsh, the party reaches a ruined s
 - The Guildhall
 - Pimp My Ride
 - The Red Herring
+- The Bean Counter
 - The Minimarket
 - The King's Road
 - Kelfrek Marsh
@@ -50,8 +52,8 @@ Following soot-blackened oil trails into the marsh, the party reaches a ruined s
 ## NPCs and characters involved
 
 - Virien
-- Barnobuck "Barny" the Bizarre
 - Arden Sable
+- Barnobuck "Barny" the Bizarre
 - Ulrich
 - Malakai
 - Karsin
@@ -62,26 +64,26 @@ Following soot-blackened oil trails into the marsh, the party reaches a ruined s
 - Fred
 - Reginald
 - Gus
+- Ruby Sunbeam
+- Amadeus Thud
 - The farmer on the King's Road
-- The gloop pilgrims
+- Gloop pilgrims
 
 ## Items, magic, and discoveries
 
-- Two brass automaton hands are recovered.
-- The party finds three golden gears.
-- A brass crank box turns out to be a recording device that says, "For Mulvis!"
-- The shrine contains removable brass lightning bolts held by the Mulvis statue.
-- Murals show gnomes binding and using Mulvis in the shrine's workings.
-- The party finds a gold ingot, spears, a crystal bell, and a tuba in the foundry.
-- An ornate sword is discovered embedded in a pool of solidified iron.
-- The oily trails leading through the marsh are extremely flammable.
+- The party recovers three golden gears and a brass recording device.
+- The shrine contains a chained brass statue of Mulvis holding three brass lightning bolts.
+- Murals suggest that gnomes once bound Mulvis and used lightning in the shrine's workings.
+- The Bonebreakers find a gold ingot, two spears, a crystal bell, and a tuba in the foundry.
+- An ornate sword lies embedded in a pool of solidified iron.
+- The oily trails through the marsh are dangerously flammable.
 
-## Open questions
+## Threads raised this session
 
-- What exactly is the "Grease Dragon" said to live deeper in the shrine?
-- How can the ornate sword be removed from the iron pool?
-- What is the full purpose of the brass lightning bolts and shrine machinery?
-- What role did Mulvis play in the shrine's original design?
+- The disappearances on the King's Road are traced to Sootmurk and the gloops in the shrine. Status: Resolved in Session 6.
+- The ornate sword trapped in the iron pool is eventually recovered using a brass lightning bolt and the foundry bellows. Status: Resolved in Session 5.
+- The brass lightning bolts and shrine machinery are shown to activate parts of the shrine, but the full system is never completely explained in the available sources. Status: Partially resolved.
+- The shrine's deeper history with Mulvis becomes clearer through later discoveries, but the full original purpose of the site remains uncertain. Status: Partially resolved.
 
 ## Related sessions
 

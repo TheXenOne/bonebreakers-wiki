@@ -10,72 +10,72 @@ source_sessions:
 
 # Session 5 - Shrine of the Oozing Serpent
 
-See also: [[Sessions]], [[sessions/session-004|Session 4 - Gilded Gears and Grease Trails]]
+See also: [[Sessions]], [[sessions/session-004|Session 4 - Gilded Gears and Grease Trails]], [[sessions/session-006|Session 6 - The Dragon's Deception]]
 
 ## Narrative recap
 
-With the gloop pilgrims moving deeper into the shrine, the Bonebreakers take time to test their surroundings and pry loose more of the shrine's secrets. Ulrich breaks into the locked room near the statue chamber, revealing a six-armed automaton built in Mulvis' image, while Virien and Barny recover two of the statue's brass lightning bolts. The group then hears cries from a storeroom and intervenes in the abuse of a captive cleric named Eric.
+The Bonebreakers press deeper into the shrine, first returning to the statue chamber to break into a locked side room and claim two brass lightning bolts. Inside they find a smaller automaton version of Mulvis, apparently designed to accept one of the bolts. Soon after, they rescue a captive cleric named Eric from gloop guards and learn far more about the threat ahead: the serpent is named Sootmurk, her commander is Captain Gullian, and the gloops have been taking more and more travelers to feed their mistress.
 
-The rescue turns into an opportunity. After questioning one surviving gloop, the party learns that the serpent is called Sootmurk, that its commander is Captain Gullian, and that the gloops have been taking still more travelers because their mistress has grown hungrier. Arden then activates one of the lightning bolts in the foundry, temporarily liquefying the iron and allowing the party to recover the ornate sword before it sinks away again.
+Back in the foundry, Arden hurls a brass lightning bolt into the solid iron pool, briefly turning it molten. Virien uses the bellows to cool the iron again, allowing Arden to snatch the ornate sword before it is lost. The party then explores embalming rooms and misty crypt corridors lined with locked iron caskets, while a strange blue automaton insect drifts harmlessly past them.
 
-The Bonebreakers continue through embalming rooms and crypt corridors filled with locked iron caskets and a floating blue automaton insect. Eventually they emerge into a corridor split between tribute-paying pilgrims and gloop guards. Virien and Arden create confusion, then set the hall ablaze and force the shrine's inhabitants to flee. After looting the tribute, the party opens the great southern doors and finally comes face to face with Sootmurk, Captain Gullian, and a large gloop force.
+The session ends in mounting chaos. After spooking some gloop pilgrims, deceiving tribute guards, and setting part of the corridor ablaze, the Bonebreakers force their way into Sootmurk's cavern. There they find the Grease Dragon surrounded by guards and Captain Gullian, setting the stage for an immediate confrontation.
 
 ## Important events
 
 - Ulrich breaks through the locked door near the Mulvis statue.
-- The party discovers a six-armed Mulvis automaton with a socket shaped for a brass lightning bolt.
-- The Bonebreakers rescue Eric from gloop guards.
-- One surviving gloop is captured and interrogated.
-- The party learns the serpent's name is Sootmurk and that the gloop commander is Captain Gullian.
-- The interrogation confirms that more travelers are being taken because Sootmurk has grown hungrier.
-- Arden activates a brass lightning bolt in the foundry, liquefying the iron pool.
-- Virien and Arden work together to recover the ornate sword.
-- The party passes through embalming rooms, crypt corridors, and locked iron caskets.
-- A floating blue automaton insect is encountered and escapes repeated attempts to catch it.
-- The Bonebreakers set a tribute hall on fire, scatter gloops and pilgrims, and loot the collected offerings.
-- The session ends as the party reaches Sootmurk's cavern.
+- The party discovers a six-armed automaton version of Mulvis.
+- Eric is rescued from gloop guards.
+- A captured gloop reveals Sootmurk's name and Gullian's role.
+- The Bonebreakers learn that Sootmurk's hunger has increased the number of kidnappings.
+- Arden uses a brass lightning bolt to liquefy the iron pool in the foundry.
+- Virien and Arden recover the ornate sword from the foundry.
+- Virien hands his +1 sword to Grog.
+- The party explores embalming rooms and crypt corridors lined with locked caskets.
+- A floating blue automaton insect is encountered but not captured.
+- Virien and Arden create enough confusion to scatter pilgrims and guards in the tribute corridor.
+- The Bonebreakers enter Sootmurk's cavern and face the dragon directly.
 
 ## Locations visited
 
 - The ruined shrine in the sandstone cliffs
 - The locked side room near the statue chamber
 - The foundry
-- The storeroom holding Eric
+- Eric's storeroom
 - The embalming room
 - The misty crypt corridors
-- The tribute hall
+- The tribute corridor
 - Sootmurk's cavern
 
 ## NPCs and characters involved
 
 - Virien
-- Barnobuck "Barny" the Bizarre
 - Arden Sable
+- Barnobuck "Barny" the Bizarre
 - Ulrich
 - Grog
 - Eric
-- Captain Gullian
 - Sootmurk
+- Captain Gullian
 - Gloop guards
 - Gloop pilgrims
 
 ## Items, magic, and discoveries
 
 - Two brass lightning bolts are removed from the Mulvis statue.
-- The party discovers a six-armed automaton that appears to use the lightning bolts as a key or power source.
+- The foundry can be reactivated with a brass lightning bolt.
 - The ornate sword is recovered from the iron pool.
-- Virien gives his +1 sword to Grog after claiming the ornate sword.
-- The shrine contains embalming workbenches and crypt corridors lined with locked iron caskets.
-- A floating blue automaton insect patrols part of the crypt.
-- The party loots 24 GP and 46 SP from the tribute hall.
+- The shrine contains an automaton version of Mulvis with a bolt-shaped socket.
+- The crypt contains many locked iron caskets and at least one larger ornate casket.
+- The party loots 24 GP and 46 SP from tribute left in the corridor.
 
-## Open questions
+## Threads raised this session
 
-- What is the full nature and power of the ornate sword recovered from the foundry?
-- What lies inside the locked iron caskets in the crypt?
-- What will happen when the Bonebreakers confront Sootmurk and Captain Gullian directly?
-- What is the purpose of the floating blue automaton insect? Needs review.
+- The confrontation with Sootmurk and Captain Gullian leads directly into the next session, where Gullian dies and Sootmurk is slain. Status: Resolved in Session 6.
+- The ornate sword's true nature is later identified by Aldrich as the Sword of Mulvis. Status: Resolved in Session 8.
+- The iron caskets in the crypt are opened in part during the next shrine expedition, but not every mystery of the catacombs is explained. Status: Partially resolved.
+- The floating blue automaton insect proves dangerous when destroyed in a later session, but its original purpose remains unclear. Status: Partially resolved.
 
 ## Related sessions
 
 - Previous: [[sessions/session-004|Session 4 - Gilded Gears and Grease Trails]]
+- Next: [[sessions/session-006|Session 6 - The Dragon's Deception]]
