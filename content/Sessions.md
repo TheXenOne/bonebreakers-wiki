@@ -6,4 +6,4 @@ tags:
 
 # Sessions
 
-- [[sessions/session-041|Session 41 – Into the Necropolis]]
+_Session pages will be generated from the source documents._

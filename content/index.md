@@ -18,9 +18,9 @@ Welcome to the campaign wiki for **The Bonebreakers**.
 - [[Quests]]
 - [[Timeline]]
 
-## Recent sessions
+## Sessions
 
-- [[sessions/session-041|Session 41 – Into the Necropolis]]
+- [[Sessions|Session list]]
 
 ## Major locations
 
