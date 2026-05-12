@@ -68,11 +68,11 @@ Pushing farther than before, the Bonebreakers reach Quintius' old quarters and t
 - The treasure haul also includes silk, gemstones, an ivory drinking horn, and casks of wine.
 - The party also retrieves a valuable tobacco box. Needs review.
 
-## Open questions
+## Threads raised this session
 
-- What will the Bonebreakers do with the idol puzzle now that they have the glass eyes?
-- Are there still unexplored sections of the Barrow beyond the routes reached so far?
-- What other consequences might follow from Quintius' earlier activities in the Barrow?
+- The party now has the glass eyes needed for the idol puzzle, but the available sources do not show the idol chamber being fully resolved later. Status: Still unresolved.
+- Later Barrow expeditions, especially Session 23, uncover additional caverns and chambers beyond the routes reached here, but the sources do not confirm a complete exploration of the entire Barrow. Status: Partially resolved.
+- The lingering necromancy tied to Quintius' activities is finally addressed in Session 23, when Arden cleanses Quintius' chamber and the Barrow is scoured of necromancy. Status: Resolved in Session 23.
 
 ## Related sessions
 

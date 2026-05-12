@@ -61,12 +61,12 @@ Later, the group burns a giant black widow in its web before it can wake and dis
 - The party confirms that the Barrow contains more unexplored passages.
 - The marble slab marked with an X remains unexplained.
 
-## Open questions
+## Threads raised this session
 
-- What lies beneath the marble slab marked with an X?
-- Who changed the entrance inscription to "All who enter are doomed"?
-- What secret chambers was Quintius referring to?
-- Who is the fairy said to live in the Barrow?
+- The marble slab marked with an X remains unexplained. Status: Still unresolved.
+- The identity of whoever changed the entrance inscription to "All who enter are doomed" is not established in the available sources. Status: Still unresolved.
+- Quintius' claim that the Barrow held secret chambers is borne out by later discoveries, including the hidden idol chamber in Session 2, but the exact scope of what he knew is unclear. Status: Partially resolved.
+- The "fairy" Quintius mentioned is identified in Session 2 as Alfwine. Status: Resolved in Session 2.
 
 ## Related sessions
 

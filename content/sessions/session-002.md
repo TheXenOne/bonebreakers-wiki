@@ -65,12 +65,12 @@ The gains are costly. Ike is slain in a skeleton ambush, and the party discovers
 - Arden recovers three blue gems from a brazier ringed by magical white flames.
 - Yellow mould is discovered on one of the tapestries.
 
-## Open questions
+## Threads raised this session
 
-- What is the purpose of the marble idol and its empty eye sockets?
-- What are the three blue gems for?
-- How much of the Barrow remains unexplored beyond the tapestry chamber route?
-- Can Virien be restored to life?
+- The hidden chamber's marble idol with empty eye sockets is later partly explained in Session 3, when the party finds two glass eyes they believe solve the puzzle, but the idol's full purpose is not shown in the available sources. Status: Partially resolved.
+- The purpose of the three blue gems taken from the brazier is not clarified in the available sources. Status: Still unresolved.
+- The Barrow still contains unexplored areas beyond the tapestry route; later expeditions reach additional chambers and deeper caverns, especially in Session 23, but the sources do not present a complete accounting of every section. Status: Partially resolved.
+- Virien's death is reversed in Session 3 through reincarnation at the Last Chance. Status: Resolved in Session 3.
 
 ## Related sessions
 
