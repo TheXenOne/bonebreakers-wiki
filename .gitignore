@@ -1,0 +1,7 @@
+
+# Dependencies
+node_modules/
+
+# Quartz build/cache output
+public/
+.quartz-cache/
