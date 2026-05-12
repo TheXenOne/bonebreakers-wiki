@@ -55,6 +55,19 @@ source_sessions:
   - 41
 ---
 
+## Session page notes
+
+- Do not use the heading "Open questions" for historical session pages.
+- Use "Threads raised this session" instead.
+- For each thread, include a status where possible:
+  - Still unresolved
+  - Resolved in Session N
+  - Partially resolved
+  - Needs review
+- If a later session answers the question, include a short resolution.
+- Do not pretend something is still unknown just because it was unknown at the time.
+- Do not spoil speculative or unconfirmed answers.
+
 ## NPC page frontmatter
 
 Use this structure for NPC pages:
