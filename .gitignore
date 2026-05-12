@@ -1,7 +1,14 @@
+.DS_Store
+.gitignore
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
 
-# Dependencies
-node_modules/
-
-# Quartz build/cache output
-public/
-.quartz-cache/
+# Local raw campaign source documents
+sources/
