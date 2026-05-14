@@ -19,7 +19,7 @@ source_sessions:
 
 ## Overview
 
-Sir Cedric Dawnmere is a paladin of Belenus and one of the party's most important later companions. He is introduced as the last of a minor house destroyed by undead.
+Sir Cedric Dawnmere is a paladin of Belenus and one of the party's most important later companions. He is introduced as the last of a minor house destroyed by undead and is strongly tied to the [[factions/religions-and-cults/belenites|Belenite]] cause.
 
 ## Player
 
@@ -46,7 +46,7 @@ Paladin of Belenus.
 
 ## Relationships
 
-- Closely tied to [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]] and the Belenus project.
+- Closely tied to [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]] and the [[factions/religions-and-cults/belenites|Belenite]] project.
 - Responsible for seeing to Tess after her death in [[sessions/session-034|Session 34]].
 
 ## Current status

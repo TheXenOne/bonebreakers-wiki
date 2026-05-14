@@ -25,7 +25,7 @@ source_sessions:
 
 ## Overview
 
-The Mercy was once the Church of the Crimson Flame, a sanctuary of Bahal that fell into corruption and became the centre of the deathless plague. After the fall of the Crimson Bishop and his followers, the Bonebreakers claimed the site and it was formally granted to them by Princess Agatha.
+The Mercy was once the Church of the Crimson Flame, a sanctuary of Bahal that fell into corruption and became the centre of the deathless plague. After the fall of the Crimson Bishop and his followers, the Bonebreakers claimed the site and it was formally granted to them by Princess Agatha, becoming the main stronghold of the [[factions/religions-and-cults/belenites|Belenites]] in the published campaign.
 
 ![The Mercy](./the-mercy.png)
 
@@ -50,6 +50,7 @@ The Mercy was once the Church of the Crimson Flame, a sanctuary of Bahal that fe
 - The Crimson Bishop, the Sons of Bahal, and the Crimson Knights once held the site.
 - Sir Cedric and surviving priests help reclaim it.
 - Bishop Arden later leads it under the new name The Mercy.
+- Athlestan also helps reshape it around both [[factions/religions-and-cults/belenites|Belenite]] and [[factions/religions-and-cults/karanth|Karanth]] worship.
 
 ## Campaign events
 

@@ -14,7 +14,7 @@ source_sessions:
 
 ## Overview
 
-The Temple of Merciful Life is a dockside warehouse-front in [[locations/world/agria/southlands/ikiria|Ikiria]] established by Frank as a public Temple of Belenus. Behind that front, it also serves as a base for intelligence-gathering and informants.
+The Temple of Merciful Life is a dockside warehouse-front in [[locations/world/agria/southlands/ikiria|Ikiria]] established by Frank as a public temple for the [[factions/religions-and-cults/belenites|Belenites]]. Behind that front, it also serves as a base for intelligence-gathering and informants.
 
 ## Geography or layout
 
