@@ -26,7 +26,7 @@ source_sessions:
 
 ## Overview
 
-After claiming a sentient sword tied to the lost Cassets, [[characters/inactive-players/marco/characters/ehecat|Ehecat]]'s private hatred of the [[factions/governments/ramen-empire|Ramen Empire]] becomes one of the campaign's clearer unresolved character objectives.
+After claiming a sentient sword tied to the lost Cassets, [[characters/inactive-players/marco/characters/ehecat|Ehecat]]'s hatred of the [[factions/governments/ramen-empire|Ramen Empire]] hardens into a lasting personal vow.
 
 ## How it began
 
@@ -40,7 +40,7 @@ In [[sessions/session-017|Session 17]], Ehecat learns that the sword recovered f
 
 ## Current status
 
-Dormant. The thread is clearly important to Ehecat, but the published campaign material has not yet returned to it in a sustained way.
+Dormant. The vow remains central to Ehecat, but no sustained action has been taken against the Ramen Empire yet.
 
 ## Related characters and NPCs
 
@@ -63,4 +63,4 @@ Dormant. The thread is clearly important to Ehecat, but the published campaign m
 ## Loose ends
 
 - The sword's long-term influence on Ehecat is unclear.
-- No later published session yet shows direct progress against the Ramen Empire.
+- No direct progress against the Ramen Empire has been recorded yet.

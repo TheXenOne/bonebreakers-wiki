@@ -14,7 +14,7 @@ source_sessions: []
 
 ## Overview
 
-Queen Audrey II is the monarch of [[locations/world/agria/index|Agria]]. The published lore presents her as the ruler above the kingdom's competing noble, civic, and mercantile powers.
+Queen Audrey II is the monarch of [[locations/world/agria/index|Agria]] and the ruler above the kingdom's competing noble, civic, and mercantile powers.
 
 ## Appearance
 
@@ -48,11 +48,11 @@ Needs review.
 
 ## Campaign events
 
-- Queen Audrey II is important background to the political stakes around Agatha and Arthur, but she does not directly appear in the published session pages so far.
+- Queen Audrey II anchors the political stakes around Agatha and Arthur, though she has not yet appeared directly.
 
 ## Current status
 
-Active. Still reigning in the published lore.
+Active. Still reigning.
 
 ## Related sessions
 

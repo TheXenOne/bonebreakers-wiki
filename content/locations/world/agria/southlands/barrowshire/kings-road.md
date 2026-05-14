@@ -40,4 +40,4 @@ King's Road is a main travel route through [[locations/world/agria/southlands/ba
 
 ## Unresolved threads or mysteries
 
-- The road remains a known danger route in published lore, though its first major crisis is resolved.
+- The road remains a known danger route, though its first major crisis is resolved.

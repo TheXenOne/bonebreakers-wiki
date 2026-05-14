@@ -50,7 +50,7 @@ Charming, possessive, and interested in keeping new residents.
 
 ## Current status
 
-Active as far as the published material shows.
+Active.
 
 ## Related sessions
 

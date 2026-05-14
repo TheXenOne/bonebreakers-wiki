@@ -51,7 +51,7 @@ Opportunistic and unreliable. He promises more than he can deliver.
 
 ## Current status
 
-Alive as far as the published material shows.
+Alive.
 
 ## Related sessions
 
@@ -60,4 +60,4 @@ Alive as far as the published material shows.
 
 ## Unresolved threads
 
-- Quintius drops out of the published story after the Barrow arc.
+- Quintius drops out of the story after the Barrow arc.

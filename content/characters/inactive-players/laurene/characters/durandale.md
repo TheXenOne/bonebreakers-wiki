@@ -49,7 +49,7 @@ Needs review.
 
 ## Current status
 
-Dead. The available sources do not show a resurrection.
+Dead. No resurrection is recorded.
 
 ## Related sessions
 

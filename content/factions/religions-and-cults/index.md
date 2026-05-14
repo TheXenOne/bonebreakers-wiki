@@ -5,7 +5,7 @@ tags:
   - religions-and-cults
 ---
 
-Faiths, temples, cults, and religious orders that matter in the published campaign.
+Faiths, temples, cults, and religious orders with an active role in the world and the Bonebreakers' story.
 
 - [[factions/religions-and-cults/belenites|Belenites]]
 - [[factions/religions-and-cults/church-of-the-crimson-flame|Church of the Crimson Flame]]

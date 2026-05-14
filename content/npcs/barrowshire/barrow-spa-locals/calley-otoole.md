@@ -40,7 +40,7 @@ Steady and practical. Further detail: Needs review.
 
 ## Relationships
 
-- Banks with the [[npcs/barrowshire/barrow-spa-locals/silk-merchants|Silk Merchants]] according to the session notes.
+- Banks with the [[npcs/barrowshire/barrow-spa-locals/silk-merchants|Silk Merchants]].
 
 ## Campaign events
 
@@ -48,7 +48,7 @@ Steady and practical. Further detail: Needs review.
 
 ## Current status
 
-Alive and active in Barrow Spa as far as the published material shows.
+Alive and active in Barrow Spa.
 
 ## Related sessions
 

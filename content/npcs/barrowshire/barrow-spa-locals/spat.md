@@ -48,7 +48,7 @@ Needs review.
 
 ## Current status
 
-Alive as far as the published material shows.
+Alive.
 
 ## Related sessions
 

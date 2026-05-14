@@ -55,4 +55,4 @@ The party continues to find suitable ruins and relic sites, but no clear resolut
 
 ## Loose ends
 
-- No published session page yet shows the party completing or cashing in this bounty directly.
+- The party has not yet been shown completing or cashing in this bounty directly.

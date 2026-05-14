@@ -69,8 +69,8 @@ On the southern beach of Fos Imeras, the Bonebreakers find blistered patients, p
 
 - The fate of Fos Imeras becomes the party’s central objective and is largely uncovered over the next several sessions. Status: Partially resolved.
 - The Ramen requests to find Ossilicus and the Eleftheria are fulfilled on the island. Status: Resolved in Session 16.
-- The disappearance of Callea is requested by the Ramen captain, but the available sources do not clearly show it being resolved. Status: Needs review.
-- The identity of the golden dragon seen at sea is not established in the available sources. Status: Still unresolved.
+- The disappearance of Callea is raised by the Ramen captain, but no resolution is yet clear. Status: Needs review.
+- The identity of the golden dragon seen at sea is not established. Status: Still unresolved.
 
 ## Related sessions
 

@@ -13,7 +13,7 @@ See also: [[sessions/index|Sessions]], [[sessions/session-041|Session 41 - Into 
 
 ## Narrative recap
 
-The available published summary combines Sessions 42 and 43 under a shared title, so the exact split between the two sessions is unclear. What is clear is that the Bonebreakers continued pushing deeper through Arch VII, exploring more warped chambers and ancient halls where distance, sound, and geometry refused to behave normally.
+The exact split between Sessions 42 and 43 is unclear. What is clear is that the Bonebreakers continued pushing deeper through Arch VII, exploring more warped chambers and ancient halls where distance, sound, and geometry refused to behave normally.
 
 This stretch of the delve is defined less by one clean objective than by continued probing of the necropolis itself. The party tests the architecture, survives further danger in the buried imperial wing, and sees Rose bring down a formidable enemy in a single strike. Exact room order and encounter breakdown for this session need review.
 
@@ -56,9 +56,9 @@ This stretch of the delve is defined less by one clean objective than by continu
 ## Threads raised this session
 
 - The party's understanding of Arch VII remains incomplete. Status: Partially resolved.
-- The identity and significance of the enemy Rose defeats are unclear in the available sources. Status: Needs review.
+- The identity and significance of the enemy Rose defeats are unclear. Status: Needs review.
 - The deeper imperial wing continues to resist easy mapping or explanation. Status: Still unresolved.
-- The exact division of events between Sessions 42 and 43 is unclear in the published summary. Status: Needs review.
+- The exact division of events between Sessions 42 and 43 is unclear. Status: Needs review.
 
 ## Related sessions
 

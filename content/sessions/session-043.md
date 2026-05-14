@@ -61,7 +61,7 @@ After that pause, the party descends again into the necropolis and works its way
 - The plague in Ikiria is confirmed as a real and worsening problem. Status: Still unresolved.
 - The claw-scarred section of the necropolis leads to a major discovery on the next delve. Status: Resolved in Session 44.
 - The wider mystery of the necropolis beneath the Mercy remains open. Status: Still unresolved.
-- The exact split between Sessions 42 and 43 remains unclear in the available source material. Status: Needs review.
+- The exact split between Sessions 42 and 43 remains unclear. Status: Needs review.
 
 ## Related sessions
 

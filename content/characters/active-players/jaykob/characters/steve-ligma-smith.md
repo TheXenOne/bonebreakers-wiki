@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Steve "Ligma" Smith is a barbarian who joins the later Westmarsh strike party. The published sessions emphasize his abrasive conduct more than any deeper backstory.
+Steve "Ligma" Smith is a barbarian who joins the party in the Westmarsh arc. He is abrasive, chaotic, and openly disrespectful toward authority, but he remains part of the group's push into the frontier.
 
 ## Player
 

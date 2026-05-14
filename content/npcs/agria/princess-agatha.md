@@ -61,7 +61,7 @@ Pragmatic, politically dangerous, and willing to reward useful service.
 
 ## Current status
 
-Active. Still one of the campaign's most powerful political figures.
+Active. She remains one of Agria's most powerful political figures.
 
 ## Related sessions
 
@@ -72,4 +72,4 @@ Active. Still one of the campaign's most powerful political figures.
 
 ## Unresolved threads
 
-- Whether Agatha has yet received Arthur's ledger evidence is still unresolved in the published material.
+- Whether Agatha has yet received Arthur's ledger evidence is still unresolved.

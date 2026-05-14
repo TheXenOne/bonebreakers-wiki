@@ -66,7 +66,7 @@ The infiltration pays off with information, but not safety. The party learns of 
 - The Blood King's hidden protections and true weakness are clearer, but not yet defeated. Status: Resolved in Session 32.
 - Lord Demetrius is identified as an important figure, but the meaning of the clue is still uncertain here. Status: Needs review.
 - The fleeing spiders warn their queen, escalating danger deeper in the manor. Status: Partially resolved.
-- The purpose of the bottle with blinking eyes is not clear in the available sources. Status: Still unresolved.
+- The purpose of the bottle with blinking eyes is not clear. Status: Still unresolved.
 
 ## Related sessions
 

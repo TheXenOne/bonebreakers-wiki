@@ -42,12 +42,12 @@ Duergar adventurer.
 
 ## Relationships
 
-- Linked in lore to [[characters/active-players/ben/characters/ulrich|Ulrich]].
+- Linked to [[characters/active-players/ben/characters/ulrich|Ulrich]].
 - Later summaries also connect Del to Frank's network. Needs review.
 
 ## Current status
 
-Active in the lore document.
+Active.
 
 ## Related sessions
 

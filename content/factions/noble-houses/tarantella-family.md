@@ -36,7 +36,7 @@ The family matters less as a current political bloc than as the legacy behind th
 ## Leadership
 
 - Historically, [[npcs/barrowshire/tarantella-manor/draxas-tarantella|Draxas Tarantella]] defined the family's power and reputation.
-- In the present timeline, [[npcs/barrowshire/tarantella-manor/jessum-tarantella|Jessum Tarantella (Jr.)]] is the last known heir in the published pages.
+- In the present timeline, [[npcs/barrowshire/tarantella-manor/jessum-tarantella|Jessum Tarantella (Jr.)]] is the last known heir.
 
 ## Notable members
 

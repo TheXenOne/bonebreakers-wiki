@@ -50,11 +50,11 @@ Learned and useful under pressure.
 
 - In [[sessions/session-041|Session 41]], the Bonebreakers discover Cornelius alive in Cartographer's Folly.
 - He remains part of the delve through [[sessions/session-042|Session 42]] and [[sessions/session-043|Session 43]].
-- The lore summary later marks him dead.
+- He is later confirmed dead.
 
 ## Current status
 
-Dead according to the lore summary.
+Dead.
 
 ## Related sessions
 
@@ -64,4 +64,4 @@ Dead according to the lore summary.
 
 ## Unresolved threads
 
-- The exact circumstances of Cornelius's death are not established in the current published pages. Needs review.
+- The exact circumstances of Cornelius's death are not yet established. Needs review.

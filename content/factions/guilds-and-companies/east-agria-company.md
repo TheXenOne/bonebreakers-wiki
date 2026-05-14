@@ -38,7 +38,7 @@ The Company combines trade power, political influence, and private operational r
 
 - [[npcs/agria/princess-agatha|Princess Agatha]] is Governor of the Company.
 - [[npcs/agria/east-agria-company/commander-smith|Commander Smith]] serves as head of security and field liaison.
-- [[npcs/agria/east-agria-company/admiral-nelson|Admiral Nelson]] commands its maritime arm in the published material.
+- [[npcs/agria/east-agria-company/admiral-nelson|Admiral Nelson]] commands its maritime arm.
 
 ## Notable members
 
@@ -81,4 +81,4 @@ Active and politically important.
 ## Unresolved threads
 
 - The Company's full size and internal structure remain only partly described.
-- Commander Smith's response to the Arthur evidence has not yet been shown on-page.
+- Commander Smith's response to the Arthur evidence is not yet known.

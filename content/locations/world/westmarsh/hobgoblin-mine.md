@@ -38,4 +38,4 @@ The Hobgoblin Mine is a worked cave-mine in the hills south of [[locations/world
 
 ## Unresolved threads or mysteries
 
-- The full supply network tied to the mine is only partly mapped in the published material.
+- The full supply network tied to the mine is only partly mapped.

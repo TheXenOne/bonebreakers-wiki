@@ -59,4 +59,4 @@ Alive after defeat and humiliation.
 
 ## Unresolved threads
 
-- Gruumsh survives, but his later role is not shown in the published pages.
+- Gruumsh survives, but his later role is unknown.

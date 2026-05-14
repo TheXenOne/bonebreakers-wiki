@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Kargor "Viperhand" is a later fighter retainer associated with Virien. The lore describes him as broad, well-built, and equipped with a huge kite shield.
+Kargor "Viperhand" is a later fighter retainer associated with Virien. He is broad, well-built, and equipped with a huge kite shield.
 
 ## Player
 
@@ -47,7 +47,7 @@ Needs review.
 
 ## Current status
 
-Unknown in the available player-facing sources after Virien's era.
+Unknown after Virien's era.
 
 ## Related sessions
 

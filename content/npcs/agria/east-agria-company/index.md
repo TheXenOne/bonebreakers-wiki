@@ -20,7 +20,7 @@ source_sessions:
 
 ## Overview
 
-This page groups the most important East Agria Company figures named in the published sources.
+This page groups the most important named East Agria Company figures.
 
 ## Key figures
 

@@ -61,7 +61,7 @@ While the island falls deeper into chaos, Arden undergoes a more inward transfor
 
 - The failed first assault on the Golden Asclepion leads directly into the deeper temple arc. Status: Resolved in Session 17.
 - Arden’s divine calling to build a temple shapes his later ambitions and eventually aligns with the party’s claim on the cathedral. Status: Partially resolved.
-- The loss of Sirius, the carts, and the Alphorn is not reversed in the available sources. Status: Still unresolved.
+- The loss of Sirius, the carts, and the Alphorn is not reversed. Status: Still unresolved.
 
 ## Related sessions
 

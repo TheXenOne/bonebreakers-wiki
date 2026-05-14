@@ -24,7 +24,7 @@ source_sessions:
 
 ## Overview
 
-The gnolls of Westmarsh are a recurring raiding threat across the frontier. They are less clearly centralised than the hobgoblin invasion force, but the published sessions repeatedly present them as active, bold, and organised enough to worry both locals and the party.
+The gnolls of Westmarsh are a recurring raiding threat across the frontier. They are less clearly centralised than the hobgoblin invasion force, but they are active, bold, and organised enough to worry both locals and the party.
 
 ## Purpose or role
 
@@ -47,7 +47,7 @@ They appear mainly as raiders, patrols, and camp attackers rather than as a visi
 
 ## Allies and enemies
 
-- The sources do not clearly establish the gnolls as part of the hobgoblin command structure.
+- The gnolls are not clearly shown as part of the hobgoblin command structure.
 - They are hostile to the [[factions/other/bonebreakers|Bonebreakers]] and threaten traffic near [[locations/world/agria/west-fort|West Fort]].
 
 ## Campaign involvement

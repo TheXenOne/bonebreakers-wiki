@@ -62,7 +62,7 @@ Later, the group burns a giant black widow in its web before it can wake and dis
 ## Threads raised this session
 
 - The marble slab marked with an X remains unexplained. Status: Still unresolved.
-- The identity of whoever changed the entrance inscription to "All who enter are doomed" is not established in the available sources. Status: Still unresolved.
+- The identity of whoever changed the entrance inscription to "All who enter are doomed" is not established. Status: Still unresolved.
 - Quintius' claim that the Barrow held secret chambers is borne out by later discoveries, including the hidden idol chamber in Session 2, but the exact scope of what he knew is unclear. Status: Partially resolved.
 - The "fairy" Quintius mentioned is identified in Session 2 as Alfwine. Status: Resolved in Session 2.
 

@@ -80,7 +80,7 @@ At the sandstone cliffs on the far side of the marsh, the group enters a ruined 
 
 - The disappearances on the King's Road are traced to Sootmurk and the gloops in the shrine. Status: Resolved in Session 6.
 - The ornate sword trapped in the iron pool is eventually recovered using a brass lightning bolt and the foundry bellows. Status: Resolved in Session 5.
-- The brass lightning bolts and shrine machinery are shown to activate parts of the shrine, but the full system is never completely explained in the available sources. Status: Partially resolved.
+- The brass lightning bolts and shrine machinery are shown to activate parts of the shrine, but the full system is never completely explained. Status: Partially resolved.
 - The shrine's deeper history with Mulvis becomes clearer through later discoveries, but the full original purpose of the site remains uncertain. Status: Partially resolved.
 
 ## Related sessions

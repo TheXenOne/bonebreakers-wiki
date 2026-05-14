@@ -72,4 +72,4 @@ This page groups the named civilians most closely tied to [[locations/world/agri
 
 ## Unresolved threads
 
-- Sarla's later life after the fire is not covered in the published pages.
+- Sarla's later life after the fire is unknown.

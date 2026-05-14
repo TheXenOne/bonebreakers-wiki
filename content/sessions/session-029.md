@@ -76,7 +76,7 @@ The session's biggest gains come from information rather than direct victory. Th
 - Finding and destroying the Blood King's hidden heart becomes the party's main objective. Status: Resolved in Session 32.
 - The prisoners and missing noble children inside the manor are not yet safe. Status: Partially resolved.
 - Selana's alliance with the party remains fragile but valuable. Status: Resolved in Session 32.
-- The importance of Alvalus' warning about regret, guilt, and shame is not fully clear in the available sources. Status: Needs review.
+- The importance of Alvalus' warning about regret, guilt, and shame is not fully clear. Status: Needs review.
 
 ## Related sessions
 

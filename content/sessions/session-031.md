@@ -78,7 +78,7 @@ The party accepts the bargain for the moment and carries it out with brutal effi
 ## Threads raised this session
 
 - The Blood King's daughter tries to use the party in her own succession plot. Status: Needs review.
-- Serion's fate is raised directly by his mother, but not settled in the available sources. Status: Still unresolved.
+- Serion's fate is raised directly by his mother, but not settled. Status: Still unresolved.
 - The sentient fungus is destroyed in one body, but its wider spread remains unclear. Status: Still unresolved.
 - The prisoners hidden in the manor's lower levels are only partly secured until the final escape. Status: Resolved in Session 32.
 

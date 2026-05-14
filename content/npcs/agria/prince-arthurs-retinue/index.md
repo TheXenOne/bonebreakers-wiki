@@ -33,7 +33,7 @@ This page groups the named members of [[npcs/agria/prince-arthur|Prince Arthur's
 ## Personality
 
 - Pell is frightened but trusted with an urgent message.
-- The others have limited direct character detail in the current published pages.
+- The others have limited direct character detail.
 
 ## Role in the campaign
 

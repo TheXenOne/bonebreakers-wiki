@@ -43,11 +43,11 @@ Needs review.
 
 ## Relationships
 
-- Secretly controlled by [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]] in the player-facing sources.
+- Secretly controlled by [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]].
 
 ## Current status
 
-Active in the lore document as Barny's zombie thrall.
+Active as Barny's zombie thrall.
 
 ## Related sessions
 

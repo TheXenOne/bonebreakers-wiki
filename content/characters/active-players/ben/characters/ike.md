@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Ike is an early halfling adventurer in the Barrow arc. His death is one of the first major party losses in the published campaign.
+Ike is an early halfling adventurer in the Barrow arc. His death is one of the first major losses suffered by the party.
 
 ## Player
 

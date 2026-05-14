@@ -28,7 +28,7 @@ The guard maintains public order in [[locations/world/agria/southlands/ikiria|Ik
 
 ## Leadership
 
-- [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] is captain of the civil guard in the published material.
+- [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] is captain of the civil guard.
 
 ## Notable members
 
@@ -58,4 +58,4 @@ Active. Its later role in Ikiria's worsening unrest has not yet been shown direc
 
 ## Unresolved threads
 
-- How the guard responded after Arkeus vanished is not shown in the published pages.
+- How the guard responded after Arkeus vanished is not yet known.

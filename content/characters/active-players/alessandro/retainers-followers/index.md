@@ -7,4 +7,4 @@ aliases:
 
 ---
 
-No documented retainers or followers in the published player-facing sources.
+No documented retainers or followers.

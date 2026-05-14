@@ -12,7 +12,7 @@ See also: [[sessions/index|Sessions]], [[sessions/session-045|Session 45 - The S
 
 ## Narrative recap
 
-Session 46 closes one of the campaign's longest-running personal threads in the bleakest possible way. The halfling stalking the camp is not Tobold but an assassin wearing Tobold's face, and under pressure he confirms that Tobold is dead after enduring torture without betraying the party.
+Session 46 closes one of the Bonebreakers' longest-running personal threads in the bleakest possible way. The halfling stalking the camp is not Tobold but an assassin wearing Tobold's face, and under pressure he confirms that Tobold is dead after enduring torture without betraying the party.
 
 The rest of the session shifts from grief to dangerous negotiation. The Bonebreakers gather more rumours about the necropolis and the market, reveal Prince Arthur within the Spider Market, and finally meet Ash again under controlled terms. Her claim that she herself is the Grey Khan reframes the entire Syndicate question, but the session ends before the exchange, leaving the party committed to a perilous silent strike in the one place where open violence could bring disaster down on them all.
 

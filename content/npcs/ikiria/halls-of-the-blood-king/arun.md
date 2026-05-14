@@ -47,7 +47,7 @@ Frightened but useful as an early witness.
 
 ## Current status
 
-Alive as far as the published material shows.
+Alive.
 
 ## Related sessions
 

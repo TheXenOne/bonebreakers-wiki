@@ -18,7 +18,7 @@ The Elven Lands are a secluded realm south of the hills beyond [[locations/world
 ## Geography and layout
 
 - Travel into the region is rare.
-- The current state of the realm is poorly documented in the published campaign material.
+- The current state of the realm is poorly documented.
 
 ## Associated people and groups
 

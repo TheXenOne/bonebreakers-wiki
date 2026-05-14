@@ -13,12 +13,12 @@ source_sessions:
 
 ## Overview
 
-The Badlands are a southern region mentioned only briefly in the currently published material. The party first hears of them when interrogating a wererat on the road to [[locations/world/agria/southlands/ikiria|Ikiria]].
+The Badlands are a southern region mentioned only briefly. The party first hears of them when interrogating a wererat on the road to [[locations/world/agria/southlands/ikiria|Ikiria]].
 
 ## Geography or layout
 
 - The Badlands are said to lie far to the south.
-- No fuller description is yet established in the current lore pages. Needs review.
+- No fuller description is established yet. Needs review.
 
 ## Campaign events
 
@@ -30,4 +30,4 @@ The Badlands are a southern region mentioned only briefly in the currently publi
 
 ## Unresolved threads or mysteries
 
-- Almost everything about the Badlands remains unclear in the current published sources.
+- Almost everything about the Badlands remains unclear.

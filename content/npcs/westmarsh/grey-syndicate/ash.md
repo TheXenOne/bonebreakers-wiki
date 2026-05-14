@@ -52,7 +52,7 @@ Confident, transactional, and dangerous.
 ## Campaign events
 
 - In [[sessions/session-036|Session 36]], Jeremy identifies Ash as his handler.
-- She remains an off-screen organising force through the siege arc.
+- She remains a distant organising force through the siege arc.
 - In [[sessions/session-046|Session 46]], she returns in person to negotiate and claims to be the Grey Khan.
 
 ## Current status
@@ -69,4 +69,4 @@ Active and still at large.
 ## Unresolved threads
 
 - Whether Ash truly is the Grey Khan remains unresolved.
-- The planned exchange or strike after Session 46 has not yet happened in published pages.
+- The planned exchange or strike after Session 46 has not yet happened.

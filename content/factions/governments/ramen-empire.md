@@ -22,7 +22,7 @@ source_sessions:
 
 ## Overview
 
-The Ramen Empire is a distant military dictatorship and a major geopolitical rival to Agria. It appears in the campaign through its annexation of [[locations/world/fos-imeras|Fos Imeras]] and its pressure on the Bonebreakers during that expedition.
+The Ramen Empire is a distant military dictatorship and a major geopolitical rival to Agria. Its role is most visible through its annexation of [[locations/world/fos-imeras|Fos Imeras]] and its pressure on the Bonebreakers during that expedition.
 
 ## Purpose or role
 
@@ -30,7 +30,7 @@ The Empire represents a larger outside power whose actions affect diplomacy, war
 
 ## Leadership
 
-- The Empire's top leadership has not been named in the published material.
+- The Empire's top leadership has not been named.
 - Imperial officers command the forces encountered around [[locations/world/fos-imeras|Fos Imeras]].
 
 ## Notable members
@@ -67,4 +67,4 @@ Active and still threatening, though most of its direct activity remains off-pag
 ## Unresolved threads
 
 - The Empire's current long-term plans toward Agria remain unclear.
-- Some requested intelligence tied to Fos Imeras, including Callea, remains unresolved in the published material.
+- Some intelligence tied to Fos Imeras, including Callea, remains unresolved.

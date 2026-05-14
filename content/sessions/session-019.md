@@ -64,7 +64,7 @@ Timo’s illusion of a collapsing wall saves the survivors from immediate destru
 ## Threads raised this session
 
 - Arden’s death is reversed on the next stage of the retreat. Status: Resolved in Session 20.
-- Durandale’s death is not reversed in the available sources. Status: Still unresolved.
+- Durandale’s death is not reversed. Status: Still unresolved.
 - The mission to end the deathless plague continues despite the failed first assault. Status: Resolved in Session 22.
 - The cathedral’s inner structure and leadership remain only partly understood at this point. Status: Partially resolved.
 

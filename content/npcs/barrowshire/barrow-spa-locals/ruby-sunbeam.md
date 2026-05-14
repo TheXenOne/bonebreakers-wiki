@@ -50,7 +50,7 @@ Cheerful, useful, practical, and dependable.
 
 ## Current status
 
-Alive and active in Barrow Spa as far as the published material shows.
+Alive and active in Barrow Spa.
 
 ## Related sessions
 

@@ -33,7 +33,7 @@ Most detailed physical descriptions need review.
 
 ## Personality
 
-- Orsilochus stands out most strongly, but the published material gives only limited direct characterisation for the group.
+- Orsilochus stands out most strongly, but the group receives only limited direct characterisation.
 
 ## Role in the campaign
 
@@ -58,7 +58,7 @@ Most detailed physical descriptions need review.
 
 ## Current status
 
-Rescued and alive as far as the published material shows.
+Rescued and alive.
 
 ## Related sessions
 

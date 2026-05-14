@@ -61,4 +61,4 @@ Active.
 
 ## Unresolved threads
 
-- Whether this temple belongs to a larger organised church has not yet been established in the published pages.
+- Whether this temple belongs to a larger organised church has not yet been established.

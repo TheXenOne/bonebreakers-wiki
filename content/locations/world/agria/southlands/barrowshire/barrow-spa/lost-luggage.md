@@ -25,7 +25,7 @@ The Lost Luggage is a secure storage business in [[locations/world/agria/southla
 
 ## Campaign events
 
-- No specific published session events are currently tied to the Lost Luggage. Needs review.
+- No specific events are currently tied to the Lost Luggage. Needs review.
 
 ## Related sessions
 

@@ -19,7 +19,7 @@ source_sessions:
 
 ## Overview
 
-Tess Tattercloak is an illusionist street-urchin later tied to Arden and Sir Cedric. She enters the published record during the Blood Moon arc.
+Tess Tattercloak is an illusionist street-urchin later tied to Arden and Sir Cedric. She joins the story during the Blood Moon arc.
 
 ## Player
 
@@ -36,7 +36,7 @@ Illusionist street-urchin.
 ## Associated locations
 
 - [[locations/world/agria/southlands/ikiria/index|Ikiria]]
-- The Blood Moon castle. Needs review for a published location page.
+- The Blood Moon castle. Needs review for a location page.
 - [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Important campaign events
@@ -52,7 +52,7 @@ Illusionist street-urchin.
 
 ## Current status
 
-Active. Later session pages place Tess back with the party after the Session 34 death.
+Active. Tess later returns to the party after the Session 34 death.
 
 ## Related sessions
 

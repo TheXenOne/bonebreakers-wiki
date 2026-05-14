@@ -58,4 +58,4 @@ Active.
 
 ## Unresolved threads
 
-- No direct unresolved thread in the published pages.
+- No direct unresolved thread.

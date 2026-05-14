@@ -54,7 +54,7 @@ Elf adventurer.
 
 ## Current status
 
-Unknown in the available player-facing sources after his retirement from the roster.
+Unknown after his retirement from the roster.
 
 ## Related sessions
 

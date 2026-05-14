@@ -62,4 +62,4 @@ Rescued and alive.
 
 ## Unresolved threads
 
-- Sailor's identity is still unknown in the published material.
+- Sailor's identity is still unknown.

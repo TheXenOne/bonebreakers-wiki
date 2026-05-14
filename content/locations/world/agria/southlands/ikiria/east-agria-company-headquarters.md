@@ -41,4 +41,4 @@ The East Agria Company Headquarters is a grand mercantile office in the upper ci
 
 ## Unresolved threads or mysteries
 
-- The East Agria Company's full political reach remains broader than what the published location material yet covers.
+- The East Agria Company's full political reach remains broader than what this page currently covers.

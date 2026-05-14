@@ -15,12 +15,12 @@ source_sessions:
 
 ## Overview
 
-The Northlands are the northern duchy of Agria. They are mostly unexplored in the published campaign material, but they are politically important because Prince Arthur holds the title Duke of the Northlands.
+The Northlands are the northern duchy of Agria. Little is yet known about the region itself, but it is politically important because Prince Arthur holds the title Duke of the Northlands.
 
 ## Geography or layout
 
 - The Northlands lie to the north-east of [[locations/world/agria/southlands|the Southlands]].
-- No major Northlands settlement or site has yet received a full campaign page from the published sources.
+- No major Northlands settlement or site is described in detail yet. Needs review.
 
 ## Associated people and groups
 

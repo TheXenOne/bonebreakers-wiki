@@ -37,7 +37,7 @@ They function as the main military organisers of the western invasion effort rat
 
 ## Leadership
 
-- An unnamed crowned hobgoblin officer is the most visible commander in the published material.
+- An unnamed crowned hobgoblin officer is the most visible commander.
 - Several other hobgoblin officers appear during the assault on the invasion fort.
 - Higher command beyond those officers is still unclear.
 
@@ -56,7 +56,7 @@ They function as the main military organisers of the western invasion effort rat
 ## Allies and enemies
 
 - They work alongside [[factions/military-and-orders/monsters-of-westmarsh/bugbears-of-westmarsh|bugbears of Westmarsh]], kobold labour, and a wider invasion force that also includes orcs, goblins, ogres, and giant hawks.
-- Their exact relationship to the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]] is suggestive but not fully defined in the published sources.
+- Their exact relationship to the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]] is suggestive but not fully defined.
 - They are directly opposed by the [[factions/military-and-orders/west-fort-garrison|West Fort Garrison]] and the [[factions/other/bonebreakers|Bonebreakers]].
 
 ## Campaign involvement

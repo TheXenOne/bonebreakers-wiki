@@ -75,8 +75,8 @@ Among the new finds are a ruby ring that seems to grant fire protection, a seale
 
 - The five rings from Morlan's casket are identified later by Aldrich as cursed items with different penalties. Status: Resolved in Session 11.
 - The name on the note is explained when the party later meets Morlan, Draxas's former assistant, trapped elsewhere in the sanctum. Status: Resolved in Session 11.
-- The sealed envelope for Jessum is later handed over in exchange for exclusive access to the sanctum, but its contents are not described in the available sources. Status: Partially resolved.
-- The purpose of the pentagram chamber's demanded "seal of approval" is not clearly explained in the available sources. Status: Still unresolved.
+- The sealed envelope for Jessum is later handed over in exchange for exclusive access to the sanctum, but its contents are not described. Status: Partially resolved.
+- The purpose of the pentagram chamber's demanded "seal of approval" is not clearly explained. Status: Still unresolved.
 - The laboratory glimpsed through the Seer's Dagger is eventually reached and explored. Status: Resolved in Session 12.
 
 ## Related sessions

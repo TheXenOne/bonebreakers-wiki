@@ -37,7 +37,7 @@ This page groups the recurring named proprietors and civic figures most strongly
 
 ## Appearance
 
-- Ruby's Feywild-styled cafe is the most visually distinctive element in the published sources.
+- Ruby's Feywild-styled cafe is the most visually distinctive element here.
 - Most individual physical descriptions beyond that need review.
 
 ## Personality
@@ -73,7 +73,7 @@ This page groups the recurring named proprietors and civic figures most strongly
 
 ## Current status
 
-Active as recurring town fixtures in the published material.
+Active as recurring town fixtures.
 
 ## Related sessions
 

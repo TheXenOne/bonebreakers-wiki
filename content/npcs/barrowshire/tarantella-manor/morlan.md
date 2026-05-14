@@ -22,7 +22,7 @@ Morlan is Draxas Tarantella's former assistant, discovered trapped within the [[
 
 ## Appearance
 
-The session summaries describe him as a mad, red-haired wizard in opulent garb.
+He is described as a mad, red-haired wizard in opulent garb.
 
 ## Personality
 

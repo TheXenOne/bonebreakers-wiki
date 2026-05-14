@@ -69,7 +69,7 @@ After resting, the party returns to the manor. Jessum gives them an encoded gnom
 - Morlan is freed from the mirror but remains trapped in the cage, leading directly into the next session. Status: Resolved in Session 12.
 - The encoded gnomish tome later yields a map pointing toward the Golden Asclepion. Status: Resolved in Session 12.
 - The grey ooze hazard in the flooded chamber is dealt with on the next delve. Status: Resolved in Session 12.
-- The bone flute’s purpose is not explained in the available sources. Status: Still unresolved.
+- The bone flute’s purpose is not explained. Status: Still unresolved.
 
 ## Related sessions
 

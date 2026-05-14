@@ -72,7 +72,7 @@ With Gorfthistle's help, the party reactivates Auto-Mulvis, wheels it into Sootm
 - Barny's death is reversed after the party returns to Barrow Spa. Status: Resolved in Session 7.
 - Gorfthistle's lead on King Bomfluke's treasure pays off when the party returns to the shrine catacombs and opens the royal casket. Status: Resolved in Session 7.
 - The true properties of Virien's new sword are later identified by Aldrich. Status: Resolved in Session 8.
-- The long-term fate of the surviving gloop still convinced by the Goldmark story is not clearly recorded in the available sources. Status: Needs review.
+- The long-term fate of the surviving gloop still convinced by the Goldmark story is not clearly recorded. Status: Needs review.
 
 ## Related sessions
 

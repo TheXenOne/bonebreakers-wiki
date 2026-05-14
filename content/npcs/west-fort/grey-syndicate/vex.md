@@ -62,4 +62,4 @@ Captive after his exposure in Session 35. Later condition needs review.
 
 ## Unresolved threads
 
-- His ultimate punishment or fate is not shown in the published pages.
+- His ultimate punishment or fate is unknown.

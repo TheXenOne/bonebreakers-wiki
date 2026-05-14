@@ -24,7 +24,7 @@ source_sessions:
 
 ## Overview
 
-Deep inside the [[locations/world/fos-imeras/golden-asclepieion|Golden Asclepion]], the party encounters faceless beings called the purified and a larger fused mass made from them. Their origin and exact nature are still unclear in the available player-facing sources.
+Deep inside the [[locations/world/fos-imeras/golden-asclepieion|Golden Asclepion]], the party encounters faceless beings called the purified and a larger fused mass made from them. Their origin and exact nature are still unclear.
 
 ## How it began
 
@@ -38,7 +38,7 @@ In [[sessions/session-016|Session 16]], the party pushes beyond [[npcs/fos-imera
 
 ## Current status
 
-Needs review. The Fos Imeras expedition ends, but the available sources never fully explain what the purified were or how widespread they became.
+Needs review. The Fos Imeras expedition ends, but it never becomes clear what the purified were or how widespread they became.
 
 ## Related characters and NPCs
 
@@ -56,4 +56,4 @@ Needs review. The Fos Imeras expedition ends, but the available sources never fu
 ## Loose ends
 
 - Whether the purified were victims, creations, or some later stage of Sebastaeia's work is not established.
-- The published sources do not say whether all remaining purified were destroyed.
+- It is unclear whether all remaining purified were destroyed.

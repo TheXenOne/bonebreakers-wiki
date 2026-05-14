@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Bran "The Wolf" is Arden's hardened fighter retainer. The lore describes him as a sellsword marked by the loss of his parents and proud of killing the white wolf that gave him his name.
+Bran "The Wolf" is Arden's hardened fighter retainer. He is a sellsword marked by the loss of his parents and proud of killing the white wolf that gave him his name.
 
 ## Player
 
@@ -50,7 +50,7 @@ Needs review.
 
 ## Current status
 
-Active in the lore document.
+Active.
 
 ## Related sessions
 

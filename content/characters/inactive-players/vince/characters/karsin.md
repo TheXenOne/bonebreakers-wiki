@@ -38,7 +38,7 @@ Needs review.
 ## Important campaign events
 
 - Joins the party in [[sessions/session-001|Session 1]].
-- Is paralysed by the carcass crawler in the first published Barrow session.
+- Is paralysed by the carcass crawler in the first Barrow expedition.
 
 ## Relationships
 
@@ -46,7 +46,7 @@ Needs review.
 
 ## Current status
 
-Unknown in the available player-facing sources.
+Unknown.
 
 ## Related sessions
 

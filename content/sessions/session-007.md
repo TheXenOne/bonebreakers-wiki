@@ -71,9 +71,9 @@ Greed ruins the partnership almost immediately. Neem tries to steal the crown by
 ## Threads raised this session
 
 - The true powers of the Crown of King Bomfluke and the red dagger are later identified by Aldrich. Status: Resolved in Session 8.
-- The ghostly warning "Those who generously give, Mulvis protects" is never fully explained in the available sources. Status: Still unresolved.
+- The ghostly warning "Those who generously give, Mulvis protects" is never fully explained. Status: Still unresolved.
 - The shrine catacombs yield some of their treasures, but not every detail of the complex is explained before the campaign moves on. Status: Partially resolved.
-- Dreg's death in the Auto-Mulvis explosion is not reversed in the available sources. Status: Still unresolved.
+- Dreg's death in the Auto-Mulvis explosion is not reversed. Status: Still unresolved.
 
 ## Related sessions
 

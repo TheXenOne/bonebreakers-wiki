@@ -17,15 +17,15 @@ source_sessions:
 
 ## Overview
 
-Timo is a gnomish illusionist rescued on Fos Imeras. The lore describes Timo as smart and brave, and the session summaries repeatedly confirm the value of that illusion magic.
+Timo is a gnomish illusionist rescued on Fos Imeras. He is described as smart and brave, and his illusion magic repeatedly proves valuable.
 
 ## Player
 
-Associated in the lore with Athlestan.
+Associated with Athlestan.
 
 ## Class or role
 
-Illusionist. The session summaries also describe Timo as a gnome thief at introduction. Needs review.
+Illusionist. He is also described as a gnome thief at introduction. Needs review.
 
 ## Retainers or companions
 
@@ -44,11 +44,11 @@ Needs review.
 
 ## Relationships
 
-- Closely associated with [[characters/inactive-players/matt/characters/athlestan-ghoulsbane|Athlestan Ghoulsbane]] in the lore list.
+- Closely associated with [[characters/inactive-players/matt/characters/athlestan-ghoulsbane|Athlestan Ghoulsbane]].
 
 ## Current status
 
-Unknown in the later published sources.
+Unknown.
 
 ## Related sessions
 

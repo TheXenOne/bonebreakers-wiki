@@ -50,7 +50,7 @@ Cleric of Belenus.
 ## Relationships
 
 - Publicly aligned with the [[factions/religions-and-cults/belenites|Belenites]].
-- Closely linked with Bran, Cedric, and Tess in the published sources.
+- Closely linked with Bran, Cedric, and Tess.
 - Often works alongside [[characters/active-players/deri/characters/francis-spencer-gray|Frank]] on public-facing schemes.
 
 ## Current status

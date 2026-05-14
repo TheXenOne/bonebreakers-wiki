@@ -49,7 +49,7 @@ Needs review.
 
 ## Current status
 
-Active in the available sources.
+Active.
 
 ## Related sessions
 

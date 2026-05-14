@@ -62,4 +62,4 @@ Needs review.
 
 ## Unresolved threads
 
-- Her final fate after the manor's collapse is unclear in the published pages.
+- Her final fate after the manor's collapse is unclear.

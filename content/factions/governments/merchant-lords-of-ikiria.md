@@ -19,7 +19,7 @@ source_sessions:
 
 ## Overview
 
-The Merchant Lords of Ikiria are the city's mercantile ruling bloc. The published sources identify them as a group of seven merchant lords led by [[npcs/ikiria/nixx-pocketbrain|Nixx Pocketbrain]].
+The Merchant Lords of Ikiria are the city's mercantile ruling bloc. They are a group of seven merchant lords led by [[npcs/ikiria/nixx-pocketbrain|Nixx Pocketbrain]].
 
 ## Purpose or role
 
@@ -28,7 +28,7 @@ They appear to be one of the key powers in [[locations/world/agria/southlands/ik
 ## Leadership
 
 - [[npcs/ikiria/nixx-pocketbrain|Nixx Pocketbrain]] is identified as the head of the merchant lords.
-- The other six merchant lords have not yet been named in the published wiki.
+- The other six merchant lords have not yet been named.
 
 ## Notable members
 

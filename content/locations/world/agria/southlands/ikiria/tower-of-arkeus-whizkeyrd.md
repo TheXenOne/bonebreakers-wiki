@@ -53,4 +53,4 @@ The Tower of Arkeus Whizkeyrd stands on the cliffs outside [[locations/world/agr
 ## Unresolved threads or mysteries
 
 - Arkeus is freed but vanishes into an astral disturbance.
-- Several magical objects found in the tower are not fully explained in the published material.
+- Several magical objects found in the tower are not fully explained.

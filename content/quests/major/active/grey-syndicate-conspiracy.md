@@ -43,7 +43,7 @@ source_sessions:
 
 ## Overview
 
-The Grey Syndicate links Westfort sabotage, Westmarsh kidnappings, political manipulation, and later direct royal conspiracy. It remains one of the campaign's clearest active enemy networks.
+The Grey Syndicate links Westfort sabotage, Westmarsh kidnappings, political manipulation, and direct royal conspiracy. It remains one of the clearest active enemy networks facing the Bonebreakers.
 
 ## How it began
 

@@ -60,4 +60,4 @@ The Halls of the Blood King are a vampiric manor that appeared outside [[locatio
 ## Unresolved threads or mysteries
 
 - The manor collapses, but parts of its wider magical legacy remain unclear.
-- Serion's fate is still unresolved in the published material.
+- Serion's fate is still unresolved.

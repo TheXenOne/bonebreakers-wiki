@@ -45,7 +45,7 @@ Helpful, unassuming, and focused on history.
 
 ## Campaign events
 
-- Named in the published material by [[sessions/session-018|Session 18]] and the lore compilation.
+- Named by [[sessions/session-018|Session 18]] and later reference material.
 
 ## Current status
 
@@ -57,4 +57,4 @@ Active.
 
 ## Unresolved threads
 
-- No direct unresolved thread in the published pages.
+- No direct unresolved thread.

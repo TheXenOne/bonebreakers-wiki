@@ -62,4 +62,4 @@ Captured status after the bridge interrogation. Later fate needs review.
 
 ## Unresolved threads
 
-- Jeremy disappears from the published narrative before the Syndicate plot fully resolves.
+- Jeremy disappears before the Syndicate plot fully resolves.

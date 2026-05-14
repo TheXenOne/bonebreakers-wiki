@@ -25,7 +25,7 @@ The Notice Board is a public board in [[locations/world/agria/southlands/barrows
 
 ## Campaign events
 
-- No specific published session events are currently tied directly to the Notice Board. Needs review.
+- No specific events are currently tied directly to the Notice Board. Needs review.
 
 ## Related sessions
 

@@ -47,7 +47,7 @@ Unreliable and easily exploited.
 
 ## Current status
 
-Alive as far as the published material shows.
+Alive.
 
 ## Related sessions
 

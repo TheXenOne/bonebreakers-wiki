@@ -44,11 +44,11 @@ Needs review.
 
 ## Relationships
 
-- Closely linked in the published sessions with Tess and the Blood Moon to Westmarsh transition.
+- Closely linked with Tess and the transition from the Blood Moon arc to Westmarsh.
 
 ## Current status
 
-Dead. The available sources say he was tortured for information and never broke.
+Dead. He was tortured for information and never broke.
 
 ## Related sessions
 

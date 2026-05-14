@@ -66,4 +66,4 @@ Alive.
 
 ## Unresolved threads
 
-- None central in the published material.
+- None central.

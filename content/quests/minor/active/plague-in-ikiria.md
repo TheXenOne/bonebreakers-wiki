@@ -26,7 +26,7 @@ source_sessions:
 
 ## Overview
 
-Late in the published material, rumours of plague or sickness in [[locations/world/agria/southlands/ikiria|Ikiria]] begin to spread again. The problem is real, but the exact nature of it is still unclear in the available sources.
+Rumours of plague or sickness begin to spread again in [[locations/world/agria/southlands/ikiria|Ikiria]]. The problem is real, but its exact nature is still unclear.
 
 ## How it began
 
@@ -39,7 +39,7 @@ In [[sessions/session-041|Session 41]], the party hears continued rumours of pla
 
 ## Current status
 
-Unresolved. The source material does not yet explain whether this is a return of the deathless plague, a different sickness, or a wider consequence of other events.
+Unresolved. It is not yet clear whether this is a return of the deathless plague, a different sickness, or a wider consequence of other events.
 
 ## Related characters and NPCs
 
@@ -57,4 +57,4 @@ Unresolved. The source material does not yet explain whether this is a return of
 
 ## Loose ends
 
-- Needs review once later sessions clarify what the plague actually is.
+- The exact nature of the plague remains unclear. Needs review.

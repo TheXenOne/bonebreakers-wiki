@@ -57,4 +57,4 @@ Active. Later involvement: Needs review.
 
 ## Unresolved threads
 
-- None central in the published material.
+- None central.

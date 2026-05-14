@@ -54,4 +54,4 @@ Fos Imeras is a remote island once famous for miraculous healing. By the time th
 ## Unresolved threads or mysteries
 
 - The long-term fate of the island after the party's departure is not yet shown.
-- Some requested Ramen intelligence, especially around Callea, remains unclear in the published material.
+- Some requested Ramen intelligence, especially around Callea, remains unclear.

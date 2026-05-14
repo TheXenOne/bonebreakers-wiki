@@ -51,7 +51,7 @@ Paladin of Belenus.
 
 ## Current status
 
-Active in the published sources.
+Active.
 
 ## Related sessions
 

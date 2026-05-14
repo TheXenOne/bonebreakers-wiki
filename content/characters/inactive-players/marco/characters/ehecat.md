@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Ehecat is a stoic fighter of the Casset tribe. His published motivation centers on vengeance against the Ramen Empire for destroying his people.
+Ehecat is a stoic fighter of the Casset tribe. His central motivation is vengeance against the Ramen Empire for destroying his people.
 
 ## Player
 
@@ -47,7 +47,7 @@ Needs review.
 
 ## Current status
 
-Unknown in the available player-facing sources after his retirement from the roster.
+Unknown after his retirement from the roster.
 
 ## Related sessions
 

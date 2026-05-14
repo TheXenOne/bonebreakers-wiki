@@ -47,7 +47,7 @@ Needs review.
 
 ## Current status
 
-Unknown in the available player-facing sources.
+Unknown.
 
 ## Related sessions
 

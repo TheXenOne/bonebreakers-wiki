@@ -19,7 +19,7 @@ The Ramen Empire is a distant military dictatorship defined by martial law and i
 
 ## Geography and political structure
 
-- The Empire's direct territory is mostly off-screen in the campaign so far.
+- The Empire's direct territory is still largely undescribed.
 - [[locations/world/fos-imeras|Fos Imeras]] is described as recently annexed by the Empire.
 
 ## Notable sublocations
@@ -46,5 +46,5 @@ The Ramen Empire is a distant military dictatorship defined by martial law and i
 
 ## Unresolved threads or mysteries
 
-- Recent imperial ambitions are still only partly visible in the campaign.
-- The fate of Callea remains unclear in the available published sources.
+- Recent imperial ambitions are still only partly understood.
+- The fate of Callea remains unclear.

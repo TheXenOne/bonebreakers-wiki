@@ -74,7 +74,7 @@ The second half of the session shifts to the lake marked on the map. There the p
 - Ossilicus and the Eleftheria, both sought by the Ramen Empire, are successfully recovered. Status: Resolved in Session 16.
 - The Nixies’ intentions and the party’s escape from them become the next immediate problem. Status: Resolved in Session 17.
 - The full cleansing of the Golden Asclepion is not complete by the end of the session. Status: Resolved in Session 17.
-- The origin and full nature of the “purified” remain unclear in the available sources. Status: Still unresolved.
+- The origin and full nature of the “purified” remain unclear. Status: Still unresolved.
 
 ## Related sessions
 

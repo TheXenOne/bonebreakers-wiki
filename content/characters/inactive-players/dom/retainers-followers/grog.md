@@ -50,7 +50,7 @@ Needs review.
 
 ## Current status
 
-Unknown in the available player-facing sources after the early campaign.
+Unknown after the early campaign.
 
 ## Related sessions
 

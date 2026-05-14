@@ -64,7 +64,7 @@ Barny's Sleep spell saves the party from being overwhelmed, allowing them to kil
 ## Threads raised this session
 
 - The deeper western sections beyond the spider chamber continue to unfold over the next few expeditions and are ultimately cleared. Status: Resolved in Session 12.
-- The exact purpose of the silver collar worn by the giant spider is not explained in the available sources. Status: Still unresolved.
+- The exact purpose of the silver collar worn by the giant spider is not explained. Status: Still unresolved.
 - The trap book's mention of trapped water is confirmed when the party later finds the flooded chamber, but its reference to a "guardian" is less explicit. Status: Partially resolved.
 - The poison suffered by Barny and Virien is treated after the party returns to town. Status: Resolved in Session 10.
 

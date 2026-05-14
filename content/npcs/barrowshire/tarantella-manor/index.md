@@ -56,7 +56,7 @@ This page groups the named Tarantella family figures tied to [[locations/world/a
 
 ## Relationships
 
-- Jessum is the last surviving family heir in the published material.
+- Jessum is the last surviving family heir.
 - Draxas once employed [[npcs/barrowshire/tarantella-manor/morlan|Morlan]] as an assistant.
 
 ## Campaign events

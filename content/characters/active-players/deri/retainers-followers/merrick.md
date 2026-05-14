@@ -43,7 +43,7 @@ Needs review.
 
 ## Current status
 
-Active in the lore document. Later activity is not clearly tracked in the session pages.
+Active. Later activity is not clearly tracked.
 
 ## Related sessions
 

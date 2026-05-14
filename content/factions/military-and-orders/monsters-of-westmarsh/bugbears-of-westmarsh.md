@@ -24,7 +24,7 @@ source_sessions:
 
 ## Overview
 
-The bugbears of Westmarsh appear in the published campaign as heavy troops, overseers, and guards attached to the broader western war effort.
+The bugbears of Westmarsh serve as heavy troops, overseers, and guards attached to the broader western war effort.
 
 ## Purpose or role
 
@@ -32,7 +32,7 @@ They are shown less as an independent named polity and more as a recurring marti
 
 ## Leadership
 
-No named bugbear leaders have been established in the published material.
+No named bugbear leaders have been identified.
 
 ## Notable members
 
@@ -57,7 +57,7 @@ Needs review.
 
 ## Current status
 
-Mixed. Some are killed during the campaign, but the broader faction is not clearly destroyed on-page.
+Mixed. Some are killed, but the broader faction is not clearly destroyed.
 
 ## Related sessions
 

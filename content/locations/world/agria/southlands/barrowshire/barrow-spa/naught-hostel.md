@@ -25,7 +25,7 @@ The Naught Hostel is a low-cost inn in [[locations/world/agria/southlands/barrow
 
 ## Campaign events
 
-- No specific published session events are currently tied to the Naught Hostel. Needs review.
+- No specific events are currently tied to the Naught Hostel. Needs review.
 
 ## Related sessions
 

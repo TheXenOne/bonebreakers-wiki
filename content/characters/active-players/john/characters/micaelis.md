@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Micaelis is a fighter who joins near the Spider Market late in the published campaign. He is described as a disgraced city guard devoted to proving the supremacy of the spear.
+Micaelis is a fighter who joins near the Spider Market late in the Westmarsh arc. He is a disgraced city guard devoted to proving the supremacy of the spear.
 
 ## Player
 

@@ -98,4 +98,4 @@ This page groups the main named monster and wilderness figures tied to [[locatio
 
 ## Unresolved threads
 
-- Gruumsh survives, but his later role is not shown in the current pages.
+- Gruumsh survives, but his later role is not known.

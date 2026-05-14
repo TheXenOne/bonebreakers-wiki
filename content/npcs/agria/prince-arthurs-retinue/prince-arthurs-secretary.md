@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Prince Arthur's secretary is the keeper of the ledger documenting Arthur's meetings with the [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]]. His personal name is not given in the published sources.
+Prince Arthur's secretary is the keeper of the ledger documenting Arthur's meetings with the [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]]. His personal name is not given.
 
 ## Appearance
 
@@ -24,7 +24,7 @@ Needs review.
 
 ## Personality
 
-Deeply frightened by the end of the published material.
+Deeply frightened by the end of his appearances.
 
 ## Role in the campaign
 

@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Athlestan Ghoulsbane is a cleric bound to the struggle against the King of Ghouls. His backstory in the published sources makes him part of a hidden brotherhood of reincarnating priests tied to [[factions/religions-and-cults/karanth|Karanth]].
+Athlestan Ghoulsbane is a cleric bound to the struggle against the King of Ghouls. He is part of a hidden brotherhood of reincarnating priests tied to [[factions/religions-and-cults/karanth|Karanth]].
 
 ## Player
 
@@ -25,7 +25,7 @@ Matt.
 
 ## Class or role
 
-Cleric of [[factions/religions-and-cults/karanth|Karanth]]. The published sources also use the spelling `Coranth`. Needs review.
+Cleric of [[factions/religions-and-cults/karanth|Karanth]]. The spelling `Coranth` also appears. Needs review.
 
 ## Retainers or companions
 
@@ -46,11 +46,11 @@ Cleric of [[factions/religions-and-cults/karanth|Karanth]]. The published source
 ## Relationships
 
 - Strongly tied to the anti-undead mission of the party.
-- Connected in lore to [[characters/inactive-players/matt/retainers-followers/timo|Timo]].
+- Connected to [[characters/inactive-players/matt/retainers-followers/timo|Timo]].
 
 ## Current status
 
-Unknown in the available player-facing sources after his retirement from the roster.
+Unknown after his retirement from the roster.
 
 ## Related sessions
 

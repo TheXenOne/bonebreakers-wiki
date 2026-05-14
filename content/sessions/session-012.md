@@ -66,8 +66,8 @@ The final chamber of the sanctum proves to be a ruined laboratory full of colore
 
 - The map to the Golden Asclepion drives the party’s next major journey. Status: Partially resolved.
 - The Jeweller’s Sanctum is thoroughly searched and effectively cleared by the end of the session. Status: Resolved in Session 12.
-- The exact properties of the colored magical powders are not explained in the available sources. Status: Needs review.
-- Barny’s newest cursed ring does not become a major continuing thread in the available sources. Status: Needs review.
+- The exact properties of the colored magical powders are not explained. Status: Needs review.
+- Barny’s newest cursed ring does not become a major continuing thread. Status: Needs review.
 
 ## Related sessions
 

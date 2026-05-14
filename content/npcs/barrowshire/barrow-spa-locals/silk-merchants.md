@@ -48,7 +48,7 @@ Grateful and practical.
 
 ## Current status
 
-Active as far as the published material shows.
+Active.
 
 ## Related sessions
 

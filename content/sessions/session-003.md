@@ -68,7 +68,7 @@ Pushing farther than before, the Bonebreakers reach Quintius' old quarters and t
 
 ## Threads raised this session
 
-- The party now has the glass eyes needed for the idol puzzle, but the available sources do not show the idol chamber being fully resolved later. Status: Still unresolved.
+- The party now has the glass eyes needed for the idol puzzle, but the idol chamber is not shown being fully resolved later. Status: Still unresolved.
 - Later Barrow expeditions, especially Session 23, uncover additional caverns and chambers beyond the routes reached here, but the sources do not confirm a complete exploration of the entire Barrow. Status: Partially resolved.
 - The lingering necromancy tied to Quintius' activities is finally addressed in Session 23, when Arden cleanses Quintius' chamber and the Barrow is scoured of necromancy. Status: Resolved in Session 23.
 

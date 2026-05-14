@@ -28,7 +28,7 @@ This page groups the main named figures tied to [[locations/world/agria/southlan
 
 - [[npcs/ikiria/halls-of-the-blood-king/arun|Arun]]: Noble's son who escapes the manor and helps prove its danger.
 - [[npcs/ikiria/halls-of-the-blood-king/elara|Elara]]: Arun's lover and writer of the letter found inside the manor.
-- [[npcs/ikiria/halls-of-the-blood-king/selana|Selana]]: Pale vampire-hunter trapped in the castle and later an uneasy ally. Dead by the lore summary.
+- [[npcs/ikiria/halls-of-the-blood-king/selana|Selana]]: Pale vampire-hunter trapped in the castle and later an uneasy ally. Dead.
 - [[npcs/ikiria/halls-of-the-blood-king/the-blood-king|The Blood King]]: Master vampire who rules the shifting castle and can only be killed by destroying his hidden heart.
 - [[npcs/ikiria/halls-of-the-blood-king/alvalus|Alvalus]]: The Blood King's reflected guilt, trapped in glass.
 - [[npcs/ikiria/halls-of-the-blood-king/princess-of-blood|Princess of Blood]]: The Blood King's daughter and a patient, manipulative rival.
@@ -38,7 +38,7 @@ This page groups the main named figures tied to [[locations/world/agria/southlan
 ## Appearance
 
 - Selana is described as pale and armoured.
-- The rest of the court is defined more by role than by full physical detail in the current pages.
+- The rest of the court is defined more by role than by full physical detail.
 
 ## Personality
 
@@ -75,10 +75,10 @@ This page groups the main named figures tied to [[locations/world/agria/southlan
 ## Current status
 
 - The Blood King: dead.
-- Selana: dead according to the lore summary.
+- Selana: dead.
 - Demetrius: dead.
 - Circander: dead.
-- Arun and Elara: alive, as far as the published sources show.
+- Arun and Elara: alive.
 - Princess of Blood: Needs review.
 - Alvalus: Needs review after the manor's fall.
 
@@ -92,5 +92,5 @@ This page groups the main named figures tied to [[locations/world/agria/southlan
 
 ## Unresolved threads
 
-- The Princess of Blood's final fate is unclear in the published pages.
+- The Princess of Blood's final fate is unclear.
 - Alvalus's survival after the fall of the manor needs review.

@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Luthien is an elf adventurer whose published ambitions are bluntly power-seeking. In [[sessions/session-018|Session 18]], she describes a desire for dark magic and a rejection of the quiet life she left behind.
+Luthien is an elf adventurer with bluntly power-seeking ambitions. In [[sessions/session-018|Session 18]], she describes a desire for dark magic and a rejection of the quiet life she left behind.
 
 ## Player
 

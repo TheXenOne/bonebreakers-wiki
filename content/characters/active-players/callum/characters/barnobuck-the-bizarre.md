@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Barnobuck "Barny" the Bizarre is one of the campaign's defining magic-users. He insists he was once vastly more powerful, and much of his story revolves around recovering lost power, knowledge, and immortality.
+Barnobuck "Barny" the Bizarre is one of the party's defining magic-users. He insists he was once vastly more powerful, and much of his story revolves around recovering lost power, knowledge, and immortality.
 
 ## Player
 
@@ -42,19 +42,19 @@ Magic-user.
 
 ## Important campaign events
 
-- Appears from the earliest published session pages.
+- Appears from the earliest recorded adventures.
 - Is killed and later restored during the shrine arc.
 - Shares his backstory and supposed lost greatness in [[sessions/session-018|Session 18]].
 - Uses the Seer's Dagger and other strange magic repeatedly through later arcs, including [[sessions/session-041|Session 41]].
 
 ## Relationships
 
-- Maintains the closest published ties to Rhian, Rattius, and Krazak.
+- Maintains the closest ties to Rhian, Rattius, and Krazak.
 - Early partnership with [[characters/inactive-players/dom/characters/virien|Virien]] is central to the first arc.
 
 ## Current status
 
-Active. Barny remains with the party in the latest available session pages.
+Active. Barny remains with the party.
 
 ## Related sessions
 

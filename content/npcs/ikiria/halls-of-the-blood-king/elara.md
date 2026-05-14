@@ -47,7 +47,7 @@ Concerned and perceptive. Further detail: Needs review.
 
 ## Current status
 
-Alive as far as the published material shows.
+Alive.
 
 ## Related sessions
 
@@ -55,4 +55,4 @@ Alive as far as the published material shows.
 
 ## Unresolved threads
 
-- Elara's later fate is not covered in the published pages.
+- Elara's later fate is unknown.

@@ -29,17 +29,17 @@ source_sessions:
 
 ## Overview
 
-The Kingdom of Agria is the main human kingdom in the campaign. It is a feudal monarchy ruled by [[npcs/agria/queen-audrey-ii|Queen Audrey II]], with major power also held by nobles, cities, and mercantile interests.
+The Kingdom of Agria is the main human kingdom tied to the Bonebreakers' travels. It is a feudal monarchy ruled by [[npcs/agria/queen-audrey-ii|Queen Audrey II]], with major power also held by nobles, cities, and mercantile interests.
 
 ## Purpose or role
 
-Agria provides the political framework behind much of the campaign's later play, especially the authority of [[npcs/agria/princess-agatha|Princess Agatha]], the frontier importance of [[locations/world/agria/west-fort|West Fort]], and the succession crisis around [[npcs/agria/prince-arthur|Prince Arthur]].
+Agria is home to the Bonebreakers and the setting for many of the kingdom's most important political struggles, especially the authority of [[npcs/agria/princess-agatha|Princess Agatha]], the frontier importance of [[locations/world/agria/west-fort|West Fort]], and the succession crisis around [[npcs/agria/prince-arthur|Prince Arthur]].
 
 ## Leadership
 
 - [[npcs/agria/queen-audrey-ii|Queen Audrey II]] reigns as monarch.
 - [[npcs/agria/princess-agatha|Princess Agatha]] governs the Southlands and is heir to the throne.
-- [[npcs/agria/prince-arthur|Prince Arthur]] governs the Northlands, though later sessions tie him to treasonous plotting.
+- [[npcs/agria/prince-arthur|Prince Arthur]] governs the Northlands and is later exposed as part of a treasonous plot.
 
 ## Notable members
 

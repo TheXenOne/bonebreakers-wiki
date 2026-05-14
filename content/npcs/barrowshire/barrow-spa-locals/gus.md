@@ -48,7 +48,7 @@ Blunt and hard to haggle with.
 
 ## Current status
 
-Alive as far as the published material shows.
+Alive.
 
 ## Related sessions
 

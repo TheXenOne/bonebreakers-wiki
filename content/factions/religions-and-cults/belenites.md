@@ -29,15 +29,15 @@ source_sessions:
 
 ## Overview
 
-The Belenites are the followers of Belenus visible in the published campaign. Their influence grows through [[characters/active-players/ben-l/characters/arden-sable|Arden]], [[characters/active-players/ben-l/characters/sir-cedric-dawnmere|Cedric]], and later [[characters/active-players/deri/characters/francis-spencer-gray|Frank]], especially around [[locations/world/agria/southlands/mercy|the Mercy]] and the [[locations/world/agria/southlands/ikiria/temple-of-merciful-life|Temple of Merciful Life]].
+The Belenites are followers of Belenus whose influence grows through [[characters/active-players/ben-l/characters/arden-sable|Arden]], [[characters/active-players/ben-l/characters/sir-cedric-dawnmere|Cedric]], and later [[characters/active-players/deri/characters/francis-spencer-gray|Frank]], especially around [[locations/world/agria/southlands/mercy|the Mercy]] and the [[locations/world/agria/southlands/ikiria/temple-of-merciful-life|Temple of Merciful Life]].
 
 ## Purpose or role
 
-In the published material, the faith is associated with healing, public charity, and resistance to undead corruption. It also becomes part of the Bonebreakers' growing public presence in Southlands.
+The faith is associated with healing, public charity, and resistance to undead corruption. It also becomes part of the Bonebreakers' growing public presence in Southlands.
 
 ## Leadership
 
-- [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]] becomes the clearest public leader of the Belenite cause in the campaign and is later described as bishop at [[locations/world/agria/southlands/mercy|the Mercy]].
+- [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]] becomes the clearest public leader of the Belenite cause and is later described as bishop at [[locations/world/agria/southlands/mercy|the Mercy]].
 - [[characters/active-players/ben-l/characters/sir-cedric-dawnmere|Sir Cedric Dawnmere]] acts as a paladin and trusted champion of the same faith.
 - [[characters/active-players/deri/characters/francis-spencer-gray|Frank]] helps fund, stage, and publicly advance Belenite institutions, especially in [[locations/world/agria/southlands/ikiria/index|Ikiria]].
 - The structure of any wider Belenite church beyond these figures is unclear. Needs review.
@@ -58,7 +58,7 @@ In the published material, the faith is associated with healing, public charity,
 
 - The Belenites are closely tied to the [[factions/other/bonebreakers|Bonebreakers]].
 - They directly replace the [[factions/religions-and-cults/church-of-the-crimson-flame|Church of the Crimson Flame]] at the Mercy after the fall of the Crimson Bishop.
-- Their most visible opposition in the published material comes from undead forces and the corrupted church structure they overthrow.
+- Their most visible opposition comes from undead forces and the corrupted church structure they overthrow.
 
 ## Campaign involvement
 
@@ -84,4 +84,4 @@ Active and growing. The faith holds the Mercy, has at least one additional templ
 ## Unresolved threads
 
 - The exact doctrine and wider institutional reach of the Belenites in Agria remain unclear.
-- How stable Belenite control of [[locations/world/agria/southlands/mercy|the Mercy]] remains in later material is still unsettled.
+- How stable Belenite control of [[locations/world/agria/southlands/mercy|the Mercy]] remains is still unsettled.

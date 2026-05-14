@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Rhian is Barny's novice magic-user retainer. The lore describes her as thankful for the opportunity.
+Rhian is Barny's novice magic-user retainer. She is thankful for the opportunity Barny gives her.
 
 ## Player
 
@@ -48,7 +48,7 @@ Needs review.
 
 ## Current status
 
-Active in the lore document. Later exact status is not fully tracked in the session pages.
+Active. Her later exact status is not fully tracked.
 
 ## Related sessions
 

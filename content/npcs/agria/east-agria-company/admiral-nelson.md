@@ -65,4 +65,4 @@ Active.
 
 ## Unresolved threads
 
-- Nelson's later on-page role remains limited after the expedition arc.
+- Nelson's later role remains limited after the expedition arc.

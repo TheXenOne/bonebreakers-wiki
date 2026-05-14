@@ -42,7 +42,7 @@ Needs review.
 
 ## Current status
 
-Active in the available player-facing sources. Later appearances need review.
+Active. Later appearances need review.
 
 ## Related sessions
 

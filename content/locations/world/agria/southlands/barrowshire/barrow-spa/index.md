@@ -63,4 +63,4 @@ Barrow Spa is the capital of Barrowshire and a luxury resort town built around c
 
 ## Unresolved threads or mysteries
 
-- Barrow Spa remains important to the campaign economy, but few major local mysteries remain active in the published material.
+- Barrow Spa remains important to the local economy, but few major local mysteries remain active.

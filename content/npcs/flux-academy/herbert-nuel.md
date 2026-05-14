@@ -64,4 +64,4 @@ Active.
 
 ## Unresolved threads
 
-- None central in the current published pages.
+- None central.

@@ -56,7 +56,7 @@ Brilliant, unstable, and catastrophically unsafe.
 
 ## Current status
 
-Missing in the astral realm, according to the lore summary.
+Missing in the astral realm.
 
 ## Related sessions
 

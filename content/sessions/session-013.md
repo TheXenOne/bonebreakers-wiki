@@ -69,7 +69,7 @@ The road east is comparatively quiet. The party passes an ominous cathedral they
 - The Golden Asclepion map leads the party to seek expert help at Flux Academy. Status: Resolved in Session 14.
 - The ominous cathedral by the road later becomes the center of Princess Agatha’s first secret mission. Status: Resolved in Session 18.
 - Rattius begins traveling with the party and continues to matter in later sessions. Status: Partially resolved.
-- James promises to reconnect in Ikiria, but the available sources do not clearly show that meeting happening at this stage. Status: Needs review.
+- James promises to reconnect in Ikiria, but that meeting is not yet shown at this stage. Status: Needs review.
 
 ## Related sessions
 

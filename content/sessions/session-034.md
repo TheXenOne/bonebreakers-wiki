@@ -69,7 +69,7 @@ The fight leaves Tess dead and the group shaken. Their interrogation of the surv
 ## Threads raised this session
 
 - Tess's death removes her from the expedition for a time. Status: Resolved in Session 40.
-- Grazka and the deeper gnoll structure are mentioned but not fully pursued in the available sources. Status: Still unresolved.
+- Grazka and the deeper gnoll structure are mentioned but not fully pursued. Status: Still unresolved.
 - The party's first possible southern lead on the hawks remains uncertain. Status: Partially resolved.
 - Westmarsh proves too dangerous for improvised scouting alone. Status: Partially resolved.
 

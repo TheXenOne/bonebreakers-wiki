@@ -45,7 +45,7 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 - The party reaches a chamber of numbered arches and chooses Arch VII.
 - [[npcs/necropolis/cornelius-vane|Cornelius Vane]] is found trapped in the buried wing.
 - Maps and partial plans reveal place names such as the Vault, the Twins, and the Collapsed Nave.
-- Sessions [[sessions/session-042|42]] and [[sessions/session-043|43]] continue the delve, but the published summary does not cleanly separate their events.
+- Sessions [[sessions/session-042|42]] and [[sessions/session-043|43]] continue the delve, but the exact split between their events is unclear.
 - In [[sessions/session-044|Session 44]], the party kills a chimera guarding a major hoard within the deeper section.
 - By [[sessions/session-046|Session 46]], rumours point to another western entrance that may connect to the same complex.
 

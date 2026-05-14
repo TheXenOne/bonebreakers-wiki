@@ -47,7 +47,7 @@ Thief.
 
 ## Relationships
 
-- Closely tied to Akal and Merrick in the lore and session summaries.
+- Closely tied to Akal and Merrick.
 - Often partners with Arden on public schemes, including the [[factions/religions-and-cults/belenites|Belenite]] project, and with stealth-oriented party members on reconnaissance.
 
 ## Current status

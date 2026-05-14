@@ -23,7 +23,7 @@ Elven. Further description: Needs review.
 
 ## Personality
 
-Professional and practical in the published material.
+Professional and practical.
 
 ## Role in the campaign
 
@@ -56,4 +56,4 @@ Active. Later appearances: Needs review.
 
 ## Unresolved threads
 
-- Vaessa's role after the Arkeus crisis is not shown in the published pages.
+- Vaessa's role after the Arkeus crisis is not yet known.

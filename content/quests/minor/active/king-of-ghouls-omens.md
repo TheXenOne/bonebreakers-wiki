@@ -59,4 +59,4 @@ Dormant. It remains an important warning, but not a main active objective yet.
 
 ## Loose ends
 
-- The King of Ghouls has not yet appeared directly in the available published sessions.
+- The King of Ghouls has not yet appeared directly.

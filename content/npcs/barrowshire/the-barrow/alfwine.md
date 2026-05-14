@@ -47,7 +47,7 @@ Lively and helpful once freed.
 
 ## Current status
 
-Dead. The lore summary states that she dies defending the Bonebreakers.
+Dead. She dies defending the Bonebreakers.
 
 ## Related sessions
 
