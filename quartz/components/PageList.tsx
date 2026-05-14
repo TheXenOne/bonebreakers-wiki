@@ -1,4 +1,4 @@
-import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
+import { FullSlug, isFolderPath, resolveAbsolute } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { Date, getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
@@ -57,7 +57,7 @@ type Props = {
   sort?: SortFn
 } & QuartzComponentProps
 
-export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
+export const PageList: QuartzComponent = ({ cfg, allFiles, limit, sort }: Props) => {
   const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
   let list = allFiles.sort(sorter)
   if (limit) {
@@ -78,7 +78,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
               </p>
               <div class="desc">
                 <h3>
-                  <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                  <a href={resolveAbsolute(cfg.baseUrl, page.slug!)} class="internal">
                     {title}
                   </a>
                 </h3>
@@ -88,7 +88,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                   <li>
                     <a
                       class="internal tag-link"
-                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                      href={resolveAbsolute(cfg.baseUrl, `tags/${tag}` as FullSlug)}
                     >
                       {tag}
                     </a>

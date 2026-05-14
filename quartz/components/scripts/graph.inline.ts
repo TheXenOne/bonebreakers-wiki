@@ -17,7 +17,13 @@ import {
 import { Text, Graphics, Application, Container, Circle } from "pixi.js"
 import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
 import { registerEscapeHandler, removeAllChildren } from "./util"
-import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
+import {
+  FullSlug,
+  SimpleSlug,
+  getFullSlug,
+  resolveAbsoluteFromBase,
+  simplifySlug,
+} from "../../util/path"
 import { D3Config } from "../Graph"
 
 type GraphicsInfo = {
@@ -482,16 +488,18 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           // if the time between mousedown and mouseup is short, we consider it a click
           if (Date.now() - dragStartTime < 500) {
             const node = graphData.nodes.find((n) => n.id === event.subject.id) as NodeData
-            const targ = resolveRelative(fullSlug, node.id)
-            window.spaNavigate(new URL(targ, window.location.toString()))
+            const siteBase = document.body.dataset.siteBase ?? "/"
+            const targ = resolveAbsoluteFromBase(siteBase, node.id)
+            window.spaNavigate(new URL(targ, window.location.origin))
           }
         }),
     )
   } else {
     for (const node of nodeRenderData) {
       node.gfx.on("click", () => {
-        const targ = resolveRelative(fullSlug, node.simulationData.id)
-        window.spaNavigate(new URL(targ, window.location.toString()))
+        const siteBase = document.body.dataset.siteBase ?? "/"
+        const targ = resolveAbsoluteFromBase(siteBase, node.simulationData.id)
+        window.spaNavigate(new URL(targ, window.location.origin))
       })
     }
   }

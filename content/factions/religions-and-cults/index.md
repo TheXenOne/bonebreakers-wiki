@@ -1,0 +1,11 @@
+---
+title: Religions and Cults
+tags:
+  - factions
+  - religions-and-cults
+---
+
+Faiths, temples, cults, and religious orders that matter in the published campaign.
+
+- [[factions/religions-and-cults/church-of-the-crimson-flame|Church of the Crimson Flame]]
+- [[factions/religions-and-cults/temple-of-saint-lucia-the-merciful|Temple of Saint Lucia the Merciful]]

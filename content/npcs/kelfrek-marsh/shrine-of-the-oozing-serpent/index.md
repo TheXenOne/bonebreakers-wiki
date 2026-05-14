@@ -34,7 +34,7 @@ This page groups the main named monster and wilderness figures tied to [[locatio
 - [[npcs/kelfrek-marsh/shrine-of-the-oozing-serpent/dreg|Dreg]]: Hired thief who dies during the party's retreat from the shrine while helping the expedition survive.
 - [[npcs/kelfrek-marsh/gruumsh-onetusk|Gruumsh Onetusk]]: Orc warlord of the marsh, later defeated and spared.
 - [[characters/active-players/callum/retainers-followers/krazak-the-silent|Krazak the Silent]]: Gruumsh's lieutenant, later killed and reanimated as a party thrall in the character pages.
-- [[npcs/kelfrek-marsh/orcs-of-the-marsh|The Orcs of the Marsh]]: Gruumsh's disciplined warband.
+- [[npcs/kelfrek-marsh/orcs-of-the-marsh|The Orcs of Kelfrek Marsh]]: Gruumsh's disciplined warband.
 - **The Gloops**: Marsh-dwelling followers tied to the shrine and road attacks.
 
 ## Appearance

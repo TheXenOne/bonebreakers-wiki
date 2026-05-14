@@ -1,11 +1,12 @@
 ---
-title: The Orcs of the Marsh
+title: The Orcs of Kelfrek Marsh
 type: npc
 tags:
   - npc
   - group
   - orc
-aliases: []
+aliases:
+  - The Orcs of the Marsh
 status: broken
 primary_location: Kelfrek Marsh
 affiliations:
@@ -17,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-The Orcs of the Marsh are Gruumsh Onetusk's disciplined warband in Kelfrek Marsh.
+The Orcs of Kelfrek Marsh are Gruumsh Onetusk's disciplined warband in Kelfrek Marsh.
 
 ## Appearance
 

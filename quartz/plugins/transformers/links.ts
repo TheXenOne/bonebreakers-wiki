@@ -1,9 +1,12 @@
 import { QuartzTransformerPlugin } from "../types"
 import {
+  absolutizePath,
   FullSlug,
   RelativeURL,
+  resolveAbsoluteFromBase,
   SimpleSlug,
   TransformOptions,
+  siteBasePath,
   stripSlashes,
   simplifySlug,
   splitAnchor,
@@ -42,6 +45,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
           return (tree: Root, file) => {
             const curSlug = simplifySlug(file.data.slug!)
             const outgoing: Set<SimpleSlug> = new Set()
+            const siteBase = siteBasePath(ctx.cfg.configuration.baseUrl)
 
             const transformOptions: TransformOptions = {
               strategy: opts.markdownLinkResolution,
@@ -103,7 +107,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   isAbsoluteUrl(dest, { httpOnly: false }) || dest.startsWith("#")
                 )
                 if (isInternal) {
-                  dest = node.properties.href = transformLink(
+                  dest = transformLink(
                     file.data.slug!,
                     dest,
                     transformOptions,
@@ -121,8 +125,13 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   // need to decodeURIComponent here as WHATWG URL percent-encodes everything
                   const full = decodeURIComponent(stripSlashes(destCanonical, true)) as FullSlug
                   const simple = simplifySlug(full)
-                  outgoing.add(simple)
-                  node.properties["data-slug"] = full
+                  const canonicalFull =
+                    ctx.allSlugs.find(
+                      (slug) => stripSlashes(simplifySlug(slug)) === stripSlashes(simple),
+                    ) ?? full
+                  outgoing.add(simplifySlug(canonicalFull))
+                  node.properties["data-slug"] = canonicalFull
+                  node.properties.href = resolveAbsoluteFromBase(siteBase, canonicalFull)
                 }
 
                 // rewrite link internals if prettylinks is on
@@ -154,7 +163,8 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                     dest,
                     transformOptions,
                   )
-                  node.properties.src = dest
+                  const url = new URL(dest, "https://base.com/" + stripSlashes(curSlug, true))
+                  node.properties.src = absolutizePath(siteBase, url.pathname, url.hash)
                 }
               }
             })

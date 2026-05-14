@@ -1,7 +1,7 @@
 import FlexSearch, { DefaultDocumentSearchResults } from "flexsearch"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
-import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
+import { FullSlug, normalizeRelativeURLs, resolveAbsoluteFromBase } from "../../util/path"
 
 interface Item {
   id: number
@@ -187,7 +187,7 @@ function highlightHTML(searchTerm: string, el: HTMLElement) {
   return html.body
 }
 
-async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: ContentIndex) {
+async function setupSearch(searchElement: Element, data: ContentIndex) {
   const container = searchElement.querySelector(".search-container") as HTMLElement
   if (!container) return
 
@@ -335,7 +335,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   }
 
   function resolveUrl(slug: FullSlug): URL {
-    return new URL(resolveRelative(currentSlug, slug), location.toString())
+    const siteBase = document.body.dataset.siteBase ?? "/"
+    return new URL(resolveAbsoluteFromBase(siteBase, slug), location.origin)
   }
 
   const resultToHTML = ({ slug, title, content, tags }: Item) => {
@@ -530,11 +531,10 @@ async function fillDocument(data: ContentIndex) {
   indexPopulated = true
 }
 
-document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
-  const currentSlug = e.detail.url
+document.addEventListener("nav", async () => {
   const data = await fetchData
   const searchElement = document.getElementsByClassName("search")
   for (const element of searchElement) {
-    await setupSearch(element, currentSlug, data)
+    await setupSearch(element, data)
   }
 })

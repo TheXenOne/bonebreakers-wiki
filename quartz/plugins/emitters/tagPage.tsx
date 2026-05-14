@@ -5,7 +5,7 @@ import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { ProcessedContent, QuartzPluginData, defaultProcessedContent } from "../vfile"
 import { FullPageLayout } from "../../cfg"
-import { FullSlug, getAllSegmentPrefixes, joinSegments, pathToRoot } from "../../util/path"
+import { FullSlug, getAllSegmentPrefixes, joinSegments, siteBasePath } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { TagContent } from "../../components"
 import { write } from "./helpers"
@@ -73,7 +73,7 @@ async function processTagPage(
   const slug = joinSegments("tags", tag) as FullSlug
   const [tree, file] = tagContent
   const cfg = ctx.cfg.configuration
-  const externalResources = pageResources(pathToRoot(slug), resources)
+  const externalResources = pageResources(siteBasePath(cfg.baseUrl), resources)
   const componentData: QuartzComponentProps = {
     ctx,
     fileData: file.data,

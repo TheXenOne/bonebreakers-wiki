@@ -11,7 +11,7 @@ import {
   SimpleSlug,
   stripSlashes,
   joinSegments,
-  pathToRoot,
+  siteBasePath,
   simplifySlug,
 } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
@@ -38,7 +38,7 @@ async function* processFolderInfo(
     const slug = joinSegments(folder, "index") as FullSlug
     const [tree, file] = folderContent
     const cfg = ctx.cfg.configuration
-    const externalResources = pageResources(pathToRoot(slug), resources)
+    const externalResources = pageResources(siteBasePath(cfg.baseUrl), resources)
     const componentData: QuartzComponentProps = {
       ctx,
       fileData: file.data,

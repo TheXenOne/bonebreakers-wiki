@@ -12,7 +12,7 @@ Welcome to the campaign wiki for **The Bonebreakers**.
 - [[characters/index|Characters]]
 - [[locations/index|Locations]]
 - [[npcs/index|NPCs]]
-- [[Factions]]
+- [[factions|Factions]]
 - [[Quests]]
 - [[Timeline]]
 

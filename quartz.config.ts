@@ -6,6 +6,8 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
+const isGitHubPagesBuild = process.env.GITHUB_ACTIONS === "true"
+
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "The Bonebreakers",
@@ -16,7 +18,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "thexenone.github.io/bonebreakers-wiki",
+    baseUrl: isGitHubPagesBuild ? "thexenone.github.io/bonebreakers-wiki" : "localhost:8080",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

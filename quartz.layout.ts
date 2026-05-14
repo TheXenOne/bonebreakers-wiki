@@ -13,6 +13,7 @@ const explorerOptions = {
       npcs: 1,
       locations: 2,
       sessions: 3,
+      factions: 4,
     }
 
     const aRootRank = rootOrder[aRoot]
@@ -40,7 +41,6 @@ const explorerOptions = {
 
     return (
       node.slugSegment !== "tags" &&
-      node.slugSegment !== "factions" &&
       node.slugSegment !== "peoples-and-creatures" &&
       !(node.isFolder === false && node.slug && hiddenRootLandingPages.has(node.slug))
     )
@@ -50,6 +50,7 @@ const explorerOptions = {
       sessions: "Sessions",
       locations: "Locations",
       npcs: "NPCs",
+      factions: "Factions",
       agria: "Agria",
       barrowshire: "Barrowshire",
       ikiria: "Ikiria",
@@ -64,6 +65,7 @@ const explorerOptions = {
       "the-barrow": "The Barrow",
       "tarantella-manor": "Tarantella Manor",
       "the-cracked-shield": "The Cracked Shield",
+      "monsters-of-westmarsh": "Monsters of Westmarsh",
       "shrine-of-the-oozing-serpent": "Shrine of the Oozing Serpent",
       "west-fort": "West Fort",
     }

@@ -8,7 +8,7 @@ aliases: []
 status: alive
 primary_location: Kelfrek Marsh
 affiliations:
-  - Orcs of the Marsh
+  - Orcs of Kelfrek Marsh
 source_sessions:
   - 24
   - 25
@@ -32,7 +32,7 @@ Militarily serious, proud, and power-focused.
 
 ## Affiliations
 
-- [[npcs/kelfrek-marsh/orcs-of-the-marsh|Orcs of the Marsh]]
+- [[npcs/kelfrek-marsh/orcs-of-the-marsh|Orcs of Kelfrek Marsh]]
 
 ## Associated locations
 

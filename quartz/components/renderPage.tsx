@@ -3,7 +3,13 @@ import { QuartzComponent, QuartzComponentProps } from "./types"
 import HeaderConstructor from "./Header"
 import BodyConstructor from "./Body"
 import { JSResourceToScriptElement, StaticResources } from "../util/resources"
-import { FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
+import {
+  FullSlug,
+  RelativeURL,
+  joinSegments,
+  normalizeHastElement,
+  siteBasePath,
+} from "../util/path"
 import { clone } from "../util/clone"
 import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
@@ -24,22 +30,22 @@ interface RenderComponents {
 
 const headerRegex = new RegExp(/h[1-6]/)
 export function pageResources(
-  baseDir: FullSlug | RelativeURL,
+  siteBase: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
-  const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
+  const contentIndexPath = joinSegments(siteBase, "static/contentIndex.json")
   const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
 
   const resources: StaticResources = {
     css: [
       {
-        content: joinSegments(baseDir, "index.css"),
+        content: joinSegments(siteBase, "index.css"),
       },
       ...staticResources.css,
     ],
     js: [
       {
-        src: joinSegments(baseDir, "prescript.js"),
+        src: joinSegments(siteBase, "prescript.js"),
         loadTime: "beforeDOMReady",
         contentType: "external",
       },
@@ -55,7 +61,7 @@ export function pageResources(
   }
 
   resources.js.push({
-    src: joinSegments(baseDir, "postscript.js"),
+    src: joinSegments(siteBase, "postscript.js"),
     loadTime: "afterDOMReady",
     moduleType: "module",
     contentType: "external",
@@ -259,10 +265,11 @@ export function renderPage(
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const direction = i18n(cfg.locale).direction ?? "ltr"
+  const siteBase = siteBasePath(cfg.baseUrl)
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
-      <body data-slug={slug}>
+      <body data-slug={slug} data-site-base={siteBase}>
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}

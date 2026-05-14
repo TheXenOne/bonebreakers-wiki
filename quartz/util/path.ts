@@ -152,6 +152,60 @@ export function normalizeHastElement(rawEl: HastElement, curBase: FullSlug, newB
   return el
 }
 
+export function normalizeBasePath(basePath: string): RelativeURL {
+  let normalized = basePath.trim()
+
+  if (normalized.length === 0) {
+    normalized = "/"
+  }
+
+  if (!normalized.startsWith("/")) {
+    normalized = `/${normalized}`
+  }
+
+  if (!normalized.endsWith("/")) {
+    normalized = `${normalized}/`
+  }
+
+  return normalized as RelativeURL
+}
+
+export function siteBasePath(baseUrl?: string): RelativeURL {
+  if (!baseUrl) {
+    return "/" as RelativeURL
+  }
+
+  const pathname = new URL(`https://${baseUrl}`).pathname
+  return normalizeBasePath(pathname)
+}
+
+export function absolutizePath(
+  basePath: string,
+  pathname: string,
+  hash: string = "",
+): RelativeURL {
+  const normalizedBase = normalizeBasePath(basePath)
+  const canonicalPath = stripSlashes(pathname, true)
+  const absolutePath =
+    canonicalPath.length === 0 ? normalizedBase : joinSegments(normalizedBase, canonicalPath)
+
+  return `${absolutePath}${hash}` as RelativeURL
+}
+
+export function resolveAbsoluteFromBase(
+  basePath: string,
+  target: FullSlug | SimpleSlug,
+): RelativeURL {
+  const simpleTarget = simplifySlug(target as FullSlug)
+  return simpleTarget === "/"
+    ? normalizeBasePath(basePath)
+    : absolutizePath(basePath, simpleTarget)
+}
+
+export function resolveAbsolute(baseUrl: string | undefined, target: FullSlug | SimpleSlug) {
+  return resolveAbsoluteFromBase(siteBasePath(baseUrl), target)
+}
+
 // resolve /a/b/c to ../..
 export function pathToRoot(slug: FullSlug): RelativeURL {
   let rootPath = slug
