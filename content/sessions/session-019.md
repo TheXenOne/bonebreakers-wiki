@@ -8,9 +8,7 @@ source_sessions:
   - 19
 ---
 
-# Session 19 - The Bell Tolls
-
-See also: [[Sessions]], [[sessions/session-018|Session 18 - New Beginnings]], [[sessions/session-020|Session 20 - The Burned and the Bound]]
+See also: [[sessions/index|Sessions]], [[sessions/session-018|Session 18 - New Beginnings]], [[sessions/session-020|Session 20 - The Burned and the Bound]]
 
 ## Narrative recap
 

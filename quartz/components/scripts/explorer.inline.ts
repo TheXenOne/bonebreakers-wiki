@@ -20,6 +20,29 @@ type FolderState = {
 }
 
 let currentExplorerState: Array<FolderState>
+
+function moveRootFolderIntoFolder(
+  trie: FileTrieNode<ContentDetails>,
+  childSlugSegment: string,
+  parentSlugSegment: string,
+) {
+  const childIndex = trie.children.findIndex(
+    (node) => node.isFolder && node.slugSegment === childSlugSegment,
+  )
+  const parent = trie.children.find(
+    (node) => node.isFolder && node.slugSegment === parentSlugSegment,
+  )
+
+  if (childIndex === -1 || !parent) {
+    return
+  }
+
+  const [child] = trie.children.splice(childIndex, 1)
+  if (!parent.children.some((node) => node.slug === child.slug)) {
+    parent.children.push(child)
+  }
+}
+
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
@@ -92,6 +115,10 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
     a.classList.add("active")
   }
 
+  if (node.data?.status?.toLowerCase() === "dead") {
+    a.classList.add("dead")
+  }
+
   return li
 }
 
@@ -123,10 +150,16 @@ function createFolderNode(
     a.dataset.for = folderPath
     a.className = "folder-title"
     a.textContent = node.displayName
+    if (node.data?.status?.toLowerCase() === "dead") {
+      a.classList.add("dead")
+    }
     button.replaceWith(a)
   } else {
     const span = titleContainer.querySelector(".folder-title") as HTMLElement
     span.textContent = node.displayName
+    if (node.data?.status?.toLowerCase() === "dead") {
+      span.classList.add("dead")
+    }
   }
 
   // if the saved state is collapsed or the default state is collapsed
@@ -193,6 +226,11 @@ async function setupExplorer(currentSlug: FullSlug) {
           if (opts.sortFn) trie.sort(opts.sortFn)
           break
       }
+    }
+
+    moveRootFolderIntoFolder(trie, "npcs", "characters")
+    if (opts.sortFn) {
+      trie.sort(opts.sortFn)
     }
 
     // Get folder paths for state management

@@ -8,9 +8,7 @@ source_sessions:
   - 8
 ---
 
-# Session 8 - The Jeweller’s Sanctum
-
-See also: [[Sessions]], [[sessions/session-007|Session 7 - The Price of Greed]], [[sessions/session-009|Session 9 - Tarantella's Tune]]
+See also: [[sessions/index|Sessions]], [[sessions/session-007|Session 7 - The Price of Greed]], [[sessions/session-009|Session 9 - Tarantella's Tune]]
 
 ## Narrative recap
 

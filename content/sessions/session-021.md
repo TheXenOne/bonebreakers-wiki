@@ -8,9 +8,7 @@ source_sessions:
   - 21
 ---
 
-# Session 21 - Soup for the Abbott
-
-See also: [[Sessions]], [[sessions/session-020|Session 20 - The Burned and the Bound]], [[sessions/session-022|Session 22 - Frank's Gambit and the Finger of Death]]
+See also: [[sessions/index|Sessions]], [[sessions/session-020|Session 20 - The Burned and the Bound]], [[sessions/session-022|Session 22 - Frank's Gambit and the Finger of Death]]
 
 ## Narrative recap
 

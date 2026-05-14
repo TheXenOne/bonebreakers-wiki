@@ -8,9 +8,7 @@ source_sessions:
   - 18
 ---
 
-# Session 18 - New Beginnings
-
-See also: [[Sessions]], [[sessions/session-017|Session 17 - Beneath the Surface, Above Suspicion]], [[sessions/session-019|Session 19 - The Bell Tolls]]
+See also: [[sessions/index|Sessions]], [[sessions/session-017|Session 17 - Beneath the Surface, Above Suspicion]], [[sessions/session-019|Session 19 - The Bell Tolls]]
 
 ## Narrative recap
 

@@ -1,0 +1,61 @@
+---
+title: Ulrich
+type: character
+tags:
+  - character
+  - player-character
+player: Ben
+status: active
+aliases:
+  - characters/ben/characters/ulrich
+  - characters/ulrich
+source_sessions:
+  - 3
+  - 18
+  - 46
+---
+
+## Overview
+
+Ulrich is a cleric who serves no named god, yet still receives divine magic. His main published goal is to find the "one true god" while studying faith more broadly.
+
+## Player
+
+Ben.
+
+## Class or role
+
+Cleric of none.
+
+## Retainers or companions
+
+- [[characters/active-players/ben/retainers-followers/fred|Fred]]
+
+## Associated locations
+
+- [[locations/world/agria/southlands/barrowshire/barrow|the Barrow]]
+- [[locations/world/agria/southlands/mercy|The Mercy]]
+- [[locations/world/westmarsh/spiders-market|the Spider Market]]
+
+## Important campaign events
+
+- Joins the party in [[sessions/session-003|Session 3]].
+- Shares his spiritual quest in [[sessions/session-018|Session 18]].
+- Remains active in the latest available sessions, including [[sessions/session-046|Session 46]].
+
+## Relationships
+
+- Linked in the lore document with [[characters/active-players/ben/characters/del|Del]].
+- Bought a hunting dog named [[characters/active-players/ben/retainers-followers/fred|Fred]] in [[sessions/session-004|Session 4]].
+- Works closely with the Bonebreakers' other clerics but keeps a distinct religious outlook.
+
+## Current status
+
+Active.
+
+## Related sessions
+
+- [[sessions/session-003|Session 3]]
+- [[sessions/session-018|Session 18]]
+- [[sessions/session-026|Session 26]]
+- [[sessions/session-046|Session 46]]

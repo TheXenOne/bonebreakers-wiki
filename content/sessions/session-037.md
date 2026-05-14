@@ -8,9 +8,7 @@ source_sessions:
   - 37
 ---
 
-# Session 37 - Drums Beneath the Hills
-
-See also: [[Sessions]], [[sessions/session-036|Session 36 - Threads of the Web]], [[sessions/session-038|Session 38 - The Siege Yet to Come]]
+See also: [[sessions/index|Sessions]], [[sessions/session-036|Session 36 - Threads of the Web]], [[sessions/session-038|Session 38 - The Siege Yet to Come]]
 
 ## Narrative recap
 

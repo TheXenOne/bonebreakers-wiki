@@ -8,9 +8,7 @@ source_sessions:
   - 11
 ---
 
-# Session 11 - The Price of Curiosity
-
-See also: [[Sessions]], [[sessions/session-010|Session 10 - Pentagrams and Pitfalls]], [[sessions/session-012|Session 12 - A Queen’s Death]]
+See also: [[sessions/index|Sessions]], [[sessions/session-010|Session 10 - Pentagrams and Pitfalls]], [[sessions/session-012|Session 12 - A Queen’s Death]]
 
 ## Narrative recap
 

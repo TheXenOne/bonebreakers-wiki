@@ -8,9 +8,7 @@ source_sessions:
   - 27
 ---
 
-# Session 27 - Reflections of the Mind
-
-See also: [[Sessions]], [[sessions/session-026|Session 26 - The Day the Steel Spoke]], [[sessions/session-028|Session 28 - From Stars to Blood]]
+See also: [[sessions/index|Sessions]], [[sessions/session-026|Session 26 - The Day the Steel Spoke]], [[sessions/session-028|Session 28 - From Stars to Blood]]
 
 ## Narrative recap
 

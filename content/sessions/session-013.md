@@ -8,9 +8,7 @@ source_sessions:
   - 13
 ---
 
-# Session 13 - Road to Ikiria
-
-See also: [[Sessions]], [[sessions/session-012|Session 12 - A Queen’s Death]], [[sessions/session-014|Session 14 - Voyage to Fos Imeras]]
+See also: [[sessions/index|Sessions]], [[sessions/session-012|Session 12 - A Queen’s Death]], [[sessions/session-014|Session 14 - Voyage to Fos Imeras]]
 
 ## Narrative recap
 

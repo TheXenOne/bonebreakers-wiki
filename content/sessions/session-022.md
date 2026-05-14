@@ -8,9 +8,7 @@ source_sessions:
   - 22
 ---
 
-# Session 22 - Frank's Gambit and the Finger of Death
-
-See also: [[Sessions]], [[sessions/session-021|Session 21 - Soup for the Abbott]], [[sessions/session-023|Session 23 - Secrets in the Stone]]
+See also: [[sessions/index|Sessions]], [[sessions/session-021|Session 21 - Soup for the Abbott]], [[sessions/session-023|Session 23 - Secrets in the Stone]]
 
 ## Narrative recap
 

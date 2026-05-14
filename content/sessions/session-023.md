@@ -8,9 +8,7 @@ source_sessions:
   - 23
 ---
 
-# Session 23 - Secrets in the Stone
-
-See also: [[Sessions]], [[sessions/session-022|Session 22 - Frank's Gambit and the Finger of Death]], [[sessions/session-024|Session 24 - Ninjas in the Dark]]
+See also: [[sessions/index|Sessions]], [[sessions/session-022|Session 22 - Frank's Gambit and the Finger of Death]], [[sessions/session-024|Session 24 - Ninjas in the Dark]]
 
 ## Narrative recap
 

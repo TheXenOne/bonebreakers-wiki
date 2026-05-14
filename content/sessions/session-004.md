@@ -8,9 +8,7 @@ source_sessions:
   - 4
 ---
 
-# Session 4 - Gilded Gears and Grease Trails
-
-See also: [[Sessions]], [[sessions/session-003|Session 3 - Barrow Blitz]], [[sessions/session-005|Session 5 - Shrine of the Oozing Serpent]]
+See also: [[sessions/index|Sessions]], [[sessions/session-003|Session 3 - Barrow Blitz]], [[sessions/session-005|Session 5 - Shrine of the Oozing Serpent]]
 
 ## Narrative recap
 

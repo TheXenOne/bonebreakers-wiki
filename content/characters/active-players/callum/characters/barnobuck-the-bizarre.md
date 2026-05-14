@@ -1,0 +1,64 @@
+---
+title: Barnobuck "Barny" the Bizarre
+type: character
+tags:
+  - character
+  - player-character
+player: Callum
+status: active
+aliases:
+  - characters/callum/characters/barnobuck-the-bizarre
+  - Barny
+  - characters/barnobuck-the-bizarre
+source_sessions:
+  - 1
+  - 18
+  - 41
+---
+
+## Overview
+
+Barnobuck "Barny" the Bizarre is one of the campaign's defining magic-users. He insists he was once vastly more powerful, and much of his story revolves around recovering lost power, knowledge, and immortality.
+
+## Player
+
+Callum.
+
+## Class or role
+
+Magic-user.
+
+## Retainers or companions
+
+- [[characters/active-players/callum/retainers-followers/rhian|Rhian]]
+- [[characters/active-players/callum/retainers-followers/rattius|Rattius]]
+- [[characters/active-players/callum/retainers-followers/krazak-the-silent|Krazak the Silent]]
+
+## Associated locations
+
+- [[locations/world/agria/southlands/barrowshire/barrow|the Barrow]]
+- [[locations/world/agria/southlands/ikiria/index|Ikiria]]
+- [[locations/world/westmarsh/necropolis|the Necropolis]]
+
+## Important campaign events
+
+- Appears from the earliest published session pages.
+- Is killed and later restored during the shrine arc.
+- Shares his backstory and supposed lost greatness in [[sessions/session-018|Session 18]].
+- Uses the Seer's Dagger and other strange magic repeatedly through later arcs, including [[sessions/session-041|Session 41]].
+
+## Relationships
+
+- Maintains the closest published ties to Rhian, Rattius, and Krazak.
+- Early partnership with [[characters/inactive-players/dom/characters/virien|Virien]] is central to the first arc.
+
+## Current status
+
+Active. Barny remains with the party in the latest available session pages.
+
+## Related sessions
+
+- [[sessions/session-001|Session 1]]
+- [[sessions/session-018|Session 18]]
+- [[sessions/session-025|Session 25]]
+- [[sessions/session-041|Session 41]]

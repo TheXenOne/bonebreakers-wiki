@@ -8,9 +8,7 @@ source_sessions:
   - 41
 ---
 
-# Session 41 - Into the Necropolis
-
-See also: [[Sessions]], [[sessions/session-040|Session 40 - Rescue at the End of the Marsh]], [[sessions/session-042|Session 42 - Echoes Beneath the Empire]]
+See also: [[sessions/index|Sessions]], [[sessions/session-040|Session 40 - Rescue at the End of the Marsh]], [[sessions/session-042|Session 42 - Echoes Beneath the Empire]]
 
 ## Narrative recap
 

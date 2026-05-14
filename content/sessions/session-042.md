@@ -9,9 +9,7 @@ source_sessions:
   - 43
 ---
 
-# Session 42 - Echoes Beneath the Empire
-
-See also: [[Sessions]], [[sessions/session-041|Session 41 - Into the Necropolis]], [[sessions/session-043|Session 43 - Echoes Beneath the Empire]]
+See also: [[sessions/index|Sessions]], [[sessions/session-041|Session 41 - Into the Necropolis]], [[sessions/session-043|Session 43 - Echoes Beneath the Empire]]
 
 ## Narrative recap
 

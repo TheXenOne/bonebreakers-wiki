@@ -8,9 +8,7 @@ source_sessions:
   - 35
 ---
 
-# Session 35 - Flames on the Frontier
-
-See also: [[Sessions]], [[sessions/session-034|Session 34 - When the Trap Is Yours]], [[sessions/session-036|Session 36 - Threads of the Web]]
+See also: [[sessions/index|Sessions]], [[sessions/session-034|Session 34 - When the Trap Is Yours]], [[sessions/session-036|Session 36 - Threads of the Web]]
 
 ## Narrative recap
 

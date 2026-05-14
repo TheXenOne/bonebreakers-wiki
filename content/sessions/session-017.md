@@ -8,9 +8,7 @@ source_sessions:
   - 17
 ---
 
-# Session 17 - Beneath the Surface, Above Suspicion
-
-See also: [[Sessions]], [[sessions/session-016|Session 16 - Sebastaeia]], [[sessions/session-018|Session 18 - New Beginnings]]
+See also: [[sessions/index|Sessions]], [[sessions/session-016|Session 16 - Sebastaeia]], [[sessions/session-018|Session 18 - New Beginnings]]
 
 ## Narrative recap
 

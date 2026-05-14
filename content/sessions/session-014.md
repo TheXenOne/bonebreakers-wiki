@@ -8,9 +8,7 @@ source_sessions:
   - 14
 ---
 
-# Session 14 - Voyage to Fos Imeras
-
-See also: [[Sessions]], [[sessions/session-013|Session 13 - Road to Ikiria]], [[sessions/session-015|Session 15 - The Golden Asclepion]]
+See also: [[sessions/index|Sessions]], [[sessions/session-013|Session 13 - Road to Ikiria]], [[sessions/session-015|Session 15 - The Golden Asclepion]]
 
 ## Narrative recap
 

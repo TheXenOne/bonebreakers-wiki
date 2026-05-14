@@ -8,9 +8,7 @@ source_sessions:
   - 10
 ---
 
-# Session 10 - Pentagrams and Pitfalls
-
-See also: [[Sessions]], [[sessions/session-009|Session 9 - Tarantella's Tune]]
+See also: [[sessions/index|Sessions]], [[sessions/session-009|Session 9 - Tarantella's Tune]]
 
 ## Narrative recap
 

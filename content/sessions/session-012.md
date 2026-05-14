@@ -8,9 +8,7 @@ source_sessions:
   - 12
 ---
 
-# Session 12 - A Queen’s Death
-
-See also: [[Sessions]], [[sessions/session-011|Session 11 - The Price of Curiosity]], [[sessions/session-013|Session 13 - Road to Ikiria]]
+See also: [[sessions/index|Sessions]], [[sessions/session-011|Session 11 - The Price of Curiosity]], [[sessions/session-013|Session 13 - Road to Ikiria]]
 
 ## Narrative recap
 

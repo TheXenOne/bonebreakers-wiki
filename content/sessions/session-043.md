@@ -9,9 +9,7 @@ source_sessions:
   - 43
 ---
 
-# Session 43 - Echoes Beneath the Empire
-
-See also: [[Sessions]], [[sessions/session-042|Session 42 - Echoes Beneath the Empire]], [[sessions/session-044|Session 44 - Gold Beneath the Beast, Blood Above the Crown]]
+See also: [[sessions/index|Sessions]], [[sessions/session-042|Session 42 - Echoes Beneath the Empire]], [[sessions/session-044|Session 44 - Gold Beneath the Beast, Blood Above the Crown]]
 
 ## Narrative recap
 

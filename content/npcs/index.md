@@ -1,0 +1,85 @@
+---
+title: NPCs
+tags:
+  - npcs
+---
+
+Named NPC pages organised by primary campaign context. Group pages are retained where they still help tie an arc together.
+
+## Agria
+
+- [[npcs/agria/queen-audrey-ii|Queen Audrey II]]
+- [[npcs/agria/princess-agatha|Princess Agatha]]
+- [[npcs/agria/prince-arthur|Prince Arthur]]
+- [[npcs/agria/prince-arthurs-retinue/index|Prince Arthur's Retinue]]
+- [[npcs/agria/east-agria-company/index|East Agria Company]]
+
+## Ikiria
+
+- [[npcs/ikiria/nixx-pocketbrain|Nixx Pocketbrain]]
+- [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]]
+- [[npcs/ikiria/arkeus-whizkeyrd|Arkeus Whizkeyrd]]
+- [[npcs/ikiria/helvian|Helvian]]
+- [[npcs/ikiria/halls-of-the-blood-king/index|Halls of the Blood King]]
+
+## Flux Academy
+
+- [[npcs/flux-academy/alric-zaxerus|Alric Zaxerus]]
+- [[npcs/flux-academy/ulna-glitterpatch|Ulna Glitterpatch]]
+- [[npcs/flux-academy/herbert-nuel|Herbert Nuel]]
+- [[npcs/flux-academy/illitharien-morel|Illitharien Morel]]
+- [[npcs/flux-academy/screever-longtooth|Screever Longtooth]]
+
+## Mercy
+
+- [[npcs/mercy/crimson-bishop|Crimson Bishop]]
+- [[npcs/mercy/captain-fardr|Captain Fardr]]
+- [[npcs/mercy/sergeant-grimlock|Sergeant Grimlock]]
+- [[npcs/mercy/church-of-the-crimson-flame|Church of the Crimson Flame]]
+
+## Barrowshire
+
+- [[npcs/barrowshire/barrow-spa-locals/index|Barrow Spa Locals]]
+- [[npcs/barrowshire/the-barrow/index|The Barrow]]
+- [[npcs/barrowshire/tarantella-manor/index|Tarantella Manor]]
+
+## Kelfrek Marsh
+
+- [[npcs/kelfrek-marsh/shrine-of-the-oozing-serpent/index|Shrine of the Oozing Serpent]]
+- [[npcs/kelfrek-marsh/gruumsh-onetusk|Gruumsh Onetusk]]
+- [[npcs/kelfrek-marsh/orcs-of-the-marsh|The Orcs of the Marsh]]
+
+## West Fort
+
+- [[npcs/west-fort/sergeant-dara|Sergeant Dara]]
+- [[npcs/west-fort/captain-rodrick|Captain Rodrick]]
+- [[npcs/west-fort/commander-valerius|Commander Valerius]]
+- [[npcs/west-fort/the-cracked-shield/index|The Cracked Shield]]
+- [[npcs/west-fort/sister-aldrith|Sister Aldrith]]
+- [[npcs/west-fort/kenric|Kenric]]
+- [[npcs/west-fort/goren-heavyhoof|Goren HeavyHoof]]
+- [[npcs/west-fort/private-jordan|Private Jordan]]
+- [[npcs/west-fort/aldus-fenwick|Aldus Fenwick]]
+- [[npcs/west-fort/west-fort-garrison|West Fort Garrison]]
+- [[npcs/west-fort/west-fort-allies-and-traders|West Fort Allies and Traders]]
+- [[npcs/west-fort/grey-syndicate/index|Grey Syndicate]]
+- [[npcs/west-fort/erasmus-vale|Erasmus Vale]]
+- [[npcs/west-fort/mara-ironhand|Mara Ironhand]]
+- [[npcs/west-fort/gorm-the-fence|Gorm the Fence]]
+- [[npcs/west-fort/elara-swiftstring|Elara Swiftstring]]
+
+## Westmarsh
+
+- [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]]
+- [[npcs/westmarsh/king-of-ghouls|King of Ghouls]]
+
+## Necropolis and Fos Imeras
+
+- [[npcs/necropolis/cornelius-vane|Cornelius Vane]]
+- [[npcs/fos-imeras/sebastaeia|Sebastaeia]]
+- [[npcs/fos-imeras/nixies|Nixies]]
+- [[npcs/fos-imeras/orsilochus|Orsilochus]]
+- [[npcs/fos-imeras/kleostratos|Kleostratos]]
+- [[npcs/fos-imeras/chairis|Chairis]]
+- [[npcs/fos-imeras/sailor|Sailor]]
+- [[npcs/fos-imeras/imperial-survivors|Imperial Survivors]]

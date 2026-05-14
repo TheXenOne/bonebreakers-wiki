@@ -2,11 +2,82 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
 const explorerOptions = {
+  sortFn: (
+    a: { isFolder?: boolean; displayName: string; slug?: string; slugSegment?: string },
+    b: { isFolder?: boolean; displayName: string; slug?: string; slugSegment?: string },
+  ) => {
+    const aRoot = a.slug?.split("/")[0] ?? a.slugSegment ?? ""
+    const bRoot = b.slug?.split("/")[0] ?? b.slugSegment ?? ""
+    const rootOrder: Record<string, number> = {
+      characters: 0,
+      npcs: 1,
+      locations: 2,
+      sessions: 3,
+    }
+
+    const aRootRank = rootOrder[aRoot]
+    const bRootRank = rootOrder[bRoot]
+
+    if (aRootRank !== undefined && bRootRank !== undefined && aRootRank !== bRootRank) {
+      return aRootRank - bRootRank
+    }
+
+    if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+      return a.displayName.localeCompare(b.displayName, undefined, {
+        numeric: true,
+        sensitivity: "base",
+      })
+    }
+
+    if (!a.isFolder && b.isFolder) {
+      return 1
+    } else {
+      return -1
+    }
+  },
+  filterFn: (node: { isFolder?: boolean; slug?: string; slugSegment?: string }) => {
+    const hiddenRootLandingPages = new Set(["characters", "npcs", "locations", "sessions"])
+
+    return (
+      node.slugSegment !== "tags" &&
+      node.slugSegment !== "factions" &&
+      node.slugSegment !== "peoples-and-creatures" &&
+      !(node.isFolder === false && node.slug && hiddenRootLandingPages.has(node.slug))
+    )
+  },
   mapFn: (node: { displayName: string }) => {
-    if (node.displayName === "sessions") {
-      node.displayName = "Sessions"
-    } else if (node.displayName === "locations") {
-      node.displayName = "Locations"
+    const manualNames: Record<string, string> = {
+      sessions: "Sessions",
+      locations: "Locations",
+      npcs: "NPCs",
+      agria: "Agria",
+      barrowshire: "Barrowshire",
+      ikiria: "Ikiria",
+      necropolis: "Necropolis",
+      westmarsh: "Westmarsh",
+      "flux-academy": "Flux Academy",
+      "east-agria-company": "East Agria Company",
+      "fos-imeras": "Fos Imeras",
+      "halls-of-the-blood-king": "Halls of the Blood King",
+      "prince-arthurs-retinue": "Prince Arthur's Retinue",
+      "barrow-spa-locals": "Barrow Spa Locals",
+      "the-barrow": "The Barrow",
+      "tarantella-manor": "Tarantella Manor",
+      "the-cracked-shield": "The Cracked Shield",
+      "shrine-of-the-oozing-serpent": "Shrine of the Oozing Serpent",
+      "west-fort": "West Fort",
+    }
+
+    if (manualNames[node.displayName]) {
+      node.displayName = manualNames[node.displayName]
+      return
+    }
+
+    if (/^[a-z0-9-]+$/.test(node.displayName)) {
+      node.displayName = node.displayName
+        .split("-")
+        .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+        .join(" ")
     }
   },
 }

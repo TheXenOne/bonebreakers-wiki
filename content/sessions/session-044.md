@@ -8,9 +8,7 @@ source_sessions:
   - 44
 ---
 
-# Session 44 - Gold Beneath the Beast, Blood Above the Crown
-
-See also: [[Sessions]], [[sessions/session-043|Session 43 - Echoes Beneath the Empire]], [[sessions/session-045|Session 45 - The Syndicate's Silence]]
+See also: [[sessions/index|Sessions]], [[sessions/session-043|Session 43 - Echoes Beneath the Empire]], [[sessions/session-045|Session 45 - The Syndicate's Silence]]
 
 ## Narrative recap
 

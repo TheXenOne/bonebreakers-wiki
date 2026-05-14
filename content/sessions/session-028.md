@@ -8,9 +8,7 @@ source_sessions:
   - 28
 ---
 
-# Session 28 - From Stars to Blood
-
-See also: [[Sessions]], [[sessions/session-027|Session 27 - Reflections of the Mind]], [[sessions/session-029|Session 29 - The Blood Moon Rises]]
+See also: [[sessions/index|Sessions]], [[sessions/session-027|Session 27 - Reflections of the Mind]], [[sessions/session-029|Session 29 - The Blood Moon Rises]]
 
 ## Narrative recap
 

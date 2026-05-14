@@ -1,0 +1,64 @@
+---
+title: Dreg
+type: npc
+tags:
+  - npc
+  - thief
+aliases: []
+status: dead
+primary_location: Kelfrek Marsh
+affiliations:
+  - Shrine expedition
+source_sessions:
+  - 3
+  - 6
+  - 7
+---
+
+## Overview
+
+Dreg is a cunning thief hired by the party during the early Barrowshire arc.
+
+## Appearance
+
+Needs review.
+
+## Personality
+
+Ambitious and in it for the riches, but loyal when the situation turns deadly.
+
+## Role in the campaign
+
+- Dreg becomes one of the more memorable hired helpers of the shrine expedition because he stays with the party until the end.
+
+## Affiliations
+
+- Shrine expedition
+
+## Associated locations
+
+- [[locations/world/agria/southlands/barrowshire/kelfrek-marsh/shrine-of-the-oozing-serpent|Shrine of the Oozing Serpent]]
+- [[locations/world/agria/southlands/barrowshire/kelfrek-marsh/index|Kelfrek Marsh]]
+
+## Relationships
+
+- Hired alongside other temporary support during the early campaign.
+
+## Campaign events
+
+- In [[sessions/session-003|Session 3]], the party hires Dreg.
+- During the shrine retreat in [[sessions/session-007|Session 7]], Dreg dies in Butch's explosion while helping the party escape.
+
+## Current status
+
+Dead.
+
+## Related sessions
+
+- [[sessions/session-003|Session 3]]
+- [[sessions/session-006|Session 6]]
+- [[sessions/session-007|Session 7]]
+
+## Unresolved threads
+
+- None.

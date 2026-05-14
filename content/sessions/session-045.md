@@ -8,9 +8,7 @@ source_sessions:
   - 45
 ---
 
-# Session 45 - The Syndicate's Silence
-
-See also: [[Sessions]], [[sessions/session-044|Session 44 - Gold Beneath the Beast, Blood Above the Crown]], [[sessions/session-046|Session 46 - The Grey Khan's Game]]
+See also: [[sessions/index|Sessions]], [[sessions/session-044|Session 44 - Gold Beneath the Beast, Blood Above the Crown]], [[sessions/session-046|Session 46 - The Grey Khan's Game]]
 
 ## Narrative recap
 

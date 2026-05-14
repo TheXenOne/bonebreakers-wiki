@@ -8,9 +8,7 @@ source_sessions:
   - 40
 ---
 
-# Session 40 - Rescue at the End of the Marsh
-
-See also: [[Sessions]], [[sessions/session-039|Session 39 - Ashes of the Siege]]
+See also: [[sessions/index|Sessions]], [[sessions/session-039|Session 39 - Ashes of the Siege]]
 
 ## Narrative recap
 

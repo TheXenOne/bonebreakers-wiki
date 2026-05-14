@@ -8,9 +8,7 @@ source_sessions:
   - 1
 ---
 
-# Session 1 - Into the Barrow
-
-See also: [[Sessions]], [[sessions/session-002|Session 2 - Bones, Fairy Deals, and Fallen Friends]]
+See also: [[sessions/index|Sessions]], [[sessions/session-002|Session 2 - Bones, Fairy Deals, and Fallen Friends]]
 
 ## Narrative recap
 

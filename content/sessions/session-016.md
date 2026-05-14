@@ -8,9 +8,7 @@ source_sessions:
   - 16
 ---
 
-# Session 16 - Sebastaeia
-
-See also: [[Sessions]], [[sessions/session-015|Session 15 - The Golden Asclepion]], [[sessions/session-017|Session 17 - Beneath the Surface, Above Suspicion]]
+See also: [[sessions/index|Sessions]], [[sessions/session-015|Session 15 - The Golden Asclepion]], [[sessions/session-017|Session 17 - Beneath the Surface, Above Suspicion]]
 
 ## Narrative recap
 

@@ -8,9 +8,7 @@ source_sessions:
   - 34
 ---
 
-# Session 34 - When the Trap Is Yours
-
-See also: [[Sessions]], [[sessions/session-033|Session 33 - The Taking of Tobold Took]], [[sessions/session-035|Session 35 - Flames on the Frontier]]
+See also: [[sessions/index|Sessions]], [[sessions/session-033|Session 33 - The Taking of Tobold Took]], [[sessions/session-035|Session 35 - Flames on the Frontier]]
 
 ## Narrative recap
 

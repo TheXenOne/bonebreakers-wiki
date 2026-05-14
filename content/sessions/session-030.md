@@ -8,9 +8,7 @@ source_sessions:
   - 30
 ---
 
-# Session 30 - A Toast to the Damned
-
-See also: [[Sessions]], [[sessions/session-029|Session 29 - The Blood Moon Rises]]
+See also: [[sessions/index|Sessions]], [[sessions/session-029|Session 29 - The Blood Moon Rises]]
 
 ## Narrative recap
 

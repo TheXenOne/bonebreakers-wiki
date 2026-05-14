@@ -8,9 +8,7 @@ source_sessions:
   - 7
 ---
 
-# Session 7 - The Price of Greed
-
-See also: [[Sessions]], [[sessions/session-006|Session 6 - The Dragon's Deception]], [[sessions/session-008|Session 8 - The Jeweller’s Sanctum]]
+See also: [[sessions/index|Sessions]], [[sessions/session-006|Session 6 - The Dragon's Deception]], [[sessions/session-008|Session 8 - The Jeweller’s Sanctum]]
 
 ## Narrative recap
 

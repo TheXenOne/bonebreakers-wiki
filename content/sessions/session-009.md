@@ -8,9 +8,7 @@ source_sessions:
   - 9
 ---
 
-# Session 9 - Tarantella's Tune
-
-See also: [[Sessions]], [[sessions/session-008|Session 8 - The Jeweller’s Sanctum]], [[sessions/session-010|Session 10 - Pentagrams and Pitfalls]]
+See also: [[sessions/index|Sessions]], [[sessions/session-008|Session 8 - The Jeweller’s Sanctum]], [[sessions/session-010|Session 10 - Pentagrams and Pitfalls]]
 
 ## Narrative recap
 

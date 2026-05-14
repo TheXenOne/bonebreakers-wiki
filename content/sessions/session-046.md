@@ -8,9 +8,7 @@ source_sessions:
   - 46
 ---
 
-# Session 46 - The Grey Khan's Game
-
-See also: [[Sessions]], [[sessions/session-045|Session 45 - The Syndicate's Silence]]
+See also: [[sessions/index|Sessions]], [[sessions/session-045|Session 45 - The Syndicate's Silence]]
 
 ## Narrative recap
 

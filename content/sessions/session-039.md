@@ -8,9 +8,7 @@ source_sessions:
   - 39
 ---
 
-# Session 39 - Ashes of the Siege
-
-See also: [[Sessions]], [[sessions/session-038|Session 38 - The Siege Yet to Come]], [[sessions/session-040|Session 40 - Rescue at the End of the Marsh]]
+See also: [[sessions/index|Sessions]], [[sessions/session-038|Session 38 - The Siege Yet to Come]], [[sessions/session-040|Session 40 - Rescue at the End of the Marsh]]
 
 ## Narrative recap
 

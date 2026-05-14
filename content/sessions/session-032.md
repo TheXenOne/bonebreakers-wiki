@@ -8,9 +8,7 @@ source_sessions:
   - 32
 ---
 
-# Session 32 - The Heart of the Night
-
-See also: [[Sessions]], [[sessions/session-031|Session 31 - Blood in the Bath, Knives in the Dark]], [[sessions/session-033|Session 33 - The Taking of Tobold Took]]
+See also: [[sessions/index|Sessions]], [[sessions/session-031|Session 31 - Blood in the Bath, Knives in the Dark]], [[sessions/session-033|Session 33 - The Taking of Tobold Took]]
 
 ## Narrative recap
 

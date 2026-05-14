@@ -8,9 +8,7 @@ source_sessions:
   - 5
 ---
 
-# Session 5 - Shrine of the Oozing Serpent
-
-See also: [[Sessions]], [[sessions/session-004|Session 4 - Gilded Gears and Grease Trails]], [[sessions/session-006|Session 6 - The Dragon's Deception]]
+See also: [[sessions/index|Sessions]], [[sessions/session-004|Session 4 - Gilded Gears and Grease Trails]], [[sessions/session-006|Session 6 - The Dragon's Deception]]
 
 ## Narrative recap
 

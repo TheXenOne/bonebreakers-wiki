@@ -8,9 +8,7 @@ source_sessions:
   - 3
 ---
 
-# Session 3 - Barrow Blitz
-
-See also: [[Sessions]], [[sessions/session-002|Session 2 - Bones, Fairy Deals, and Fallen Friends]], [[sessions/session-004|Session 4 - Gilded Gears and Grease Trails]]
+See also: [[sessions/index|Sessions]], [[sessions/session-002|Session 2 - Bones, Fairy Deals, and Fallen Friends]], [[sessions/session-004|Session 4 - Gilded Gears and Grease Trails]]
 
 ## Narrative recap
 

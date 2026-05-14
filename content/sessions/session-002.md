@@ -8,9 +8,7 @@ source_sessions:
   - 2
 ---
 
-# Session 2 - Bones, Fairy Deals, and Fallen Friends
-
-See also: [[Sessions]], [[sessions/session-001|Session 1 - Into the Barrow]], [[sessions/session-003|Session 3 - Barrow Blitz]]
+See also: [[sessions/index|Sessions]], [[sessions/session-001|Session 1 - Into the Barrow]], [[sessions/session-003|Session 3 - Barrow Blitz]]
 
 ## Narrative recap
 

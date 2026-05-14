@@ -8,9 +8,7 @@ source_sessions:
   - 26
 ---
 
-# Session 26 - The Day the Steel Spoke
-
-See also: [[Sessions]], [[sessions/session-025|Session 25 - A Deal with Gruumsh (And Other Bad Ideas)]], [[sessions/session-027|Session 27 - Reflections of the Mind]]
+See also: [[sessions/index|Sessions]], [[sessions/session-025|Session 25 - A Deal with Gruumsh (And Other Bad Ideas)]], [[sessions/session-027|Session 27 - Reflections of the Mind]]
 
 ## Narrative recap
 

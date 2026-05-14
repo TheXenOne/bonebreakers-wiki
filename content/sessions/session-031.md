@@ -8,9 +8,7 @@ source_sessions:
   - 31
 ---
 
-# Session 31 - Blood in the Bath, Knives in the Dark
-
-See also: [[Sessions]], [[sessions/session-030|Session 30 - A Toast to the Damned]], [[sessions/session-032|Session 32 - The Heart of the Night]]
+See also: [[sessions/index|Sessions]], [[sessions/session-030|Session 30 - A Toast to the Damned]], [[sessions/session-032|Session 32 - The Heart of the Night]]
 
 ## Narrative recap
 

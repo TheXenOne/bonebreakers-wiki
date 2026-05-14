@@ -5,6 +5,7 @@ interface FileTrieData {
   slug: string
   title: string
   filePath: string
+  status?: string
 }
 
 export class FileTrieNode<T extends FileTrieData = ContentDetails> {

@@ -8,9 +8,7 @@ source_sessions:
   - 6
 ---
 
-# Session 6 - The Dragon's Deception
-
-See also: [[Sessions]], [[sessions/session-005|Session 5 - Shrine of the Oozing Serpent]], [[sessions/session-007|Session 7 - The Price of Greed]]
+See also: [[sessions/index|Sessions]], [[sessions/session-005|Session 5 - Shrine of the Oozing Serpent]], [[sessions/session-007|Session 7 - The Price of Greed]]
 
 ## Narrative recap
 

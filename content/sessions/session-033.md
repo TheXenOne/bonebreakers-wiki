@@ -8,9 +8,7 @@ source_sessions:
   - 33
 ---
 
-# Session 33 - The Taking of Tobold Took
-
-See also: [[Sessions]], [[sessions/session-032|Session 32 - The Heart of the Night]], [[sessions/session-034|Session 34 - When the Trap Is Yours]]
+See also: [[sessions/index|Sessions]], [[sessions/session-032|Session 32 - The Heart of the Night]], [[sessions/session-034|Session 34 - When the Trap Is Yours]]
 
 ## Narrative recap
 

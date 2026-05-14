@@ -8,9 +8,7 @@ source_sessions:
   - 24
 ---
 
-# Session 24 - Ninjas in the Dark
-
-See also: [[Sessions]], [[sessions/session-023|Session 23 - Secrets in the Stone]], [[sessions/session-025|Session 25 - A Deal with Gruumsh (And Other Bad Ideas)]]
+See also: [[sessions/index|Sessions]], [[sessions/session-023|Session 23 - Secrets in the Stone]], [[sessions/session-025|Session 25 - A Deal with Gruumsh (And Other Bad Ideas)]]
 
 ## Narrative recap
 

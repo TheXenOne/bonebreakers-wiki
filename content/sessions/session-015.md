@@ -8,9 +8,7 @@ source_sessions:
   - 15
 ---
 
-# Session 15 - The Golden Asclepion
-
-See also: [[Sessions]], [[sessions/session-014|Session 14 - Voyage to Fos Imeras]], [[sessions/session-016|Session 16 - Sebastaeia]]
+See also: [[sessions/index|Sessions]], [[sessions/session-014|Session 14 - Voyage to Fos Imeras]], [[sessions/session-016|Session 16 - Sebastaeia]]
 
 ## Narrative recap
 

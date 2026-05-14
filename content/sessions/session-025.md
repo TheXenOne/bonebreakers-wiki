@@ -8,9 +8,7 @@ source_sessions:
   - 25
 ---
 
-# Session 25 - A Deal with Gruumsh (And Other Bad Ideas)
-
-See also: [[Sessions]], [[sessions/session-024|Session 24 - Ninjas in the Dark]], [[sessions/session-026|Session 26 - The Day the Steel Spoke]]
+See also: [[sessions/index|Sessions]], [[sessions/session-024|Session 24 - Ninjas in the Dark]], [[sessions/session-026|Session 26 - The Day the Steel Spoke]]
 
 ## Narrative recap
 

@@ -8,9 +8,7 @@ source_sessions:
   - 38
 ---
 
-# Session 38 - The Siege Yet to Come
-
-See also: [[Sessions]], [[sessions/session-037|Session 37 - Drums Beneath the Hills]], [[sessions/session-039|Session 39 - Ashes of the Siege]]
+See also: [[sessions/index|Sessions]], [[sessions/session-037|Session 37 - Drums Beneath the Hills]], [[sessions/session-039|Session 39 - Ashes of the Siege]]
 
 ## Narrative recap
 
