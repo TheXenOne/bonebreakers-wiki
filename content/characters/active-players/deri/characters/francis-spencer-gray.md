@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Francis "Frank" Spencer Gray is a thief whose ambitions become increasingly social and political. He wants wealth, status, and influence among the elite, and many of his plans involve informants, deception, and leverage.
+Francis "Frank" Spencer Gray is a thief whose ambitions become increasingly social and political. He wants wealth, status, and influence among the elite, with a clear desire to become a noble and work his way into Princess Agatha's circle. Many of his plans involve informants, deception, and leverage, though he also undercuts Agatha's secrecy by having Merrick spread word of the Bonebreakers' connection to her.
 
 ## Player
 

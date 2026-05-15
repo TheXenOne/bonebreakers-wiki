@@ -25,7 +25,7 @@ Marta.
 
 ## Class or role
 
-Elf adventurer. The exact class framing varies by ruleset and source. Needs review.
+Elf.
 
 ## Retainers or companions
 

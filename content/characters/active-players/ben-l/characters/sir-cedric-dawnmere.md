@@ -19,7 +19,7 @@ source_sessions:
 
 ## Overview
 
-Sir Cedric Dawnmere is a paladin of Belenus and one of the party's most important later companions. He is introduced as the last of a minor house destroyed by undead and is strongly tied to the [[factions/religions-and-cults/belenites|Belenite]] cause.
+Sir Cedric Dawnmere is a paladin of Belenus. He is introduced as the last of a minor house destroyed by undead and is strongly tied to the [[factions/religions-and-cults/belenites|Belenite]] cause.
 
 ## Player
 

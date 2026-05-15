@@ -19,7 +19,7 @@ source_sessions:
 
 ## Overview
 
-Tess Tattercloak is an illusionist street-urchin later tied to Arden and Sir Cedric. She joins the story during the Blood Moon arc.
+Tess Tattercloak is an illusionist and street-urchin recruited by Cedric during the Blood Moon arc. She is not cruel and does not seem eager to do outright evil, but she is opportunistic, happy to steal, and quick to follow whatever path looks most profitable.
 
 ## Player
 
@@ -27,7 +27,7 @@ Ben L.
 
 ## Class or role
 
-Illusionist street-urchin.
+Illusionist.
 
 ## Retainers or companions
 
@@ -47,7 +47,8 @@ Illusionist street-urchin.
 
 ## Relationships
 
-- Described as having been "saved" by Cedric.
+- Recruited by [[characters/active-players/ben-l/characters/sir-cedric-dawnmere|Sir Cedric Dawnmere]], who believes she wants to do good.
+- Sees Cedric and the party as a strong opportunity for protection and money.
 - Later travels with Tobold and the Westmarsh strike group.
 
 ## Current status

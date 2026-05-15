@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Barnobuck "Barny" the Bizarre is one of the party's defining magic-users. He insists he was once vastly more powerful, and much of his story revolves around recovering lost power, knowledge, and immortality.
+Barnobuck "Barny" the Bizarre is one of the party's defining magic-users. He insists he was once vastly more powerful, and much of his story revolves around recovering lost power, knowledge, and immortality. He is secretive by nature, keeps important things from the party, and appears to maintain undead servants in secret, especially away from the party's clerics.
 
 ## Player
 
@@ -43,7 +43,7 @@ Magic-user.
 ## Important campaign events
 
 - Appears from the earliest recorded adventures.
-- Is killed and later restored during the shrine arc.
+- Is slain by the Crimson Bishop's Finger of Death in [[sessions/session-022|Session 22]] and later restored.
 - Shares his backstory and supposed lost greatness in [[sessions/session-018|Session 18]].
 - Uses the Seer's Dagger and other strange magic repeatedly through later arcs, including [[sessions/session-041|Session 41]].
 
@@ -51,6 +51,7 @@ Magic-user.
 
 - Maintains the closest ties to Rhian, Rattius, and Krazak.
 - Early partnership with [[characters/inactive-players/dom/characters/virien|Virien]] is central to the first arc.
+- Keeps secrets from the party and seems to hide parts of his necromantic activity, especially from the clerics.
 
 ## Current status
 

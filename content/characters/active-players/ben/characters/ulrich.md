@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Ulrich is a cleric who serves no named god, yet still receives divine magic. His central goal is to find the "one true god" while studying faith more broadly.
+Ulrich is one of the founding Bonebreakers, a long-standing cleric who serves no named god yet still receives divine magic. He is pragmatic, deeply connected to the party's history, and more focused on divine spellcasting than melee combat. His central goal is to find the "one true god" while studying faith more broadly.
 
 ## Player
 
@@ -39,13 +39,12 @@ Cleric of none.
 
 ## Important campaign events
 
-- Joins the party in [[sessions/session-003|Session 3]].
+- Helps form the Bonebreakers in [[sessions/session-003|Session 3]].
 - Shares his spiritual quest in [[sessions/session-018|Session 18]].
 - Remains active through later events, including [[sessions/session-046|Session 46]].
 
 ## Relationships
 
-- Closely linked with [[characters/active-players/ben/characters/del|Del]].
 - Bought a hunting dog named [[characters/active-players/ben/retainers-followers/fred|Fred]] in [[sessions/session-004|Session 4]].
 - Works closely with the Bonebreakers' other clerics but keeps a distinct religious outlook.
 

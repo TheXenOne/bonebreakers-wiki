@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Arden Sable is a founding Bonebreaker and a cleric of Belenus. He is closely tied to the party's public religious ambitions, the [[factions/religions-and-cults/belenites|Belenites]], and later to [[locations/world/agria/southlands/mercy|The Mercy]].
+Arden Sable is a founding Bonebreaker, a cleric of Belenus, and Bishop of [[locations/world/agria/southlands/mercy|the Mercy]]. He is effectively the leader of the [[factions/religions-and-cults/belenites|Belenites]] and the central figure in the party's public religious project.
 
 ## Player
 
@@ -26,7 +26,7 @@ Ben L.
 
 ## Class or role
 
-Cleric of Belenus.
+Cleric of Belenus and Bishop of the Mercy.
 
 ## Retainers or companions
 
@@ -49,13 +49,13 @@ Cleric of Belenus.
 
 ## Relationships
 
-- Publicly aligned with the [[factions/religions-and-cults/belenites|Belenites]].
+- Public leader of the [[factions/religions-and-cults/belenites|Belenites]].
 - Closely linked with Bran, Cedric, and Tess.
 - Often works alongside [[characters/active-players/deri/characters/francis-spencer-gray|Frank]] on public-facing schemes.
 
 ## Current status
 
-Active. Later sources place Arden with the party in the Westmarsh and necropolis arcs.
+Active. Arden remains Bishop of the Mercy and continues with the party in later arcs.
 
 ## Related sessions
 

@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Akal Dreek is one of Deri's duergar characters, tied closely to Frank's operations. He becomes a regular presence in the Blood Moon and later Westmarsh arcs.
+Akal Dreek is one of Deri's duergar characters, tied closely to Frank's operations. He is chaotic, openly understands himself as evil, and still carries a strong sense of duergar justice. He becomes a regular presence in the Blood Moon and later Westmarsh arcs.
 
 ## Player
 
@@ -46,7 +46,7 @@ Duergar adventurer and associate.
 
 ## Relationships
 
-- Strongly tied to [[characters/active-players/deri/characters/francis-spencer-gray|Frank]].
+- Strongly tied to [[characters/active-players/deri/characters/francis-spencer-gray|Frank]] and his ambitions.
 
 ## Current status
 

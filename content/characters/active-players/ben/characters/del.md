@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Del is one of Ben's duergar characters. He is closely associated with Ulrich and later appears alongside Frank's duergar network in the Blood Moon arc.
+Del is one of Ben's duergar characters. He is closely tied to Akal and the duergar circle around Frank in the Blood Moon arc.
 
 ## Player
 
@@ -25,7 +25,7 @@ Ben.
 
 ## Class or role
 
-Duergar adventurer.
+Duergar.
 
 ## Retainers or companions
 
@@ -42,8 +42,8 @@ Duergar adventurer.
 
 ## Relationships
 
-- Linked to [[characters/active-players/ben/characters/ulrich|Ulrich]].
-- Later summaries also connect Del to Frank's network. Needs review.
+- Closely tied to [[characters/active-players/deri/characters/akal-dreek|Akal Dreek]].
+- Part of [[characters/active-players/deri/characters/francis-spencer-gray|Frank]]'s duergar circle in the Blood Moon arc.
 
 ## Current status
 

@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Rose is an acrobat and later-campaign Bonebreaker, especially useful in scouting and infiltration-heavy sessions.
+Rose is an acrobat and later Bonebreaker whose value shows most clearly in scouting, infiltration, and careful positioning. She is one of the less forceful personalities in the party, but she is essential to many of its stealth plans and repeatedly proves herself by getting into places others cannot reach.
 
 ## Player
 
@@ -41,6 +41,7 @@ Needs review.
 
 - Appears in the Blood Moon and later arcs.
 - Her reconnaissance is especially important in [[sessions/session-038|Session 38]].
+- She becomes a key part of many infiltration plans in the Westmarsh arc.
 - Remains present through [[sessions/session-046|Session 46]].
 
 ## Relationships

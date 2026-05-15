@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Cyder is a newly graduated magic-user who joins the Bonebreakers in Westfort. The summaries present him as fresh from wizard school and quickly tested in crisis.
+Cyder is a newly graduated magic-user who joins the Bonebreakers in Westfort. He is fresh from wizard school and is quickly tested in crisis.
 
 ## Player
 

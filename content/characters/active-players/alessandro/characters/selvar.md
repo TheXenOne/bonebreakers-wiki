@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Selvar is a later elf recruit who enters during the cathedral arc and remains active in later Westmarsh and necropolis sessions.
+Selvar is a neutral elf who joins during the cathedral arc and remains active through the later Westmarsh and necropolis adventures. He is short and lithe, and favors charm, illusion, and similar subtle magic.
 
 ## Player
 
@@ -25,7 +25,7 @@ Alessandro.
 
 ## Class or role
 
-Elf adventurer. Needs review on exact class framing.
+Elf.
 
 ## Retainers or companions
 
@@ -45,7 +45,7 @@ Needs review.
 
 ## Relationships
 
-- Recruited alongside or through [[characters/inactive-players/dom/characters/virien|Virien]] in the available summaries.
+- Recruited through [[characters/inactive-players/dom/characters/virien|Virien]].
 
 ## Current status
 
