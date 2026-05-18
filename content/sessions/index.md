@@ -52,3 +52,4 @@ Published session pages:
 - [[sessions/session-044|Session 44 - Gold Beneath the Beast, Blood Above the Crown]]
 - [[sessions/session-045|Session 45 - The Syndicate's Silence]]
 - [[sessions/session-046|Session 46 - The Grey Khan's Game]]
+- [[sessions/session-047|Session 47 - Twenty Thousand in the Dark]]

@@ -13,6 +13,7 @@ affiliations:
 source_sessions:
   - 44
   - 46
+  - 47
 ---
 
 ## Overview
@@ -49,6 +50,7 @@ Needs review.
 
 - In [[sessions/session-044|Session 44]], Arthur's confession identifies the Grey Khan as a major conspiratorial contact.
 - In [[sessions/session-046|Session 46]], Ash claims that she is the Grey Khan, but that claim remains unconfirmed.
+- In [[sessions/session-047|Session 47]], a captured Syndicate recruiter cannot confirm who the Grey Khan is.
 
 ## Current status
 
@@ -58,6 +60,7 @@ Unconfirmed identity and position.
 
 - [[sessions/session-044|Session 44]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads
 

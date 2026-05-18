@@ -16,6 +16,7 @@ source_sessions:
   - 38
   - 39
   - 40
+  - 47
 ---
 
 ## Overview
@@ -33,6 +34,7 @@ Cynical, seasoned, and authoritative.
 ## Role in the campaign
 
 - Valerius becomes the main military authority during the fort's sabotage, investigations, and later war footing.
+- He remains the party's main military contact when renewed invasion rumours return after the Spider Market raid.
 
 ## Affiliations
 
@@ -50,6 +52,7 @@ Cynical, seasoned, and authoritative.
 ## Campaign events
 
 - From [[sessions/session-033|Session 33]] through [[sessions/session-040|Session 40]], Valerius repeatedly receives reports, prisoners, and strategic outcomes from the party.
+- In [[sessions/session-047|Session 47]], he receives warning of renewed invasion preparations and sharply rebukes Steve after Steve kills prisoners to clear cell space.
 
 ## Current status
 
@@ -63,7 +66,8 @@ Alive.
 - [[sessions/session-038|Session 38]]
 - [[sessions/session-039|Session 39]]
 - [[sessions/session-040|Session 40]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads
 
-- None central.
+- Renewed but reduced invasion preparations remain a live concern after Session 47.

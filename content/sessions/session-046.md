@@ -87,3 +87,4 @@ The rest of the session shifts from grief to dangerous negotiation. The Bonebrea
 ## Related sessions
 
 - Previous: [[sessions/session-045|Session 45 - The Syndicate's Silence]]
+- Next: [[sessions/session-047|Session 47 - Twenty Thousand in the Dark]]

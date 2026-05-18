@@ -11,6 +11,7 @@ parent_location: "[[locations/world/agria/southlands/ikiria|Ikiria]]"
 source_sessions:
   - 18
   - 26
+  - 47
 ---
 
 ## Overview
@@ -33,11 +34,13 @@ The East Agria Company Headquarters is a grand mercantile office in the upper ci
 - In [[sessions/session-018|Session 18]], the Bonebreakers are summoned here and formally meet Princess Agatha in her full political role.
 - The headquarters becomes the place where the party receives secret patronage and the mission to reclaim [[locations/world/agria/southlands/mercy|the Mercy]].
 - In [[sessions/session-026|Session 26]], the party again attempts to seek answers here during the Ikirian weapons crisis.
+- In [[sessions/session-047|Session 47]], Commander Smith receives Wendell's testimony and the party's evidence here, then orders Arthur arrested.
 
 ## Related sessions
 
 - [[sessions/session-018|Session 18]]
 - [[sessions/session-026|Session 26]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads or mysteries
 

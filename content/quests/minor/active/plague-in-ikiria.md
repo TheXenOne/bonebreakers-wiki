@@ -1,7 +1,7 @@
 ---
 title: Plague in Ikiria
 type: campaign-thread
-status: needs-review
+status: active
 importance: minor
 tags:
   - campaign-thread
@@ -12,6 +12,7 @@ completed_session:
 related_sessions:
   - 41
   - 43
+  - 47
 related_locations:
   - Ikiria
   - The Mercy
@@ -22,6 +23,7 @@ related_factions:
 source_sessions:
   - 41
   - 43
+  - 47
 ---
 
 ## Overview
@@ -36,10 +38,11 @@ In [[sessions/session-041|Session 41]], the party hears continued rumours of pla
 
 - [[sessions/session-043|Session 43]] records Steve riding to Ikiria to confirm the reports.
 - He returns convinced that the sickness is real and worsening.
+- In [[sessions/session-047|Session 47]], the party finds Ikiria sealed, divided into zones, and visibly damaged, with the Plats below burnt and chaotic.
 
 ## Current status
 
-Unresolved. It is not yet clear whether this is a return of the deathless plague, a different sickness, or a wider consequence of other events.
+Active and worsening. Ikiria is now under lockdown, but the exact nature of the sickness and unrest is still unclear.
 
 ## Related characters and NPCs
 
@@ -54,7 +57,9 @@ Unresolved. It is not yet clear whether this is a return of the deathless plague
 
 - [[sessions/session-041|Session 41]]
 - [[sessions/session-043|Session 43]]
+- [[sessions/session-047|Session 47]]
 
 ## Loose ends
 
-- The exact nature of the plague remains unclear. Needs review.
+- The exact nature of the plague remains unclear.
+- It is still uncertain how much of the destruction in Ikiria comes from sickness, fire, panic, or other causes.

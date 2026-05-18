@@ -42,7 +42,7 @@ Young and dutiful. Further detail: Needs review.
 
 ## Relationships
 
-- Travels with [[npcs/agria/prince-arthurs-retinue/prince-arthurs-secretary|Prince Arthur's Secretary]] and the rest of Arthur's coach party.
+- Travels with [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]] and the rest of Arthur's coach party.
 
 ## Campaign events
 

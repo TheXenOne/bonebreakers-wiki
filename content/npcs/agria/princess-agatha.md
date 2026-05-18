@@ -13,6 +13,7 @@ affiliations:
 source_sessions:
   - 18
   - 44
+  - 47
 ---
 
 ## Overview
@@ -58,10 +59,11 @@ Pragmatic, politically dangerous, and willing to reward useful service.
 - By [[sessions/session-018|Session 18]], she is revealed as the rescued Agrian princess from the Fos Imeras expedition and recruits the party for secret work.
 - Her agents support the cathedral mission across [[sessions/session-019|Session 19]] to [[sessions/session-022|Session 22]].
 - In [[sessions/session-044|Session 44]], Arthur admits the Grey Syndicate is moving against her.
+- In [[sessions/session-047|Session 47]], the party learns that Agatha is absent from locked-down Ikiria and that Smith does not know where she is.
 
 ## Current status
 
-Active. She remains one of Agria's most powerful political figures.
+Active, but absent from Ikiria during the Session 47 lockdown. Her exact whereabouts are unknown to the party.
 
 ## Related sessions
 
@@ -69,7 +71,8 @@ Active. She remains one of Agria's most powerful political figures.
 - [[sessions/session-019|Session 19]]
 - [[sessions/session-022|Session 22]]
 - [[sessions/session-044|Session 44]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads
 
-- Whether Agatha has yet received Arthur's ledger evidence is still unresolved.
+- Arthur's arrest strengthens her position, but her whereabouts during the crisis remain unresolved.

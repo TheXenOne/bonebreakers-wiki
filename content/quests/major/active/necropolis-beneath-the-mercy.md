@@ -15,6 +15,7 @@ related_sessions:
   - 43
   - 44
   - 46
+  - 47
 related_locations:
   - The Mercy
   - Necropolis
@@ -30,6 +31,7 @@ source_sessions:
   - 43
   - 44
   - 46
+  - 47
 ---
 
 ## Overview
@@ -48,6 +50,7 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 - Sessions [[sessions/session-042|42]] and [[sessions/session-043|43]] continue the delve, but the exact split between their events is unclear.
 - In [[sessions/session-044|Session 44]], the party kills a chimera guarding a major hoard within the deeper section.
 - By [[sessions/session-046|Session 46]], rumours point to another western entrance that may connect to the same complex.
+- In [[sessions/session-047|Session 47]], a captured recruiter places the Necropolis roughly 50 miles west of the Spider Market, giving the western-entrance rumour a little more support.
 
 ## Current status
 
@@ -79,9 +82,10 @@ The delve is ongoing. Only part of Arch VII has been explored, and the party sti
 - [[sessions/session-043|Session 43]]
 - [[sessions/session-044|Session 44]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-047|Session 47]]
 
 ## Loose ends
 
 - Tobold's earlier voice from below is unexplained.
 - The exact split of events between Sessions 42 and 43 needs review.
-- The western entrance rumour has not been confirmed.
+- The western entrance rumour is still not confirmed, but later testimony points in the same general direction.

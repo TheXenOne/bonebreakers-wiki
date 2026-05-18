@@ -13,6 +13,7 @@ source_sessions:
   - 43
   - 44
   - 46
+  - 47
 ---
 
 ## Overview
@@ -47,6 +48,7 @@ The Necropolis is an ancient imperial ruin older than the Ramen Empire and tied 
 - [[sessions/session-042|Session 42]] and [[sessions/session-043|Session 43]] continue the delve, though the exact scene split is partly unclear.
 - [[sessions/session-044|Session 44]] adds the claw-scarred corridor, the chimera hoard, and a sealed domed room seen from below.
 - By [[sessions/session-046|Session 46]], rumours suggest a western entrance from Westmarsh as well.
+- In [[sessions/session-047|Session 47]], a captured recruiter places the Necropolis roughly 50 miles west of the Spider Market, lending more weight to the western-route rumours.
 
 ## Related sessions
 
@@ -55,6 +57,7 @@ The Necropolis is an ancient imperial ruin older than the Ramen Empire and tied 
 - [[sessions/session-043|Session 43]]
 - [[sessions/session-044|Session 44]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads or mysteries
 

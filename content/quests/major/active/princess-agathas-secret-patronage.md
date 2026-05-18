@@ -19,6 +19,7 @@ related_sessions:
   - 44
   - 45
   - 46
+  - 47
 related_locations:
   - Fos Imeras
   - Ikiria
@@ -42,6 +43,7 @@ source_sessions:
   - 44
   - 45
   - 46
+  - 47
 ---
 
 ## Overview
@@ -57,10 +59,11 @@ The party first meets Agatha as a stranded noble on [[locations/world/fos-imeras
 - Agatha's first known mission sends the party against [[factions/religions-and-cults/church-of-the-crimson-flame|the Church of the Crimson Flame]] and the deathless plague.
 - The party's success at [[locations/world/agria/southlands/mercy|the Mercy]] gives Agatha a proven covert strike force in the Southlands.
 - Later sessions show that [[npcs/agria/prince-arthur|Prince Arthur]] is plotting against Agatha with help from the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]].
+- In [[sessions/session-047|Session 47]], the party delivers Arthur's evidence to Smith, but also learns that Agatha is absent from locked-down Ikiria.
 
 ## Current status
 
-Agatha remains an active secret patron, but her position is under direct threat from Arthur and the Grey Syndicate.
+Agatha remains an active secret patron, but she is absent from Ikiria while her agents handle Arthur's arrest and the city's wider crisis.
 
 ## Consequences
 
@@ -93,8 +96,10 @@ Agatha remains an active secret patron, but her position is under direct threat 
 - [[sessions/session-022|Session 22]]
 - [[sessions/session-044|Session 44]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-047|Session 47]]
 
 ## Loose ends
 
 - How many missions Agatha still intends to give the party is unknown.
 - Arthur's conspiracy makes Agatha's long-term position unstable.
+- Agatha's current whereabouts remain unresolved.

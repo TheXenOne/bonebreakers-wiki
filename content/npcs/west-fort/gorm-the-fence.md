@@ -12,6 +12,7 @@ affiliations:
 source_sessions:
   - 39
   - 45
+  - 47
 ---
 
 ## Overview
@@ -46,6 +47,7 @@ Practical. Further detail: Needs review.
 
 - Gorm is present in the fort's trade network during [[sessions/session-039|Session 39]].
 - In [[sessions/session-045|Session 45]], he matters again in the failed Syndicate outreach.
+- In [[sessions/session-047|Session 47]], a captured Syndicate recruiter says she sometimes meets Gorm.
 
 ## Current status
 
@@ -55,7 +57,8 @@ Alive.
 
 - [[sessions/session-039|Session 39]]
 - [[sessions/session-045|Session 45]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads
 
-- The extent of his willingness or ability to deal with the Syndicate remains unclear.
+- The extent of his willingness or ability to deal with the Syndicate remains unclear, but Session 47 suggests his contact with that world may be ongoing.

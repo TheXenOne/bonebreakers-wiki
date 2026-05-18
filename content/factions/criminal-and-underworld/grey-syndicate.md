@@ -26,6 +26,7 @@ source_sessions:
   - 44
   - 45
   - 46
+  - 47
 ---
 
 ## Overview
@@ -69,10 +70,11 @@ The Syndicate is the main hidden enemy behind the West Fort sabotage arc and lat
 - In [[sessions/session-036|Session 36]], Jeremy and Ash become the focus of the investigation through the Spider Market.
 - In [[sessions/session-039|Session 39]] and [[sessions/session-040|Session 40]], the party uncovers more of the Syndicate's hidden infrastructure and written evidence.
 - In [[sessions/session-044|Session 44]] to [[sessions/session-046|Session 46]], the Syndicate becomes directly tied to Arthur and succession intrigue in Agria.
+- In [[sessions/session-047|Session 47]], a captured recruiter describes the Syndicate as dispersed across Westmarsh with some Southlands presence, even after the party steals 20,000 gold meant for its operations.
 
 ## Current status
 
-Active and still dangerous.
+Active and still dangerous, despite losing money and Arthur's freedom in Session 47.
 
 ## Related sessions
 
@@ -83,6 +85,7 @@ Active and still dangerous.
 - [[sessions/session-044|Session 44]]
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads
 

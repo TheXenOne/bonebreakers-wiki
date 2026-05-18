@@ -14,6 +14,7 @@ source_sessions:
   - 39
   - 40
   - 46
+  - 47
 ---
 
 ## Overview
@@ -45,6 +46,7 @@ The Invasion Fort is a fortified enemy outpost in the hills south-west of [[loca
 - The party confirms the scale of the site in [[sessions/session-037|Session 37]] and [[sessions/session-038|Session 38]].
 - In [[sessions/session-039|Session 39]], they uncover evidence that children were held there.
 - In [[sessions/session-040|Session 40]], they reject Ash's bargain, defeat the local force, and rescue the kidnapped children.
+- In [[sessions/session-047|Session 47]], Barny's crystal ball shows renewed but reduced military preparations at the fort.
 
 ## Related sessions
 
@@ -53,6 +55,7 @@ The Invasion Fort is a fortified enemy outpost in the hills south-west of [[loca
 - [[sessions/session-039|Session 39]]
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads or mysteries
 

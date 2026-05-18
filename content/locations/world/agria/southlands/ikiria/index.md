@@ -16,6 +16,7 @@ source_sessions:
   - 28
   - 33
   - 43
+  - 47
 ---
 
 ## Overview
@@ -53,6 +54,7 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - In [[sessions/session-018|Session 18]], Princess Agatha hires the party to deal with [[locations/world/agria/southlands/mercy|the Mercy]].
 - [[sessions/session-026|Session 26]] through [[sessions/session-028|Session 28]] cover the city-wide sentient weapon crisis tied to Arkeus.
 - Later sessions confirm worsening sickness and fires in the city.
+- In [[sessions/session-047|Session 47]], the city is sealed under lockdown, the upper districts are tense, the Plats are burnt and chaotic, and Arthur is arrested at the East Agria Company headquarters.
 
 ## Related sessions
 
@@ -63,8 +65,9 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - [[sessions/session-027|Session 27]]
 - [[sessions/session-028|Session 28]]
 - [[sessions/session-043|Session 43]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads or mysteries
 
-- The later plague and unrest in Ikiria remain unresolved as of [[sessions/session-046|Session 46]].
+- The plague, fires, and wider unrest in Ikiria remain unresolved as of [[sessions/session-047|Session 47]].
 - Arkeus survives long enough to be freed but disappears into an astral disturbance.

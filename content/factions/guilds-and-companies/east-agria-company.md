@@ -24,6 +24,7 @@ source_sessions:
   - 22
   - 26
   - 45
+  - 47
 ---
 
 ## Overview
@@ -65,10 +66,11 @@ The Company combines trade power, political influence, and private operational r
 - Through [[sessions/session-019|Session 19]] to [[sessions/session-022|Session 22]], Commander Smith helps drive the mission against the [[factions/religions-and-cults/church-of-the-crimson-flame|Church of the Crimson Flame]].
 - In [[sessions/session-026|Session 26]], the party again seeks answers through Company channels during the Ikirian weapons crisis.
 - In [[sessions/session-045|Session 45]], Pell is sent to Smith with warning about Prince Arthur.
+- In [[sessions/session-047|Session 47]], Smith receives the evidence against Arthur at Company headquarters and orders his arrest.
 
 ## Current status
 
-Active and politically important.
+Active and politically important, but now operating inside a locked-down Ikiria without Agatha present.
 
 ## Related sessions
 
@@ -77,8 +79,9 @@ Active and politically important.
 - [[sessions/session-022|Session 22]]
 - [[sessions/session-026|Session 26]]
 - [[sessions/session-045|Session 45]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads
 
 - The Company's full size and internal structure remain only partly described.
-- Commander Smith's response to the Arthur evidence is not yet known.
+- Agatha's absence during Ikiria's lockdown leaves the Company's next political move uncertain.

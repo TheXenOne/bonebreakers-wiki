@@ -1,10 +1,11 @@
 ---
-title: Prince Arthur's Secretary
+title: Wendell
 type: npc
 tags:
   - npc
   - courtier
-aliases: []
+aliases:
+  - Prince Arthur's Secretary
 status: alive
 primary_location: Needs review
 affiliations:
@@ -12,11 +13,12 @@ affiliations:
 source_sessions:
   - 45
   - 46
+  - 47
 ---
 
 ## Overview
 
-Prince Arthur's secretary is the keeper of the ledger documenting Arthur's meetings with the [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]]. His personal name is not given.
+Wendell is the keeper of the ledger documenting [[npcs/agria/prince-arthur|Prince Arthur's]] meetings with the [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]]. He served as Arthur's secretary, but after testifying against him in [[sessions/session-047|Session 47]], he is likely no longer acting in that role.
 
 ## Appearance
 
@@ -40,6 +42,7 @@ Deeply frightened by the end of his appearances.
 
 - [[locations/world/agria/southlands/mercy|The Mercy]]
 - [[locations/world/westmarsh/spiders-market|The Spider Market]]
+- [[locations/world/agria/southlands/ikiria/east-agria-company-headquarters|East Agria Company Headquarters]]
 
 ## Relationships
 
@@ -51,17 +54,19 @@ Deeply frightened by the end of his appearances.
 
 - In [[sessions/session-045|Session 45]], the ledger in his keeping becomes key evidence and he is used in a failed attempt to reopen contact through Gorm.
 - In [[sessions/session-046|Session 46]], an assassin wearing Tobold's face reveals he was sent to kill the secretary, and Ash later offers gold in exchange for him.
+- In [[sessions/session-047|Session 47]], Wendell is persuaded to testify to Commander Smith, helping trigger Arthur's arrest.
 
 ## Current status
 
-Alive and under party protection as of [[sessions/session-046|Session 46]].
+Alive and now a direct witness against Arthur as of [[sessions/session-047|Session 47]].
 
 ## Related sessions
 
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads
 
-- Why the Syndicate wants him dead rather than merely recovering the ledger is still unclear.
-- His eventual testimony and survival remain unresolved.
+- Why the Syndicate wanted him dead rather than merely recovering the ledger is still unclear.
+- His safety after testifying remains unresolved.

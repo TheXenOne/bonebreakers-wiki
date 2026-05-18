@@ -17,6 +17,7 @@ source_sessions:
   - 22
   - 26
   - 45
+  - 47
 ---
 
 ## Overview
@@ -35,6 +36,7 @@ Efficient, discreet, and easily irritated by public loose ends.
 
 - Smith is the party's most direct contact with Agatha's covert operations.
 - He helps launch the Mercy investigation and remains politically relevant during Arthur's exposure.
+- He is the first senior Ikirian authority shown accepting the case against Arthur and acting on it.
 
 ## Affiliations
 
@@ -50,6 +52,7 @@ Efficient, discreet, and easily irritated by public loose ends.
 
 - Works alongside [[npcs/agria/east-agria-company/admiral-nelson|Admiral Nelson]].
 - Receives [[npcs/agria/prince-arthurs-retinue/pell|Pell]]'s warning after Arthur's capture.
+- Receives testimony from [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]] and documentary evidence against [[npcs/agria/prince-arthur|Prince Arthur]].
 
 ## Campaign events
 
@@ -57,10 +60,11 @@ Efficient, discreet, and easily irritated by public loose ends.
 - He directs the party toward the Mercy across [[sessions/session-019|Session 19]] to [[sessions/session-022|Session 22]].
 - In [[sessions/session-026|Session 26]], he reacts badly to Frank's bard-driven publicity.
 - In [[sessions/session-045|Session 45]], Pell is sent to him with the news of Arthur's conspiracy.
+- In [[sessions/session-047|Session 47]], he accepts Wendell's testimony and the party's documents, then orders Arthur arrested.
 
 ## Current status
 
-Active.
+Active and directly managing the Arthur crisis in Ikiria.
 
 ## Related sessions
 
@@ -70,7 +74,9 @@ Active.
 - [[sessions/session-022|Session 22]]
 - [[sessions/session-026|Session 26]]
 - [[sessions/session-045|Session 45]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads
 
-- Smith's full response to Arthur's evidence is not yet shown.
+- Princess Agatha's whereabouts during Ikiria's lockdown are unknown even to Smith.
+- Smith's next political move after Arthur's arrest remains unresolved.

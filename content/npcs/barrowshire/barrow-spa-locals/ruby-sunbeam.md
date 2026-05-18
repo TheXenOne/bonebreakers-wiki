@@ -13,6 +13,7 @@ source_sessions:
   - 1
   - 10
   - 44
+  - 47
 ---
 
 ## Overview
@@ -46,7 +47,7 @@ Cheerful, useful, practical, and dependable.
 
 ## Campaign events
 
-- Ruby is part of the early Barrow Spa economy and later advises the party on imperial coinage in [[sessions/session-044|Session 44]].
+- Ruby is part of the early Barrow Spa economy, later advises the party on imperial coinage in [[sessions/session-044|Session 44]], and hosts them again during the Wendell testimony preparations in [[sessions/session-047|Session 47]].
 
 ## Current status
 
@@ -57,6 +58,7 @@ Alive and active in Barrow Spa.
 - [[sessions/session-001|Session 1]]
 - [[sessions/session-010|Session 10]]
 - [[sessions/session-044|Session 44]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads
 

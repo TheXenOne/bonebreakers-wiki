@@ -17,6 +17,7 @@ source_sessions:
   - 39
   - 40
   - 45
+  - 47
 ---
 
 ## Overview
@@ -52,6 +53,7 @@ West Fort is a frontier settlement on Agria's western edge, guarding the crossin
 - The Bonebreakers first reach West Fort in [[sessions/session-033|Session 33]].
 - In [[sessions/session-035|Session 35]], they expose Vex's sabotage network.
 - [[sessions/session-038|Session 38]] through [[sessions/session-040|Session 40]] cover the invasion threat, counterattack, and rescue of the kidnapped children.
+- In [[sessions/session-047|Session 47]], the party returns with fresh warning of renewed preparations at the invasion fort, only to find the garrison short on prison space and still under strain.
 
 ## Related sessions
 
@@ -61,7 +63,8 @@ West Fort is a frontier settlement on Agria's western edge, guarding the crossin
 - [[sessions/session-038|Session 38]]
 - [[sessions/session-039|Session 39]]
 - [[sessions/session-040|Session 40]]
+- [[sessions/session-047|Session 47]]
 
 ## Unresolved threads or mysteries
 
-- West Fort survives the immediate invasion threat, but the wider Grey Syndicate conspiracy remains active.
+- West Fort survives the immediate invasion threat, but the wider Grey Syndicate conspiracy and later invasion preparations remain active.

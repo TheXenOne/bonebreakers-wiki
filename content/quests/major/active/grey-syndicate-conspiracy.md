@@ -17,6 +17,7 @@ related_sessions:
   - 44
   - 45
   - 46
+  - 47
 related_locations:
   - Westfort
   - Spider Market
@@ -39,6 +40,7 @@ source_sessions:
   - 44
   - 45
   - 46
+  - 47
 ---
 
 ## Overview
@@ -55,15 +57,17 @@ The thread becomes visible when the party exposes Vex's sabotage cell in [[sessi
 - Jeremy leads the party to Ash and the Spider Market network.
 - Papers recovered in [[sessions/session-040|Session 40]] show the Syndicate destabilising Agria through fire, poison, and kidnapping.
 - In [[sessions/session-044|Session 44]] to [[sessions/session-046|Session 46]], the Syndicate is tied directly to [[npcs/agria/prince-arthur|Prince Arthur]] and the struggle against Princess Agatha.
+- In [[sessions/session-047|Session 47]], the Bonebreakers rob a decoy market cell of 20,000 gold, learn the Syndicate is dispersed rather than centralised, and hear of renewed invasion plans at a hobgoblin fort. Needs review.
 
 ## Current status
 
-The Syndicate is still active. Ash escapes multiple times, and her claim to be the Grey Khan has not been proven.
+The Syndicate is still active. It loses money and Arthur as an ally in Session 47, but Ash remains at large and the network is still broad enough to threaten both Westmarsh and the Southlands.
 
 ## Consequences
 
 - The party can no longer treat Westmarsh raids as isolated frontier problems.
 - The conspiracy reaches from criminal handlers to royal succession.
+- Arthur's arrest turns part of the conspiracy from hidden leverage into open political evidence.
 
 ## Related characters and NPCs
 
@@ -91,8 +95,9 @@ The Syndicate is still active. Ash escapes multiple times, and her claim to be t
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-044|Session 44]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-047|Session 47]]
 
 ## Loose ends
 
 - Whether Ash really is the Grey Khan remains unresolved.
-- The planned exchange and likely silent strike in the Spider Market have not yet happened.
+- The Syndicate's next move after losing 20,000 gold and Arthur's protection is unresolved.

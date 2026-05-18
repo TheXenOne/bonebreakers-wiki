@@ -13,6 +13,7 @@ related_sessions:
   - 44
   - 45
   - 46
+  - 47
 related_locations:
   - Road toward Ikiria
   - The Mercy
@@ -21,7 +22,7 @@ related_npcs:
   - Prince Arthur
   - Princess Agatha
   - Ash
-  - Prince Arthur's Secretary
+  - Wendell
 related_factions:
   - Grey Syndicate
   - East Agria Company
@@ -29,6 +30,7 @@ source_sessions:
   - 44
   - 45
   - 46
+  - 47
 ---
 
 ## Overview
@@ -45,22 +47,24 @@ In [[sessions/session-044|Session 44]], the party meets Arthur on the road, char
 - The party seizes a secretary's ledger showing meetings with the Grey Syndicate.
 - Attempts to turn Arthur into bait through Gorm fail in [[sessions/session-045|Session 45]].
 - In [[sessions/session-046|Session 46]], Ash offers a large payment for Arthur's secretary and claims she herself is the Grey Khan.
+- In [[sessions/session-047|Session 47]], the exchange turns out to be a decoy, Wendell testifies, and Smith orders Arthur arrested.
 
 ## Current status
 
-Arthur is captive and politically dangerous. The planned exchange has not yet taken place.
+Arthur is under arrest in Ikiria and still politically dangerous. The exchange plan is over, but the Grey Khan question and Agatha's position remain unresolved.
 
 ## Consequences
 
 - The party now holds evidence of royal treachery.
 - Agatha's position is under more explicit threat than before.
+- Arthur's arrest moves the thread from covert leverage into formal state action.
 
 ## Related characters and NPCs
 
 - [[npcs/agria/prince-arthur|Prince Arthur]]
 - [[npcs/agria/princess-agatha|Princess Agatha]]
 - [[npcs/westmarsh/grey-syndicate/ash|Ash]]
-- [[npcs/agria/prince-arthurs-retinue/prince-arthurs-secretary|Prince Arthur's Secretary]]
+- [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]]
 
 ## Related locations
 
@@ -77,8 +81,10 @@ Arthur is captive and politically dangerous. The planned exchange has not yet ta
 - [[sessions/session-044|Session 44]]
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-047|Session 47]]
 
 ## Loose ends
 
 - Arthur's final fate is unresolved.
 - Ash's claim to be the Grey Khan still needs confirmation.
+- Princess Agatha's absence from Ikiria leaves the political endgame unsettled.
