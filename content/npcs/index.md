@@ -18,6 +18,7 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 
 - [[npcs/ikiria/nixx-pocketbrain|Nixx Pocketbrain]]
 - [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]]
+- [[npcs/ikiria/maren-sollow|Maren Sollow]]
 - [[npcs/ikiria/arkeus-whizkeyrd|Arkeus Whizkeyrd]]
 - [[npcs/ikiria/helvian|Helvian]]
 - [[npcs/ikiria/halls-of-the-blood-king/index|Halls of the Blood King]]

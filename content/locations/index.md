@@ -23,6 +23,8 @@ tags:
 ## Cities, settlements, and landscapes
 
 - [[locations/world/agria/southlands/ikiria|Ikiria]]
+- [[locations/world/agria/southlands/ikiria/plats|The Plats]]
+- [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|The Temple of Merciful Life]]
 - [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]]
 - [[locations/world/agria/southlands/barrowshire/kings-road|King's Road]]
 - [[locations/world/agria/southlands/barrowshire/kelfrek-marsh|Kelfrek Marsh]]

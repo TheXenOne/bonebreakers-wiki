@@ -14,6 +14,7 @@ source_sessions:
   - 18
   - 44
   - 47
+  - 48
 ---
 
 ## Overview
@@ -60,10 +61,11 @@ Pragmatic, politically dangerous, and willing to reward useful service.
 - Her agents support the cathedral mission across [[sessions/session-019|Session 19]] to [[sessions/session-022|Session 22]].
 - In [[sessions/session-044|Session 44]], Arthur admits the Grey Syndicate is moving against her.
 - In [[sessions/session-047|Session 47]], the party learns that Agatha is absent from locked-down Ikiria and that Smith does not know where she is.
+- In [[sessions/session-048|Session 48]], the party is told that Smith not knowing her whereabouts is standard procedure and does not mean she is missing.
 
 ## Current status
 
-Active, but absent from Ikiria during the Session 47 lockdown. Her exact whereabouts are unknown to the party.
+Active, but absent from public view in Ikiria during the lockdown. Her exact whereabouts remain unknown to the party, though Session 48 clarifies that this is standard procedure rather than a sign that she has gone missing.
 
 ## Related sessions
 
@@ -72,6 +74,7 @@ Active, but absent from Ikiria during the Session 47 lockdown. Her exact whereab
 - [[sessions/session-022|Session 22]]
 - [[sessions/session-044|Session 44]]
 - [[sessions/session-047|Session 47]]
+- [[sessions/session-048|Session 48]]
 
 ## Unresolved threads
 

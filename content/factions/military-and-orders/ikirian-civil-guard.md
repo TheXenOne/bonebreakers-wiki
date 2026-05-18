@@ -16,6 +16,7 @@ related_locations:
   - Tower of Arkeus Whizkeyrd
 source_sessions:
   - 26
+  - 48
 ---
 
 ## Overview
@@ -37,6 +38,7 @@ The guard maintains public order in [[locations/world/agria/southlands/ikiria|Ik
 ## Associated locations
 
 - [[locations/world/agria/southlands/ikiria|Ikiria]]
+- [[locations/world/agria/southlands/ikiria/plats|The Plats]]
 - [[locations/world/agria/southlands/ikiria/tower-of-arkeus-whizkeyrd|Tower of Arkeus Whizkeyrd]]
 
 ## Allies and enemies
@@ -47,15 +49,17 @@ The guard maintains public order in [[locations/world/agria/southlands/ikiria|Ik
 ## Campaign involvement
 
 - In [[sessions/session-026|Session 26]], Vaessa authorises the party to enter Arkeus's tower and offers payment for proof of his involvement in the city's magical emergency.
+- In [[sessions/session-048|Session 48]], the guard is stretched thin by plague and unrest, and Vaessa turns to the party to investigate missing bodies in the Plats.
 
 ## Current status
 
-Active. Its later role in Ikiria's worsening unrest has not yet been shown directly.
+Active but overextended. By Session 48, the guard is struggling to police the Plats while civilian inquisitors and plague pressures destabilise the district.
 
 ## Related sessions
 
 - [[sessions/session-026|Session 26]]
+- [[sessions/session-048|Session 48]]
 
 ## Unresolved threads
 
-- How the guard responded after Arkeus vanished is not yet known.
+- How the guard can contain the Plats while the Inquisition escalates remains unclear.

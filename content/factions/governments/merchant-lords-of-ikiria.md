@@ -15,6 +15,7 @@ related_locations:
   - Ikiria
 source_sessions:
   - 26
+  - 48
 ---
 
 ## Overview
@@ -48,10 +49,11 @@ They appear to be one of the key powers in [[locations/world/agria/southlands/ik
 ## Campaign involvement
 
 - In [[sessions/session-026|Session 26]], the party learns from [[npcs/ikiria/helvian|Helvian]] that the council led by Nixx has refused to dismiss Arkeus despite the growing magical crisis.
+- In [[sessions/session-048|Session 48]], an informant claims that [[npcs/ikiria/nixx-pocketbrain|Nixx Pocketbrain]] dislikes [[npcs/agria/princess-agatha|Princess Agatha]] and resents her competence and connections. Needs review.
 
 ## Current status
 
-Active. Their later response to plague and unrest in Ikiria has not yet been shown directly.
+Active. Their later response to plague and unrest in Ikiria has not yet been shown directly, but Session 48 adds new suspicion around Nixx's political alignment.
 
 ## Related sessions
 
@@ -61,3 +63,4 @@ Active. Their later response to plague and unrest in Ikiria has not yet been sho
 
 - The identities of most of the merchant lords remain unknown.
 - Their role in Ikiria's later fires, sickness, and instability is not yet shown.
+- Whether Nixx's alleged resentment of Agatha reflects the wider council's position is unknown.

@@ -25,11 +25,12 @@ source_sessions:
   - 21
   - 22
   - 26
+  - 48
 ---
 
 ## Overview
 
-The Belenites are followers of Belenus whose influence grows through [[characters/active-players/ben-l/characters/arden-sable|Arden]], [[characters/active-players/ben-l/characters/sir-cedric-dawnmere|Cedric]], and later [[characters/active-players/deri/characters/francis-spencer-gray|Frank]], especially around [[locations/world/agria/southlands/mercy|the Mercy]] and the [[locations/world/agria/southlands/ikiria/temple-of-merciful-life|Temple of Merciful Life]].
+The Belenites are followers of Belenus whose influence grows through [[characters/active-players/ben-l/characters/arden-sable|Arden]], [[characters/active-players/ben-l/characters/sir-cedric-dawnmere|Cedric]], and later [[characters/active-players/deri/characters/francis-spencer-gray|Frank]], especially around [[locations/world/agria/southlands/mercy|the Mercy]] and the [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|Temple of Merciful Life]].
 
 ## Purpose or role
 
@@ -51,7 +52,7 @@ The faith is associated with healing, public charity, and resistance to undead c
 ## Associated locations
 
 - [[locations/world/agria/southlands/mercy|The Mercy]]
-- [[locations/world/agria/southlands/ikiria/temple-of-merciful-life|The Temple of Merciful Life]]
+- [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|The Temple of Merciful Life]]
 - [[locations/world/agria/southlands/ikiria/index|Ikiria]]
 
 ## Allies and enemies
@@ -66,11 +67,12 @@ The faith is associated with healing, public charity, and resistance to undead c
 - In [[sessions/session-015|Session 15]], Arden receives stronger divine direction to build a temple and heal on a larger scale.
 - In [[sessions/session-018|Session 18]], Arden and Frank publicly distribute charity in Belenus' name and begin treating the faith as part of the party's public mission.
 - In [[sessions/session-021|Session 21]] and [[sessions/session-022|Session 22]], the fall of the Crimson Bishop opens the way for Belenite control of the cathedral.
-- In [[sessions/session-026|Session 26]], Frank establishes the [[locations/world/agria/southlands/ikiria/temple-of-merciful-life|Temple of Merciful Life]] in Ikiria.
+- In [[sessions/session-026|Session 26]], Frank establishes the [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|Temple of Merciful Life]] in Ikiria.
+- In [[sessions/session-048|Session 48]], the party finds [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|the Temple of Merciful Life]] in Ikiria burned by civilian inquisitors, while Arden and Frank continue public healing and charity in the district.
 
 ## Current status
 
-Active and growing. The faith holds the Mercy, has at least one additional temple-front in Ikiria, and remains closely associated with several Bonebreakers.
+Active, but now under direct pressure in Ikiria. The faith holds the Mercy, but its known Ikirian temple-front has been burned, and the Belenites remain visibly associated with relief efforts during the plague.
 
 ## Related sessions
 
@@ -85,3 +87,4 @@ Active and growing. The faith holds the Mercy, has at least one additional templ
 
 - The exact doctrine and wider institutional reach of the Belenites in Agria remain unclear.
 - How stable Belenite control of [[locations/world/agria/southlands/mercy|the Mercy]] remains is still unsettled.
+- Whether the Belenites can restore their Ikirian base during the current crisis remains unresolved.

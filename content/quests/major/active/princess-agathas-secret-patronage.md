@@ -20,6 +20,7 @@ related_sessions:
   - 45
   - 46
   - 47
+  - 48
 related_locations:
   - Fos Imeras
   - Ikiria
@@ -44,6 +45,7 @@ source_sessions:
   - 45
   - 46
   - 47
+  - 48
 ---
 
 ## Overview
@@ -60,10 +62,11 @@ The party first meets Agatha as a stranded noble on [[locations/world/fos-imeras
 - The party's success at [[locations/world/agria/southlands/mercy|the Mercy]] gives Agatha a proven covert strike force in the Southlands.
 - Later sessions show that [[npcs/agria/prince-arthur|Prince Arthur]] is plotting against Agatha with help from the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]].
 - In [[sessions/session-047|Session 47]], the party delivers Arthur's evidence to Smith, but also learns that Agatha is absent from locked-down Ikiria.
+- In [[sessions/session-048|Session 48]], the party is told that Agatha's concealed whereabouts are standard procedure rather than evidence that she is missing.
 
 ## Current status
 
-Agatha remains an active secret patron, but she is absent from Ikiria while her agents handle Arthur's arrest and the city's wider crisis.
+Agatha remains an active secret patron, but she is absent from public view in Ikiria while her agents handle Arthur's arrest and the city's wider crisis.
 
 ## Consequences
 
@@ -97,9 +100,10 @@ Agatha remains an active secret patron, but she is absent from Ikiria while her 
 - [[sessions/session-044|Session 44]]
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-047|Session 47]]
+- [[sessions/session-048|Session 48]]
 
 ## Loose ends
 
 - How many missions Agatha still intends to give the party is unknown.
 - Arthur's conspiracy makes Agatha's long-term position unstable.
-- Agatha's current whereabouts remain unresolved.
+- Agatha's current whereabouts remain unresolved even though her secrecy is described as standard procedure.
