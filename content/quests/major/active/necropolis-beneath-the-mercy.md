@@ -17,6 +17,7 @@ related_sessions:
   - 46
   - 47
   - 48
+  - 49
 related_locations:
   - The Mercy
   - Necropolis
@@ -34,6 +35,7 @@ source_sessions:
   - 46
   - 47
   - 48
+  - 49
 ---
 
 ## Overview
@@ -54,10 +56,11 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 - By [[sessions/session-046|Session 46]], rumours point to another western entrance that may connect to the same complex.
 - In [[sessions/session-047|Session 47]], a captured recruiter places the Necropolis roughly 50 miles west of the Spider Market, giving the western-entrance rumour a little more support.
 - In [[sessions/session-048|Session 48]], undead wrapped in sailcloth marked with ancient imperial script rise from Ikiria's corpse pits, suggesting a possible necromantic link between the city crisis and the same buried civilisation.
+- In [[sessions/session-049|Session 49]], [[npcs/ikiria/maren-sollow|Maren Sollow]] says the corpse-pit undead were conjured and do not belong there, strengthening the case for deliberate necromancy linked to the same buried past, though not proving the exact source.
 
 ## Current status
 
-The delve is ongoing. Only part of Arch VII has been explored, and the party still does not understand the full scale or purpose of the necropolis. Session 48 adds the possibility that its influence, or that of related imperial necromancy, is now surfacing inside Ikiria itself.
+The delve is ongoing. Only part of Arch VII has been explored, and the party still does not understand the full scale or purpose of the necropolis. Sessions 48 and 49 strengthen the possibility that its influence, or that of related imperial necromancy, is now surfacing inside Ikiria itself.
 
 ## Consequences
 
@@ -87,6 +90,7 @@ The delve is ongoing. Only part of Arch VII has been explored, and the party sti
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-048|Session 48]]
+- [[sessions/session-049|Session 49]]
 
 ## Loose ends
 
@@ -94,3 +98,4 @@ The delve is ongoing. Only part of Arch VII has been explored, and the party sti
 - The exact split of events between Sessions 42 and 43 needs review.
 - The western entrance rumour is still not confirmed, but later testimony points in the same general direction.
 - Whether the undead in the Plats are directly connected to the Necropolis or only to the same imperial past remains unresolved.
+- The automaton grave near the corpse pit appears neutral to divine detection but still contains movement. Needs review.

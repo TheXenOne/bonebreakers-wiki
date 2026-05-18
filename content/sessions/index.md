@@ -54,3 +54,4 @@ Published session pages:
 - [[sessions/session-046|Session 46 - The Grey Khan's Game]]
 - [[sessions/session-047|Session 47 - Twenty Thousand in the Dark]]
 - [[sessions/session-048|Session 48 - The Burning of Belenus]]
+- [[sessions/session-049|Session 49 - Rot and Wraith]]

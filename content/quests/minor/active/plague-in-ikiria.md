@@ -14,6 +14,7 @@ related_sessions:
   - 43
   - 47
   - 48
+  - 49
 related_locations:
   - Ikiria
   - The Plats
@@ -29,11 +30,12 @@ source_sessions:
   - 43
   - 47
   - 48
+  - 49
 ---
 
 ## Overview
 
-Rumours of plague or sickness begin to spread again in [[locations/world/agria/southlands/ikiria|Ikiria]]. By [[sessions/session-048|Session 48]], the party learns that the crisis may involve both deliberate poisoning and later disease spread, but the exact source and larger necromantic element remain unclear.
+Rumours of plague or sickness begin to spread again in [[locations/world/agria/southlands/ikiria|Ikiria]]. By [[sessions/session-049|Session 49]], the party has learned that the crisis may involve deliberate poisoning, later disease spread, missing bodies, and direct undead incursions, but the exact source and larger necromantic element remain unclear.
 
 ## How it began
 
@@ -48,10 +50,12 @@ In [[sessions/session-041|Session 41]], the party hears continued rumours of pla
 - [[npcs/ikiria/maren-sollow|Maren Sollow]] argues that the first wave looks more like poisoning, likely tied to the public well, while later cases spread through overcrowding.
 - The same session introduces a civilian Inquisition that burns property, targets magic-users, and worsens unrest.
 - The investigation ends mid-fight with undead rising from [[locations/world/agria/southlands/ikiria/plats/corpse-pit|the Corpse Pit]] under necromantic and imperial-looking conditions.
+- In [[sessions/session-049|Session 49]], the corpse-pit battle continues, Maren says the undead were conjured and do not belong there, and a wraith kills her before the fighting is fully resolved.
+- Maren's notebook preserves her poison-then-disease theory even after her death.
 
 ## Current status
 
-Active and escalating. Ikiria remains under lockdown, the Plats are unstable, and the crisis now appears to involve poisoning, disease, missing bodies, and undead activity rather than a single simple plague.
+Active and escalating. Ikiria remains under lockdown, the Plats are unstable, and the crisis now appears to involve poisoning, disease, missing bodies, and sustained undead activity rather than a single simple plague.
 
 ## Related characters and NPCs
 
@@ -71,9 +75,11 @@ Active and escalating. Ikiria remains under lockdown, the Plats are unstable, an
 - [[sessions/session-043|Session 43]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-048|Session 48]]
+- [[sessions/session-049|Session 49]]
 
 ## Loose ends
 
 - Whether the first wave truly came from poisoned water remains unresolved.
 - It is still uncertain how much of the destruction in Ikiria comes from sickness, fire, panic, organised inquisitors, or something deeper.
 - The missing bodies and the undead rising from the pits may point to a second crisis layered on top of the plague.
+- Something neutral but active was detected inside the automaton grave near the corpse pit. Needs review.

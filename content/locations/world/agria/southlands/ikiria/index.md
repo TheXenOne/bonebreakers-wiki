@@ -18,6 +18,7 @@ source_sessions:
   - 43
   - 47
   - 48
+  - 49
 ---
 
 ## Overview
@@ -59,6 +60,7 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - Later sessions confirm worsening sickness and fires in the city.
 - In [[sessions/session-047|Session 47]], the city is sealed under lockdown, the upper districts are tense, the Plats are burnt and chaotic, and Arthur is arrested at the East Agria Company headquarters.
 - In [[sessions/session-048|Session 48]], the party investigates the Plats directly, finds [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|the Temple of Merciful Life]] burned down, learns that the plague may involve both poison and disease, and watches imperial-marked undead rise from the corpse pits.
+- In [[sessions/session-049|Session 49]], the corpse-pit battle continues, [[npcs/ikiria/maren-sollow|Maren Sollow]] is killed by a wraith, and the city's plague crisis is tied even more strongly to active undead incursions.
 
 ## Related sessions
 
@@ -71,9 +73,10 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - [[sessions/session-043|Session 43]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-048|Session 48]]
+- [[sessions/session-049|Session 49]]
 
 ## Unresolved threads or mysteries
 
-- The plague, fires, missing bodies, and wider unrest in Ikiria remain unresolved as of [[sessions/session-048|Session 48]].
+- The plague, fires, missing bodies, undead incursions, and wider unrest in Ikiria remain unresolved as of [[sessions/session-049|Session 49]].
 - The civilian inquisitors active in the Plats have no clear leadership on-page yet.
 - Arkeus survives long enough to be freed but disappears into an astral disturbance.

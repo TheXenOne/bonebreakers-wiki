@@ -9,6 +9,7 @@ aliases:
 parent_location: "[[locations/world/agria/southlands/ikiria/plats|The Plats]]"
 source_sessions:
   - 48
+  - 49
 ---
 
 ## Overview
@@ -23,11 +24,14 @@ The Corpse Pit is the main burial site in the southern Plats and one of the key 
 
 - In [[sessions/session-048|Session 48]], Maren tells the party that the number of bodies in the pit no longer matches the number delivered.
 - The same session ends mid-fight after undead claw their way out of the pit, including zombies, ghouls, mummies, and other stronger undead.
+- In [[sessions/session-049|Session 49]], the battle continues, Maren says the undead do not belong here, and a wraith kills her before the aftermath is shown.
 
 ## Related sessions
 
 - [[sessions/session-048|Session 48]]
+- [[sessions/session-049|Session 49]]
 
 ## Unresolved threads or mysteries
 
 - Who or what is removing or replacing the dead remains unresolved.
+- Why the automaton grave near the pit contains neutral but twitching movement is unresolved. Needs review.
