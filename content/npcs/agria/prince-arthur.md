@@ -19,7 +19,7 @@ source_sessions:
 
 ## Overview
 
-Prince Arthur is son of [[npcs/agria/queen-audrey-ii|Queen Audrey II]] and Duke of [[locations/world/agria/northlands|Northlands]]. Later sources confirm that he has been plotting with the [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]] to have [[npcs/agria/princess-agatha|Princess Agatha]] removed so that he can become heir. After Wendell's testimony and the presentation of written evidence in [[sessions/session-047|Session 47]], Arthur is placed under arrest in Ikiria.
+Prince Arthur is son of [[npcs/agria/queen-audrey-ii|Queen Audrey II]] and Duke of [[locations/world/agria/northlands|Northlands]]. He has been plotting with the [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]] to have [[npcs/agria/princess-agatha|Princess Agatha]] removed so that he can become heir. After Wendell's testimony and the presentation of written evidence in [[sessions/session-047|Session 47]], Arthur is placed under arrest in Ikiria.
 
 ## Appearance
 

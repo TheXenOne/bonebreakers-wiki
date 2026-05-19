@@ -11,7 +11,7 @@ source_sessions:
 
 ## Overview
 
-Eleftheria's Rudder is a small magical version of the [[locations/world/fos-imeras|Eleftheria]]'s rudder. The party holds it as the key item connected to summoning, assembling, or otherwise calling forth the Eleftheria, Ossilicus's magical ship.
+Eleftheria's Rudder is a small magical version of the [[locations/world/fos-imeras|Eleftheria]]'s rudder. The Bonebreakers currently hold it as a shared party item connected to summoning, assembling, or otherwise calling forth the Eleftheria, Ossilicus's magical ship.
 
 ## What it does
 

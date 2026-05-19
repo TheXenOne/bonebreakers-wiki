@@ -67,7 +67,7 @@ The gains are costly. Ike is slain in a skeleton ambush, and the party discovers
 
 - The hidden chamber's marble idol with empty eye sockets is later partly explained in Session 3, when the party finds two glass eyes they believe solve the puzzle, but the idol's full purpose is still not shown. Status: Partially resolved.
 - The purpose of the three blue gems taken from the brazier is not clarified. Status: Still unresolved.
-- The Barrow still contains unexplored areas beyond the tapestry route; later expeditions reach additional chambers and deeper caverns, especially in Session 23, but the sources do not present a complete accounting of every section. Status: Partially resolved.
+- The Barrow still contains unexplored areas beyond the tapestry route; later expeditions reach additional chambers and deeper caverns, especially in Session 23, but not every section is accounted for. Status: Partially resolved.
 - Virien's death is reversed in Session 3 through reincarnation at the Last Chance. Status: Resolved in Session 3.
 
 ## Related sessions

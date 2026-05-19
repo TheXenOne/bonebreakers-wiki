@@ -31,7 +31,7 @@ This page groups the most important named East Agria Company figures.
 ## Appearance
 
 - Commander Smith often works in disguise. Further description: Needs review.
-- Nelson's detailed appearance is not established in the current sources.
+- Nelson's detailed appearance is still unclear. Needs review.
 
 ## Personality
 

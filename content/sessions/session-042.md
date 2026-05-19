@@ -50,7 +50,7 @@ This stretch of the delve is defined less by one clean objective than by continu
 
 - The party uncovers more of the necropolis's distorted architecture.
 - Magic continues to cling heavily to the old imperial spaces.
-- A major enemy is brought down by Rose, but the source does not identify it clearly by name here.
+- A major enemy is brought down by Rose, but its identity is not clearly named here.
 - Session-specific loot and relic discoveries need review.
 
 ## Threads raised this session
