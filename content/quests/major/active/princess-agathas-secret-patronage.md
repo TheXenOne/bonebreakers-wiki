@@ -21,6 +21,7 @@ related_sessions:
   - 46
   - 47
   - 48
+  - 50
 related_locations:
   - Fos Imeras
   - Ikiria
@@ -46,6 +47,7 @@ source_sessions:
   - 46
   - 47
   - 48
+  - 50
 ---
 
 ## Overview
@@ -63,10 +65,11 @@ The party first meets Agatha as a stranded noble on [[locations/world/fos-imeras
 - Later sessions show that [[npcs/agria/prince-arthur|Prince Arthur]] is plotting against Agatha with help from the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]].
 - In [[sessions/session-047|Session 47]], the party delivers Arthur's evidence to Smith, but also learns that Agatha is absent from locked-down Ikiria.
 - In [[sessions/session-048|Session 48]], the party is told that Agatha's concealed whereabouts are standard procedure rather than evidence that she is missing.
+- In [[sessions/session-050|Session 50]], the party overhears ordinary citizens in the Plats claiming that Agatha is missing or has fled while the city suffers.
 
 ## Current status
 
-Agatha remains an active secret patron, but she is absent from public view in Ikiria while her agents handle Arthur's arrest and the city's wider crisis.
+Agatha remains an active secret patron, but she is absent from public view in Ikiria while her agents handle Arthur's arrest and the city's wider crisis. By [[sessions/session-050|Session 50]], that secrecy is feeding open public rumours that she has fled.
 
 ## Consequences
 
@@ -101,9 +104,11 @@ Agatha remains an active secret patron, but she is absent from public view in Ik
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-048|Session 48]]
+- [[sessions/session-050|Session 50]]
 
 ## Loose ends
 
 - How many missions Agatha still intends to give the party is unknown.
 - Arthur's conspiracy makes Agatha's long-term position unstable.
 - Agatha's current whereabouts remain unresolved even though her secrecy is described as standard procedure.
+- Whether she must reappear publicly to steady Ikiria's politics and morale is now an active question.

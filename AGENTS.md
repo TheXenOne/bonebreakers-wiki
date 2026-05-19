@@ -16,6 +16,8 @@ Published wiki pages live in `/content`.
 
 - Do not invent campaign facts.
 - Prefer facts from the lore document when describing stable world information.
+- Treat definitive spellings and naming canon as coming from `sources/lore.md` first and the published wiki second.
+- Raw session notes often contain inconsistent spellings and should not override the lore document or established wiki canon on names.
 - Prefer session summaries for narrative session pages.
 - Use raw session notes for extra detail, names, events, clues, and unresolved threads.
 - When uncertain, write "Needs review" rather than guessing.
@@ -112,6 +114,8 @@ source_sessions: []
 - Avoid over-dramatic prose on wiki pages.
 - Session summaries may be more cinematic.
 - Entity pages should be factual and easy to scan.
+- Frame descriptions as explanations of the current known state of the world, not as commentary about documents or publication status.
+- Avoid phrasing such as "recent notes", "published lore", "published sessions", or similar source-referential wording in wiki prose.
 - Use "Known appearances", "Relationships", "Associated locations", and "Open questions" where useful.
 
 ## Linking rules

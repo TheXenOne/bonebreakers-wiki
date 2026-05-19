@@ -11,11 +11,12 @@ source_sessions:
   - 47
   - 48
   - 49
+  - 50
 ---
 
 ## Overview
 
-The Plats are Ikiria's lower cliffside district, stretching along the docks beneath the upper city. By [[sessions/session-047|Session 47]] and [[sessions/session-048|Session 48]], they have become the centre of the city's plague, overcrowding, fires, and burial crisis.
+The Plats are Ikiria's lower cliffside district, stretching along the docks beneath the upper city. By [[sessions/session-047|Session 47]] through [[sessions/session-050|Session 50]], they have become the centre of the city's plague, overcrowding, fires, burial crisis, and anti-necromancer unrest.
 
 ## Geography and layout
 
@@ -57,16 +58,19 @@ The Plats are Ikiria's lower cliffside district, stretching along the docks bene
 - In [[sessions/session-048|Session 48]], the Bonebreakers cross the district while investigating missing bodies, the burned [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|Temple of Merciful Life]], and the possibility that the plague began with poison.
 - The same session ends mid-fight after imperial-marked undead rise from [[locations/world/agria/southlands/ikiria/plats/corpse-pit|The Corpse Pit]] and the cemetery.
 - In [[sessions/session-049|Session 49]], the corpse-pit fight continues, the undead threat proves sustained rather than momentary, and [[npcs/ikiria/maren-sollow|Maren Sollow]] is killed during the battle.
+- In [[sessions/session-050|Session 50]], the party ends the corpse-pit battle, finds parts of the southern district abandoned, faces a mob stirred up by inquisitors, and purifies [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]] after confirming it is poisoned.
 
 ## Related sessions
 
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-048|Session 48]]
 - [[sessions/session-049|Session 49]]
+- [[sessions/session-050|Session 50]]
 
 ## Unresolved threads or mysteries
 
 - Whether the public well was truly the source of the first poisoning remains unresolved.
 - The exact organisers and backers of the civilian inquisitors are unknown.
 - The relationship between the corpse-pit undead and older imperial necromancy is unresolved.
+- The significance of the pre-imperial Westmarsh coins found in the well is unresolved.
 - Something neutral but active remains in the automaton graveyard near the corpse pit. Needs review.

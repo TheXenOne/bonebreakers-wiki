@@ -55,3 +55,4 @@ Published session pages:
 - [[sessions/session-047|Session 47 - Twenty Thousand in the Dark]]
 - [[sessions/session-048|Session 48 - The Burning of Belenus]]
 - [[sessions/session-049|Session 49 - Rot and Wraith]]
+- [[sessions/session-050|Session 50 - Coins from a Dead Empire]]

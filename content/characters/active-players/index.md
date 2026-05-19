@@ -16,4 +16,5 @@ tags:
 - [[characters/active-players/jaykob|Jaykob]]
 - [[characters/active-players/connor|Connor]]
 - [[characters/active-players/john|John]]
+- [[characters/active-players/jennifer|Jennifer]]
 - [[characters/active-players/david|David]]

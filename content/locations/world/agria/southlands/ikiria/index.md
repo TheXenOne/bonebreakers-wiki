@@ -19,6 +19,7 @@ source_sessions:
   - 47
   - 48
   - 49
+  - 50
 ---
 
 ## Overview
@@ -61,6 +62,7 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - In [[sessions/session-047|Session 47]], the city is sealed under lockdown, the upper districts are tense, the Plats are burnt and chaotic, and Arthur is arrested at the East Agria Company headquarters.
 - In [[sessions/session-048|Session 48]], the party investigates the Plats directly, finds [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|the Temple of Merciful Life]] burned down, learns that the plague may involve both poison and disease, and watches imperial-marked undead rise from the corpse pits.
 - In [[sessions/session-049|Session 49]], the corpse-pit battle continues, [[npcs/ikiria/maren-sollow|Maren Sollow]] is killed by a wraith, and the city's plague crisis is tied even more strongly to active undead incursions.
+- In [[sessions/session-050|Session 50]], the party finds parts of the southern docks abandoned, purifies [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]], recovers planted pre-imperial coinage from it, and hears open public complaints that [[npcs/agria/princess-agatha|Princess Agatha]] has fled the city.
 
 ## Related sessions
 
@@ -74,9 +76,11 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-048|Session 48]]
 - [[sessions/session-049|Session 49]]
+- [[sessions/session-050|Session 50]]
 
 ## Unresolved threads or mysteries
 
-- The plague, fires, missing bodies, undead incursions, and wider unrest in Ikiria remain unresolved as of [[sessions/session-049|Session 49]].
+- The plague, fires, missing bodies, undead incursions, planted evidence, and wider unrest in Ikiria remain unresolved as of [[sessions/session-050|Session 50]].
 - The civilian inquisitors active in the Plats have no clear leadership on-page yet.
+- Public rumour now treats Princess Agatha's absence as possible flight, regardless of what her own allies say privately.
 - Arkeus survives long enough to be freed but disappears into an astral disturbance.

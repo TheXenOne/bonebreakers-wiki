@@ -20,7 +20,7 @@ The clearest new information comes at a cost. [[npcs/ikiria/maren-sollow|Maren S
 
 ## Important events
 
-- Quak! arrives to aid the party in the corpse-pit fight. The Session 49 source calls this figure "Quak II!" and describes them as a paladin. Needs review.
+- [[characters/active-players/jennifer/characters/quak-ii|Quak II!]] arrives to aid the party in the corpse-pit fight.
 - More skeletons climb from the grave pit while zombies, ghouls, wights, mummies, and wraiths continue the assault.
 - Arden turns undead more than once, destroying several skeletons and a zombie while also driving off ghouls.
 - Barny uses the Wand of Daystars to destroy one wraith and later blind and damage a wight and another wraith.
@@ -41,7 +41,7 @@ The clearest new information comes at a cost. [[npcs/ikiria/maren-sollow|Maren S
 ## NPCs and characters involved
 
 - [[npcs/ikiria/maren-sollow|Maren Sollow]]
-- Quak! The Session 49 source alternates between "Quak II!" and "Quack". Needs review.
+- [[characters/active-players/jennifer/characters/quak-ii|Quak II!]]
 - Maron. Needs review.
 - [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]]
 - [[characters/active-players/ben/characters/ulrich|Ulrich]]

@@ -14,6 +14,7 @@ source_sessions:
   - 1
   - 18
   - 41
+  - 50
 ---
 
 ## Overview
@@ -46,6 +47,7 @@ Magic-user.
 - Is slain by the Crimson Bishop's Finger of Death in [[sessions/session-022|Session 22]] and later restored.
 - Shares his backstory and supposed lost greatness in [[sessions/session-018|Session 18]].
 - Uses the Seer's Dagger and other strange magic repeatedly through later arcs, including [[sessions/session-041|Session 41]].
+- In [[sessions/session-050|Session 50]], a wight drains away half a level of his life force, prompting a panicked solo theft at East Agria Company Headquarters.
 
 ## Relationships
 
@@ -63,3 +65,4 @@ Active. Barny remains with the party.
 - [[sessions/session-018|Session 18]]
 - [[sessions/session-025|Session 25]]
 - [[sessions/session-041|Session 41]]
+- [[sessions/session-050|Session 50]]
