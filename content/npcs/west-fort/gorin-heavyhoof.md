@@ -1,9 +1,12 @@
 ---
-title: Goren HeavyHoof
+title: Gorin Heavyhoof
 type: npc
 tags:
   - npc
-  - teamster
+  - stablemaster
+aliases:
+  - Goren HeavyHoof
+  - Goren Heavyhoof
 aliases: []
 status: alive
 primary_location: West Fort
@@ -15,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Goren HeavyHoof is a half-orc teamster in West Fort who hires out wagons and war horses.
+Gorin Heavyhoof is a half-orc stablemaster in West Fort.
 
 ## Appearance
 
@@ -27,7 +30,7 @@ Needs review.
 
 ## Role in the campaign
 
-- Goren is part of the practical logistics network that helps make West Fort usable as a base.
+- Gorin is part of the practical logistics network that helps make West Fort usable as a base.
 
 ## Affiliations
 
@@ -43,7 +46,7 @@ Needs review.
 
 ## Campaign events
 
-- Goren appears in the party's wider West Fort support network after their arrival.
+- Gorin appears in the party's wider West Fort support network after their arrival.
 
 ## Current status
 

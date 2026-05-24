@@ -1,12 +1,12 @@
 ---
-title: The Golden Asclepieion
+title: The Golden Asclepeion
 type: location
 tags:
   - location
   - temple
 aliases:
-  - "The Golden Asclepion"
-  - "Golden Asclepieion"
+  - "The Golden Asclepeion"
+  - "Golden Asclepeion"
 parent_location: "[[locations/world/fos-imeras|Fos Imeras]]"
 source_sessions:
   - 15
@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-The Golden Asclepieion is the island temple at the heart of [[locations/world/fos-imeras|Fos Imeras]]. Once a centre of healing, it becomes a lair of harpies, enthralled physicians, purified victims, and Sebastaeia's warped version of mercy.
+The Golden Asclepeion is the island temple at the heart of [[locations/world/fos-imeras|Fos Imeras]]. Once a centre of healing, it becomes a lair of harpies, enthralled physicians, purified victims, and Sebastaeia's warped version of mercy.
 
 ## Geography and layout
 
@@ -36,7 +36,7 @@ The Golden Asclepieion is the island temple at the heart of [[locations/world/fo
 
 - Sebastaeia rules the temple before her death.
 - Harpies dominate much of the visible site.
-- Ossilicus, captives, and a princess of Agria are all recovered from the wider complex.
+- Orsilochus, captives, and a princess of Agria are all recovered from the wider complex.
 
 ## Campaign events
 

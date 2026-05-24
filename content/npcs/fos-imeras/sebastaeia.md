@@ -8,7 +8,7 @@ aliases: []
 status: dead
 primary_location: Fos Imeras
 affiliations:
-  - Golden Asclepieion
+  - Golden Asclepeion
 source_sessions:
   - 16
 ---
@@ -31,12 +31,12 @@ Calm, warped, and convinced of her own healing logic.
 
 ## Affiliations
 
-- [[locations/world/fos-imeras/golden-asclepieion|The Golden Asclepieion]]
+- [[locations/world/fos-imeras/golden-asclepeion|The Golden Asclepeion]]
 
 ## Associated locations
 
 - [[locations/world/fos-imeras/index|Fos Imeras]]
-- [[locations/world/fos-imeras/golden-asclepieion|The Golden Asclepieion]]
+- [[locations/world/fos-imeras/golden-asclepeion|The Golden Asclepeion]]
 
 ## Relationships
 

@@ -14,7 +14,7 @@ See also: [[sessions/index|Sessions]], [[sessions/session-023|Session 23 - Secre
 
 The Bonebreakers begin by putting their newly won church into order, dividing the rescued priests between repairs, spying, research, and clergy work. That brief sense of stability is shattered when a large group of ninja-like orcs strikes the church at night, targeting the party's fragile new power base rather than meeting them in the open.
 
-The raid is chaotic and costly. Frank sounds the alarm, Athlestan is attacked by Krazak the Silent, and four priests are carried off before the party can fully react. Barny uses his crystal ball to confirm the hostages are alive and to identify Gruumsh One-tusk's force at an old shrine of Mulvis, but the session ends before the rescue attempt begins in earnest.
+The raid is chaotic and costly. Frank sounds the alarm, Athlestan is attacked by Krazak the Silent, and four priests are carried off before the party can fully react. Barny uses his crystal ball to confirm the hostages are alive and to identify Gruumsh One-Tusk's force at an old shrine of Mulvis, but the session ends before the rescue attempt begins in earnest.
 
 ## Important events
 
@@ -25,7 +25,7 @@ The raid is chaotic and costly. Frank sounds the alarm, Athlestan is attacked by
 - Four priests are taken hostage.
 - Barny uses a crystal ball to track the attackers.
 - A charmed orc reveals that about one hundred orcs are gathered at an old shrine of Mulvis.
-- Gruumsh One-tusk demands 60,000 gold pieces for the four priests.
+- Gruumsh One-Tusk demands 60,000 gold pieces for the four priests.
 - The party pays 15,000 gold pieces to recover one hostage.
 - The remaining rescue is left for the next session.
 
@@ -46,7 +46,7 @@ The raid is chaotic and costly. Frank sounds the alarm, Athlestan is attacked by
 - Luthien
 - Selvar
 - Krazak the Silent
-- Gruumsh One-tusk
+- Gruumsh One-Tusk
 - Rescued and captured priests
 - Villagers from the surrounding area
 
@@ -60,7 +60,7 @@ The raid is chaotic and costly. Frank sounds the alarm, Athlestan is attacked by
 ## Threads raised this session
 
 - The remaining kidnapped priests are still in Gruumsh's hands at session end. Status: Resolved in Session 25.
-- Gruumsh One-tusk's warband becomes the next major target. Status: Resolved in Session 25.
+- Gruumsh One-Tusk's warband becomes the next major target. Status: Resolved in Session 25.
 - Krazak the Silent escapes the initial raid. Status: Resolved in Session 25.
 - The long-term security of the reclaimed church remains fragile. Status: Partially resolved.
 

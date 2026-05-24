@@ -12,11 +12,11 @@ See also: [[sessions/index|Sessions]], [[sessions/session-012|Session 12 - A Que
 
 ## Narrative recap
 
-With a map to the Golden Asclepion in hand, the Bonebreakers begin gathering information for a journey east. Frank and Ehecat join the company, and the party pieces together the wider geography of East Agria, the West Marches, and the road to Ikiria. A routine stop at the Steamy Smithy turns into a fight when two hooded strangers reveal themselves as wererats and attack innocent guests.
+With a map to the Golden Asclepeion in hand, the Bonebreakers begin gathering information for a journey east. Frank and Ehecat join the company, and the party pieces together the wider geography of East Agria, the West Marches, and the road to Ikiria. A routine stop at the Steamy Smithy turns into a fight when two hooded strangers reveal themselves as wererats and attack innocent guests.
 
 One wererat is killed and the other captured. Arden heals the wounded coffee merchant James, who rewards the party with practical information about Ikiria and promises to look for them there. Barny charms the surviving wererat, names him Rattius, and gains a strange new follower for the next stage of the journey.
 
-The road east is comparatively quiet. The party passes an ominous cathedral they choose not to investigate, survives a night attack by glowing beetles, and bottles their luminous cores. On the third day they arrive in Ikiria, where a porter at Flux Academy arranges meetings with Ulna Glitterpatch and Herbert Newell for the following morning.
+The road east is comparatively quiet. The party passes an ominous cathedral they choose not to investigate, survives a night attack by glowing beetles, and bottles their luminous cores. On the third day they arrive in Ikiria, where a porter at Flux Academy arranges meetings with Ulna Glitterpatch and Herbert Nuel for the following morning.
 
 ## Important events
 
@@ -55,7 +55,7 @@ The road east is comparatively quiet. The party passes an ominous cathedral they
 - The captured wererat
 - The Flux Academy porter
 - Ulna Glitterpatch
-- Herbert Newell
+- Herbert Nuel
 
 ## Items, magic, and discoveries
 
@@ -66,7 +66,7 @@ The road east is comparatively quiet. The party passes an ominous cathedral they
 
 ## Threads raised this session
 
-- The Golden Asclepion map leads the party to seek expert help at Flux Academy. Status: Resolved in Session 14.
+- The Golden Asclepeion map leads the party to seek expert help at Flux Academy. Status: Resolved in Session 14.
 - The ominous cathedral by the road later becomes the center of Princess Agatha’s first secret mission. Status: Resolved in Session 18.
 - Rattius begins traveling with the party and continues to matter in later sessions. Status: Partially resolved.
 - James promises to reconnect in Ikiria, but that meeting is not yet shown at this stage. Status: Needs review.

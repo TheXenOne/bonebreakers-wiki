@@ -1,10 +1,11 @@
 ---
-title: Alric Zaxerus
+title: Alric Zexerus
 type: npc
 tags:
   - npc
   - scholar
 aliases:
+  - Alric Zaxerus
   - Alrich Zaxerus
   - Aldrich Zaxarus
 status: active
@@ -17,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Alric Zaxerus is the elven headmaster of the College of Wizardry at [[locations/world/agria/southlands/ikiria/flux-academy|Flux Academy]].
+Alric Zexerus is the elven headmaster of the College of Wizardry at [[locations/world/agria/southlands/ikiria/flux-academy|Flux Academy]].
 
 ## Appearance
 

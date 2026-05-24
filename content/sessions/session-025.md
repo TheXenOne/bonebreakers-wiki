@@ -49,7 +49,7 @@ Once the attack begins, the orc force collapses fast. Priests are freed, Gruumsh
 - Athlestan
 - Luthien
 - Selvar
-- Gruumsh One-tusk
+- Gruumsh One-Tusk
 - Krazak the Silent
 - Cronk
 - Captured priests

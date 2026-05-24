@@ -1,5 +1,5 @@
 ---
-title: Thomas
+title: Tomas Wren
 type: npc
 tags:
   - npc

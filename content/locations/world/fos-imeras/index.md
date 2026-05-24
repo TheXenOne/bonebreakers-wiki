@@ -22,12 +22,12 @@ Fos Imeras is a remote island once famous for miraculous healing. By the time th
 ## Geography and layout
 
 - The party approaches by sea and lands first on the southern beach.
-- The island's main known sites are [[locations/world/fos-imeras/golden-asclepieion|the Golden Asclepieion]] and the lake that hides the Eleftheria and the Nixies' underwater realm.
+- The island's main known sites are [[locations/world/fos-imeras/golden-asclepeion|the Golden Asclepeion]] and the lake that hides the Eleftheria and the Nixies' underwater realm.
 
 ## Notable sublocations
 
 - Southern beach
-- [[locations/world/fos-imeras/golden-asclepieion|The Golden Asclepieion]]
+- [[locations/world/fos-imeras/golden-asclepeion|The Golden Asclepeion]]
 - The Nixies' lake
 - Underwater city below the lake
 
@@ -35,7 +35,7 @@ Fos Imeras is a remote island once famous for miraculous healing. By the time th
 
 - Sebastaeia rules the island's central temple before the party kills her.
 - Harpies, physicians, purified victims, and Nixies all shape the island arc.
-- Ossilicus and a rescued Agrian princess are both recovered here.
+- Orsilochus and a rescued Agrian princess are both recovered here.
 
 ## Campaign events
 

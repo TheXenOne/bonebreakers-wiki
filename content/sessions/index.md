@@ -20,7 +20,7 @@ Published session pages:
 - [[sessions/session-012|Session 12 - A Queen’s Death]]
 - [[sessions/session-013|Session 13 - Road to Ikiria]]
 - [[sessions/session-014|Session 14 - Voyage to Fos Imeras]]
-- [[sessions/session-015|Session 15 - The Golden Asclepion]]
+- [[sessions/session-015|Session 15 - The Golden Asclepeion]]
 - [[sessions/session-016|Session 16 - Sebastaeia]]
 - [[sessions/session-017|Session 17 - Beneath the Surface, Above Suspicion]]
 - [[sessions/session-018|Session 18 - New Beginnings]]

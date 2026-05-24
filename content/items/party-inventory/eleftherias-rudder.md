@@ -11,7 +11,7 @@ source_sessions:
 
 ## Overview
 
-Eleftheria's Rudder is a small magical version of the [[locations/world/fos-imeras|Eleftheria]]'s rudder. The Bonebreakers currently hold it as a shared party item connected to summoning, assembling, or otherwise calling forth the Eleftheria, Ossilicus's magical ship.
+Eleftheria's Rudder is a small magical version of the [[locations/world/fos-imeras|Eleftheria]]'s rudder. The Bonebreakers currently hold it as a shared party item connected to summoning, assembling, or otherwise calling forth the Eleftheria, Orsilochus's magical ship.
 
 ## What it does
 
@@ -32,16 +32,16 @@ These were the same riddle components used to call the ship from the lake on [[l
 
 ## Known history
 
-- In [[sessions/session-014|Session 14]], the party is tasked with finding Ossilicus and recovering the Eleftheria.
+- In [[sessions/session-014|Session 14]], the party is tasked with finding Orsilochus and recovering the Eleftheria.
 - In [[sessions/session-016|Session 16]], Athlestan remembers the lake riddle and the Eleftheria rises when the needed offerings are given.
 - In [[sessions/session-017|Session 17]], the party learns more about the ship's modular magical nature.
 - The party later keeps the smaller rudder as the item connected to calling or managing the ship. Exact later handling details: Needs review.
 
 ## Related people and places
 
-- [[npcs/fos-imeras/orsilochus|Ossilicus]]
+- [[npcs/fos-imeras/orsilochus|Orsilochus]]
 - [[locations/world/fos-imeras|Fos Imeras]]
-- [[quests/major/completed/fos-imeras-and-the-golden-asclepion|Fos Imeras and the Golden Asclepion]]
+- [[quests/major/completed/fos-imeras-and-the-golden-asclepeion|Fos Imeras and the Golden Asclepeion]]
 
 ## Related sessions
 

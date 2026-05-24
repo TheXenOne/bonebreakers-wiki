@@ -10,7 +10,7 @@ aliases:
 status: broken
 primary_location: Kelfrek Marsh
 affiliations:
-  - Gruumsh Onetusk
+  - Gruumsh One-Tusk
 source_sessions:
   - 24
   - 25
@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-The Orcs of Kelfrek Marsh are Gruumsh Onetusk's disciplined warband in Kelfrek Marsh.
+The Orcs of Kelfrek Marsh are Gruumsh One-Tusk's disciplined warband in Kelfrek Marsh.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Disciplined, aggressive, and highly coordinated.
 
 ## Affiliations
 
-- [[npcs/kelfrek-marsh/gruumsh-onetusk|Gruumsh Onetusk]]
+- [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]]
 
 ## Associated locations
 

@@ -29,13 +29,13 @@ The Ramen Empire is a distant military dictatorship defined by martial law and i
 ## Associated people and groups
 
 - Imperial officers control access to Fos Imeras during the party's expedition.
-- Ossilicus is a legendary imperial figure recovered there.
+- Orsilochus is a legendary imperial figure recovered there.
 - The Empire is also part of Princess Agatha's covert diplomatic mission.
 
 ## Campaign events
 
 - In [[sessions/session-014|Session 14]], Ramen ships surround the Bonebreakers and force an additional set of objectives on the Fos Imeras expedition.
-- In [[sessions/session-017|Session 17]], the return of Ossilicus changes the Empire's response from threat to escort.
+- In [[sessions/session-017|Session 17]], the return of Orsilochus changes the Empire's response from threat to escort.
 - In [[sessions/session-018|Session 18]], Agatha explains the wider political tension between Agria and the Empire.
 
 ## Related sessions

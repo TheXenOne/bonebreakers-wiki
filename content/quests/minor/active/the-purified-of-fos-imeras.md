@@ -13,7 +13,7 @@ related_sessions:
   - 16
 related_locations:
   - Fos Imeras
-  - Golden Asclepion
+  - Golden Asclepeion
 related_npcs:
   - Sebastaeia
 related_factions:
@@ -24,7 +24,7 @@ source_sessions:
 
 ## Overview
 
-Deep inside the [[locations/world/fos-imeras/golden-asclepieion|Golden Asclepion]], the party encounters faceless beings called the purified and a larger fused mass made from them. Their origin and exact nature are still unclear.
+Deep inside the [[locations/world/fos-imeras/golden-asclepeion|Golden Asclepeion]], the party encounters faceless beings called the purified and a larger fused mass made from them. Their origin and exact nature are still unclear.
 
 ## How it began
 
@@ -47,7 +47,7 @@ Needs review. The Fos Imeras expedition ends, but it never becomes clear what th
 ## Related locations
 
 - [[locations/world/fos-imeras|Fos Imeras]]
-- [[locations/world/fos-imeras/golden-asclepieion|Golden Asclepion]]
+- [[locations/world/fos-imeras/golden-asclepeion|Golden Asclepeion]]
 
 ## Related sessions
 

@@ -27,7 +27,7 @@ Flux Academy is a prestigious institution of learning in the upper city of [[loc
 
 ## Associated people and groups
 
-- Alric Zaxerus leads the College of Wizardry.
+- Alric Zexerus leads the College of Wizardry.
 - Ulna Glitterpatch leads the Institute of Health.
 - Herbert Nuel leads the College of Practical Invention.
 - Illitharien Morel leads the Historium.

@@ -1,5 +1,5 @@
 ---
-title: Fos Imeras and the Golden Asclepion
+title: Fos Imeras and the Golden Asclepeion
 type: campaign-thread
 status: completed
 importance: major
@@ -18,12 +18,12 @@ related_sessions:
 related_locations:
   - Ikiria
   - Fos Imeras
-  - Golden Asclepion
+  - Golden Asclepeion
   - Eleftheria
 related_npcs:
   - Ulna Glitterpatch
   - Sebastaeia
-  - Ossilicus
+  - Orsilochus
   - Nixies
   - Princess Agatha
 related_factions:
@@ -39,7 +39,7 @@ source_sessions:
 
 ## Overview
 
-Following Draxas's map, the party travels to [[locations/world/fos-imeras|Fos Imeras]] to discover what happened to its once-famous healing sanctuary. The expedition ends with the Asclepion cleared, Ossilicus recovered, and Princess Agatha rescued.
+Following Draxas's map, the party travels to [[locations/world/fos-imeras|Fos Imeras]] to discover what happened to its once-famous healing sanctuary. The expedition ends with the Asclepeion cleared, Orsilochus recovered, and Princess Agatha rescued.
 
 ## How it began
 
@@ -48,9 +48,9 @@ In [[sessions/session-013|Session 13]] and [[sessions/session-014|Session 14]], 
 ## Key developments
 
 - The party reaches Fos Imeras by sea while balancing obligations to the [[locations/world/ramen-empire|Ramen Empire]].
-- The Golden Asclepion is found overrun by harpies, physicians, purified horrors, and [[npcs/fos-imeras/sebastaeia|Sebastaeia]].
+- The Golden Asclepeion is found overrun by harpies, physicians, purified horrors, and [[npcs/fos-imeras/sebastaeia|Sebastaeia]].
 - The party defeats Sebastaeia, escapes via the lake riddle, and recovers the Eleftheria.
-- In [[sessions/session-017|Session 17]], the remaining harpies are cleared, Ossilicus is recovered, and Princess Agatha is rescued.
+- In [[sessions/session-017|Session 17]], the remaining harpies are cleared, Orsilochus is recovered, and Princess Agatha is rescued.
 
 ## Current status
 
@@ -58,26 +58,26 @@ The expedition's main objectives are complete.
 
 ## Resolution
 
-The party returns to Ikiria with proof of what happened on Fos Imeras, the rescued nobles, Ossilicus, and Princess Agatha herself.
+The party returns to Ikiria with proof of what happened on Fos Imeras, the rescued nobles, Orsilochus, and Princess Agatha herself.
 
 ## Consequences
 
 - Agatha's rescue leads directly to her secret patronage.
-- The Ramen obligations around Ossilicus and the Eleftheria are satisfied.
+- The Ramen obligations around Orsilochus and the Eleftheria are satisfied.
 - The temple's most disturbing by-products, the purified, remain poorly understood.
 
 ## Related characters and NPCs
 
 - [[npcs/flux-academy/ulna-glitterpatch|Ulna Glitterpatch]]
 - [[npcs/fos-imeras/sebastaeia|Sebastaeia]]
-- [[npcs/fos-imeras/orsilochus|Ossilicus]]
+- [[npcs/fos-imeras/orsilochus|Orsilochus]]
 - [[npcs/fos-imeras/nixies|Nixies]]
 - [[npcs/agria/princess-agatha|Princess Agatha]]
 
 ## Related locations
 
 - [[locations/world/fos-imeras|Fos Imeras]]
-- [[locations/world/fos-imeras/golden-asclepieion|Golden Asclepion]]
+- [[locations/world/fos-imeras/golden-asclepeion|Golden Asclepeion]]
 - [[locations/world/agria/southlands/ikiria|Ikiria]]
 
 ## Related factions

@@ -12,7 +12,7 @@ tags:
 - [[npcs/west-fort/the-cracked-shield/index|The Cracked Shield]]
 - [[npcs/west-fort/sister-aldrith|Sister Aldrith]]
 - [[npcs/west-fort/kenric|Kenric]]
-- [[npcs/west-fort/goren-heavyhoof|Goren HeavyHoof]]
+- [[npcs/west-fort/gorin-heavyhoof|Gorin Heavyhoof]]
 - [[npcs/west-fort/private-jordan|Private Jordan]]
 - [[npcs/west-fort/aldus-fenwick|Aldus Fenwick]]
 - [[npcs/west-fort/west-fort-garrison|West Fort Garrison]]

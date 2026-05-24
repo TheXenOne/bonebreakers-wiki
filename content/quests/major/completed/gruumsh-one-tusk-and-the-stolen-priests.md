@@ -1,5 +1,5 @@
 ---
-title: Gruumsh One-tusk and the Stolen Priests
+title: Gruumsh One-Tusk and the Stolen Priests
 type: campaign-thread
 status: completed
 importance: major
@@ -17,7 +17,7 @@ related_locations:
   - Shrine of the Oozing Serpent
   - Kelfrek Marsh
 related_npcs:
-  - Gruumsh One-tusk
+  - Gruumsh One-Tusk
   - Krazak the Silent
   - Captain Fardr
 related_factions:
@@ -30,7 +30,7 @@ source_sessions:
 
 ## Overview
 
-Soon after the party claims [[locations/world/agria/southlands/mercy|the Mercy]], a large orc raid carries off several priests. The rescue succeeds, but [[npcs/kelfrek-marsh/gruumsh-onetusk|Gruumsh One-tusk]] is allowed to leave alive, leaving the thread dormant rather than cleanly closed.
+Soon after the party claims [[locations/world/agria/southlands/mercy|the Mercy]], a large orc raid carries off several priests. The rescue succeeds, but [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]] is allowed to leave alive, leaving the thread dormant rather than cleanly closed.
 
 ## How it began
 
@@ -58,7 +58,7 @@ The remaining priests are rescued, Gruumsh's stronghold is broken, and the immed
 
 ## Related characters and NPCs
 
-- [[npcs/kelfrek-marsh/gruumsh-onetusk|Gruumsh One-tusk]]
+- [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]]
 - [[npcs/mercy/captain-fardr|Captain Fardr]]
 - [[characters/active-players/callum/retainers-followers/krazak-the-silent|Krazak the Silent]]
 

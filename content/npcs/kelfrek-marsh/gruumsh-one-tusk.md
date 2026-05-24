@@ -1,10 +1,12 @@
 ---
-title: Gruumsh Onetusk
+title: Gruumsh One-Tusk
 type: npc
 tags:
   - npc
   - orc
-aliases: []
+aliases:
+  - Gruumsh Onetusk
+  - Gruumsh One-tusk
 status: alive
 primary_location: Kelfrek Marsh
 affiliations:
@@ -16,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Gruumsh Onetusk is the warlord of Kelfrek Marsh and leader of the orc raid on the Mercy.
+Gruumsh One-Tusk is the warlord of Kelfrek Marsh and leader of the orc raid on the Mercy.
 
 ## Appearance
 

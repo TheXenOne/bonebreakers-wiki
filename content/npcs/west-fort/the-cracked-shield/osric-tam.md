@@ -41,7 +41,7 @@ Dependable and later loyal to the party.
 
 ## Relationships
 
-- Employer of [[npcs/west-fort/the-cracked-shield/sarla|Sarla]] and [[npcs/west-fort/the-cracked-shield/lyanna|Lyanna]].
+- Employer of [[npcs/west-fort/the-cracked-shield/sarla|Sarla]] and [[npcs/west-fort/the-cracked-shield/lianna|Lianna]].
 
 ## Campaign events
 

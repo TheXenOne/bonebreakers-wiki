@@ -1,5 +1,5 @@
 ---
-title: Session 15 - The Golden Asclepion
+title: Session 15 - The Golden Asclepeion
 type: session
 session: 15
 tags:
@@ -34,7 +34,7 @@ While the island falls deeper into chaos, Arden undergoes a more inward transfor
 ## Locations visited
 
 - Fos Imeras
-- The Golden Asclepion
+- The Golden Asclepeion
 - The shoreline near the wreck
 
 ## NPCs and characters involved
@@ -53,13 +53,13 @@ While the island falls deeper into chaos, Arden undergoes a more inward transfor
 
 ## Items, magic, and discoveries
 
-- The party confirms the Golden Asclepion is overrun and dangerous.
+- The party confirms the Golden Asclepeion is overrun and dangerous.
 - The shipwreck destroys both carts, Sirius, and the Alphorn.
 - Arden receives a strong divine calling centered on temple-building and healing.
 
 ## Threads raised this session
 
-- The failed first assault on the Golden Asclepion leads directly into the deeper temple arc. Status: Resolved in Session 17.
+- The failed first assault on the Golden Asclepeion leads directly into the deeper temple arc. Status: Resolved in Session 17.
 - Arden’s divine calling to build a temple shapes his later ambitions and eventually aligns with the party’s claim on the cathedral. Status: Partially resolved.
 - The loss of Sirius, the carts, and the Alphorn is not reversed. Status: Still unresolved.
 

@@ -31,8 +31,8 @@ The second half of the session shifts from covert raiding to political fallout. 
 - Steve kills the captured orcs and other prisoners to clear cell space, and Valerius warns him that the law will be applied to him like anyone else if he does it again.
 - In [[locations/world/agria/southlands/barrowshire/barrow-spa/index|Barrow Spa]], the Bonebreakers deposit the 20,000 gold, visit [[locations/world/agria/southlands/barrowshire/barrow-spa/bean-counter|the Bean Counter]], and persuade Wendell to testify.
 - At [[locations/world/agria/southlands/mercy|the Mercy]], the party gathers the stored evidence and tells [[characters/active-players/deri/characters/akal-dreek|Akal]] not to activate the contingency plan.
-- [[npcs/agria/prince-arthurs-retinue/captain-hassar|Captain Hassar]] uses his authority to get the party into locked-down Ikiria.
-- In Ikiria, Smith accepts Wendell's testimony and the written evidence, then orders Arthur arrested through [[npcs/agria/prince-arthurs-retinue/captain-hassar|Captain Hassar]].
+- [[npcs/agria/prince-arthurs-retinue/captain-hassock|Captain Hassock]] uses his authority to get the party into locked-down Ikiria.
+- In Ikiria, Smith accepts Wendell's testimony and the written evidence, then orders Arthur arrested through [[npcs/agria/prince-arthurs-retinue/captain-hassock|Captain Hassock]].
 
 ## Locations visited
 
@@ -52,7 +52,7 @@ The second half of the session shifts from covert raiding to political fallout. 
 - [[npcs/agria/prince-arthur|Prince Arthur]]
 - [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]]
 - [[npcs/agria/east-agria-company/commander-smith|Commander Smith]]
-- [[npcs/agria/prince-arthurs-retinue/captain-hassar|Captain Hassar]]
+- [[npcs/agria/prince-arthurs-retinue/captain-hassock|Captain Hassock]]
 - [[npcs/west-fort/commander-valerius|Commander Valerius]]
 - [[npcs/agria/princess-agatha|Princess Agatha]]
 - [[characters/active-players/connor/characters/cyder|Cyder]]

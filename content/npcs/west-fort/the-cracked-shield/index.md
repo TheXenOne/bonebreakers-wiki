@@ -24,7 +24,7 @@ This page groups the named civilians most closely tied to [[locations/world/agri
 
 - [[npcs/west-fort/the-cracked-shield/osric-tam|Osric Tam]]: Owner of the Cracked Shield and a dependable local ally.
 - [[npcs/west-fort/the-cracked-shield/sarla|Sarla]]: Serving girl coerced by Vex into arson, then nearly murdered to keep her quiet.
-- [[npcs/west-fort/the-cracked-shield/lyanna|Lyanna]]: Serving girl rescued from the fire.
+- [[npcs/west-fort/the-cracked-shield/lianna|Lianna]]: Serving girl rescued from the fire.
 
 ## Appearance
 
@@ -52,18 +52,18 @@ This page groups the named civilians most closely tied to [[locations/world/agri
 ## Relationships
 
 - Sarla is coerced by [[npcs/west-fort/grey-syndicate/vex|Vex]].
-- Osric and Lyanna are among the civilians the party rescues from the fire.
+- Osric and Lianna are among the civilians the party rescues from the fire.
 
 ## Campaign events
 
 - Osric first appears when the party reaches West Fort in [[sessions/session-033|Session 33]].
-- In [[sessions/session-035|Session 35]], the fire, Sarla's confession, and Lyanna's rescue expose the conspiracy inside the fort.
+- In [[sessions/session-035|Session 35]], the fire, Sarla's confession, and Lianna's rescue expose the conspiracy inside the fort.
 
 ## Current status
 
 - Osric: alive.
 - Sarla: alive after Cedric saves her.
-- Lyanna: alive.
+- Lianna: alive.
 
 ## Related sessions
 

@@ -40,7 +40,7 @@ The Shrine of the Oozing Serpent is a semi-ruined gnome-built complex in the san
 ## Associated people and groups
 
 - Sootmurk, the Grease Dragon, laired here.
-- Gruumsh One-tusk later used the shrine as a fortified base.
+- Gruumsh One-Tusk later used the shrine as a fortified base.
 - Orcs, Gloops, and trapped priests all become part of the shrine's campaign history.
 
 ## Campaign events

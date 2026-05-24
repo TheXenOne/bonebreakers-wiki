@@ -10,7 +10,7 @@ status: active
 primary_location: Ikiria
 notable_members:
   - Ulna Glitterpatch
-  - Alric Zaxerus
+  - Alric Zexerus
   - Herbert Nuel
   - Illitharien Morel
   - Screever Longtooth
@@ -36,13 +36,13 @@ The Academy supports magical, historical, medical, and practical study. In the c
 ## Leadership
 
 - [[npcs/flux-academy/ulna-glitterpatch|Ulna Glitterpatch]] is a leading medical scholar and the Academy figure most directly tied to the Fos Imeras mission.
-- [[npcs/flux-academy/alric-zaxerus|Alric Zaxerus]], [[npcs/flux-academy/herbert-nuel|Herbert Nuel]], and [[npcs/flux-academy/illitharien-morel|Illitharien Morel]] represent major academic disciplines.
+- [[npcs/flux-academy/alric-zexerus|Alric Zexerus]], [[npcs/flux-academy/herbert-nuel|Herbert Nuel]], and [[npcs/flux-academy/illitharien-morel|Illitharien Morel]] represent major academic disciplines.
 - [[npcs/flux-academy/screever-longtooth|Screever Longtooth]] becomes important during the sentient weapon crisis.
 
 ## Notable members
 
 - [[npcs/flux-academy/ulna-glitterpatch|Ulna Glitterpatch]]
-- [[npcs/flux-academy/alric-zaxerus|Alric Zaxerus]]
+- [[npcs/flux-academy/alric-zexerus|Alric Zexerus]]
 - [[npcs/flux-academy/herbert-nuel|Herbert Nuel]]
 - [[npcs/flux-academy/illitharien-morel|Illitharien Morel]]
 - [[npcs/flux-academy/screever-longtooth|Screever Longtooth]]

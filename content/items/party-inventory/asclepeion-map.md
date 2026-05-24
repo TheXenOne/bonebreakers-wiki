@@ -1,5 +1,5 @@
 ---
-title: Asclepieion Map
+title: Asclepeion Map
 tags:
   - item
   - map
@@ -10,11 +10,11 @@ source_sessions:
 
 ## Overview
 
-The Asclepieion Map is the hidden map discovered inside the [[items/party-inventory/encoded-gnomish-tome|Encoded Gnomish Tome]]. It is currently kept as a shared party clue item and points the Bonebreakers toward the [[locations/world/fos-imeras/golden-asclepieion|Golden Asclepieion]] and the lake tied to the Eleftheria.
+The Asclepeion Map is the hidden map discovered inside the [[items/party-inventory/encoded-gnomish-tome|Encoded Gnomish Tome]]. It is currently kept as a shared party clue item and points the Bonebreakers toward the [[locations/world/fos-imeras/golden-asclepeion|Golden Asclepeion]] and the lake tied to the Eleftheria.
 
 ## Known details
 
-- The map shows a golden Asclepieion on an island.
+- The map shows a golden Asclepeion on an island.
 - It also marks a nearby lake with an `X`, foreshadowing the route to [[items/party-inventory/eleftherias-rudder|the Eleftheria]].
 
 ## Known history

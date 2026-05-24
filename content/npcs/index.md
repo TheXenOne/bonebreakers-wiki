@@ -25,7 +25,7 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 
 ## Flux Academy
 
-- [[npcs/flux-academy/alric-zaxerus|Alric Zaxerus]]
+- [[npcs/flux-academy/alric-zexerus|Alric Zexerus]]
 - [[npcs/flux-academy/ulna-glitterpatch|Ulna Glitterpatch]]
 - [[npcs/flux-academy/herbert-nuel|Herbert Nuel]]
 - [[npcs/flux-academy/illitharien-morel|Illitharien Morel]]
@@ -47,7 +47,7 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 ## Kelfrek Marsh
 
 - [[npcs/kelfrek-marsh/shrine-of-the-oozing-serpent/index|Shrine of the Oozing Serpent]]
-- [[npcs/kelfrek-marsh/gruumsh-onetusk|Gruumsh Onetusk]]
+- [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]]
 - [[npcs/kelfrek-marsh/orcs-of-the-marsh|The Orcs of Kelfrek Marsh]]
 
 ## West Fort
@@ -58,7 +58,7 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 - [[npcs/west-fort/the-cracked-shield/index|The Cracked Shield]]
 - [[npcs/west-fort/sister-aldrith|Sister Aldrith]]
 - [[npcs/west-fort/kenric|Kenric]]
-- [[npcs/west-fort/goren-heavyhoof|Goren HeavyHoof]]
+- [[npcs/west-fort/gorin-heavyhoof|Gorin Heavyhoof]]
 - [[npcs/west-fort/private-jordan|Private Jordan]]
 - [[npcs/west-fort/aldus-fenwick|Aldus Fenwick]]
 - [[npcs/west-fort/west-fort-garrison|West Fort Garrison]]

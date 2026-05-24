@@ -10,7 +10,7 @@ aliases:
 status: broken
 primary_location: Kelfrek Marsh
 notable_members:
-  - Gruumsh Onetusk
+  - Gruumsh One-Tusk
   - Krazak the Silent
 related_locations:
   - Kelfrek Marsh
@@ -23,7 +23,7 @@ source_sessions:
 
 ## Overview
 
-The Orcs of Kelfrek Marsh are the disciplined warband led by [[npcs/kelfrek-marsh/gruumsh-onetusk|Gruumsh Onetusk]] in [[locations/world/agria/southlands/barrowshire/kelfrek-marsh|Kelfrek Marsh]].
+The Orcs of Kelfrek Marsh are the disciplined warband led by [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]] in [[locations/world/agria/southlands/barrowshire/kelfrek-marsh|Kelfrek Marsh]].
 
 ## Purpose or role
 
@@ -31,12 +31,12 @@ They act as a local military threat rather than a loose raider band. Their best-
 
 ## Leadership
 
-- [[npcs/kelfrek-marsh/gruumsh-onetusk|Gruumsh Onetusk]] leads the warband.
+- [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]] leads the warband.
 - [[characters/active-players/callum/retainers-followers/krazak-the-silent|Krazak the Silent]] served as his lieutenant and horn-bearer before being killed.
 
 ## Notable members
 
-- [[npcs/kelfrek-marsh/gruumsh-onetusk|Gruumsh Onetusk]]
+- [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]]
 - [[characters/active-players/callum/retainers-followers/krazak-the-silent|Krazak the Silent]]
 
 ## Associated locations
@@ -57,7 +57,7 @@ They act as a local military threat rather than a loose raider band. Their best-
 
 ## Current status
 
-Broken as a coherent force. [[npcs/kelfrek-marsh/gruumsh-onetusk|Gruumsh Onetusk]] survives, but the group is heavily defeated.
+Broken as a coherent force. [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]] survives, but the group is heavily defeated.
 
 ## Related sessions
 

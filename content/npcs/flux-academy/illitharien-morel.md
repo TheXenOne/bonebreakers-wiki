@@ -5,6 +5,7 @@ tags:
   - npc
   - scholar
 aliases:
+  - Professor Morel
   - Professor Morrel
 status: active
 primary_location: Flux Academy

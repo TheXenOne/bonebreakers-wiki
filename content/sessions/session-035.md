@@ -20,7 +20,7 @@ By the end of the session the party has exposed Vex, saved Sarla from an attempt
 
 - Cyder joins the party in Westfort.
 - The Cracked Shield is set on fire during the night.
-- The Bonebreakers rescue Osric, Lyanna, merchants, and others from the burning inn.
+- The Bonebreakers rescue Osric, Lianna, merchants, and others from the burning inn.
 - Osric promises the party free food, drink, and lodging in future.
 - Sarla confesses that Vex forced her to start the fire.
 - Vex is caught at his warehouse after trying to flee.
@@ -46,7 +46,7 @@ By the end of the session the party has exposed Vex, saved Sarla from an attempt
 - Vex
 - Veteran Borak
 - Osric
-- Lyanna
+- Lianna
 - Commander Valerius
 - Sir Cedric of House Dawnmere
 - Akal

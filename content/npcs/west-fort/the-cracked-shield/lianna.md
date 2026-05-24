@@ -1,9 +1,10 @@
 ---
-title: Lyanna
+title: Lianna
 type: npc
 tags:
   - npc
-aliases: []
+aliases:
+  - Lianna
 status: alive
 primary_location: The Cracked Shield
 affiliations:
@@ -14,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Lyanna is a serving girl at the Cracked Shield who is rescued from the inn fire by the party.
+Lianna is a serving girl at the Cracked Shield who is rescued from the inn fire by the party.
 
 ## Appearance
 
@@ -26,7 +27,7 @@ Needs review.
 
 ## Role in the campaign
 
-- Lyanna is one of the civilians the party saves during the turning point of the West Fort arc.
+- Lianna is one of the civilians the party saves during the turning point of the West Fort arc.
 
 ## Affiliations
 
@@ -43,7 +44,7 @@ Needs review.
 
 ## Campaign events
 
-- In [[sessions/session-035|Session 35]], Lyanna is rescued from the Cracked Shield fire.
+- In [[sessions/session-035|Session 35]], Lianna is rescued from the Cracked Shield fire.
 
 ## Current status
 

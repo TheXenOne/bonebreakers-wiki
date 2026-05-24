@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-The Crystal Ball is a remote-viewing magic item recovered from the [[locations/world/fos-imeras/golden-asclepieion|Golden Asclepieion]], and it is currently owned by [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]]. In practice it becomes one of his defining tools, letting the party keep watch on distant threats and allies.
+The Crystal Ball is a remote-viewing magic item recovered from the [[locations/world/fos-imeras/golden-asclepeion|Golden Asclepeion]], and it is currently owned by [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]]. In practice it becomes one of his defining tools, letting the party keep watch on distant threats and allies.
 
 ## Known properties
 

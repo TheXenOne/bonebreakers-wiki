@@ -25,15 +25,15 @@ This page groups the main non-military allies and specialists tied to [[location
 
 - [[npcs/west-fort/sister-aldrith|Sister Aldrith]]: Cleric of Saint Lucia the Merciful and one of the fort's most consistent helpers.
 - [[npcs/west-fort/kenric|Kenric]]: Earnest local cartographer with rare Westmarsh knowledge.
-- [[npcs/west-fort/goren-heavyhoof|Goren HeavyHoof]]: Half-orc teamster who hires out wagons and horses.
+- [[npcs/west-fort/gorin-heavyhoof|Gorin Heavyhoof]]: Half-orc stablemaster.
 - [[npcs/west-fort/erasmus-vale|Erasmus Vale]]: Apothecary who buys rare herbs and supplies anti-toxins.
 - [[npcs/west-fort/mara-ironhand|Mara Ironhand]]: Respected smith who aids proven defenders.
-- [[npcs/west-fort/gorm-the-fence|Gorm the Fence]]: Elven bow-maker and fletcher, later used as a failed contact route toward the Syndicate.
+- [[npcs/west-fort/gorm-the-fence|Gorm the Fence]]: Half-orc black-market dealer, later used as a failed contact route toward the Syndicate.
 - [[npcs/west-fort/elara-swiftstring|Elara Swiftstring]]: Another elven bow-maker and fletcher associated with the fort.
 
 ## Appearance
 
-- Goren and Mara are the most visually distinct by role, but fuller descriptions need review.
+- Gorin and Mara are the most visually distinct by role, but fuller descriptions need review.
 
 ## Personality
 

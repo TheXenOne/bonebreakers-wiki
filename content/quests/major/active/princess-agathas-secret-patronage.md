@@ -52,7 +52,7 @@ source_sessions:
 
 ## Overview
 
-After the Bonebreakers rescue Princess Agatha from [[locations/world/fos-imeras/golden-asclepieion|Fos Imeras]], she reveals her identity and begins using the party for secret missions that official Agrian institutions cannot handle openly.
+After the Bonebreakers rescue Princess Agatha from [[locations/world/fos-imeras/golden-asclepeion|Fos Imeras]], she reveals her identity and begins using the party for secret missions that official Agrian institutions cannot handle openly.
 
 ## How it began
 

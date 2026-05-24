@@ -45,7 +45,7 @@ tags:
 - [[locations/world/agria/southlands/barrowshire/kelfrek-marsh/shrine-of-the-oozing-serpent|Shrine of the Oozing Serpent]]
 - [[locations/world/agria/southlands/ikiria/tower-of-arkeus-whizkeyrd|Tower of Arkeus Whizkeyrd]]
 - [[locations/world/agria/southlands/ikiria/halls-of-the-blood-king|The Halls of the Blood King]]
-- [[locations/world/fos-imeras/golden-asclepieion|The Golden Asclepieion]]
+- [[locations/world/fos-imeras/golden-asclepeion|The Golden Asclepeion]]
 - [[locations/world/westmarsh/spiders-market|The Spider Market]]
 - [[locations/world/westmarsh/hobgoblin-mine|The Hobgoblin Mine]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]

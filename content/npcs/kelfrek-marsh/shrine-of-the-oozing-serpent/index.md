@@ -32,7 +32,7 @@ This page groups the main named monster and wilderness figures tied to [[locatio
 - [[npcs/kelfrek-marsh/shrine-of-the-oozing-serpent/gorfthistle|Gorfthistle]]: Treasure-hungry gnome adventurer who betrays the party and kills Neem before dying.
 - [[npcs/kelfrek-marsh/shrine-of-the-oozing-serpent/butch|Butch]]: Gorfthistle's automaton dog.
 - [[npcs/kelfrek-marsh/shrine-of-the-oozing-serpent/dreg|Dreg]]: Hired thief who dies during the party's retreat from the shrine while helping the expedition survive.
-- [[npcs/kelfrek-marsh/gruumsh-onetusk|Gruumsh Onetusk]]: Orc warlord of the marsh, later defeated and spared.
+- [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]]: Orc warlord of the marsh, later defeated and spared.
 - [[characters/active-players/callum/retainers-followers/krazak-the-silent|Krazak the Silent]]: Gruumsh's lieutenant, later killed and reanimated as a party thrall in the character pages.
 - [[npcs/kelfrek-marsh/orcs-of-the-marsh|The Orcs of Kelfrek Marsh]]: Gruumsh's disciplined warband.
 - **The Gloops**: Marsh-dwelling followers tied to the shrine and road attacks.
@@ -83,7 +83,7 @@ This page groups the main named monster and wilderness figures tied to [[locatio
 - Captain Gulian: dead.
 - Gorfthistle: dead.
 - Dreg: dead.
-- Gruumsh Onetusk: alive after defeat and humiliation.
+- Gruumsh One-Tusk: alive after defeat and humiliation.
 - Krazak the Silent: dead, then reanimated as a retainer-thrall in the character pages.
 - The Gloops and marsh orcs: surviving remnants unknown.
 

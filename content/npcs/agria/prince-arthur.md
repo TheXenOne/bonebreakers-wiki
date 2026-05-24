@@ -54,7 +54,7 @@ Ambitious and compromised. Further detail: Needs review.
 - Son of [[npcs/agria/queen-audrey-ii|Queen Audrey II]].
 - Brother and rival of [[npcs/agria/princess-agatha|Princess Agatha]].
 - Travels with [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]], [[npcs/agria/prince-arthurs-retinue/pell|Pell]], [[npcs/agria/prince-arthurs-retinue/thomas|Thomas]], and the rest of [[npcs/agria/prince-arthurs-retinue/index|his retinue]].
-- [[npcs/agria/prince-arthurs-retinue/captain-hassar|Captain Hassar]] remains outwardly loyal to Arthur but ultimately carries out his arrest on Smith's orders.
+- [[npcs/agria/prince-arthurs-retinue/captain-hassock|Captain Hassock]] remains outwardly loyal to Arthur but ultimately carries out his arrest on Smith's orders.
 - Seeks guidance from the Grey Khan, later tied to [[npcs/westmarsh/grey-syndicate/ash|Ash]].
 
 ## Campaign events

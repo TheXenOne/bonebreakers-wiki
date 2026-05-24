@@ -1,5 +1,5 @@
 ---
-title: Wendell
+title: Wendell Prye
 type: npc
 tags:
   - npc

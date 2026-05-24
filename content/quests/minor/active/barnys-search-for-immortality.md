@@ -19,7 +19,7 @@ related_locations:
   - The Barrow
 related_npcs:
   - Barnobuck the Bizarre
-  - Aldrich Zaxarus
+  - Alric Zexerus
 related_factions:
   - Flux Academy
 source_sessions:
@@ -38,7 +38,7 @@ Barny states the goal openly in [[sessions/session-018|Session 18]] while the pa
 
 ## Key developments
 
-- Barny seeks recognition or answers from [[npcs/flux-academy/alric-zaxerus|Aldrich Zaxarus]], but receives none without formal Academy involvement.
+- Barny seeks recognition or answers from [[npcs/flux-academy/alric-zexerus|Alric Zexerus]], but receives none without formal Academy involvement.
 - In [[sessions/session-022|Session 22]], he finds hints connected to Baronbold and a scroll of immortality.
 - In [[sessions/session-023|Session 23]], he continues collecting grimoires and other dangerous texts.
 
@@ -49,7 +49,7 @@ Active, but not close to resolution.
 ## Related characters and NPCs
 
 - [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barnobuck "Barny" the Bizarre]]
-- [[npcs/flux-academy/alric-zaxerus|Aldrich Zaxarus]]
+- [[npcs/flux-academy/alric-zexerus|Alric Zexerus]]
 
 ## Related locations
 

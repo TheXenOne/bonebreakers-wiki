@@ -32,7 +32,7 @@ Kelfrek Marsh is a dangerous bogland east of [[locations/world/agria/southlands/
 ## Associated people and groups
 
 - The Gloops are a known marsh people.
-- Gruumsh One-tusk and his orc warband later operate from the shrine complex.
+- Gruumsh One-Tusk and his orc warband later operate from the shrine complex.
 
 ## Campaign events
 
