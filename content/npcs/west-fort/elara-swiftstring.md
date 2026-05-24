@@ -39,7 +39,7 @@ Needs review.
 
 ## Relationships
 
-- Associated with [[npcs/west-fort/gorm-the-fence|Gorm the Fence]] through the local bow-making trade.
+- One of the practical specialist traders supporting the party around the fort.
 
 ## Campaign events
 

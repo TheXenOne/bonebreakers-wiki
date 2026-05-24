@@ -11,6 +11,7 @@ aliases:
   - characters/tobold-took
 source_sessions:
   - 28
+  - 29
   - 33
   - 46
 ---
@@ -52,6 +53,7 @@ Dead. He was tortured for information and never broke.
 
 ## Related sessions
 
+- [[sessions/session-028|Session 28]]
 - [[sessions/session-029|Session 29]]
 - [[sessions/session-033|Session 33]]
 - [[sessions/session-046|Session 46]]

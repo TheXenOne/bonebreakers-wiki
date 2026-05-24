@@ -52,7 +52,7 @@ Once martial and capable, later damaged but still useful once freed from the cat
 
 ## Campaign events
 
-- In [[sessions/session-021|Session 21]], Selvar charms Fardr and the party escapes with him.
+- In [[sessions/session-021|Session 21]], Selvar charms Fardr, who reveals that the bishop became undead and that the corruption began about two years earlier.
 - In [[sessions/session-022|Session 22]], he is among the freed survivors when the cathedral is reclaimed.
 - In [[sessions/session-024|Session 24]] and [[sessions/session-025|Session 25]], he helps guard rescued priests and support the next marsh operation.
 - He is still relevant to Mercy affairs in later sessions including [[sessions/session-040|Session 40]] and [[sessions/session-045|Session 45]].

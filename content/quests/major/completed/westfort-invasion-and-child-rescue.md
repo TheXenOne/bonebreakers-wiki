@@ -94,7 +94,10 @@ The children are returned alive to Westfort, Commander Valerius keeps the fort s
 ## Related sessions
 
 - [[sessions/session-033|Session 33]]
+- [[sessions/session-034|Session 34]]
 - [[sessions/session-035|Session 35]]
+- [[sessions/session-036|Session 36]]
+- [[sessions/session-037|Session 37]]
 - [[sessions/session-038|Session 38]]
 - [[sessions/session-039|Session 39]]
 - [[sessions/session-040|Session 40]]

@@ -47,7 +47,7 @@ Ambitious and in it for the riches, but loyal when the situation turns deadly.
 ## Campaign events
 
 - In [[sessions/session-003|Session 3]], the party hires Dreg.
-- During the shrine retreat in [[sessions/session-007|Session 7]], Dreg dies in Butch's explosion while helping the party escape.
+- In [[sessions/session-007|Session 7]], Dreg is killed when Auto-Mulvis explodes after Bran severs its head.
 
 ## Current status
 

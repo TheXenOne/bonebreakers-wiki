@@ -46,7 +46,7 @@ Needs review.
 
 ## Campaign events
 
-- Across [[sessions/session-005|Session 5]] to [[sessions/session-007|Session 7]], the party tracks Sootmurk to the shrine and kills it during their escape.
+- Across [[sessions/session-005|Session 5]] and [[sessions/session-006|Session 6]], the party tracks Sootmurk to the shrine and kills it in a deliberate assault using Auto-Mulvis.
 
 ## Current status
 

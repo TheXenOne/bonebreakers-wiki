@@ -3,7 +3,7 @@ title: Gorm the Fence
 type: npc
 tags:
   - npc
-  - fletcher
+  - black-market
 aliases: []
 status: alive
 primary_location: West Fort
@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Gorm the Fence is an elven bow-maker and fletcher associated with West Fort.
+Gorm the Fence is a half-orc black-market dealer and fence operating in and around West Fort.
 
 ## Appearance
 
@@ -41,7 +41,7 @@ Practical. Further detail: Needs review.
 
 ## Relationships
 
-- Associated with [[npcs/west-fort/elara-swiftstring|Elara Swiftstring]] in the fort's bow-making trade.
+- A known black-market contact in the fort's shadow economy.
 
 ## Campaign events
 

@@ -44,7 +44,7 @@ Needs review.
 
 ## Campaign events
 
-- During the shrine expedition, the party fights Butch, and the construct's destruction causes the explosion that kills [[npcs/kelfrek-marsh/shrine-of-the-oozing-serpent/dreg|Dreg]].
+- Butch accompanies Gorfthistle through the shrine expedition in [[sessions/session-006|Session 6]] and [[sessions/session-007|Session 7]]. After Gorfthistle is killed by the party, Butch's fate is not clearly recorded.
 
 ## Current status
 
