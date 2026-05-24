@@ -6,9 +6,9 @@ tags:
   - soldier
 aliases: []
 status: alive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
-  - West Fort garrison
+  - Westfort garrison
 source_sessions:
   - 33
   - 35
@@ -21,7 +21,7 @@ source_sessions:
 
 ## Overview
 
-Commander Valerius is the seasoned veteran in charge of West Fort.
+Commander Valerius is the seasoned veteran in charge of Westfort.
 
 ## Appearance
 
@@ -38,11 +38,11 @@ Cynical, seasoned, and authoritative.
 
 ## Affiliations
 
-- West Fort garrison
+- Westfort garrison
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 
 ## Relationships

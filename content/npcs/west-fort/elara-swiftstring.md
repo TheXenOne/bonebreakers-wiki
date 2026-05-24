@@ -6,16 +6,16 @@ tags:
   - fletcher
 aliases: []
 status: alive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
-  - West Fort
+  - Westfort
 source_sessions:
   - 39
 ---
 
 ## Overview
 
-Elara Swiftstring is an elven bow-maker and fletcher associated with West Fort.
+Elara Swiftstring is an elven bow-maker and fletcher associated with Westfort.
 
 ## Appearance
 
@@ -31,11 +31,11 @@ Needs review.
 
 ## Affiliations
 
-- West Fort
+- Westfort
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 
@@ -43,7 +43,7 @@ Needs review.
 
 ## Campaign events
 
-- Elara appears in the fort's specialist trader network during the later West Fort arc.
+- Elara appears in the fort's specialist trader network during the later Westfort arc.
 
 ## Current status
 

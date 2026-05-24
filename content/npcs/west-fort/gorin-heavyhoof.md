@@ -8,16 +8,16 @@ aliases:
   - Goren HeavyHoof
   - Goren Heavyhoof
 status: alive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
-  - West Fort
+  - Westfort
 source_sessions:
   - 33
 ---
 
 ## Overview
 
-Gorin Heavyhoof is a half-orc stablemaster in West Fort.
+Gorin Heavyhoof is a half-orc stablemaster in Westfort.
 
 ## Appearance
 
@@ -29,15 +29,15 @@ Needs review.
 
 ## Role in the campaign
 
-- Gorin is part of the practical logistics network that helps make West Fort usable as a base.
+- Gorin is part of the practical logistics network that helps make Westfort usable as a base.
 
 ## Affiliations
 
-- West Fort
+- Westfort
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 
@@ -45,7 +45,7 @@ Needs review.
 
 ## Campaign events
 
-- Gorin appears in the party's wider West Fort support network after their arrival.
+- Gorin appears in the party's wider Westfort support network after their arrival.
 
 ## Current status
 

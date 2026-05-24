@@ -1,5 +1,5 @@
 ---
-title: West Fort
+title: Westfort
 tags:
   - npcs
 ---
@@ -15,8 +15,8 @@ tags:
 - [[npcs/west-fort/gorin-heavyhoof|Gorin Heavyhoof]]
 - [[npcs/west-fort/private-jordan|Private Jordan]]
 - [[npcs/west-fort/aldus-fenwick|Aldus Fenwick]]
-- [[npcs/west-fort/west-fort-garrison|West Fort Garrison]]
-- [[npcs/west-fort/west-fort-allies-and-traders|West Fort Allies and Traders]]
+- [[npcs/west-fort/west-fort-garrison|Westfort Garrison]]
+- [[npcs/west-fort/west-fort-allies-and-traders|Westfort Allies and Traders]]
 - [[npcs/west-fort/grey-syndicate/index|Grey Syndicate]]
 - [[npcs/west-fort/erasmus-vale|Erasmus Vale]]
 - [[npcs/west-fort/mara-ironhand|Mara Ironhand]]

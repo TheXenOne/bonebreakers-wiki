@@ -1,5 +1,5 @@
 ---
-title: West Fort
+title: Westfort
 type: location
 tags:
   - location
@@ -22,7 +22,7 @@ source_sessions:
 
 ## Overview
 
-West Fort is a frontier settlement on Agria's western edge, guarding the crossing into [[locations/world/westmarsh|Westmarsh]]. It combines an old stone stronghold with later wooden reinforcement and houses both civilians and an undermanned garrison.
+Westfort is a frontier settlement on Agria's western edge, guarding the crossing into [[locations/world/westmarsh|Westmarsh]]. It combines an old stone stronghold with later wooden reinforcement and houses both civilians and an undermanned garrison.
 
 ## Geography and layout
 
@@ -50,7 +50,7 @@ West Fort is a frontier settlement on Agria's western edge, guarding the crossin
 
 ## Campaign events
 
-- The Bonebreakers first reach West Fort in [[sessions/session-033|Session 33]].
+- The Bonebreakers first reach Westfort in [[sessions/session-033|Session 33]].
 - In [[sessions/session-035|Session 35]], they expose Vex's sabotage network.
 - [[sessions/session-038|Session 38]] through [[sessions/session-040|Session 40]] cover the invasion threat, counterattack, and rescue of the kidnapped children.
 - In [[sessions/session-047|Session 47]], the party returns with fresh warning of renewed preparations at the invasion fort, only to find the garrison short on prison space and still under strain.
@@ -67,4 +67,4 @@ West Fort is a frontier settlement on Agria's western edge, guarding the crossin
 
 ## Unresolved threads or mysteries
 
-- West Fort survives the immediate invasion threat, but the wider Grey Syndicate conspiracy and later invasion preparations remain active.
+- Westfort survives the immediate invasion threat, but the wider Grey Syndicate conspiracy and later invasion preparations remain active.

@@ -6,16 +6,16 @@ tags:
   - soldier
 aliases: []
 status: alive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
-  - West Fort garrison
+  - Westfort garrison
 source_sessions:
   - 35
 ---
 
 ## Overview
 
-Private Jordan is a young West Fort soldier with a gambling problem and a weakness for drink.
+Private Jordan is a young Westfort soldier with a gambling problem and a weakness for drink.
 
 ## Appearance
 
@@ -31,11 +31,11 @@ Unreliable and easily exploited.
 
 ## Affiliations
 
-- West Fort garrison
+- Westfort garrison
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 

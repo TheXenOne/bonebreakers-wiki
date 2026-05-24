@@ -45,7 +45,7 @@ Barbarian.
 - Joins the strike party in [[sessions/session-034|Session 34]].
 - Continues through the Westmarsh arc into [[sessions/session-046|Session 46]].
 - In [[sessions/session-046|Session 46]], Ulrich's new holy symbol identifies him as extremely evil.
-- In [[sessions/session-047|Session 47]], Steve charms a sprite, completes his orc disguise by collecting new mail, and is sharply warned by Commander Valerius after killing prisoners in West Fort.
+- In [[sessions/session-047|Session 47]], Steve charms a sprite, completes his orc disguise by collecting new mail, and is sharply warned by Commander Valerius after killing prisoners in Westfort.
 
 ## Relationships
 

@@ -6,7 +6,7 @@ tags:
   - cartographer
 aliases: []
 status: alive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
   - Kenric's Cartography
 source_sessions:
@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Kenric is the local cartographer of West Fort.
+Kenric is the local cartographer of Westfort.
 
 ## Appearance
 
@@ -36,7 +36,7 @@ Earnest but inconsistent.
 ## Associated locations
 
 - [[locations/world/agria/west-fort/kenrics-cartography|Kenric's Cartography]]
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 

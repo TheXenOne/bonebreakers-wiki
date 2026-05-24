@@ -20,7 +20,7 @@ source_sessions:
 
 ## Overview
 
-The Grey Syndicate is the main covert organisation behind the West Fort sabotage arc and the later royal conspiracy around [[npcs/agria/prince-arthur|Prince Arthur]].
+The Grey Syndicate is the main covert organisation behind the Westfort sabotage arc and the later royal conspiracy around [[npcs/agria/prince-arthur|Prince Arthur]].
 
 ## Key figures
 
@@ -51,7 +51,7 @@ The Grey Syndicate is the main covert organisation behind the West Fort sabotage
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 - [[locations/world/westmarsh/spiders-market|The Spider Market]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 

@@ -1,5 +1,5 @@
 ---
-title: West Fort Garrison
+title: Westfort Garrison
 type: faction
 tags:
   - faction
@@ -8,14 +8,14 @@ tags:
 aliases:
   - Westfort garrison
 status: active
-primary_location: West Fort
+primary_location: Westfort
 notable_members:
   - Commander Valerius
   - Captain Rodrick
   - Sergeant Dara
   - Veteran Borak
 related_locations:
-  - West Fort
+  - Westfort
   - Invasion Fort
   - Westmarsh
 source_sessions:
@@ -29,7 +29,7 @@ source_sessions:
 
 ## Overview
 
-The West Fort Garrison is the undermanned military force defending [[locations/world/agria/west-fort|West Fort]] and its crossing into [[locations/world/westmarsh|Westmarsh]].
+The Westfort Garrison is the undermanned military force defending [[locations/world/agria/west-fort|Westfort]] and its crossing into [[locations/world/westmarsh|Westmarsh]].
 
 ## Purpose or role
 
@@ -51,7 +51,7 @@ It protects one of Agria's key frontier approaches and becomes central to the sa
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort|West Fort]]
+- [[locations/world/agria/west-fort|Westfort]]
 - [[locations/world/agria/west-flow-river|West Flow River]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 

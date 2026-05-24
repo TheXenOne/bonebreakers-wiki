@@ -8,11 +8,11 @@ tags:
 aliases:
   - Temple of St Lucia the Merciful
 status: active
-primary_location: West Fort
+primary_location: Westfort
 notable_members:
   - Sister Aldrith
 related_locations:
-  - West Fort
+  - Westfort
   - Temple of Saint Lucia the Merciful
 source_sessions:
   - 33
@@ -21,7 +21,7 @@ source_sessions:
 
 ## Overview
 
-The Temple of Saint Lucia the Merciful is a small but important religious institution in [[locations/world/agria/west-fort|West Fort]]. It provides healing, holy water, and practical spiritual support on the frontier.
+The Temple of Saint Lucia the Merciful is a small but important religious institution in [[locations/world/agria/west-fort|Westfort]]. It provides healing, holy water, and practical spiritual support on the frontier.
 
 ## Purpose or role
 
@@ -38,11 +38,11 @@ Its role is less political than practical: it supports soldiers, locals, and adv
 ## Associated locations
 
 - [[locations/world/agria/west-fort/temple-of-saint-lucia-the-merciful|Temple of Saint Lucia the Merciful]]
-- [[locations/world/agria/west-fort|West Fort]]
+- [[locations/world/agria/west-fort|Westfort]]
 
 ## Allies and enemies
 
-- The temple works alongside the [[factions/military-and-orders/west-fort-garrison|West Fort Garrison]].
+- The temple works alongside the [[factions/military-and-orders/west-fort-garrison|Westfort Garrison]].
 - It is naturally opposed to the undead and corrupt relics found in [[locations/world/westmarsh|Westmarsh]].
 
 ## Campaign involvement

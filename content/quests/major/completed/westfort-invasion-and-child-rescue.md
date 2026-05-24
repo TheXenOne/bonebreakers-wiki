@@ -29,7 +29,7 @@ related_npcs:
   - Ash
   - Sister Aldrith
 related_factions:
-  - West Fort Garrison
+  - Westfort Garrison
   - Grey Syndicate
   - Hobgoblins of Westmarsh
 source_sessions:
@@ -87,7 +87,7 @@ The children are returned alive to Westfort, Commander Valerius keeps the fort s
 
 ## Related factions
 
-- [[factions/military-and-orders/west-fort-garrison|West Fort Garrison]]
+- [[factions/military-and-orders/west-fort-garrison|Westfort Garrison]]
 - [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]]
 - [[factions/military-and-orders/monsters-of-westmarsh/hobgoblins-of-westmarsh|Hobgoblins of Westmarsh]]
 

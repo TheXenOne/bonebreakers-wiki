@@ -27,7 +27,7 @@ The second half of the session shifts from covert raiding to political fallout. 
 - A captured orc recruiter says the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]] is spread across Westmarsh with some presence in the Southlands.
 - The same captive says she sometimes meets [[npcs/west-fort/gorm-the-fence|Gorm the Fence]] and places the [[locations/world/westmarsh/necropolis|Necropolis]] roughly 50 miles west of the market.
 - The recruiter warns that another invasion is being prepared, and Barny's crystal ball later shows renewed but reduced preparations at [[locations/world/westmarsh/invasion-fort|the Invasion Fort]].
-- Back in [[locations/world/agria/west-fort|West Fort]], the party warns [[npcs/west-fort/commander-valerius|Commander Valerius]] about renewed invasion preparations.
+- Back in [[locations/world/agria/west-fort|Westfort]], the party warns [[npcs/west-fort/commander-valerius|Commander Valerius]] about renewed invasion preparations.
 - Steve kills the captured orcs and other prisoners to clear cell space, and Valerius warns him that the law will be applied to him like anyone else if he does it again.
 - In [[locations/world/agria/southlands/barrowshire/barrow-spa/index|Barrow Spa]], the Bonebreakers deposit the 20,000 gold, visit [[locations/world/agria/southlands/barrowshire/barrow-spa/bean-counter|the Bean Counter]], and persuade Wendell to testify.
 - At [[locations/world/agria/southlands/mercy|the Mercy]], the party gathers the stored evidence and tells [[characters/active-players/deri/characters/akal-dreek|Akal]] not to activate the contingency plan.
@@ -38,7 +38,7 @@ The second half of the session shifts from covert raiding to political fallout. 
 
 - Camp near [[locations/world/westmarsh/spiders-market|the Spider Market]]
 - [[locations/world/westmarsh/spiders-market|The Spider Market]]
-- [[locations/world/agria/west-fort|West Fort]]
+- [[locations/world/agria/west-fort|Westfort]]
 - [[locations/world/agria/southlands/barrowshire/barrow-spa/index|Barrow Spa]]
 - [[locations/world/agria/southlands/barrowshire/barrow-spa/bean-counter|The Bean Counter]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]

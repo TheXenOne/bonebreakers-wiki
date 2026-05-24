@@ -27,7 +27,7 @@ Needs review.
 
 ## Role in the campaign
 
-- Lianna is one of the civilians the party saves during the turning point of the West Fort arc.
+- Lianna is one of the civilians the party saves during the turning point of the Westfort arc.
 
 ## Affiliations
 
@@ -36,7 +36,7 @@ Needs review.
 ## Associated locations
 
 - [[locations/world/agria/west-fort/cracked-shield|The Cracked Shield]]
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 

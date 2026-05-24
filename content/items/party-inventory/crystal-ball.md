@@ -29,7 +29,7 @@ The Crystal Ball is a remote-viewing magic item recovered from the [[locations/w
 - In [[sessions/session-022|Session 22]], Barny uses it to survey the cathedral assault area once the party has retreated.
 - In [[sessions/session-024|Session 24]], it confirms that Gruumsh's hostages are alive inside the old shrine.
 - In [[sessions/session-038|Session 38]], Barny confirms both the sickness at the Mercy and Jeremy's presence near the cliffside fort.
-- In [[sessions/session-040|Session 40]], Barny checks that West Fort still stands after the invasion battle.
+- In [[sessions/session-040|Session 40]], Barny checks that Westfort still stands after the invasion battle.
 - In [[sessions/session-047|Session 47]], Barny uses it to confirm that the Invasion Fort is active again, though with reduced forces.
 
 ## Current status

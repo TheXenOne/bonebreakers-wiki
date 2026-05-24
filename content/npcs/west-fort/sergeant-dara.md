@@ -6,16 +6,16 @@ tags:
   - soldier
 aliases: []
 status: alive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
-  - West Fort garrison
+  - Westfort garrison
 source_sessions:
   - 33
 ---
 
 ## Overview
 
-Sergeant Dara is the hard-eyed acting commander of the garrison when the party first arrives at [[locations/world/agria/west-fort/index|West Fort]].
+Sergeant Dara is the hard-eyed acting commander of the garrison when the party first arrives at [[locations/world/agria/west-fort/index|Westfort]].
 
 ## Appearance
 
@@ -27,15 +27,15 @@ Disciplined and blunt.
 
 ## Role in the campaign
 
-- Dara is one of the party's earliest official contacts in West Fort.
+- Dara is one of the party's earliest official contacts in Westfort.
 
 ## Affiliations
 
-- West Fort garrison
+- Westfort garrison
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 

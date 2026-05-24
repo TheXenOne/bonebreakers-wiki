@@ -50,7 +50,7 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 - [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]]
 - [[npcs/kelfrek-marsh/orcs-of-the-marsh|The Orcs of Kelfrek Marsh]]
 
-## West Fort
+## Westfort
 
 - [[npcs/west-fort/sergeant-dara|Sergeant Dara]]
 - [[npcs/west-fort/captain-rodrick|Captain Rodrick]]
@@ -61,8 +61,8 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 - [[npcs/west-fort/gorin-heavyhoof|Gorin Heavyhoof]]
 - [[npcs/west-fort/private-jordan|Private Jordan]]
 - [[npcs/west-fort/aldus-fenwick|Aldus Fenwick]]
-- [[npcs/west-fort/west-fort-garrison|West Fort Garrison]]
-- [[npcs/west-fort/west-fort-allies-and-traders|West Fort Allies and Traders]]
+- [[npcs/west-fort/west-fort-garrison|Westfort Garrison]]
+- [[npcs/west-fort/west-fort-allies-and-traders|Westfort Allies and Traders]]
 - [[npcs/west-fort/grey-syndicate/index|Grey Syndicate]]
 - [[npcs/west-fort/erasmus-vale|Erasmus Vale]]
 - [[npcs/west-fort/mara-ironhand|Mara Ironhand]]

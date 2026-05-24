@@ -56,7 +56,7 @@ This page groups the named civilians most closely tied to [[locations/world/agri
 
 ## Campaign events
 
-- Osric first appears when the party reaches West Fort in [[sessions/session-033|Session 33]].
+- Osric first appears when the party reaches Westfort in [[sessions/session-033|Session 33]].
 - In [[sessions/session-035|Session 35]], the fire, Sarla's confession, and Lianna's rescue expose the conspiracy inside the fort.
 
 ## Current status

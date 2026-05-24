@@ -7,7 +7,7 @@ tags:
   - apothecary
 aliases:
   - Tincture & Tonic
-parent_location: "[[locations/world/agria/west-fort|West Fort]]"
+parent_location: "[[locations/world/agria/west-fort|Westfort]]"
 source_sessions:
   - 38
   - 40
@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-The Tincture & Tonic is the apothecary of [[locations/world/agria/west-fort|West Fort]], run by Erasmus Vale. It supplies antitoxins, healing draughts, potions, and buys rare herbs from the western ruins.
+The Tincture & Tonic is the apothecary of [[locations/world/agria/west-fort|Westfort]], run by Erasmus Vale. It supplies antitoxins, healing draughts, potions, and buys rare herbs from the western ruins.
 
 ## Geography or layout
 
@@ -30,7 +30,7 @@ The Tincture & Tonic is the apothecary of [[locations/world/agria/west-fort|West
 ## Campaign events
 
 - In [[sessions/session-038|Session 38]], the party buys the shop's stock of antitoxins and healing potions and has a potion of flying identified here.
-- In [[sessions/session-040|Session 40]], Ulrich returns to Erasmus Vale before the party leaves West Fort.
+- In [[sessions/session-040|Session 40]], Ulrich returns to Erasmus Vale before the party leaves Westfort.
 
 ## Related sessions
 

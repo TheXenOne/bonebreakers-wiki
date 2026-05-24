@@ -7,7 +7,7 @@ tags:
   - tavern
 aliases:
   - Cracked Shield
-parent_location: "[[locations/world/agria/west-fort|West Fort]]"
+parent_location: "[[locations/world/agria/west-fort|Westfort]]"
 source_sessions:
   - 33
   - 35
@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-The Cracked Shield is the inn and tavern of [[locations/world/agria/west-fort|West Fort]]. Run by Osric Tam, it serves as the party's first main social base in the frontier settlement.
+The Cracked Shield is the inn and tavern of [[locations/world/agria/west-fort|Westfort]]. Run by Osric Tam, it serves as the party's first main social base in the frontier settlement.
 
 ## Geography or layout
 
@@ -29,7 +29,7 @@ The Cracked Shield is the inn and tavern of [[locations/world/agria/west-fort|We
 
 ## Campaign events
 
-- In [[sessions/session-033|Session 33]], the Bonebreakers gather rumours here after first reaching West Fort.
+- In [[sessions/session-033|Session 33]], the Bonebreakers gather rumours here after first reaching Westfort.
 - In [[sessions/session-035|Session 35]], the inn is set on fire as part of the sabotage campaign against the fort.
 - After the rescue, Osric promises the party free food, drink, and lodging in future.
 

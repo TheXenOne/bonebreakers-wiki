@@ -27,13 +27,13 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 
 ## Geography and layout
 
-- The frontier crossing near [[locations/world/agria/west-fort|West Fort]] controls one of the main routes in.
+- The frontier crossing near [[locations/world/agria/west-fort|Westfort]] controls one of the main routes in.
 - The region contains monster markets, mines, invasion staging grounds, and later known links to [[locations/world/westmarsh/necropolis|the Necropolis]].
 - Travel is consistently described as dangerous and poorly controlled.
 
 ## Notable sublocations
 
-- [[locations/world/agria/west-flow-river|West Flow River]] crossing near [[locations/world/agria/west-fort|West Fort]]
+- [[locations/world/agria/west-flow-river|West Flow River]] crossing near [[locations/world/agria/west-fort|Westfort]]
 - [[locations/world/westmarsh/spiders-market|The Spider Market]]
 - [[locations/world/westmarsh/hobgoblin-mine|The Hobgoblin Mine]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]

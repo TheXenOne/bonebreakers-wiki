@@ -1,5 +1,5 @@
 ---
-title: West Fort Allies and Traders
+title: Westfort Allies and Traders
 type: npc
 tags:
   - npc
@@ -7,9 +7,9 @@ tags:
 aliases:
   - Westfort allies
 status: active
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
-  - West Fort
+  - Westfort
 source_sessions:
   - 33
   - 38
@@ -19,7 +19,7 @@ source_sessions:
 
 ## Overview
 
-This page groups the main non-military allies and specialists tied to [[locations/world/agria/west-fort/index|West Fort]].
+This page groups the main non-military allies and specialists tied to [[locations/world/agria/west-fort/index|Westfort]].
 
 ## Key figures
 
@@ -47,7 +47,7 @@ This page groups the main non-military allies and specialists tied to [[location
 
 ## Affiliations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Associated locations
 

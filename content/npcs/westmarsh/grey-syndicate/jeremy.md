@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Jeremy is the scar-lipped human courier and paymaster captured after meeting Vex's network near West Fort.
+Jeremy is the scar-lipped human courier and paymaster captured after meeting Vex's network near Westfort.
 
 ## Appearance
 
@@ -37,7 +37,7 @@ Needs review beyond his operational role.
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 - [[locations/world/westmarsh/spiders-market|The Spider Market]]
 
 ## Relationships
@@ -48,7 +48,7 @@ Needs review beyond his operational role.
 ## Campaign events
 
 - In [[sessions/session-036|Session 36]], magical pressure makes Jeremy reveal Ash as his handler and points the party toward the Spider Market.
-- He remains tied to the continuing siege and counterstrike investigations in later West Fort sessions.
+- He remains tied to the continuing siege and counterstrike investigations in later Westfort sessions.
 
 ## Current status
 

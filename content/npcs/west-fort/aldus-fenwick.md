@@ -6,7 +6,7 @@ tags:
   - physician
 aliases: []
 status: alive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
   - Tincture & Tonic
 source_sessions:
@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Aldus Fenwick is a physician associated with [[npcs/west-fort/erasmus-vale|Erasmus Vale]] who is travelling from West Fort toward Ikiria during the Grey Syndicate fallout.
+Aldus Fenwick is a physician associated with [[npcs/west-fort/erasmus-vale|Erasmus Vale]] who is travelling from Westfort toward Ikiria during the Grey Syndicate fallout.
 
 ## Appearance
 
@@ -36,12 +36,12 @@ Needs review.
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 - [[locations/world/agria/southlands/ikiria/index|Ikiria]]
 
 ## Relationships
 
-- According to the session notes, he is travelling from West Fort toward Ikiria after being sent by [[npcs/west-fort/erasmus-vale|Erasmus Vale]] to meet [[npcs/flux-academy/ulna-glitterpatch|Ulna Glitterpatch]].
+- According to the session notes, he is travelling from Westfort toward Ikiria after being sent by [[npcs/west-fort/erasmus-vale|Erasmus Vale]] to meet [[npcs/flux-academy/ulna-glitterpatch|Ulna Glitterpatch]].
 
 ## Campaign events
 

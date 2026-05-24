@@ -14,7 +14,7 @@ notable_members:
   - Vex
   - The Grey Khan
 related_locations:
-  - West Fort
+  - Westfort
   - Spider Market
   - Invasion Fort
   - Westmarsh
@@ -31,17 +31,17 @@ source_sessions:
 
 ## Overview
 
-The Grey Syndicate is a covert organisation active across [[locations/world/westmarsh|Westmarsh]] and the frontier around [[locations/world/agria/west-fort|West Fort]]. It links sabotage, kidnapping, smuggling, and political manipulation into a single conspiracy.
+The Grey Syndicate is a covert organisation active across [[locations/world/westmarsh|Westmarsh]] and the frontier around [[locations/world/agria/west-fort|Westfort]]. It links sabotage, kidnapping, smuggling, and political manipulation into a single conspiracy.
 
 ## Purpose or role
 
-The Syndicate is the main hidden enemy behind the West Fort sabotage arc and later the conspiracy involving [[npcs/agria/prince-arthur|Prince Arthur]].
+The Syndicate is the main hidden enemy behind the Westfort sabotage arc and later the conspiracy involving [[npcs/agria/prince-arthur|Prince Arthur]].
 
 ## Leadership
 
 - [[npcs/westmarsh/grey-syndicate/ash|Ash]] acts as a handler, negotiator, and apparent field leader.
 - [[npcs/westmarsh/grey-syndicate/jeremy|Jeremy]] serves as a middleman and courier.
-- [[npcs/west-fort/grey-syndicate/vex|Vex]] operates a local embedded cell in West Fort.
+- [[npcs/west-fort/grey-syndicate/vex|Vex]] operates a local embedded cell in Westfort.
 - [[npcs/westmarsh/grey-syndicate/the-grey-khan|The Grey Khan]] is presented as the group's supposed top leader, though Ash later claims that title herself.
 
 ## Notable members
@@ -53,7 +53,7 @@ The Syndicate is the main hidden enemy behind the West Fort sabotage arc and lat
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort|West Fort]]
+- [[locations/world/agria/west-fort|Westfort]]
 - [[locations/world/westmarsh/spiders-market|The Spider Market]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 - [[locations/world/westmarsh|Westmarsh]]
@@ -62,11 +62,11 @@ The Syndicate is the main hidden enemy behind the West Fort sabotage arc and lat
 
 - The Syndicate works with or through compromised local agents such as Vex and Borak.
 - It becomes directly linked to [[npcs/agria/prince-arthur|Prince Arthur]].
-- It is opposed by the [[factions/military-and-orders/west-fort-garrison|West Fort Garrison]], Princess Agatha's bloc, and the [[factions/other/bonebreakers|Bonebreakers]].
+- It is opposed by the [[factions/military-and-orders/west-fort-garrison|Westfort Garrison]], Princess Agatha's bloc, and the [[factions/other/bonebreakers|Bonebreakers]].
 
 ## Campaign involvement
 
-- In [[sessions/session-035|Session 35]], the party exposes Vex's role in West Fort's sabotage.
+- In [[sessions/session-035|Session 35]], the party exposes Vex's role in Westfort's sabotage.
 - In [[sessions/session-036|Session 36]], Jeremy and Ash become the focus of the investigation through the Spider Market.
 - In [[sessions/session-039|Session 39]] and [[sessions/session-040|Session 40]], the party uncovers more of the Syndicate's hidden infrastructure and written evidence.
 - In [[sessions/session-044|Session 44]] to [[sessions/session-046|Session 46]], the Syndicate becomes directly tied to Arthur and succession intrigue in Agria.

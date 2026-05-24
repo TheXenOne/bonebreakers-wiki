@@ -19,7 +19,7 @@ source_sessions:
 
 ## Overview
 
-The Invasion Fort is a fortified enemy outpost in the hills south-west of [[locations/world/agria/west-fort|West Fort]]. It serves as a staging ground for the attempted invasion of the fort and later reveals deeper Grey Syndicate involvement.
+The Invasion Fort is a fortified enemy outpost in the hills south-west of [[locations/world/agria/west-fort|Westfort]]. It serves as a staging ground for the attempted invasion of the fort and later reveals deeper Grey Syndicate involvement.
 
 ## Geography and layout
 

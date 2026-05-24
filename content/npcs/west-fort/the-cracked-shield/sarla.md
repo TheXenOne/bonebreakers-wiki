@@ -26,7 +26,7 @@ Frightened and cornered rather than malicious.
 
 ## Role in the campaign
 
-- Sarla's confession helps expose the sabotage inside West Fort.
+- Sarla's confession helps expose the sabotage inside Westfort.
 
 ## Affiliations
 
@@ -35,7 +35,7 @@ Frightened and cornered rather than malicious.
 ## Associated locations
 
 - [[locations/world/agria/west-fort/cracked-shield|The Cracked Shield]]
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 

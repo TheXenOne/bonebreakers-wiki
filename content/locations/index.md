@@ -28,7 +28,7 @@ tags:
 - [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]]
 - [[locations/world/agria/southlands/barrowshire/kings-road|King's Road]]
 - [[locations/world/agria/southlands/barrowshire/kelfrek-marsh|Kelfrek Marsh]]
-- [[locations/world/agria/west-fort|West Fort]]
+- [[locations/world/agria/west-fort|Westfort]]
 - [[locations/world/agria/west-flow-river|West Flow River]]
 
 ## Institutions

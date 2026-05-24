@@ -12,7 +12,7 @@ related_locations:
   - The Mercy
   - Barrow
   - Ikiria
-  - West Fort
+  - Westfort
   - Westmarsh
 source_sessions:
   - 3
@@ -40,7 +40,7 @@ Leadership is shared and situational rather than strictly formal.
 - [[locations/world/agria/southlands/mercy|The Mercy]]
 - [[locations/world/agria/southlands/barrowshire/barrow|The Barrow]]
 - [[locations/world/agria/southlands/ikiria|Ikiria]]
-- [[locations/world/agria/west-fort|West Fort]]
+- [[locations/world/agria/west-fort|Westfort]]
 - [[locations/world/westmarsh|Westmarsh]]
 
 ## Allies and enemies
@@ -52,7 +52,7 @@ Leadership is shared and situational rather than strictly formal.
 
 - The name is adopted in [[sessions/session-003|Session 3]].
 - In [[sessions/session-018|Session 18]] to [[sessions/session-022|Session 22]], the Bonebreakers become Agatha's covert agents and reclaim the Mercy.
-- In [[sessions/session-033|Session 33]] through [[sessions/session-040|Session 40]], they become central defenders of West Fort and opponents of the Grey Syndicate.
+- In [[sessions/session-033|Session 33]] through [[sessions/session-040|Session 40]], they become central defenders of Westfort and opponents of the Grey Syndicate.
 - In [[sessions/session-044|Session 44]] to [[sessions/session-046|Session 46]], they hold politically dangerous evidence tied to Prince Arthur and the Syndicate.
 
 ## Current status

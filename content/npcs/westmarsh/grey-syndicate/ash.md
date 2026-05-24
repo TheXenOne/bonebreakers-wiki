@@ -31,7 +31,7 @@ Confident, transactional, and dangerous.
 
 ## Role in the campaign
 
-- Ash connects the West Fort sabotage network to the Spider Market and later to the Arthur conspiracy.
+- Ash connects the Westfort sabotage network to the Spider Market and later to the Arthur conspiracy.
 - She becomes the Syndicate's main face-to-face negotiator.
 
 ## Affiliations

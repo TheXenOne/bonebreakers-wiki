@@ -46,6 +46,6 @@ Welcome to the campaign wiki for **The Bonebreakers**.
 - [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]]
 - [[locations/world/agria/southlands/barrowshire/barrow|The Barrow]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
-- [[locations/world/agria/west-fort|West Fort]]
+- [[locations/world/agria/west-fort|Westfort]]
 - [[locations/world/westmarsh|West Marsh]]
 - [[locations/world/westmarsh/necropolis|The Necropolis]]

@@ -21,7 +21,7 @@ For a while, that looks workable. The party smooths things over at the cathedral
 - The party realises that only a few witnesses actually heard Arthur's confession.
 - Pel is sent to Commander Smith with a letter explaining the situation.
 - Arthur is made to order his guards not to resist when awakened.
-- Steve stabilises the wounded squire Thomas.
+- Steve stabilises the wounded squire Tomas Wren.
 - Frank takes a secretary's ledger showing meetings with the Grey Syndicate.
 - The party returns to the cathedral and calms alarmed witnesses there.
 - Aldus Fenwick is identified as a physician travelling between Westfort and Ikiria.
@@ -52,7 +52,7 @@ For a while, that looks workable. The party smooths things over at the cathedral
 
 - Prince Arthur
 - Pel
-- Thomas
+- Tomas Wren
 - Commander Smith
 - Captain Fardr
 - Aldus Fenwick

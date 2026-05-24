@@ -31,7 +31,7 @@ related_npcs:
   - The Grey Khan
 related_factions:
   - Grey Syndicate
-  - West Fort Garrison
+  - Westfort Garrison
 source_sessions:
   - 35
   - 36
@@ -86,7 +86,7 @@ The Syndicate is still active. It loses money and Arthur as an ally in Session 4
 ## Related factions
 
 - [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]]
-- [[factions/military-and-orders/west-fort-garrison|West Fort Garrison]]
+- [[factions/military-and-orders/west-fort-garrison|Westfort Garrison]]
 
 ## Related sessions
 

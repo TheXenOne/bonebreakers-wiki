@@ -6,7 +6,7 @@ tags:
   - monster
 ---
 
-Organised monster factions active across Westmarsh and the West Fort campaign.
+Organised monster factions active across Westmarsh and the Westfort campaign.
 
 - [[factions/military-and-orders/monsters-of-westmarsh/bugbears-of-westmarsh|Bugbears of Westmarsh]]
 - [[factions/military-and-orders/monsters-of-westmarsh/gnolls-of-westmarsh|Gnolls of Westmarsh]]

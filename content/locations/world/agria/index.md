@@ -24,7 +24,7 @@ Agria is a feudal monarchy ruled by Queen Audrey II. It has no standing army or 
 - [[locations/world/agria/southlands|The Duchy of Southlands]] is the main campaign region so far and is governed by Princess Agatha.
 - [[locations/world/agria/northlands|The Duchy of Northlands]] is governed by Prince Arthur and remains mostly unexplored.
 - [[locations/world/agria/southlands/barrowshire|The Barony of Barrowshire]] sits within the Southlands and includes [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]].
-- [[locations/world/agria/west-fort|West Fort]] guards a major frontier crossing on the [[locations/world/agria/west-flow-river|West Flow River]] into [[locations/world/westmarsh|Westmarsh]].
+- [[locations/world/agria/west-fort|Westfort]] guards a major frontier crossing on the [[locations/world/agria/west-flow-river|West Flow River]] into [[locations/world/westmarsh|Westmarsh]].
 
 ## Associated people and groups
 

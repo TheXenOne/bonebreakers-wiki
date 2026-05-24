@@ -19,7 +19,7 @@ related_locations:
   - Ikiria
   - Northlands
   - Southlands
-  - West Fort
+  - Westfort
 source_sessions:
   - 18
   - 44
@@ -33,7 +33,7 @@ The Kingdom of Agria is the main human kingdom tied to the Bonebreakers' travels
 
 ## Purpose or role
 
-Agria is home to the Bonebreakers and the setting for many of the kingdom's most important political struggles, especially the authority of [[npcs/agria/princess-agatha|Princess Agatha]], the frontier importance of [[locations/world/agria/west-fort|West Fort]], and the succession crisis around [[npcs/agria/prince-arthur|Prince Arthur]].
+Agria is home to the Bonebreakers and the setting for many of the kingdom's most important political struggles, especially the authority of [[npcs/agria/princess-agatha|Princess Agatha]], the frontier importance of [[locations/world/agria/west-fort|Westfort]], and the succession crisis around [[npcs/agria/prince-arthur|Prince Arthur]].
 
 ## Leadership
 
@@ -54,7 +54,7 @@ Agria is home to the Bonebreakers and the setting for many of the kingdom's most
 - [[locations/world/agria/southlands|Southlands]]
 - [[locations/world/agria/northlands|Northlands]]
 - [[locations/world/agria/southlands/ikiria|Ikiria]]
-- [[locations/world/agria/west-fort|West Fort]]
+- [[locations/world/agria/west-fort|Westfort]]
 
 ## Allies and enemies
 

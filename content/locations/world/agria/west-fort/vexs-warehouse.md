@@ -7,7 +7,7 @@ tags:
 aliases:
   - Vexs Warehouse
   - warehouse of Vex
-parent_location: "[[locations/world/agria/west-fort|West Fort]]"
+parent_location: "[[locations/world/agria/west-fort|Westfort]]"
 source_sessions:
   - 35
   - 36
@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Vex's Warehouse is a warehouse in [[locations/world/agria/west-fort|West Fort]] used by Vex as both a criminal base and a hidden cache for weapons stolen from the fort.
+Vex's Warehouse is a warehouse in [[locations/world/agria/west-fort|Westfort]] used by Vex as both a criminal base and a hidden cache for weapons stolen from the fort.
 
 ## Geography or layout
 

@@ -18,7 +18,7 @@ related_locations:
 related_npcs:
   - Sister Aldrith
 related_factions:
-  - West Fort Garrison
+  - Westfort Garrison
 source_sessions:
   - 33
 ---

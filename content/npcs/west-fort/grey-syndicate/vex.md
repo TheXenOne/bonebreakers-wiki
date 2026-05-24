@@ -6,7 +6,7 @@ tags:
   - agent
 aliases: []
 status: captive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
   - Grey Syndicate
 source_sessions:
@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Vex is the embedded human agent who coordinates the sabotage inside [[locations/world/agria/west-fort/index|West Fort]].
+Vex is the embedded human agent who coordinates the sabotage inside [[locations/world/agria/west-fort/index|Westfort]].
 
 ## Appearance
 
@@ -28,7 +28,7 @@ Calculating and coercive.
 
 ## Role in the campaign
 
-- Vex is the first major human conspirator the party exposes in West Fort.
+- Vex is the first major human conspirator the party exposes in Westfort.
 - His warehouse later becomes a practical base for the party's own operations.
 
 ## Affiliations
@@ -38,7 +38,7 @@ Calculating and coercive.
 ## Associated locations
 
 - [[locations/world/agria/west-fort/vexs-warehouse|Vex's Warehouse]]
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 

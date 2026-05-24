@@ -11,7 +11,7 @@ source_sessions:
 
 ## Overview
 
-The Book of Sublime Holiness is a sacred text given during the lead-up to the defence of West Fort, and it is currently held by [[characters/active-players/ben-l/characters/sir-cedric-dawnmere|Sir Cedric Dawnmere]].
+The Book of Sublime Holiness is a sacred text given during the lead-up to the defence of Westfort, and it is currently held by [[characters/active-players/ben-l/characters/sir-cedric-dawnmere|Sir Cedric Dawnmere]].
 
 ## Known history
 

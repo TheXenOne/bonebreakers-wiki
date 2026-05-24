@@ -6,7 +6,7 @@ tags:
   - cleric
 aliases: []
 status: alive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
   - Temple of Saint Lucia the Merciful
 source_sessions:
@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Sister Aldrith is a cleric of Saint Lucia the Merciful in West Fort.
+Sister Aldrith is a cleric of Saint Lucia the Merciful in Westfort.
 
 ## Appearance
 
@@ -36,7 +36,7 @@ Compassionate, perceptive, and quietly determined.
 ## Associated locations
 
 - [[locations/world/agria/west-fort/temple-of-saint-lucia-the-merciful|Temple of Saint Lucia the Merciful]]
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 
@@ -44,7 +44,7 @@ Compassionate, perceptive, and quietly determined.
 
 ## Campaign events
 
-- In [[sessions/session-033|Session 33]], Aldrith offers help soon after the party reaches West Fort.
+- In [[sessions/session-033|Session 33]], Aldrith offers help soon after the party reaches Westfort.
 
 ## Current status
 

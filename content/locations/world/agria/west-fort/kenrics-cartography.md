@@ -6,14 +6,14 @@ tags:
   - shop
 aliases:
   - Kenrics Cartography
-parent_location: "[[locations/world/agria/west-fort|West Fort]]"
+parent_location: "[[locations/world/agria/west-fort|Westfort]]"
 source_sessions:
   - 33
 ---
 
 ## Overview
 
-Kenric's Cartography is a mapmaker's shop in [[locations/world/agria/west-fort|West Fort]]. Kenric's work is regarded as uneven by locals, but he possesses valuable knowledge of old roads, ruins, and [[locations/world/westmarsh|Westmarsh]].
+Kenric's Cartography is a mapmaker's shop in [[locations/world/agria/west-fort|Westfort]]. Kenric's work is regarded as uneven by locals, but he possesses valuable knowledge of old roads, ruins, and [[locations/world/westmarsh|Westmarsh]].
 
 ## Geography or layout
 

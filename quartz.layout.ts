@@ -67,7 +67,7 @@ const explorerOptions = {
       "the-cracked-shield": "The Cracked Shield",
       "monsters-of-westmarsh": "Monsters of Westmarsh",
       "shrine-of-the-oozing-serpent": "Shrine of the Oozing Serpent",
-      "west-fort": "West Fort",
+      "west-fort": "Westfort",
     }
 
     if (manualNames[node.displayName]) {

@@ -6,9 +6,9 @@ tags:
   - soldier
 aliases: []
 status: captive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
-  - West Fort garrison
+  - Westfort garrison
   - Grey Syndicate
 source_sessions:
   - 35
@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Veteran Borak is a well-regarded half-orc guard at West Fort who secretly works under Vex.
+Veteran Borak is a well-regarded half-orc guard at Westfort who secretly works under Vex.
 
 ## Appearance
 
@@ -32,12 +32,12 @@ Obedient to dangerous orders.
 
 ## Affiliations
 
-- West Fort garrison
+- Westfort garrison
 - [[npcs/west-fort/grey-syndicate/vex|Vex's Grey Syndicate cell]]
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 

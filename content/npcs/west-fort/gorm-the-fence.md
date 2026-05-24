@@ -6,9 +6,9 @@ tags:
   - black-market
 aliases: []
 status: alive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
-  - West Fort
+  - Westfort
 source_sessions:
   - 39
   - 45
@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Gorm the Fence is a half-orc black-market dealer and fence operating in and around West Fort.
+Gorm the Fence is a half-orc black-market dealer and fence operating in and around Westfort.
 
 ## Appearance
 
@@ -33,11 +33,11 @@ Practical. Further detail: Needs review.
 
 ## Affiliations
 
-- West Fort
+- Westfort
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 

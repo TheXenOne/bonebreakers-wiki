@@ -6,16 +6,16 @@ tags:
   - soldier
 aliases: []
 status: alive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
-  - West Fort garrison
+  - Westfort garrison
 source_sessions:
   - 33
 ---
 
 ## Overview
 
-Captain Rodrick is a senior officer at West Fort.
+Captain Rodrick is a senior officer at Westfort.
 
 ## Appearance
 
@@ -31,11 +31,11 @@ Stubborn, conservative, and dismissive of conspiracies.
 
 ## Affiliations
 
-- West Fort garrison
+- Westfort garrison
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 

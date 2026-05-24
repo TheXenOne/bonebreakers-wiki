@@ -10,7 +10,7 @@ source_sessions:
 
 ## Overview
 
-The Necklace of Strangulation is an ominous magical necklace acquired during the West Fort war arc, and it is currently owned by [[characters/active-players/laura/characters/rose|Rose]].
+The Necklace of Strangulation is an ominous magical necklace acquired during the Westfort war arc, and it is currently owned by [[characters/active-players/laura/characters/rose|Rose]].
 
 ## Known history
 

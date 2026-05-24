@@ -29,7 +29,7 @@ The Southlands are a broad temperate region in eastern Agria. Much of the campai
 - [[locations/world/agria/southlands/ikiria|Ikiria]]
 - [[locations/world/agria/southlands/barrowshire|The Barony of Barrowshire]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
-- [[locations/world/agria/west-fort|West Fort]]
+- [[locations/world/agria/west-fort|Westfort]]
 
 ## Associated people and groups
 

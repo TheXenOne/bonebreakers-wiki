@@ -6,7 +6,7 @@ tags:
   - apothecary
 aliases: []
 status: alive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
   - Tincture & Tonic
 source_sessions:
@@ -37,7 +37,7 @@ Practical and commercially useful.
 ## Associated locations
 
 - [[locations/world/agria/west-fort/tincture-and-tonic|Tincture & Tonic]]
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 

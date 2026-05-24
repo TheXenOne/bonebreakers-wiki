@@ -17,7 +17,7 @@ related_locations:
   - Hobgoblin Mine
   - Invasion Fort
   - Spider Market
-  - West Fort
+  - Westfort
 source_sessions:
   - 36
   - 37
@@ -29,7 +29,7 @@ source_sessions:
 
 ## Overview
 
-The hobgoblins of Westmarsh are the clearest organised monster army shown in the West Fort arc. They oversee mining and weapons production, hire mercenaries, and form the core of the invasion force aimed at [[locations/world/agria/west-fort|West Fort]].
+The hobgoblins of Westmarsh are the clearest organised monster army shown in the Westfort arc. They oversee mining and weapons production, hire mercenaries, and form the core of the invasion force aimed at [[locations/world/agria/west-fort|Westfort]].
 
 ## Purpose or role
 
@@ -51,24 +51,24 @@ They function as the main military organisers of the western invasion effort rat
 - [[locations/world/westmarsh/hobgoblin-mine|The Hobgoblin Mine]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 - [[locations/world/westmarsh/spiders-market|The Spider Market]]
-- [[locations/world/agria/west-fort|West Fort]]
+- [[locations/world/agria/west-fort|Westfort]]
 
 ## Allies and enemies
 
 - They work alongside [[factions/military-and-orders/monsters-of-westmarsh/bugbears-of-westmarsh|bugbears of Westmarsh]], kobold labour, and a wider invasion force that also includes orcs, goblins, ogres, and giant hawks.
 - Their exact relationship to the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]] is suggestive but not fully defined.
-- They are directly opposed by the [[factions/military-and-orders/west-fort-garrison|West Fort Garrison]] and the [[factions/other/bonebreakers|Bonebreakers]].
+- They are directly opposed by the [[factions/military-and-orders/west-fort-garrison|Westfort Garrison]] and the [[factions/other/bonebreakers|Bonebreakers]].
 
 ## Campaign involvement
 
 - In [[sessions/session-036|Session 36]], the party finds a hobgoblin cave and confirms organised military preparation.
 - In [[sessions/session-037|Session 37]], the mine and market rumours reveal that hobgoblins are hiring mercenaries and feeding a larger war effort.
 - In [[sessions/session-038|Session 38]], the Bonebreakers raid the invasion fort and discover large-scale plans against Agria.
-- In [[sessions/session-039|Session 39]] and [[sessions/session-040|Session 40]], the resulting invasion force attacks West Fort and is eventually broken.
+- In [[sessions/session-039|Session 39]] and [[sessions/session-040|Session 40]], the resulting invasion force attacks Westfort and is eventually broken.
 
 ## Current status
 
-Broken as a major invasion force after the West Fort campaign. Surviving remnants and leadership: Needs review.
+Broken as a major invasion force after the Westfort campaign. Surviving remnants and leadership: Needs review.
 
 ## Related sessions
 

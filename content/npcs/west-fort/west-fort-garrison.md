@@ -1,5 +1,5 @@
 ---
-title: West Fort Garrison
+title: Westfort Garrison
 type: npc
 tags:
   - npc
@@ -7,9 +7,9 @@ tags:
 aliases:
   - Westfort garrison
 status: active
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
-  - West Fort garrison
+  - Westfort garrison
 source_sessions:
   - 33
   - 35
@@ -21,14 +21,14 @@ source_sessions:
 
 ## Overview
 
-This page groups the main named military figures tied to [[locations/world/agria/west-fort/index|West Fort]].
+This page groups the main named military figures tied to [[locations/world/agria/west-fort/index|Westfort]].
 
 ## Key figures
 
 - [[npcs/west-fort/sergeant-dara|Sergeant Dara]]: Acting commander when the party first arrives. Hard-eyed and blunt.
 - [[npcs/west-fort/captain-rodrick|Captain Rodrick]]: Senior officer, conservative and dismissive of conspiracies.
 - [[npcs/west-fort/commander-valerius|Commander Valerius]]: Veteran overall commander of the fort.
-- [[npcs/west-fort/private-jordan|Private Jordan]]: Young West Fort soldier with a gambling problem and a weakness for drink.
+- [[npcs/west-fort/private-jordan|Private Jordan]]: Young Westfort soldier with a gambling problem and a weakness for drink.
 - [[npcs/west-fort/grey-syndicate/veteran-borak|Veteran Borak]]: Respected half-orc guard who later tries to kill Sarla on orders.
 
 ## Appearance
@@ -46,15 +46,15 @@ This page groups the main named military figures tied to [[locations/world/agria
 
 ## Role in the campaign
 
-- The garrison frames the military side of the West Fort arc, from initial distrust to siege survival.
+- The garrison frames the military side of the Westfort arc, from initial distrust to siege survival.
 
 ## Affiliations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 
 ## Relationships

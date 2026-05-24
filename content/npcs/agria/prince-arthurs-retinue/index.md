@@ -24,14 +24,14 @@ This page groups the named members of [[npcs/agria/prince-arthur|Prince Arthur's
 
 - [[npcs/agria/prince-arthurs-retinue/captain-hassock|Captain Hassock]]: Arthur's captain, who remains loyal but carries out Arthur's arrest on Smith's orders in Ikiria.
 - [[npcs/agria/prince-arthurs-retinue/pell|Pell]]: Young squire sent by Frank to [[npcs/agria/east-agria-company/commander-smith|Commander Smith]] with a warning letter after Arthur's capture.
-- [[npcs/agria/prince-arthurs-retinue/thomas|Thomas]]: Wounded squire stabilised by Steve after the ambush.
+- [[npcs/agria/prince-arthurs-retinue/tomas-wren|Tomas Wren]]: Wounded squire stabilised by Steve after the ambush.
 - [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]]: Prince Arthur's secretary and keeper of the ledger proving Arthur's Syndicate ties.
 
 ## Appearance
 
 - Hassock is identified as Arthur's captain.
 - Pell is specifically described as a young squire.
-- Fuller physical descriptions for Thomas and the secretary need review.
+- Fuller physical descriptions for Tomas Wren and the secretary need review.
 
 ## Personality
 
@@ -51,18 +51,18 @@ This page groups the named members of [[npcs/agria/prince-arthur|Prince Arthur's
 
 - the road toward Ikiria
 - [[locations/world/agria/southlands/mercy|The Mercy]]
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 
 - Hassock is the senior captain within Arthur's coach party.
-- Pell and Thomas are squires within Arthur's coach party.
+- Pell and Tomas Wren are squires within Arthur's coach party.
 - The secretary keeps the ledger that turns the whole escort into a political liability.
 
 ## Campaign events
 
 - Pell and Arthur's escort matter during [[sessions/session-044|Session 44]].
-- In [[sessions/session-045|Session 45]], Pell rides to Smith and Thomas is stabilised.
+- In [[sessions/session-045|Session 45]], Pell rides to Smith and Tomas Wren is stabilised.
 - The wider retinue remains part of the Arthur problem into [[sessions/session-046|Session 46]].
 - In [[sessions/session-047|Session 47]], Wendell testifies in Ikiria and Hassock carries out Arthur's arrest.
 
@@ -70,7 +70,7 @@ This page groups the named members of [[npcs/agria/prince-arthur|Prince Arthur's
 
 - Hassock: alive, but his role after Arthur's arrest is unclear.
 - Pell: alive.
-- Thomas: alive after Steve stabilises him.
+- Tomas Wren: alive after Steve stabilises him.
 - The secretary: alive and has testified against Arthur.
 
 ## Related sessions
@@ -82,4 +82,4 @@ This page groups the named members of [[npcs/agria/prince-arthur|Prince Arthur's
 
 ## Unresolved threads
 
-- The later role of Pell and Thomas after Arthur's arrest is not yet shown.
+- The later role of Pell and Tomas Wren after Arthur's arrest is not yet shown.

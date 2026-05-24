@@ -8,7 +8,7 @@ tags:
 aliases:
   - Temple of St Lucia the Merciful
   - temple of Saint Lucia the Merciful
-parent_location: "[[locations/world/agria/west-fort|West Fort]]"
+parent_location: "[[locations/world/agria/west-fort|Westfort]]"
 source_sessions:
   - 33
   - 39
@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-The Temple of Saint Lucia the Merciful is a small wooden temple in [[locations/world/agria/west-fort|West Fort]] overseen by Sister Aldrith. It offers healing, holy water, and religious support to the frontier.
+The Temple of Saint Lucia the Merciful is a small wooden temple in [[locations/world/agria/west-fort|Westfort]] overseen by Sister Aldrith. It offers healing, holy water, and religious support to the frontier.
 
 ## Geography or layout
 

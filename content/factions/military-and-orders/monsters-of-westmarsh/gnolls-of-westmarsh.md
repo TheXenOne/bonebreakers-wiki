@@ -14,7 +14,7 @@ notable_members:
   - Grazka
 related_locations:
   - Westmarsh
-  - West Fort
+  - Westfort
   - Spider Market
 source_sessions:
   - 34
@@ -42,13 +42,13 @@ They appear mainly as raiders, patrols, and camp attackers rather than as a visi
 ## Associated locations
 
 - [[locations/world/westmarsh|Westmarsh]]
-- [[locations/world/agria/west-fort|West Fort]]
+- [[locations/world/agria/west-fort|Westfort]]
 - [[locations/world/westmarsh/spiders-market|The Spider Market]]
 
 ## Allies and enemies
 
 - The gnolls are not clearly shown as part of the hobgoblin command structure.
-- They are hostile to the [[factions/other/bonebreakers|Bonebreakers]] and threaten traffic near [[locations/world/agria/west-fort|West Fort]].
+- They are hostile to the [[factions/other/bonebreakers|Bonebreakers]] and threaten traffic near [[locations/world/agria/west-fort|Westfort]].
 
 ## Campaign involvement
 

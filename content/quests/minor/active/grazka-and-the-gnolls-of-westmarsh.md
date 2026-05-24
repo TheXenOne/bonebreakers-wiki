@@ -21,7 +21,7 @@ related_npcs:
   - Grazka
 related_factions:
   - Gnolls of Westmarsh
-  - West Fort Garrison
+  - Westfort Garrison
 source_sessions:
   - 34
   - 37
@@ -59,7 +59,7 @@ Active. The gnolls remain a recurring frontier threat, but the campaign has not 
 ## Related factions
 
 - [[factions/military-and-orders/monsters-of-westmarsh/gnolls-of-westmarsh|Gnolls of Westmarsh]]
-- [[factions/military-and-orders/west-fort-garrison|West Fort Garrison]]
+- [[factions/military-and-orders/west-fort-garrison|Westfort Garrison]]
 
 ## Related sessions
 

@@ -6,7 +6,7 @@ tags:
   - smith
 aliases: []
 status: alive
-primary_location: West Fort
+primary_location: Westfort
 affiliations:
   - Ironhand's Forge
 source_sessions:
@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Mara Ironhand is a respected smith in West Fort.
+Mara Ironhand is a respected smith in Westfort.
 
 ## Appearance
 
@@ -37,7 +37,7 @@ Practical and supportive of proven defenders.
 ## Associated locations
 
 - [[locations/world/agria/west-fort/ironhands-forge|Ironhand's Forge]]
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 

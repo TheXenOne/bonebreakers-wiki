@@ -4,7 +4,8 @@ type: npc
 tags:
   - npc
   - squire
-aliases: []
+aliases:
+  - Tomas
 status: alive
 primary_location: Prince Arthur's retinue
 affiliations:
@@ -15,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Thomas is a wounded squire travelling with [[npcs/agria/prince-arthur|Prince Arthur's]] retinue.
+Tomas is a wounded squire travelling with [[npcs/agria/prince-arthur|Prince Arthur's]] retinue.
 
 ## Appearance
 
@@ -27,7 +28,7 @@ Needs review.
 
 ## Role in the campaign
 
-- Thomas is one of the surviving witnesses and entourage members caught up in Arthur's exposure.
+- Tomas is one of the surviving witnesses and entourage members caught up in Arthur's exposure.
 
 ## Affiliations
 
@@ -36,8 +37,8 @@ Needs review.
 
 ## Associated locations
 
-- the road between West Fort and Ikiria
-- [[locations/world/agria/west-fort/index|West Fort]]
+- the road between Westfort and Ikiria
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 
@@ -45,7 +46,7 @@ Needs review.
 
 ## Campaign events
 
-- In [[sessions/session-045|Session 45]], Steve stabilises Thomas after he takes a spear to the leg while trying to flee.
+- In [[sessions/session-045|Session 45]], Steve stabilises Tomas after he takes a spear to the leg while trying to flee.
 
 ## Current status
 
@@ -57,4 +58,4 @@ Alive after being stabilised in Session 45.
 
 ## Unresolved threads
 
-- Thomas's later role is not shown.
+- Tomas's later role is not shown.

@@ -28,7 +28,7 @@ Dependable and later loyal to the party.
 
 ## Role in the campaign
 
-- Osric anchors the inn that becomes the centre of the West Fort fire and conspiracy reveal.
+- Osric anchors the inn that becomes the centre of the Westfort fire and conspiracy reveal.
 
 ## Affiliations
 
@@ -37,7 +37,7 @@ Dependable and later loyal to the party.
 ## Associated locations
 
 - [[locations/world/agria/west-fort/cracked-shield|The Cracked Shield]]
-- [[locations/world/agria/west-fort/index|West Fort]]
+- [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships
 
