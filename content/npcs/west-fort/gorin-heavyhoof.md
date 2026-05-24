@@ -7,7 +7,6 @@ tags:
 aliases:
   - Goren HeavyHoof
   - Goren Heavyhoof
-aliases: []
 status: alive
 primary_location: West Fort
 affiliations:
