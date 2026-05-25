@@ -16,8 +16,9 @@ Published wiki pages live in `/content`.
 
 - Do not invent campaign facts.
 - Prefer facts from the lore document when describing stable world information.
-- Treat definitive spellings and naming canon as coming from `sources/lore.md` first and the published wiki second.
-- Raw session notes often contain inconsistent spellings and should not override the lore document or established wiki canon on names.
+- Treat definitive spellings and naming canon as coming from the published wiki in `/content`.
+- If there is any ambiguity or conflict about spelling, names, aliases, or titles, treat the published wiki in `/content` as the source of truth.
+- Raw session notes and source documents may contain inconsistent spellings and should not override established wiki canon on names.
 - Prefer session summaries for narrative session pages.
 - Use raw session notes for extra detail, names, events, clues, and unresolved threads.
 - When uncertain, write "Needs review" rather than guessing.
