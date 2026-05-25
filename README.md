@@ -1,17 +1,40 @@
-# Quartz v4
+# The Bonebreakers Wiki
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This repository contains the player-facing campaign wiki for **The Bonebreakers**, a Dungeons & Dragons campaign.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+The site is built with [Quartz](https://quartz.jzhao.xyz/) and published as a static wiki. Campaign pages live in `content/`; raw source notes, when available locally, live in `sources/` and are not published.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Working On The Wiki
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- Published wiki pages live in `content/`.
+- Use Markdown wiki links such as `[[locations/world/agria/southlands/ikiria|Ikiria]]`.
+- Use kebab-case filenames for new pages.
+- Do not invent campaign facts. Mark uncertain claims as `Needs review`.
+- Prefer stable lore and established wiki canon over inconsistent raw session-note spellings.
+- Keep pages player-facing and avoid speculative DM-only secrets.
 
-## Sponsors
+See `AGENTS.md` for the full editing rules and folder conventions used by coding assistants.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Useful Commands
+
+```bash
+npm ci
+npm run serve
+npm run quartz -- build
+```
+
+The local preview normally runs at `http://localhost:8080/`.
+
+## Project Structure
+
+- `content/` - published campaign wiki pages
+- `sources/` - local raw campaign source documents, ignored by git
+- `quartz/` - Quartz static-site generator code
+- `quartz.config.ts` - site configuration
+- `quartz.layout.ts` - site layout and navigation components
+
+## License And Ownership
+
+Quartz is distributed under the MIT License. See `LICENSE.txt` for the Quartz license notice.
+
+The wiki content in `content/`, along with campaign-specific text, names, places, characters, and notes, is Bonebreakers campaign material and belongs to the respective players, DM, and other contributors.

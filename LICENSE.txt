@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Additional content notice:
+
+This license notice applies to Quartz and the software portions of this
+repository derived from Quartz.
+
+The wiki content, including campaign-specific text, names, places, characters,
+session material, and notes, is Bonebreakers campaign material and belongs to
+the respective players, DM, and other contributors.

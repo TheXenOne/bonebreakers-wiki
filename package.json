@@ -1,19 +1,19 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "bonebreakers-wiki",
+  "description": "Player-facing campaign wiki for The Bonebreakers D&D campaign",
   "private": true,
-  "version": "4.5.2",
+  "version": "0.1.0",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
-  "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "author": "The Bonebreakers",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage": "https://thexenone.github.io/bonebreakers-wiki",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/TheXenOne/bonebreakers-wiki.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "docs": "npx quartz build --serve -d docs",
+    "serve": "npx quartz build --serve",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
@@ -26,9 +26,9 @@
   "keywords": [
     "site generator",
     "ssg",
-    "digital-garden",
+    "campaign-wiki",
+    "dnd",
     "markdown",
-    "blog",
     "quartz"
   ],
   "bin": {
