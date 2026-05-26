@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Dreg is a cunning thief hired by the party during the early Barrowshire arc.
+Dreg was a cunning thief hired by the party during the early Barrowshire arc. Auto-Mulvis's explosion kills him in [[sessions/session-007|Session 7]].
 
 ## Appearance
 

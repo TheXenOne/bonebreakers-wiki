@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Lord Demetrius is a restrained vampiric noble within the manor who abstains from blood.
+Lord Demetrius was a restrained vampiric noble within the manor who abstained from blood until the hive-mind fungus killed him during the manor expedition.
 
 ## Appearance
 

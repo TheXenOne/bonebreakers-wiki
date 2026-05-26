@@ -48,7 +48,7 @@ Grateful and practical.
 
 ## Current status
 
-Active.
+Freed from the Barrow and returned to Barrow Spa.
 
 ## Related sessions
 

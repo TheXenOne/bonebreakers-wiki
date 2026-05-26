@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-The Orcs of Kelfrek Marsh are Gruumsh One-Tusk's disciplined warband in Kelfrek Marsh.
+The Orcs of Kelfrek Marsh were Gruumsh One-Tusk's disciplined warband in Kelfrek Marsh. They are now broken as a coherent force, though surviving remnants need review.
 
 ## Appearance
 

@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Jeremy is the scar-lipped human courier and paymaster captured after meeting Vex's network near Westfort.
+Jeremy is the scar-lipped human courier and paymaster captured after meeting Vex's network near Westfort. His status after the bridge interrogation is captive, but his later fate needs review.
 
 ## Appearance
 

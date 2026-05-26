@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-This page groups the named members of [[npcs/agria/prince-arthur|Prince Arthur's]] travelling retinue who matter during the Grey Syndicate reveal.
+This page groups the named members of [[npcs/agria/prince-arthur|Prince Arthur's]] travelling retinue who matter during the Grey Syndicate reveal. Their current status is mixed: Wendell has testified against Arthur, Hassock carries out Arthur's arrest, and the surviving squires' later roles remain limited or unclear.
 
 ## Key figures
 

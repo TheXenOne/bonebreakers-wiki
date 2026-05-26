@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Sister Aldrith is a cleric of Saint Lucia the Merciful in Westfort.
+Sister Aldrith is a cleric of Saint Lucia the Merciful in Westfort. She offers holy water, free healing with customary donations, and rewards for undead samples, ancient texts, or relics of Saint Lucia's faith recovered from Westmarsh.
 
 ## Appearance
 
@@ -28,6 +28,7 @@ Compassionate, perceptive, and quietly determined.
 ## Role in the campaign
 
 - Aldrith is one of the party's earliest fort-side helpers and a dependable source of aid.
+- Her temple gives the party a local healing contact and a reason to bring back religious or ancient finds from Westmarsh.
 
 ## Affiliations
 
@@ -44,7 +45,8 @@ Compassionate, perceptive, and quietly determined.
 
 ## Campaign events
 
-- In [[sessions/session-033|Session 33]], Aldrith offers help soon after the party reaches Westfort.
+- In [[sessions/session-033|Session 33]], Aldrith offers holy water and healing soon after the party reaches Westfort.
+- In [[sessions/session-039|Session 39]], Cedric visits her temple for aid and receives a Book of Sublime Holiness.
 
 ## Current status
 

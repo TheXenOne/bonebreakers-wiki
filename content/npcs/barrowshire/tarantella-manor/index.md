@@ -20,7 +20,7 @@ source_sessions:
 
 ## Overview
 
-This page groups the named Tarantella family figures tied to [[locations/world/agria/southlands/barrowshire/tarantella-manor/index|Tarantella Manor]] and the [[locations/world/agria/southlands/barrowshire/tarantella-manor/jewellers-sanctum|Jeweller's Sanctum]].
+This page groups the named Tarantella family figures tied to [[locations/world/agria/southlands/barrowshire/tarantella-manor/index|Tarantella Manor]] and the [[locations/world/agria/southlands/barrowshire/tarantella-manor/jewellers-sanctum|Jeweller's Sanctum]]. Draxas is the long-departed architect of the sanctum, while Morlan and the Rat Queen fall during the party's exploration.
 
 ## Key figures
 

@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Neem is a shady thief hired by the party for the shrine expedition.
+Neem was a shady thief hired by the party for the shrine expedition. Arden cured him after a paralysing trap, but Neem later tried to murder Gorfthistle for King Bonflute's crown and was killed in the fallout.
 
 ## Appearance
 
@@ -29,6 +29,7 @@ Soft-spoken, shady, and opportunistic.
 ## Role in the campaign
 
 - Neem illustrates how unstable the party's hired support becomes under pressure and greed.
+- His betrayal turns the shrine expedition's hired-thief arrangement into a lethal internal conflict.
 
 ## Affiliations
 
@@ -44,7 +45,8 @@ Soft-spoken, shady, and opportunistic.
 
 ## Campaign events
 
-- During the shrine expedition, Neem tries to assassinate Gorfthistle, lies about the attack, and is executed by Gorfthistle before the party can stop it.
+- During the shrine expedition, Neem is paralysed by a trap and cured by Arden.
+- After Gorfthistle retrieves the crown, Neem tries to assassinate him, lies about the attack, and is executed by Gorfthistle before the party can stop it.
 
 ## Current status
 

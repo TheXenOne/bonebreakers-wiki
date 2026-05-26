@@ -14,7 +14,7 @@ source_sessions: []
 
 ## Overview
 
-Queen Audrey II is the monarch of [[locations/world/agria/index|Agria]] and the ruler above the kingdom's competing noble, civic, and mercantile powers.
+Queen Audrey II is the reigning monarch of [[locations/world/agria/index|Agria]] and the ruler above the kingdom's competing noble, civic, and mercantile powers.
 
 ## Appearance
 
@@ -52,7 +52,7 @@ Needs review.
 
 ## Current status
 
-Active. Still reigning.
+Still reigning.
 
 ## Related sessions
 

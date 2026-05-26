@@ -21,7 +21,7 @@ source_sessions:
 
 ## Overview
 
-Commander Valerius is the seasoned veteran in charge of Westfort.
+Commander Valerius is the seasoned veteran in charge of Westfort. He is often irritated by the Bonebreakers, but repeatedly relies on them as Westfort's sabotage, kidnappings, invasion warnings, and Grey Syndicate leads escalate.
 
 ## Appearance
 
@@ -34,6 +34,7 @@ Cynical, seasoned, and authoritative.
 ## Role in the campaign
 
 - Valerius becomes the main military authority during the fort's sabotage, investigations, and later war footing.
+- He receives prisoners, recovered arms, invasion intelligence, and hard-won reports from the party, and publicly commends them after the Vex operation despite his misgivings.
 - He remains the party's main military contact when renewed invasion rumours return after the Spider Market raid.
 
 ## Affiliations
@@ -51,7 +52,8 @@ Cynical, seasoned, and authoritative.
 
 ## Campaign events
 
-- From [[sessions/session-033|Session 33]] through [[sessions/session-040|Session 40]], Valerius repeatedly receives reports, prisoners, and strategic outcomes from the party.
+- From [[sessions/session-033|Session 33]] through [[sessions/session-040|Session 40]], Valerius repeatedly receives reports, prisoners, and strategic outcomes from the party, including the recovered garrison weapons, captured conspirators, and warning of the imminent siege.
+- During the Westfort crisis, he prepares the fort for war and asks the party to find the kidnapped children while he handles the military response.
 - In [[sessions/session-047|Session 47]], he receives warning of renewed invasion preparations and sharply rebukes Steve after Steve kills prisoners to clear cell space.
 
 ## Current status

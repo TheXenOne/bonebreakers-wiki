@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Captain Gulian is the Gloop captain charged with protecting Sootmurk.
+Captain Gulian was the Gloop captain charged with protecting Sootmurk before being killed during the shrine expedition.
 
 ## Appearance
 

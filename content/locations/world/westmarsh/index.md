@@ -28,7 +28,7 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 ## Geography and layout
 
 - The frontier crossing near [[locations/world/agria/west-fort|Westfort]] controls one of the main routes in.
-- The region contains monster markets, mines, invasion staging grounds, and later known links to [[locations/world/westmarsh/necropolis|the Necropolis]].
+- The region contains monster markets, mines, invasion staging grounds, and [[locations/world/westmarsh/necropolis|the Necropolis]], whose true location is in Westmarsh even though the Bonebreakers first reach one entrance from beneath [[locations/world/agria/southlands/mercy|the Mercy]].
 - Travel is consistently described as dangerous and poorly controlled.
 
 ## Notable sublocations

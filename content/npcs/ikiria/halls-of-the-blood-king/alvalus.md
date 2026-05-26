@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Alvalus is the Blood King's reflection in the mirror: his guilt, regret, and shame bound in glass.
+Alvalus is the Blood King's reflection in the mirror: his guilt, regret, and shame bound in glass. His condition after the manor's fall needs review.
 
 ## Appearance
 

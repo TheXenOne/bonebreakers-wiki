@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Tomas is a wounded squire travelling with [[npcs/agria/prince-arthur|Prince Arthur's]] retinue.
+Tomas Wren is a wounded squire travelling with [[npcs/agria/prince-arthur|Prince Arthur's]] retinue. He survives after being stabilised in [[sessions/session-045|Session 45]].
 
 ## Appearance
 

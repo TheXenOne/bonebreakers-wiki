@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-The Princess of Blood is the Blood King's daughter and an aspirant ruler within the manor.
+The Princess of Blood is the Blood King's daughter and an aspirant ruler within the manor. Her status after the manor's fall needs review.
 
 ## Appearance
 

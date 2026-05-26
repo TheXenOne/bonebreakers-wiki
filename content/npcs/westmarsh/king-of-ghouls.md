@@ -14,7 +14,7 @@ source_sessions: []
 
 ## Overview
 
-The King of Ghouls is the undead leader of all ghouls and one of the largest looming threats in Westmarsh.
+The King of Ghouls is the undead leader of all ghouls and one of the largest looming threats in Westmarsh. He remains at large.
 
 ## Appearance
 
@@ -47,7 +47,7 @@ Needs review.
 
 ## Current status
 
-Active and at large.
+At large.
 
 ## Related sessions
 

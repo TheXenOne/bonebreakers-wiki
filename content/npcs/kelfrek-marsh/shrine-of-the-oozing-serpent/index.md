@@ -23,7 +23,7 @@ source_sessions:
 
 ## Overview
 
-This page groups the main named monster and wilderness figures tied to [[locations/world/agria/southlands/barrowshire/kelfrek-marsh/index|Kelfrek Marsh]] and the Shrine of the Oozing Serpent arc.
+This page groups the main named monster and wilderness figures tied to [[locations/world/agria/southlands/barrowshire/kelfrek-marsh/index|Kelfrek Marsh]] and the Shrine of the Oozing Serpent arc. The shrine expedition kills most of the named shrine figures, Gruumsh One-Tusk survives defeat and humiliation, and the status of broader Gloop and marsh-orc remnants needs review.
 
 ## Key figures
 

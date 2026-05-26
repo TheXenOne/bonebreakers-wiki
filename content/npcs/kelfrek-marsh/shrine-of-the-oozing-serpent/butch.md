@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Butch is Gorfthistle's automaton dog.
+Butch was Gorfthistle's automaton dog and was destroyed during the shrine expedition.
 
 ## Appearance
 

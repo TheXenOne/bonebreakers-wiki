@@ -48,7 +48,7 @@ Practical local merchant. Further detail: Needs review.
 
 ## Current status
 
-Alive and active in Barrow Spa.
+Alive in Barrow Spa.
 
 ## Related sessions
 

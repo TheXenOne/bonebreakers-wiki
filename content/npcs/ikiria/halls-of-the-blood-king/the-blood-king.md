@@ -20,7 +20,7 @@ source_sessions:
 
 ## Overview
 
-The Blood King is the master vampire ruling the shifting manor outside [[locations/world/agria/southlands/ikiria/index|Ikiria]].
+The Blood King was the master vampire ruling the shifting manor outside [[locations/world/agria/southlands/ikiria/index|Ikiria]]. The Bonebreakers destroy his hidden heart, ending his rule over the manor.
 
 ## Appearance
 

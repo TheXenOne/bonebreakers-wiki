@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-The Rat Queen is a giant rat ruler encountered in a deeper chamber of the [[locations/world/agria/southlands/barrowshire/tarantella-manor/jewellers-sanctum|Jeweller's Sanctum]].
+The Rat Queen was a giant rat ruler encountered in a deeper chamber of the [[locations/world/agria/southlands/barrowshire/tarantella-manor/jewellers-sanctum|Jeweller's Sanctum]] before the party killed her.
 
 ## Appearance
 

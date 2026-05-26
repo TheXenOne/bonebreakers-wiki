@@ -19,7 +19,7 @@ source_sessions:
 
 ## Overview
 
-Draxas Tarantella was the famed jeweller-magician whose traps and workshop define the Tarantella arc.
+Draxas Tarantella was the famed jeweller-magician whose traps and workshop define the Tarantella arc. He is long dead, but his work continues to shape the Jeweller's Sanctum.
 
 ## Appearance
 

@@ -22,7 +22,7 @@ source_sessions:
 
 ## Overview
 
-Commander Smith is head of security for the East Agria Company and one of [[npcs/agria/princess-agatha|Princess Agatha]]'s main covert agents.
+Commander Smith is head of security for the East Agria Company and one of [[npcs/agria/princess-agatha|Princess Agatha]]'s main covert agents. He is directly managing the Arthur crisis in Ikiria after accepting Wendell's testimony and the written evidence against [[npcs/agria/prince-arthur|Prince Arthur]].
 
 ## Appearance
 
@@ -64,7 +64,7 @@ Efficient, discreet, and easily irritated by public loose ends.
 
 ## Current status
 
-Active and directly managing the Arthur crisis in Ikiria.
+Directly managing the Arthur crisis in Ikiria.
 
 ## Related sessions
 

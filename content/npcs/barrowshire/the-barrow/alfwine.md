@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Alfwine is the lively fairy found trapped beneath a cairn in [[locations/world/agria/southlands/barrowshire/barrow|the Barrow]].
+Alfwine was the lively fairy found trapped beneath a cairn in [[locations/world/agria/southlands/barrowshire/barrow|the Barrow]]. She dies defending the Bonebreakers.
 
 ## Appearance
 

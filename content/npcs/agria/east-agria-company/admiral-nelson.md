@@ -54,7 +54,7 @@ Needs review.
 
 ## Current status
 
-Active.
+In East Agria Company service.
 
 ## Related sessions
 

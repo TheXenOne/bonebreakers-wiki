@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Selana is a pale, armoured vampire-hunter trapped within the manor who becomes an uneasy ally of the Bonebreakers.
+Selana was a pale, armoured vampire-hunter trapped within the manor who became an uneasy ally of the Bonebreakers before falling during the Halls of the Blood King events.
 
 ## Appearance
 

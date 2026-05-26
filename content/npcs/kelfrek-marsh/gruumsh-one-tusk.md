@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Gruumsh One-Tusk is the warlord of Kelfrek Marsh and leader of the orc raid on the Mercy.
+Gruumsh One-Tusk is the warlord of Kelfrek Marsh and leader of the orc raid on the Mercy. After ransoming captured priests and losing the battle at the shrine, he is spared by Frank and sent away alive, scarred and humiliated.
 
 ## Appearance
 
@@ -31,6 +31,7 @@ Militarily serious, proud, and power-focused.
 ## Role in the campaign
 
 - Gruumsh drives the hostage crisis that pulls the party back into the marsh late in the Mercy arc.
+- His survival leaves a defeated orc warlord loose in the marsh, carrying the mark of Frank's warning.
 
 ## Affiliations
 
@@ -48,11 +49,11 @@ Militarily serious, proud, and power-focused.
 
 ## Campaign events
 
-- In [[sessions/session-024|Session 24]] and [[sessions/session-025|Session 25]], Gruumsh ransoms captured priests, defends the shrine, is defeated, and is ultimately spared.
+- In [[sessions/session-024|Session 24]] and [[sessions/session-025|Session 25]], Gruumsh ransoms captured priests, defends the shrine, is defeated, and is ultimately spared after Frank scars his face as a warning.
 
 ## Current status
 
-Alive after defeat and humiliation.
+Alive after defeat, scarring, and humiliation.
 
 ## Related sessions
 

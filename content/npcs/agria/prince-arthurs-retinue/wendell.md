@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Wendell is the keeper of the ledger documenting [[npcs/agria/prince-arthur|Prince Arthur's]] meetings with the [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]]. He served as Arthur's secretary, but after testifying against him in [[sessions/session-047|Session 47]], he is likely no longer acting in that role.
+Wendell is the keeper of the ledger documenting [[npcs/agria/prince-arthur|Prince Arthur's]] meetings with the [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]]. After testifying against Arthur in [[sessions/session-047|Session 47]], he is likely no longer acting as Arthur's secretary.
 
 ## Appearance
 
@@ -30,7 +30,7 @@ Deeply frightened by the end of his appearances.
 
 ## Role in the campaign
 
-- He is one of the party's strongest living pieces of evidence against Arthur.
+- He is one of the party's strongest witnesses against Arthur.
 - The Grey Syndicate tries to reclaim or eliminate him once the Bonebreakers take him into custody.
 
 ## Affiliations

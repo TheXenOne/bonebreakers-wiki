@@ -21,7 +21,7 @@ source_sessions:
 
 ## Overview
 
-This page groups the main named military figures tied to [[locations/world/agria/west-fort/index|Westfort]].
+This page groups the main named military figures tied to [[locations/world/agria/west-fort/index|Westfort]]. Borak's captured status after [[sessions/session-035|Session 35]] needs review.
 
 ## Key figures
 

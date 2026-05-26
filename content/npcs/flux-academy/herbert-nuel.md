@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Herbert Nuel is the cantankerous master of the College of Practical Invention at [[locations/world/agria/southlands/ikiria/flux-academy|Flux Academy]].
+Herbert Nuel is the cantankerous master of the College of Practical Invention at [[locations/world/agria/southlands/ikiria/flux-academy|Flux Academy]]. The Bonebreakers repeatedly use his alchemical expertise to identify potions before and after the Fos Imeras expedition.
 
 ## Appearance
 
@@ -31,6 +31,7 @@ Gruff, impatient, and frequently annoyed.
 ## Role in the campaign
 
 - Herbert is one of the academy leaders associated with the Fos Imeras expedition and later debriefing.
+- He identifies the party's potions, including a potion of healing, a potion of speed, a potion of poison, a potion of gold dragon control, and a potion of gaseous form.
 - The lore also credits him as the only known alchemist to have created a Philosopher's Stone.
 
 ## Affiliations
@@ -49,12 +50,12 @@ Gruff, impatient, and frequently annoyed.
 
 ## Campaign events
 
-- Appears during the academy expedition setup in [[sessions/session-013|Session 13]] and [[sessions/session-014|Session 14]].
-- Present again in the political briefing of [[sessions/session-018|Session 18]].
+- Appears during the academy expedition setup in [[sessions/session-013|Session 13]] and [[sessions/session-014|Session 14]], identifying several potions while Barny prepares additional healing magic.
+- In [[sessions/session-018|Session 18]], the party visits him again for more potion identification before the East Agria Company briefing.
 
 ## Current status
 
-Active.
+At Flux Academy.
 
 ## Related sessions
 

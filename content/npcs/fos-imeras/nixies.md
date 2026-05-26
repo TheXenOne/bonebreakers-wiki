@@ -50,7 +50,7 @@ Charming, possessive, and interested in keeping new residents.
 
 ## Current status
 
-Active.
+Encountered beneath Fos Imeras.
 
 ## Related sessions
 

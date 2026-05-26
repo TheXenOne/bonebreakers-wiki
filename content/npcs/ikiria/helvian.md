@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Helvian is the owner of [[locations/world/agria/southlands/ikiria/precisely-measured-scroll|the Precisely Measured Scroll]] in [[locations/world/agria/southlands/ikiria/index|Ikiria]].
+Helvian is the owner of [[locations/world/agria/southlands/ikiria/precisely-measured-scroll|the Precisely Measured Scroll]] in [[locations/world/agria/southlands/ikiria/index|Ikiria]]. Later involvement: Needs review.
 
 ## Appearance
 
@@ -49,7 +49,7 @@ Sharp-eyed and informative.
 
 ## Current status
 
-Active. Later involvement: Needs review.
+Later involvement: Needs review.
 
 ## Related sessions
 

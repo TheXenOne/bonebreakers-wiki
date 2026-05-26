@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Sergeant Grimlock was the ruthless drill sergeant training initiates at [[locations/world/agria/southlands/mercy|the Mercy]].
+Sergeant Grimlock was the ruthless drill sergeant training initiates at [[locations/world/agria/southlands/mercy|the Mercy]] before the Bonebreakers killed him during the cathedral assault.
 
 ## Appearance
 

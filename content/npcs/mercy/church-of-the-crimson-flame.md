@@ -20,7 +20,7 @@ source_sessions:
 
 ## Overview
 
-This page groups the named figures most closely tied to the fall and reclamation of [[locations/world/agria/southlands/mercy|the Mercy]].
+This page groups the named figures most closely tied to the fall and reclamation of [[locations/world/agria/southlands/mercy|the Mercy]]. The faction is broken after the Bonebreakers destroy the Crimson Bishop, Sergeant Grimlock falls, and Captain Fardr survives in service to the reclaimed cathedral.
 
 ## Key figures
 

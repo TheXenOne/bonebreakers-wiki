@@ -20,7 +20,7 @@ source_sessions:
 
 ## Overview
 
-Princess Agatha is heir to the throne of [[locations/world/agria/index|Agria]], Duchess of Southlands, Mayor of [[locations/world/agria/southlands/ikiria/index|Ikiria]], and head of the East Agria Company. The Bonebreakers rescue her from [[locations/world/fos-imeras/index|Fos Imeras]], after which she becomes their secret patron and assigns them covert missions.
+Princess Agatha is heir to the throne of [[locations/world/agria/index|Agria]], Duchess of Southlands, Mayor of [[locations/world/agria/southlands/ikiria/index|Ikiria]], and head of the East Agria Company. The Bonebreakers rescue her from [[locations/world/fos-imeras/index|Fos Imeras]], after which she becomes their secret patron and assigns them covert missions. She remains absent from public view during Ikiria's lockdown, and by [[sessions/session-050|Session 50]] that secrecy is becoming a public political liability.
 
 ## Appearance
 
@@ -67,7 +67,7 @@ Pragmatic, politically dangerous, and willing to reward useful service.
 
 ## Current status
 
-Active, but absent from public view in Ikiria during the lockdown. Her exact whereabouts remain unknown to the party, though Session 48 clarifies that this is standard procedure rather than a sign that she has gone missing. By Session 50, however, that secrecy is becoming a public political liability.
+Absent from public view in Ikiria during the lockdown. Her exact whereabouts remain unknown to the party, though Session 48 clarifies that this is standard procedure rather than a sign that she has gone missing. By Session 50, however, that secrecy is becoming a public political liability.
 
 ## Related sessions
 

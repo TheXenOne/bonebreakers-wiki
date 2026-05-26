@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Vaessa Silvertread is the elven captain of the civil guard in [[locations/world/agria/southlands/ikiria/index|Ikiria]].
+Vaessa Silvertread is the elven captain of the civil guard in [[locations/world/agria/southlands/ikiria/index|Ikiria]]. She is visibly overstrained by the city's plague, unrest, missing bodies, and failing civic infrastructure.
 
 ## Appearance
 
@@ -53,7 +53,7 @@ Professional and practical.
 
 ## Current status
 
-Active and visibly overstrained by Ikiria's plague, unrest, and failing civic infrastructure.
+Visibly overstrained by Ikiria's plague, unrest, and failing civic infrastructure.
 
 ## Related sessions
 

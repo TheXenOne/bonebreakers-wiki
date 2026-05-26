@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Kenric is the local cartographer of Westfort.
+Kenric is the local cartographer of Westfort. His maps are useful enough for expeditions into Westmarsh, but most people regard them as approximate at best and often inaccurate.
 
 ## Appearance
 
@@ -27,7 +27,7 @@ Earnest but inconsistent.
 
 ## Role in the campaign
 
-- Kenric provides the party with maps and local terrain knowledge.
+- Kenric provides the party with maps and local terrain knowledge, though their reliability is questionable.
 
 ## Affiliations
 
@@ -44,7 +44,7 @@ Earnest but inconsistent.
 
 ## Campaign events
 
-- In [[sessions/session-033|Session 33]], the party visits Kenric and commissions more mapping.
+- In [[sessions/session-033|Session 33]], the party visits Kenric and commissions more mapping after Sergeant Dara points them toward one of his Westmarsh maps.
 
 ## Current status
 

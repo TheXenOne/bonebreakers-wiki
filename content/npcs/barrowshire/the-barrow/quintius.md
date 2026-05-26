@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Quintius is the necromancer responsible for reanimating the dead in [[locations/world/agria/southlands/barrowshire/barrow|the Barrow]].
+Quintius is the necromancer responsible for reanimating the dead in [[locations/world/agria/southlands/barrowshire/barrow|the Barrow]]. After failing to restore his skeletons to true life, he was escorted out of the Barrow by the Bonebreakers and effectively allowed to go free.
 
 ## Appearance
 
@@ -28,7 +28,7 @@ Opportunistic and unreliable. He promises more than he can deliver.
 
 ## Role in the campaign
 
-- Quintius is the main named architect of the Barrow's first undead crisis.
+- Quintius is the main named architect of the Barrow's first undead crisis, and his bargain with the party ends with him leaving the dungeon alive.
 
 ## Affiliations
 
@@ -46,8 +46,8 @@ Opportunistic and unreliable. He promises more than he can deliver.
 
 ## Campaign events
 
-- Quintius appears in the opening Barrow expedition in [[sessions/session-001|Session 1]].
-- By [[sessions/session-003|Session 3]], his failure and his reward to the party are clearer.
+- Quintius appears in the opening Barrow expedition in [[sessions/session-001|Session 1]], where the party learns he promised the skeletons he would restore their humanity.
+- By [[sessions/session-003|Session 3]], the party has escorted him out of the Barrow in exchange for treasure, freeing captive silk merchants along the way.
 
 ## Current status
 

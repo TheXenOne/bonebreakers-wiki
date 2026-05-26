@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Gorfthistle is a treasure-hungry gnome adventurer who joins the shrine expedition as a false ally.
+Gorfthistle was a treasure-hungry gnome adventurer who joined the shrine expedition as a false ally before the party killed him.
 
 ## Appearance
 

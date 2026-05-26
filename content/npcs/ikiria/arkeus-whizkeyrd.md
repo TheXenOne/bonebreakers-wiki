@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Arkeus Whizkeyrd is a brilliant but unstable wizard whose magical work causes the sentient weapon crisis in [[locations/world/agria/southlands/ikiria/index|Ikiria]].
+Arkeus Whizkeyrd is a brilliant but unstable wizard whose magical work causes the sentient weapon crisis in [[locations/world/agria/southlands/ikiria/index|Ikiria]]. He is currently missing in the astral realm.
 
 ## Appearance
 

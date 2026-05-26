@@ -20,7 +20,7 @@ source_sessions:
 
 ## Overview
 
-The Grey Syndicate is the main covert organisation behind the Westfort sabotage arc and the later royal conspiracy around [[npcs/agria/prince-arthur|Prince Arthur]].
+The Grey Syndicate is the main covert organisation behind the Westfort sabotage arc and the later royal conspiracy around [[npcs/agria/prince-arthur|Prince Arthur]]. It remains dangerous after the Spider Market decoy raid, with [[npcs/westmarsh/grey-syndicate/ash|Ash]] still at large.
 
 ## Key figures
 
@@ -70,7 +70,7 @@ The Grey Syndicate is the main covert organisation behind the Westfort sabotage 
 
 ## Current status
 
-Active and still dangerous as of [[sessions/session-046|Session 46]].
+Still dangerous as of [[sessions/session-046|Session 46]].
 
 ## Related sessions
 

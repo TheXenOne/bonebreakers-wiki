@@ -73,7 +73,7 @@ This page groups the recurring named proprietors and civic figures most strongly
 
 ## Current status
 
-Active as recurring town fixtures.
+Recurring town fixtures in Barrow Spa.
 
 ## Related sessions
 

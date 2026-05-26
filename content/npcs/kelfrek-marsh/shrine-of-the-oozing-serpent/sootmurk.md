@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Sootmurk is the waning Grease Dragon preying on travellers near [[locations/world/agria/southlands/barrowshire/kelfrek-marsh/index|Kelfrek Marsh]].
+Sootmurk was the waning Grease Dragon preying on travellers near [[locations/world/agria/southlands/barrowshire/kelfrek-marsh/index|Kelfrek Marsh]] before the shrine expedition ended its threat.
 
 ## Appearance
 

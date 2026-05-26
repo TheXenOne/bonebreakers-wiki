@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Ulna Glitterpatch is the gnomish headmistress of the Institute of Health at [[locations/world/agria/southlands/ikiria/flux-academy|Flux Academy]].
+Ulna Glitterpatch is the gnomish headmistress of the Institute of Health at [[locations/world/agria/southlands/ikiria/flux-academy|Flux Academy]]. She identifies [[locations/world/fos-imeras/index|Fos Imeras]] from the party's map, funds their investigation, and later helps brief them on the deathless plague in the Southlands.
 
 ## Appearance
 
@@ -30,6 +30,7 @@ Honest and deeply practical.
 ## Role in the campaign
 
 - Ulna is one of the main academy figures behind the Fos Imeras expedition and later briefing of Princess Agatha's circle.
+- Her interest is practical healing rather than spellcasting, making her central to both the lost healing island and the plague investigation.
 
 ## Affiliations
 
@@ -49,12 +50,12 @@ Honest and deeply practical.
 ## Campaign events
 
 - Appears in the Ikiria lead-in in [[sessions/session-013|Session 13]].
-- Helps drive the expedition in [[sessions/session-014|Session 14]].
-- Reappears in the post-expedition political briefing in [[sessions/session-018|Session 18]].
+- In [[sessions/session-014|Session 14]], she identifies Fos Imeras as a famed healing island, gives the party coordinates, and offers 5,000 GP for information on what happened there.
+- In [[sessions/session-018|Session 18]], she pays the promised reward and briefs the party on the deathless plague, the Church of the Crimson Flame, and the Southlands mission.
 
 ## Current status
 
-Active.
+At Flux Academy.
 
 ## Related sessions
 

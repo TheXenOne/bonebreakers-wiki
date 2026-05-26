@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Sebastaeia is the oracle-cleric of Lethe who twists Fos Imeras's healing tradition into mind-purging "purification."
+Sebastaeia was the oracle-cleric of Lethe who twisted Fos Imeras's healing tradition into mind-purging "purification" before being killed during the island expedition.
 
 ## Appearance
 

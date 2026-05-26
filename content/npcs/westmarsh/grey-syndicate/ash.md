@@ -19,7 +19,7 @@ source_sessions:
 
 ## Overview
 
-Ash is an orc handler tied to the [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]] who later claims that she herself is the Grey Khan.
+Ash is an orc handler tied to the [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]] who later claims that she herself is the Grey Khan. She has repeatedly escaped the Bonebreakers after direct encounters and is becoming one of their most personal Syndicate enemies.
 
 ## Appearance
 
@@ -32,7 +32,7 @@ Confident, transactional, and dangerous.
 ## Role in the campaign
 
 - Ash connects the Westfort sabotage network to the Spider Market and later to the Arthur conspiracy.
-- She becomes the Syndicate's main face-to-face negotiator.
+- She becomes the Syndicate's main face-to-face negotiator and repeatedly avoids capture when deals, ambushes, or exchanges collapse.
 
 ## Affiliations
 
@@ -54,12 +54,13 @@ Confident, transactional, and dangerous.
 
 - In [[sessions/session-036|Session 36]], Jeremy identifies Ash as his handler.
 - She remains a distant organising force through the siege arc.
+- In [[sessions/session-040|Session 40]], she negotiates with the party in the invasion fort, offers them a Syndicate deal, then escapes through a hidden revolving door when talks fail.
 - In [[sessions/session-046|Session 46]], she returns in person to negotiate and claims to be the Grey Khan.
 - In [[sessions/session-047|Session 47]], the promised exchange turns into a decoy operation that costs her network 20,000 gold while she remains out of reach.
 
 ## Current status
 
-Active and still at large.
+Still at large and increasingly a personal nemesis of the Bonebreakers.
 
 ## Related sessions
 

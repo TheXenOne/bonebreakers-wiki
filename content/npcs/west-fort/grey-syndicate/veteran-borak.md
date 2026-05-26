@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Veteran Borak is a well-regarded half-orc guard at Westfort who secretly works under Vex.
+Veteran Borak is a well-regarded half-orc guard at Westfort who secretly works under Vex. He is captured after the Cracked Shield fire, though his later punishment needs review.
 
 ## Appearance
 

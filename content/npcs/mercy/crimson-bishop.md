@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-The Crimson Bishop was the undead abomination leading [[locations/world/agria/southlands/mercy|the Mercy]] and guarding the plague's hidden source.
+The Crimson Bishop was the undead abomination leading [[locations/world/agria/southlands/mercy|the Mercy]] and guarding the plague's hidden source until the Bonebreakers destroyed him and reclaimed the cathedral.
 
 ## Appearance
 

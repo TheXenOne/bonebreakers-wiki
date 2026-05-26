@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-The Grey Khan is the supposed orc leader of the [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]].
+The Grey Khan is the supposed orc leader of the [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]]. The identity and even the practical position of the Grey Khan remain unconfirmed, especially after [[npcs/westmarsh/grey-syndicate/ash|Ash]] claims the title herself.
 
 ## Appearance
 

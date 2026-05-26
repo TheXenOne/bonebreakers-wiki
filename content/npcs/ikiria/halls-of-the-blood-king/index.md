@@ -22,7 +22,7 @@ source_sessions:
 
 ## Overview
 
-This page groups the main named figures tied to [[locations/world/agria/southlands/ikiria/halls-of-the-blood-king|the Halls of the Blood King]] arc.
+This page groups the main named figures tied to [[locations/world/agria/southlands/ikiria/halls-of-the-blood-king|the Halls of the Blood King]] arc. The court is broken after the fall of the Blood King, Selana, Demetrius, and Circander, while the later status of the Princess of Blood and Alvalus needs review.
 
 ## Key figures
 

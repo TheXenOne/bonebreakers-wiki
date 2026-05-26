@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Morlan is Draxas Tarantella's former assistant, discovered trapped within the [[locations/world/agria/southlands/barrowshire/tarantella-manor/jewellers-sanctum|Jeweller's Sanctum]].
+Morlan was Draxas Tarantella's former assistant, discovered trapped within the [[locations/world/agria/southlands/barrowshire/tarantella-manor/jewellers-sanctum|Jeweller's Sanctum]]. He briefly cooperates with the party before being killed in a rat ambush.
 
 ## Appearance
 

@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Jim is an Ikirian guard serving on the quarantine line in [[locations/world/agria/southlands/ikiria/plats|the Plats]] during the city's plague and undead crisis.
+Jim is an Ikirian guard serving on the quarantine line in [[locations/world/agria/southlands/ikiria/plats|the Plats]] during the city's plague and undead crisis. He refuses to let the Bonebreakers leave without authorisation, but passes their message to [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]].
 
 ## Appearance
 
@@ -50,7 +50,7 @@ Cooperative within limits and unwilling to exceed his orders.
 
 ## Current status
 
-Active.
+On quarantine duty in the Plats.
 
 ## Related sessions
 

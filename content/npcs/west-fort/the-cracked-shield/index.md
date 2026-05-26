@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-This page groups the named civilians most closely tied to [[locations/world/agria/west-fort/cracked-shield|the Cracked Shield]] and its fire.
+This page groups the named civilians most closely tied to [[locations/world/agria/west-fort/cracked-shield|the Cracked Shield]] and its fire. Sarla and Lianna survive the attack.
 
 ## Key figures
 

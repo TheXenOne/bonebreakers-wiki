@@ -5,7 +5,7 @@ tags:
   - npc
   - agent
 aliases: []
-status: captive
+status: charmed
 primary_location: Westfort
 affiliations:
   - Grey Syndicate
@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Vex is the embedded human agent who coordinates the sabotage inside [[locations/world/agria/west-fort/index|Westfort]].
+Vex is the embedded human agent who coordinates the sabotage inside [[locations/world/agria/west-fort/index|Westfort]]. After Barny charms him and Vex admits to the granary burning, well poisoning, stolen arms, and the arson plot against the Cracked Shield, he remains in his Westfort warehouse under the party's charm arrangement.
 
 ## Appearance
 
@@ -29,7 +29,7 @@ Calculating and coercive.
 ## Role in the campaign
 
 - Vex is the first major human conspirator the party exposes in Westfort.
-- His warehouse later becomes a practical base for the party's own operations.
+- His warehouse later becomes a practical base for the party's own operations while Vex remains there under magical leverage.
 
 ## Affiliations
 
@@ -48,12 +48,12 @@ Calculating and coercive.
 
 ## Campaign events
 
-- In [[sessions/session-035|Session 35]], Vex confesses to burning the granary, poisoning the water, stealing the fort's arms, and forcing Sarla to torch the inn.
+- In [[sessions/session-035|Session 35]], Vex confesses under Barny's charm to burning the granary, poisoning the water, stealing the fort's arms, and forcing Sarla to torch the inn.
 - In [[sessions/session-045|Session 45]], the party uses his warehouse as a base during the Arthur fallout.
 
 ## Current status
 
-Captive after his exposure in Session 35. Later condition needs review.
+Living in his Westfort warehouse under the party's charm arrangement.
 
 ## Related sessions
 
@@ -62,4 +62,4 @@ Captive after his exposure in Session 35. Later condition needs review.
 
 ## Unresolved threads
 
-- His ultimate punishment or fate is unknown.
+- His long-term fate after the charm arrangement remains unknown.

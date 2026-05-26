@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Nixx Pocketbrain is the gnomish head of Ikiria's seven merchant lords.
+Nixx Pocketbrain is the gnomish head of Ikiria's seven merchant lords. His exact role in Ikiria's unrest remains unclear, but the party has heard claims that he resents [[npcs/agria/princess-agatha|Princess Agatha]] and her influence.
 
 ## Appearance
 
@@ -52,7 +52,7 @@ Needs review.
 
 ## Current status
 
-Active. His exact role in Ikiria's later unrest remains unclear, but Session 48 raises direct suspicion around his stance toward Agatha.
+His exact role in Ikiria's later unrest remains unclear, but Session 48 raises direct suspicion around his stance toward Agatha.
 
 ## Related sessions
 

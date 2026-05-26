@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Circander is a vampiric courtier in the Blood King's manor.
+Circander was a vampiric courtier in the Blood King's manor who was killed at the Princess of Blood's bidding.
 
 ## Appearance
 

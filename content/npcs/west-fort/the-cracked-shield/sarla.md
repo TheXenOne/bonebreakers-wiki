@@ -14,7 +14,7 @@ source_sessions:
 
 ## Overview
 
-Sarla is a serving girl at the Cracked Shield who is coerced by Vex into committing arson.
+Sarla is a serving girl at the Cracked Shield who is coerced by Vex into committing arson and later survives the fire.
 
 ## Appearance
 

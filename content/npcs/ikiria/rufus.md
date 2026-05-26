@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Rufus is a traumatised Ikirian guard found in [[locations/world/agria/southlands/ikiria/plats|the Plats]] during the plague and undead crisis.
+Rufus is a traumatised Ikirian guard found in [[locations/world/agria/southlands/ikiria/plats|the Plats]] during the plague and undead crisis. He remains severely shaken after accompanying an inquisitor while people were burned alive, and the party has not yet been allowed to remove him from the quarantine district.
 
 ## Appearance
 
@@ -42,7 +42,7 @@ Shell-shocked and burdened by guilt.
 ## Relationships
 
 - Is steadied briefly by the Bonebreakers, especially [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]] and [[characters/active-players/alessandro/characters/selvar|Selvar]].
-- His trauma is tied to unnamed inquisitors active in the Plats.
+- His trauma is tied to unnamed inquisitors operating in the Plats.
 
 ## Campaign events
 
@@ -50,7 +50,7 @@ Shell-shocked and burdened by guilt.
 
 ## Current status
 
-Active, but severely traumatised.
+Severely traumatised and still in the Plats.
 
 ## Related sessions
 

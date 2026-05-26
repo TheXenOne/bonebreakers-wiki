@@ -20,7 +20,7 @@ source_sessions:
 
 ## Overview
 
-This page groups the most important named East Agria Company figures.
+This page groups the most important named East Agria Company figures. Commander Smith remains politically important in Ikiria, while Admiral Nelson remains an established Company leader off-page in later arcs.
 
 ## Key figures
 
@@ -69,7 +69,7 @@ This page groups the most important named East Agria Company figures.
 
 ## Current status
 
-- Commander Smith remains active and politically important.
+- Commander Smith remains politically important.
 - Admiral Nelson remains an established Company leader, though he is off-page in later arcs.
 
 ## Related sessions

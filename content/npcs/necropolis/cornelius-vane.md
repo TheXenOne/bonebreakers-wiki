@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Cornelius Vane is a scholar-explorer found trapped inside the Necropolis section called Cartographer's Folly.
+Cornelius Vane was a scholar-explorer found trapped inside the Necropolis section called Cartographer's Folly. He is later confirmed dead.
 
 ## Appearance
 

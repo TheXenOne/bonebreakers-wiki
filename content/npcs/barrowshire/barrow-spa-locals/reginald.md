@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Reginal is the self-important guildmaster of the Tourism Merchants in Barrow Spa.
+Reginald is the self-important guildmaster of the Tourism Merchants in Barrow Spa.
 
 ## Appearance
 

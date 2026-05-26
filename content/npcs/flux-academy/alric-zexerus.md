@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Alric Zexerus is the elven headmaster of the College of Wizardry at [[locations/world/agria/southlands/ikiria/flux-academy|Flux Academy]].
+Alric Zexerus is the selective elven headmaster of the College of Wizardry at [[locations/world/agria/southlands/ikiria/flux-academy|Flux Academy]]. When Barny sought information from him, Zexerus did not remember Barny and rebuffed him by saying he would need to enroll in the Academy.
 
 ## Appearance
 
@@ -30,7 +30,7 @@ Selective to the point of elitism.
 
 ## Role in the campaign
 
-- He helps define the academy's prestige and hierarchy during the Ikiria arc.
+- He helps define the academy's prestige, hierarchy, and guarded access to magical knowledge.
 
 ## Affiliations
 
@@ -47,11 +47,11 @@ Selective to the point of elitism.
 
 ## Campaign events
 
-- Named among the academy's senior leadership by [[sessions/session-018|Session 18]] and the lore material.
+- In [[sessions/session-018|Session 18]], Barny visits Zexerus for information and is told that access runs through formal enrollment.
 
 ## Current status
 
-Active.
+At Flux Academy.
 
 ## Related sessions
 

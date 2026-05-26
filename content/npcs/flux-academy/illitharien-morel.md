@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Illitharien Morel is the mild-mannered master of the Historium at [[locations/world/agria/southlands/ikiria/flux-academy|Flux Academy]].
+Illitharien Morel is the mild-mannered master of the Historium at [[locations/world/agria/southlands/ikiria/flux-academy|Flux Academy]]. The Bonebreakers bring him the encoded temple transcription and Jessum's encoded gnomish book because of his expertise in history and gnomish ways.
 
 ## Appearance
 
@@ -29,7 +29,8 @@ Helpful, unassuming, and focused on history.
 
 ## Role in the campaign
 
-- He helps define the academy's intellectual side and its interest in history and antiquity.
+- He helps define the academy's intellectual side and its interest in history, antiquity, and gnomish scholarship.
+- He is the academy figure the party turns to when they need help with encoded historical material.
 
 ## Affiliations
 
@@ -46,11 +47,11 @@ Helpful, unassuming, and focused on history.
 
 ## Campaign events
 
-- Named by [[sessions/session-018|Session 18]] and later reference material.
+- In [[sessions/session-018|Session 18]], the party gives him the encoded transcription from the temple and the encoded gnomish book obtained from Jessum.
 
 ## Current status
 
-Active.
+At Flux Academy.
 
 ## Related sessions
 

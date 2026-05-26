@@ -19,7 +19,7 @@ source_sessions:
 
 ## Overview
 
-This page groups the main non-military allies and specialists tied to [[locations/world/agria/west-fort/index|Westfort]].
+This page groups the non-military allies and specialists tied to [[locations/world/agria/west-fort/index|Westfort]].
 
 ## Key figures
 
@@ -69,7 +69,7 @@ This page groups the main non-military allies and specialists tied to [[location
 
 ## Current status
 
-Active as local allies and traders.
+Local allies and traders in Westfort.
 
 ## Related sessions
 

@@ -51,7 +51,7 @@ Respectable and businesslike.
 
 ## Current status
 
-Alive and active in Barrow Spa.
+Alive in Barrow Spa.
 
 ## Related sessions
 

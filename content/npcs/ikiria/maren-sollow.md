@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Maren Sollow is a young gnomish cleric working among the dead in [[locations/world/agria/southlands/ikiria/plats|the Plats]]. During the plague crisis, she keeps careful records of bodies sent to the pits and is the first named figure to tell the party that the numbers no longer add up.
+Maren Sollow was a young gnomish cleric working among the dead in [[locations/world/agria/southlands/ikiria/plats|the Plats]]. During the plague crisis, she kept careful records of bodies sent to the pits and became the first named figure to tell the party that the numbers no longer add up. Maren was slain by a wraith during the corpse-pit battle in [[sessions/session-049|Session 49]], but her notebook survives as evidence of her findings.
 
 ## Appearance
 
