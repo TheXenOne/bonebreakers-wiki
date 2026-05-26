@@ -49,3 +49,4 @@ Organisations, kingdoms, guilds, cults, institutions, and political powers that 
 ## Other
 
 - [[factions/other/bonebreakers|Bonebreakers]]
+- [[factions/other/civilian-inquisition|Civilian Inquisition]]

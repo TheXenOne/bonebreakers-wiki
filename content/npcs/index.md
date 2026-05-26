@@ -77,6 +77,8 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 ## Necropolis and Fos Imeras
 
 - [[npcs/necropolis/cornelius-vane|Cornelius Vane]]
+- [[npcs/necropolis/mortimer|Mortimer]]
+- [[npcs/necropolis/the-bloated-one|The Bloated One]]
 - [[npcs/fos-imeras/sebastaeia|Sebastaeia]]
 - [[npcs/fos-imeras/nixies|Nixies]]
 - [[npcs/fos-imeras/orsilochus|Orsilochus]]

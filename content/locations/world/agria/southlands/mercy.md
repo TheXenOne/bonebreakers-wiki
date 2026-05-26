@@ -21,6 +21,7 @@ source_sessions:
   - 43
   - 44
   - 45
+  - 51
 ---
 
 ## Overview
@@ -34,6 +35,7 @@ The Mercy was once the Church of the Crimson Flame, a sanctuary of Bahal that fe
 - The cathedral lies north-west of [[locations/world/agria/southlands/ikiria|Ikiria]] behind outer walls and overgrown gardens.
 - The site is split between a southern hall and a northern domed section.
 - Later exploration reveals a poisoned well, hidden lower stairs, and a route into [[locations/world/westmarsh/necropolis|the Necropolis]].
+- By [[sessions/session-051|Session 51]], the party has commissioned a hatch or abyss door to cover the basement opening and stores its pre-imperial coin cache in the cathedral vault.
 
 ## Notable sublocations
 
@@ -58,6 +60,7 @@ The Mercy was once the Church of the Crimson Flame, a sanctuary of Bahal that fe
 - [[sessions/session-019|Session 19]] through [[sessions/session-022|Session 22]] cover the assault and liberation of the cathedral.
 - [[sessions/session-024|Session 24]] and [[sessions/session-025|Session 25]] deal with the site's first major counterattack.
 - In [[sessions/session-040|Session 40]] and later, the Mercy becomes the staging ground for the Necropolis arc and for worsening plague rumours.
+- In [[sessions/session-051|Session 51]], the party returns from Ikiria, secures its pre-imperial coins in the cathedral vault, and descends again into the Necropolis.
 
 ## Related sessions
 
@@ -68,6 +71,7 @@ The Mercy was once the Church of the Crimson Flame, a sanctuary of Bahal that fe
 - [[sessions/session-022|Session 22]]
 - [[sessions/session-041|Session 41]]
 - [[sessions/session-045|Session 45]]
+- [[sessions/session-051|Session 51]]
 
 ## Unresolved threads or mysteries
 

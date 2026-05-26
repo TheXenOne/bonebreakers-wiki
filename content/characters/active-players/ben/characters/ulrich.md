@@ -13,6 +13,7 @@ source_sessions:
   - 3
   - 18
   - 46
+  - 51
 ---
 
 ## Overview
@@ -42,6 +43,7 @@ Cleric of none.
 - Helps form the Bonebreakers in [[sessions/session-003|Session 3]].
 - Shares his spiritual quest in [[sessions/session-018|Session 18]].
 - Remains active through later events, including [[sessions/session-046|Session 46]].
+- In [[sessions/session-051|Session 51]], he asks [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] to petition the [[factions/guilds-and-companies/east-agria-company|East Agria Company]] to ease the quarantine, then later identifies mostly non-evil idols in [[locations/world/westmarsh/necropolis/arch-v|Arch V]] and keeps them for research.
 
 ## Relationships
 
@@ -58,3 +60,4 @@ Active.
 - [[sessions/session-018|Session 18]]
 - [[sessions/session-026|Session 26]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-051|Session 51]]

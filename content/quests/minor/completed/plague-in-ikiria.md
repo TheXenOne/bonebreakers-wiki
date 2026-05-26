@@ -1,14 +1,14 @@
 ---
 title: Plague in Ikiria
 type: campaign-thread
-status: active
+status: completed
 importance: minor
 tags:
   - campaign-thread
   - plague
   - ikiria
 started_session: 41
-completed_session:
+completed_session: 51
 related_sessions:
   - 41
   - 43
@@ -16,6 +16,7 @@ related_sessions:
   - 48
   - 49
   - 50
+  - 51
 related_locations:
   - Ikiria
   - The Plats
@@ -33,11 +34,12 @@ source_sessions:
   - 48
   - 49
   - 50
+  - 51
 ---
 
 ## Overview
 
-Rumours of plague or sickness begin to spread again in [[locations/world/agria/southlands/ikiria|Ikiria]]. By [[sessions/session-050|Session 50]], the party has confirmed that the public well is poisoned and has purified it, but the crisis still appears to involve deliberate tampering, later disease spread, missing bodies, and direct undead incursions.
+Rumours of plague or sickness begin to spread again in [[locations/world/agria/southlands/ikiria|Ikiria]], centred on [[locations/world/agria/southlands/ikiria/plats|the Plats]]. The Bonebreakers confirm that the crisis began with poison, later worsened through overcrowding and disease, and then escalated into a conjured undead incursion at the corpse pit. By [[sessions/session-051|Session 51]], the Public Well has been purified, the undead have been destroyed, and [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]] has confirmed that the necromantic energies are gone from the pit and cemetery. The quarantine remains in place, but the immediate danger is over.
 
 ## How it began
 
@@ -55,12 +57,16 @@ In [[sessions/session-041|Session 41]], the party hears continued rumours of pla
 - In [[sessions/session-049|Session 49]], the corpse-pit battle continues, Maren says the undead were conjured and do not belong there, and a wraith kills her before the fighting is fully resolved.
 - Maren's notebook preserves her poison-then-disease theory even after her death.
 - In [[sessions/session-050|Session 50]], the party confirms that [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]] is poisoned, and [[characters/active-players/ben/characters/ulrich|Ulrich]] purifies it with Neutralise Poison.
+- After the corpse-pit battle, [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]] confirms that the necromantic energies are gone from the pit and cemetery.
 - The same session reveals 400 pre-imperial Westmarsh coins at the bottom of the well, strongly suggesting the scene was staged or tampered with deliberately.
 - Public fear has worsened into mob violence, with inquisitors and civilians openly blaming the Bonebreakers for the undead outbreak.
+- In [[sessions/session-051|Session 51]], [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] examines the coin and says it does not fit Ikiria's known history, then raises the possibility that the well poisoning and the planted coin were separate staged acts.
+- Witnesses from the Plats support the Bonebreakers' account of the [[factions/other/civilian-inquisition|civilian inquisitors]], and Vaessa promises to deal with them.
+- Ulrich asks Vaessa to petition the [[factions/guilds-and-companies/east-agria-company|East Agria Company]] to lift the quarantine because overcrowding is worsening the disease; Vaessa agrees to raise it.
 
 ## Current status
 
-Active and escalating. Ikiria remains under lockdown, the Plats are unstable, and the crisis now appears to involve poisoning, disease, missing bodies, planted evidence, and sustained undead activity rather than a single simple plague.
+Completed as an immediate crisis. The poison has been confirmed and purified, the undead have been destroyed, and the necromantic energies at the pit and cemetery are gone. Ikiria's quarantine has not yet been lifted, and the culprits behind the poison, planted evidence, missing bodies, and panic remain unknown.
 
 ## Related characters and NPCs
 
@@ -82,11 +88,13 @@ Active and escalating. Ikiria remains under lockdown, the Plats are unstable, an
 - [[sessions/session-048|Session 48]]
 - [[sessions/session-049|Session 49]]
 - [[sessions/session-050|Session 50]]
+- [[sessions/session-051|Session 51]]
 
-## Loose ends
+## Consequences and loose ends
 
-- Whether the first wave truly came from poisoned water, or whether the well was later poisoned as part of a staged operation, remains unresolved.
-- It is still uncertain how much of the destruction in Ikiria comes from sickness, fire, panic, organised inquisitors, or something deeper.
-- The missing bodies and the undead rising from the pits may point to a second crisis layered on top of the plague.
+- Vaessa believes the poison and planted coin may have been separate acts, but the responsible party remains unknown.
+- The quarantine has not yet been lifted.
+- It is still uncertain how much of the destruction in Ikiria came from sickness, fire, panic, organised inquisitors, or something deeper.
+- The missing bodies and the undead rising from the pits may point to a second crisis layered on top of the original poisoning.
 - Who placed pre-imperial Westmarsh coinage in the well is unknown.
 - Something neutral but active was detected inside the automaton grave near the corpse pit. Needs review.

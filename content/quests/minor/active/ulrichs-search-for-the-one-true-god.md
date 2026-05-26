@@ -12,6 +12,7 @@ completed_session:
 related_sessions:
   - 18
   - 23
+  - 51
 related_locations:
   - Ikiria
   - The Barrow
@@ -24,6 +25,7 @@ related_factions:
 source_sessions:
   - 18
   - 23
+  - 51
 ---
 
 ## Overview
@@ -39,6 +41,7 @@ In [[sessions/session-018|Session 18]], Ulrich explains that he has wandered fro
 - Ulrich also says he wants to found a group of healing clerics and gather relics from many faiths.
 - In [[sessions/session-023|Session 23]], Ulrich claims the holy symbol of Sir Ignacious and hears a telepathic call from a righteous servant of the one true god.
 - Sir Gallant immediately undercuts that claim by mocking Ignacious' strict moral code, leaving the meaning unresolved rather than confirmed.
+- In [[sessions/session-051|Session 51]], Ulrich examines a neighbourhood shrine in [[locations/world/westmarsh/necropolis/arch-v|Arch V]], identifies most of its small divine idols as non-evil, and keeps them for research. Three altered idols radiate evil and appear to represent former gods reduced to lesser status.
 
 ## Current status
 
@@ -59,8 +62,10 @@ Active. Ulrich has found hints, but no final answer.
 
 - [[sessions/session-018|Session 18]]
 - [[sessions/session-023|Session 23]]
+- [[sessions/session-051|Session 51]]
 
 ## Loose ends
 
 - It is unclear whether Sir Ignacious really represents the one true god or only claims to.
 - Ulrich's future relationship to relics, faith, and healing orders remains open.
+- The identities and meaning of the Arch V shrine idols remain unresolved.

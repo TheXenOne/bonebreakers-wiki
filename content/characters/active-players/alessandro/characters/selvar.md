@@ -13,6 +13,7 @@ source_sessions:
   - 20
   - 21
   - 46
+  - 51
 ---
 
 ## Overview
@@ -42,6 +43,7 @@ Needs review.
 - Recruited in a flashback tied to [[sessions/session-020|Session 20]].
 - Helps in the cathedral assault and later arcs.
 - Continues with the party through [[sessions/session-046|Session 46]].
+- In [[sessions/session-051|Session 51]], he discovers during an ochre jelly fight that his newly worn ancient imperial armour is cursed and worsens his protection.
 
 ## Relationships
 
@@ -49,7 +51,7 @@ Needs review.
 
 ## Current status
 
-Active.
+Active. Selvar is currently affected by the cursed ancient imperial armour.
 
 ## Related sessions
 
@@ -57,3 +59,4 @@ Active.
 - [[sessions/session-021|Session 21]]
 - [[sessions/session-039|Session 39]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-051|Session 51]]

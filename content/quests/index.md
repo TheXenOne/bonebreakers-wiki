@@ -35,7 +35,6 @@ Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still s
 ### Active Threads
 
 - [[quests/minor/active/sister-aldriths-relic-bounty|Sister Aldrith's Relic Bounty]]
-- [[quests/minor/active/plague-in-ikiria|Plague in Ikiria]]
 - [[quests/minor/active/barnys-search-for-immortality|Barny's Search for Immortality]]
 - [[quests/minor/active/king-of-ghouls-omens|King of Ghouls Omens]]
 - [[quests/minor/active/ulrichs-search-for-the-one-true-god|Ulrich's Search for the One True God]]
@@ -46,3 +45,4 @@ Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still s
 ### Completed Threads
 
 - [[quests/minor/completed/the-mercys-poisoned-well|The Mercy's Poisoned Well]]
+- [[quests/minor/completed/plague-in-ikiria|Plague in Ikiria]]

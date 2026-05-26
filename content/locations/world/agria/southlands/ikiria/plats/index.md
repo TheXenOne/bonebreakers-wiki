@@ -12,11 +12,12 @@ source_sessions:
   - 48
   - 49
   - 50
+  - 51
 ---
 
 ## Overview
 
-The Plats are Ikiria's lower cliffside district, stretching along the docks beneath the upper city. By [[sessions/session-047|Session 47]] through [[sessions/session-050|Session 50]], they have become the centre of the city's plague, overcrowding, fires, burial crisis, and anti-necromancer unrest.
+The Plats are Ikiria's lower cliffside district, stretching along the docks beneath the upper city. They were the centre of Ikiria's recent plague, overcrowding, fires, burial crisis, planted evidence, and anti-necromancer unrest. By [[sessions/session-051|Session 51]], the Bonebreakers have purified [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]], destroyed the undead at [[locations/world/agria/southlands/ikiria/plats/corpse-pit|the Corpse Pit]] and cemetery, and confirmed that the necromantic energies there are gone. The district remains quarantined and politically unstable, but the immediate plague and undead danger has passed.
 
 ## Geography and layout
 
@@ -50,7 +51,7 @@ The Plats are Ikiria's lower cliffside district, stretching along the docks bene
 
 - [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] sends the party here during the plague crisis.
 - [[npcs/ikiria/maren-sollow|Maren Sollow]] oversees records and last rites at the corpse pit.
-- Civilian inquisitors are active in the district and are blamed for multiple fires and attacks on suspected spell-users.
+- [[factions/other/civilian-inquisition|Civilian inquisitors]] are active in the district and are blamed for multiple fires and attacks on suspected spell-users.
 
 ## Campaign events
 
@@ -59,6 +60,8 @@ The Plats are Ikiria's lower cliffside district, stretching along the docks bene
 - The same session ends mid-fight after imperial-marked undead rise from [[locations/world/agria/southlands/ikiria/plats/corpse-pit|The Corpse Pit]] and the cemetery.
 - In [[sessions/session-049|Session 49]], the corpse-pit fight continues, the undead threat proves sustained rather than momentary, and [[npcs/ikiria/maren-sollow|Maren Sollow]] is killed during the battle.
 - In [[sessions/session-050|Session 50]], the party ends the corpse-pit battle, finds parts of the southern district abandoned, faces a mob stirred up by inquisitors, and purifies [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]] after confirming it is poisoned.
+- By [[sessions/session-051|Session 51]], Arden has confirmed that the necromantic energies are gone from the corpse pit and cemetery.
+- In the same session, witnesses from the Plats support the Bonebreakers' account of the inquisitors, and [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] promises to deal with them.
 
 ## Related sessions
 
@@ -66,11 +69,12 @@ The Plats are Ikiria's lower cliffside district, stretching along the docks bene
 - [[sessions/session-048|Session 48]]
 - [[sessions/session-049|Session 49]]
 - [[sessions/session-050|Session 50]]
+- [[sessions/session-051|Session 51]]
 
 ## Unresolved threads or mysteries
 
-- Whether the public well was truly the source of the first poisoning remains unresolved.
-- The exact organisers and backers of the civilian inquisitors are unknown.
-- The relationship between the corpse-pit undead and older imperial necromancy is unresolved.
+- The quarantine has not yet been lifted.
+- The exact organisers and backers of the [[factions/other/civilian-inquisition|civilian inquisitors]] are unknown.
+- The relationship between the corpse-pit undead and older imperial necromancy is still not fully understood, even though the immediate undead incursion has been purged.
 - The significance of the pre-imperial Westmarsh coins found in the well is unresolved.
 - Something neutral but active remains in the automaton graveyard near the corpse pit. Needs review.

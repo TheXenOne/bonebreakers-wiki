@@ -56,3 +56,4 @@ Published session pages:
 - [[sessions/session-048|Session 48 - The Burning of Belenus]]
 - [[sessions/session-049|Session 49 - Rot and Wraith]]
 - [[sessions/session-050|Session 50 - Coins from a Dead Empire]]
+- [[sessions/session-051|Session 51 - Barnys All the Way Down]]

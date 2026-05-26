@@ -25,6 +25,7 @@ source_sessions:
   - 26
   - 45
   - 47
+  - 51
 ---
 
 ## Overview
@@ -67,10 +68,11 @@ The Company combines trade power, political influence, and private operational r
 - In [[sessions/session-026|Session 26]], the party again seeks answers through Company channels during the Ikirian weapons crisis.
 - In [[sessions/session-045|Session 45]], Pell is sent to Smith with warning about Prince Arthur.
 - In [[sessions/session-047|Session 47]], Smith receives the evidence against Arthur at Company headquarters and orders his arrest.
+- In [[sessions/session-051|Session 51]], [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] agrees to ask the Company to lift or ease the quarantine because overcrowding is worsening disease in the Plats.
 
 ## Current status
 
-Active and politically important, but now operating inside a locked-down Ikiria without Agatha present.
+Active and politically important, but now operating inside a locked-down Ikiria without Agatha present. Its response to Vaessa's quarantine petition has not yet been shown.
 
 ## Related sessions
 
@@ -80,6 +82,7 @@ Active and politically important, but now operating inside a locked-down Ikiria 
 - [[sessions/session-026|Session 26]]
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-047|Session 47]]
+- [[sessions/session-051|Session 51]]
 
 ## Unresolved threads
 

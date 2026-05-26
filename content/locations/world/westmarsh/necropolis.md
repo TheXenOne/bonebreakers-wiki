@@ -19,6 +19,7 @@ source_sessions:
   - 48
   - 49
   - 50
+  - 51
 ---
 
 ## Overview
@@ -32,6 +33,7 @@ It is known for impossible architecture, ancient imperial markings, undead guard
 - The Mercy route begins below the cathedral, past a spiral descent where orientation reverses and the whole passage detects as saturated with magic.
 - That route opens into the Necropolis through the Nexus, a vast domed chamber with eight imperial archways.
 - [[npcs/necropolis/cornelius-vane|Cornelius Vane]] says he entered the Necropolis from Westmarsh through Arch VI and became trapped for what felt to him like eleven days, though he had entered six months earlier.
+- In [[sessions/session-051|Session 51]], the Bonebreakers follow Arch VI upward into a storm-lashed gatehouse and rampart, with Westmarsh visible beyond the walls.
 - Adventurers at [[locations/world/westmarsh/spiders-market|the Spider Market]] describe a western entrance several days west of the market, beyond outer walls and guarded by skeleton patrols.
 - A captured Grey Syndicate recruiter later places the Necropolis roughly 50 miles west of the Spider Market.
 
@@ -47,8 +49,8 @@ Pressing the eagle's gemstone eyes causes ash-like curtains across the arches to
 - [[locations/world/westmarsh/necropolis/arch-ii|Arch II]]: A narrow corridor carved with reliefs that appear to record family histories or ancestral lines.
 - [[locations/world/westmarsh/necropolis/arch-iii|Arch III]]: A violet-lit, incense-scented passage whose visible mosaic shows the rise of the empire and gods giving fire to humanity.
 - [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]]: A cracked, lichen-covered hall with a greenish tint, stagnant-water smell, and a slope toward a flooded fork.
-- [[locations/world/westmarsh/necropolis/arch-v|Arch V]]: A dry, dusty underground boulevard lined with windows and doors.
-- [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]]: A smoky, misted corridor sloping gradually upward to a staircase. Cornelius Vane says this was his route in from Westmarsh.
+- [[locations/world/westmarsh/necropolis/arch-v|Arch V]]: A dry, dusty underground boulevard lined with old homes, zombie labourers, and endless restoration work tied to [[npcs/necropolis/the-bloated-one|the Bloated One]].
+- [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]]: A smoky corridor sloping upward to a storm-lashed gatehouse and outer wall. Cornelius Vane says this was his route in from Westmarsh, and the Bonebreakers' exploration supports that account.
 - [[locations/world/westmarsh/necropolis/arch-vii|Arch VII]]: A flickering arch showing a stone-cutting or construction area. This is the only arch the Bonebreakers have explored in depth.
 - [[locations/world/westmarsh/necropolis/arch-viii|Arch VIII]]: The northern arch, sealed when first discovered.
 
@@ -80,6 +82,7 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - By [[sessions/session-046|Session 46]], rumours suggest a western entrance from Westmarsh as well.
 - In [[sessions/session-047|Session 47]], a captured recruiter places the Necropolis roughly 50 miles west of the Spider Market, lending more weight to the western-route rumours.
 - In [[sessions/session-048|Session 48]] through [[sessions/session-050|Session 50]], evidence in Ikiria raises the possibility that related ancient necromancy or Westmarsh material is being used in the city's crisis.
+- In [[sessions/session-051|Session 51]], the party confirms more of Arch VI, explores Arch V, meets [[npcs/necropolis/mortimer|Mortimer]], and recovers the [[items/party-inventory/arch-v-necropolis-map|Arch V map]] pointing toward the Bloated One's domain.
 
 ## Related sessions
 
@@ -94,12 +97,14 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - [[sessions/session-048|Session 48]]
 - [[sessions/session-049|Session 49]]
 - [[sessions/session-050|Session 50]]
+- [[sessions/session-051|Session 51]]
 
 ## Unresolved threads or mysteries
 
-- Arch VII is the only arch the Bonebreakers have explored in depth; the other arches remain unexplored beyond Nexus glimpses or reports.
+- Arch VII remains the only arch explored in depth, but Arch V and Arch VI are now partly mapped.
 - Arch VIII was sealed when first discovered.
 - The full scale of the Necropolis and the reason the Mercy route reaches it remain unresolved.
-- Whether the western dome reported by adventurers is the Nexus or another dome remains unresolved.
+- Arch VI appears to confirm the western outer entrance, but whether the western dome reported by adventurers is the Nexus or another dome remains unresolved.
 - Whether the Ikiria undead and planted Westmarsh coins are directly connected to the Necropolis remains unresolved.
+- The purpose of the Bloated One's domain and the false Barnys remains unresolved.
 - Exact event attribution between [[sessions/session-042|Session 42]] and [[sessions/session-043|Session 43]] needs review.

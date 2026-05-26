@@ -13,6 +13,7 @@ related_sessions:
   - 18
   - 22
   - 23
+  - 51
 related_locations:
   - Ikiria
   - The Mercy
@@ -26,6 +27,7 @@ source_sessions:
   - 18
   - 22
   - 23
+  - 51
 ---
 
 ## Overview
@@ -41,10 +43,11 @@ Barny states the goal openly in [[sessions/session-018|Session 18]] while the pa
 - Barny seeks recognition or answers from [[npcs/flux-academy/alric-zexerus|Alric Zexerus]], but receives none without formal Academy involvement.
 - In [[sessions/session-022|Session 22]], he finds hints connected to Baronbold and a scroll of immortality.
 - In [[sessions/session-023|Session 23]], he continues collecting grimoires and other dangerous texts.
+- In [[sessions/session-051|Session 51]], two false Barnys appear inside [[locations/world/westmarsh/necropolis|the Necropolis]]. One claims it has found the secret to eternal life through faith, which Barny rejects.
 
 ## Current status
 
-Active, but not close to resolution.
+Active, with the Necropolis now reflecting Barny's immortality obsession back at him in an unsettling form.
 
 ## Related characters and NPCs
 
@@ -62,7 +65,9 @@ Active, but not close to resolution.
 - [[sessions/session-018|Session 18]]
 - [[sessions/session-022|Session 22]]
 - [[sessions/session-023|Session 23]]
+- [[sessions/session-051|Session 51]]
 
 ## Loose ends
 
 - Baronbold and the scroll of immortality remain unresolved.
+- The nature of the false Barnys and whether their claims reveal anything real about immortality remain unresolved.

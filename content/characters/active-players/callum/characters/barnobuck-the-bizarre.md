@@ -16,6 +16,7 @@ source_sessions:
   - 25
   - 41
   - 50
+  - 51
 ---
 
 ## Overview
@@ -49,6 +50,7 @@ Magic-user.
 - Shares his backstory and supposed lost greatness in [[sessions/session-018|Session 18]].
 - Uses the Seer's Dagger and other strange magic repeatedly through later arcs, including [[sessions/session-041|Session 41]].
 - In [[sessions/session-050|Session 50]], a wight drains away half a level of his life force, prompting a panicked solo theft at East Agria Company Headquarters.
+- In [[sessions/session-051|Session 51]], two false Barnys appear inside [[locations/world/westmarsh/necropolis|the Necropolis]]. One imperfectly mimics him near [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]], while another claims that eternal life lies through faith before the party destroys it.
 
 ## Relationships
 
@@ -58,7 +60,7 @@ Magic-user.
 
 ## Current status
 
-Active. Barny remains with the party.
+Active. Barny remains with the party, but the Necropolis is now producing doubles tied uncomfortably to his identity and immortality obsession.
 
 ## Related sessions
 
@@ -67,3 +69,4 @@ Active. Barny remains with the party.
 - [[sessions/session-025|Session 25]]
 - [[sessions/session-041|Session 41]]
 - [[sessions/session-050|Session 50]]
+- [[sessions/session-051|Session 51]]

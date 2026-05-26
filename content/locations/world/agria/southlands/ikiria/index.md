@@ -20,11 +20,12 @@ source_sessions:
   - 48
   - 49
   - 50
+  - 51
 ---
 
 ## Overview
 
-Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks below. Originally elven, later abandoned, and then reworked by gnomes, it is known for magical lifts, constructs, trade, scholarship, and a civic culture of intense optimism.
+Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks below. Originally elven, later abandoned, and then reworked by gnomes, it is known for magical lifts, constructs, trade, scholarship, and a civic culture of intense optimism. Its recent plague crisis in the Plats has been brought under control: the well poison was purified, the corpse-pit undead were destroyed, and the necromantic energies in the pit and cemetery are gone, though the quarantine has not yet been lifted.
 
 ## Geography and layout
 
@@ -63,6 +64,8 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - In [[sessions/session-048|Session 48]], the party investigates the Plats directly, finds [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|the Temple of Merciful Life]] burned down, learns that the plague may involve both poison and disease, and watches imperial-marked undead rise from the corpse pits.
 - In [[sessions/session-049|Session 49]], the corpse-pit battle continues, [[npcs/ikiria/maren-sollow|Maren Sollow]] is killed by a wraith, and the city's plague crisis is tied even more strongly to active undead incursions.
 - In [[sessions/session-050|Session 50]], the party finds parts of the southern docks abandoned, purifies [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]], recovers planted pre-imperial coinage from it, and hears open public complaints that [[npcs/agria/princess-agatha|Princess Agatha]] has fled the city.
+- By [[sessions/session-051|Session 51]], the immediate crisis in the Plats has been resolved: the plague is confirmed to have begun as poison, the well is purified, the undead have been killed, and Arden confirms that the necromantic energies are gone from the pit and cemetery.
+- In the same session, [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] accepts testimony against the civilian inquisitors, agrees to raise the quarantine problem with the [[factions/guilds-and-companies/east-agria-company|East Agria Company]], and says the city will pay to rebuild [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|the Temple of Merciful Life]].
 
 ## Related sessions
 
@@ -77,10 +80,11 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - [[sessions/session-048|Session 48]]
 - [[sessions/session-049|Session 49]]
 - [[sessions/session-050|Session 50]]
+- [[sessions/session-051|Session 51]]
 
 ## Unresolved threads or mysteries
 
-- The plague, fires, missing bodies, undead incursions, planted evidence, and wider unrest in Ikiria remain unresolved as of [[sessions/session-050|Session 50]].
-- The civilian inquisitors active in the Plats have no clear leadership on-page yet.
+- The immediate plague and undead danger in the Plats is over, but the quarantine, planted evidence, missing bodies, and wider unrest remain consequential.
+- The civilian inquisitors active in the Plats have no clear leadership on-page yet, though Vaessa now intends to move against them.
 - Public rumour now treats Princess Agatha's absence as possible flight, regardless of what her own allies say privately.
 - Arkeus survives long enough to be freed but disappears into an astral disturbance.
