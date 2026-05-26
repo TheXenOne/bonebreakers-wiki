@@ -119,6 +119,17 @@ source_sessions: []
 - Avoid phrasing such as "recent notes", "published lore", "published sessions", or similar source-referential wording in wiki prose.
 - Use "Known appearances", "Relationships", "Associated locations", and "Open questions" where useful.
 
+## Overview and summary style
+
+- Overviews should do more than identify the subject: briefly explain who or what it is, why the Bonebreakers know or care about it, and the current useful state of affairs.
+- Weave status details naturally into the overview when they define the subject, such as dead, captured, disgraced, under arrest, charmed, at large, grateful, politically exposed, or becoming a recurring enemy.
+- For NPCs, foreground meaningful interactions with the Bonebreakers: encounters, bargains, aid, betrayals, conflicts, rewards, escapes, and the current relationship.
+- For locations, establish where the place is, how the party reached or discovered it, what is known inside, and why it matters now. Put high-level orientation on parent pages and detailed room or area discoveries on subpages.
+- Include sensory and observed details when they explain what the party actually knows, but fold them into normal prose rather than creating artificial "what they saw" sections.
+- Session and main-page summaries should work for someone who missed the session: include the concrete sequence, major discoveries, consequences, and present situation.
+- Current-arc summaries should be framed from the Bonebreakers' point of view: what they were sent to do, what they found, who they met, what changed, and where things stand now.
+- When truth is uncertain, frame it as party-facing knowledge: evidence suggests, rumours claim, or the matter remains unclear.
+
 ## Linking rules
 
 - Link important people, places, factions, items, quests, and sessions.
