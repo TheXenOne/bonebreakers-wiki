@@ -12,9 +12,13 @@ See also: [[sessions/index|Sessions]], [[sessions/session-036|Session 36 - Threa
 
 ## Narrative recap
 
-The cave discovered in the previous session proves to be more than a small raider hideout. As the Bonebreakers follow the cart tracks downward, they find a mining and supply site staffed by kobolds, hobgoblin overseers, and bugbears, all contributing to a much larger war effort.
+The [[factions/other/bonebreakers|Bonebreakers]] keep pushing through the hobgoblin cave from [[sessions/session-036|Session 36]], following cart tracks down into a working supply site rather than a simple raider den. Selvar drops kobold miners with Sleep, while Steve and Akal kill two and spare one for questioning. The surviving kobold gives little useful information, but the mine itself says enough: the traffic, carts, and labour all point to organised extraction and transport.
 
-After forcing information out of one surviving bugbear, the party learns that a nearby fortress is stockpiling weapons for imminent conflict. A gnoll attack at the Spider Market confirms how unstable the region has become, and the session closes with Rose flying invisible over the fortress walls to confirm that the enemy is preparing for war on a scale far beyond local raids.
+Deeper in, the party finds more kobolds working under two hobgoblin overseers, with bugbears waiting at the rear of the chamber. The fight is sharp, but one bugbear survives long enough for Steve to charm it. That prisoner finally explains the purpose of the operation: a nearby base is stockpiling weapons for an imminent war.
+
+The Bonebreakers withdraw to [[locations/world/westmarsh/spiders-market|The Spider Market]] to rest and resupply, where rumours confirm the same picture. Hobgoblins are hiring mercenaries and mustering around a fortress not far from the marsh. Before the party can act on that information, gnolls attack the camp, forcing another fight and proving how unstable the area around the market remains.
+
+With the war preparations now too clear to ignore, the party turns toward the fortress. Rather than charge blind, Barny makes [[characters/active-players/laura/characters/rose|Rose]] invisible and able to fly so she can scout from above. Her first look confirms the threat: weapons and armour are being gathered, hobgoblins are busy throughout the site, and larger commanders are studying maps. The session ends with the Bonebreakers holding proof that the frontier trouble is not a string of raids, but preparation for a campaign.
 
 ## Important events
 

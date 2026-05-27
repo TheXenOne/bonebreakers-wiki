@@ -12,9 +12,15 @@ See also: [[sessions/index|Sessions]], [[sessions/session-046|Session 46 - The G
 
 ## Narrative recap
 
-The Bonebreakers try to turn Ash's proposed exchange into a quiet robbery, only to find that the tent they hit inside [[locations/world/westmarsh/spiders-market|the Spider Market]] is a decoy. Even so, the ambush pays off. Sleep magic drops the false camp, the party captures a recruiter who knows pieces of the wider network, and two separate Syndicate cash hauls leave the market with the Bonebreakers instead of Ash's people.
+The Bonebreakers try to turn [[npcs/westmarsh/grey-syndicate/ash|Ash]]'s proposed exchange into a quiet capture operation inside [[locations/world/westmarsh/spiders-market|The Spider Market]]. The real goal is to get Ash, not simply rob the deal, and the risk is that any obvious violence would expose them as deal-breakers in a place where the market itself punishes broken bargains. When sprites appear around the party's camp during the night, Selvar persuades them to cause a distraction in the market, giving the Bonebreakers cover to move while attention is pulled elsewhere.
 
-The second half of the session shifts from covert raiding to political fallout. After banking the money, checking in with allies, and shutting down a Mercy contingency, the party carries [[npcs/agria/prince-arthur|Prince Arthur]], [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]], and the documentary evidence to locked-down [[locations/world/agria/southlands/ikiria|Ikiria]]. There, [[npcs/agria/east-agria-company/commander-smith|Commander Smith]] accepts the case against Arthur and orders his arrest, while the city itself is revealed to be fearful, divided, and visibly deteriorating.
+With that distraction in place, the plan becomes a strange but careful mix of invisibility, Silence, an invisible silenced rabbit, and sleep magic. The aim is to keep nearby market occupants from waking and seeing the party break the exchange terms. The target tent proves to be a decoy rather than Ash herself, but the raid still drops the occupants and seizes the first 10,000 gold as a useful bonus.
+
+Ash escapes the trap, but the prisoners and money keep the failure from being empty. A captured [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]] recruiter gives the party a clearer picture of the organisation: not a single hideout, but a dispersed network across [[locations/world/westmarsh|Westmarsh]] with some Southlands reach. She admits to occasional dealings with [[npcs/west-fort/gorm-the-fence|Gorm]], cannot confirm who [[npcs/westmarsh/grey-syndicate/the-grey-khan|the Grey Khan]] really is, and places [[locations/world/westmarsh/necropolis|The Necropolis]] roughly 50 miles west of the market. The Bonebreakers also catch the second half of the arranged payment, intercepting two more orcs carrying the remaining 10,000 gold for the Wendell deal and turning Ash's attempted purchase into a 20,000-gold loss for the Syndicate.
+
+Once clear of the market, the party turns the stolen leverage into political action. Barny's [[items/party-inventory/crystal-ball|Crystal Ball]] shows renewed but reduced preparations at [[locations/world/westmarsh/invasion-fort|the Invasion Fort]], so the Bonebreakers warn [[npcs/west-fort/commander-valerius|Commander Valerius]] in [[locations/world/agria/west-fort|Westfort]]. The warning is not the only business there: Steve kills captured prisoners to clear cell space, drawing a sharp warning from Valerius that the law will apply to him if it happens again. After banking the gold in [[locations/world/agria/southlands/barrowshire/barrow-spa/index|Barrow Spa]], collecting new gear, and recovering the stored evidence from [[locations/world/agria/southlands/mercy|The Mercy]], the party persuades Wendell to stop hiding behind his role as secretary and testify against Arthur.
+
+The final move is into locked-down [[locations/world/agria/southlands/ikiria|Ikiria]], where [[npcs/agria/prince-arthurs-retinue/captain-hassock|Captain Hassock]] gets the party, Arthur, Wendell, and the evidence through the restrictions. Inside, the city is divided into controlled zones, with the damage and fear from the plague visible before the party even reaches the [[locations/world/agria/southlands/ikiria/east-agria-company-headquarters|East Agria Company Headquarters]]. [[npcs/agria/east-agria-company/commander-smith|Commander Smith]] accepts Wendell's testimony and the documents against [[npcs/agria/prince-arthur|Prince Arthur]], then orders Hassock to arrest him. The conspiracy case advances sharply, but Ikiria itself is now sealed, fearful, visibly deteriorating, and missing [[npcs/agria/princess-agatha|Princess Agatha]] from public view.
 
 ## Important events
 
@@ -23,7 +29,7 @@ The second half of the session shifts from covert raiding to political fallout. 
 - [[characters/active-players/ben/characters/ulrich|Ulrich]] casts Silence on a rabbit, and Cyder turns it invisible, giving the party a strange but useful distraction tool.
 - Selvar and [[characters/active-players/marta/characters/luthien|Luthien]] trigger the assault on the orc tent, and group Sleep spells bring down the occupants.
 - The supposed Ash in the tent is revealed to be a decoy.
-- The party captures one chest holding 10,000 gold pieces and later intercepts two more orcs carrying another 10,000 gold.
+- The party captures one chest holding 10,000 gold pieces and later intercepts the second 10,000-gold payment for the Wendell deal.
 - A captured orc recruiter says the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]] is spread across Westmarsh with some presence in the Southlands.
 - The same captive says she sometimes meets [[npcs/west-fort/gorm-the-fence|Gorm the Fence]] and places the [[locations/world/westmarsh/necropolis|Necropolis]] roughly 50 miles west of the market.
 - The recruiter warns that another invasion is being prepared, and Barny's crystal ball later shows renewed but reduced preparations at [[locations/world/westmarsh/invasion-fort|the Invasion Fort]].
@@ -83,7 +89,7 @@ The second half of the session shifts from covert raiding to political fallout. 
 
 ## Threads raised this session
 
-- Ash's proposed exchange is turned into a decoy raid, but Ash herself remains at large. Status: Partially resolved.
+- The attempt to capture Ash inside the Spider Market hits a decoy, leaving Ash at large while costing the Syndicate 20,000 gold. Status: Partially resolved.
 - Wendell finally gives evidence against Arthur, leading directly to Arthur's arrest in Ikiria. Status: Partially resolved.
 - Princess Agatha is absent from locked-down Ikiria, and Smith does not know where she is. Status: Still unresolved.
 - Ikiria's sickness and unrest have escalated into a sealed, divided city. Status: Still unresolved.

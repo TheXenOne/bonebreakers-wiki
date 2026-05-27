@@ -12,9 +12,15 @@ See also: [[sessions/index|Sessions]], [[sessions/session-031|Session 31 - Blood
 
 ## Narrative recap
 
-The Bonebreakers leave the rescued prisoners hidden in Selana's room and make one final push through the Blood Moon manor. Their route carries them through the kitchens, more holding cells, and finally the upper eastern wing, where the clues gathered over earlier sessions point toward the Blood King's true vulnerability.
+The [[factions/other/bonebreakers|Bonebreakers]] leave the rescued prisoners barricaded in [[npcs/ikiria/halls-of-the-blood-king/selana|Selana]]'s trapped room and make their final push through the [[locations/world/agria/southlands/ikiria/halls-of-the-blood-king|Halls of the Blood King]]. In the kitchens they find vacant-eyed servants preparing human meat and goblets of blood for the feast. Barny turns invisible and poisons the drinks, while Luthien and Tess strip valuables from the dining spaces before footsteps force the party back.
 
-What they find is stranger than expected: a nightmare-revealing telescope, a carnivorous orchid, and an observatory whose moving model of the world conceals the Blood King's actual heart. When the party destroys it, the manor begins to tear itself apart. They flee with the surviving prisoners and a handful of strange treasures, ending the Blood Moon castle arc at terrible cost to Selana but with the King's hidden core finally destroyed.
+Cries from a side room lead them to more caged humans, including a young girl. The kitchen servants attack during the rescue, and Tess is nearly killed before the party wins, finds a rusty key, and escorts the captives back to safety. Tess also eats one of the black lotus flowers from the garden and feels some magical strength return. With the prisoners gathered and supplied, Luthien uses Locate Object on the lock tied to the Blood King's heart, drawing the party toward the eastern upper wing.
+
+Upstairs, the manor becomes stranger and more symbolic. A balcony holds a massive telescope and a carnivorous orchid; the plant badly wounds Selana before the party destroys it. Barny tests the telescope and discovers it reveals a target's recent nightmares, making it another dangerous relic of the manor. Beyond lies the observatory: a vaulted chamber of stars with a blood-red mechanical model of the world and a multilingual tome hinting at wider political knowledge.
+
+Tess activates the mechanism, and Luthien uses the rose-crested key on the central star. The room erupts as the planets whirl and lash out, nearly killing several Bonebreakers and striking down Selana. When the star opens, it reveals the Blood King's true heart. The party stakes it until the final beat stops, and the manor begins collapsing around them.
+
+The escape is frantic. Tess takes Mercury and the tome, Barny takes the [[items/party-inventory/nightmare-revealing-telescope|nightmare-revealing telescope]], and Luthien carries Selana's body while the group gathers the prisoners and fights through pursuing guards. They flee through the rear of the manor and out through the melted breach in the fence as the Halls of the Blood King tear themselves apart. The Blood King's hidden core is destroyed, the surviving prisoners escape, and Selana dies helping finish the work.
 
 ## Important events
 

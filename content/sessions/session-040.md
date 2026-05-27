@@ -12,9 +12,15 @@ See also: [[sessions/index|Sessions]], [[sessions/session-039|Session 39 - Ashes
 
 ## Narrative recap
 
-The Bonebreakers refuse Ash's offer and force the Grey Syndicate's hidden stronghold into open conflict. Though Ash escapes, the party breaks her immediate force, opens the hidden route beyond her chamber, and pieces together written evidence that the Syndicate has been deliberately destabilising Agria through kidnapping, fire, and poison.
+The [[factions/other/bonebreakers|Bonebreakers]] press [[npcs/westmarsh/grey-syndicate/ash|Ash]] for answers, but she refuses to explain the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]] beyond calling it a commercial venture. Her offer is tempting to some: investigate [[locations/world/westmarsh/necropolis|The Necropolis]], share information, and take 1,000 gold up front. Steve wants the deal, Selvar and Barny lean toward it, and Akal is tempted, but [[characters/active-players/ben-l/characters/sir-cedric-dawnmere|Cedric]] keeps the focus on rescuing the children rather than working with the people behind the chaos.
 
-The real victory comes after the fight. The children are found alive in the hawks' nesting chamber, rescued, and carried back through the mountains to Westfort. The frontier army breaks, the fort survives, Tess is recovered from Barrow Spa, and the party returns at last to the Mercy, where another crisis is already waiting in the poisoned well and the furious crowd outside Arden's cathedral.
+Ash treats the hesitation as refusal. She orders the orcs to kill the party and escapes through a revolving door before they can stop her. The Bonebreakers defeat the orcs with webs, blessings, steel, and spellwork, then spare [[npcs/westmarsh/grey-syndicate/jeremy|Jeremy]]. He gives little away beyond confirming that the Syndicate is secretive, mercenary, and probably sincere about the offer. The party forces open Ash's escape route, but she is gone.
+
+Searching the hidden complex turns the conspiracy from suspicion into proof. The party recovers the offered gold and finds Syndicate documents laying out a plan to destabilise Agria through poison, fire, and kidnapping. Jeremy claims he was involved in the arson meant to kill the party, but not the poisonings. After finding the key to a set of central doors, the Bonebreakers open the hawks' nesting ground: a foul chamber thick with feathers and filth.
+
+The children are alive inside. Cedric calms and feeds them while the party gets them moving, then the group escapes through a hidden eastern exit and avoids the broken enemy army on the mountain route back to [[locations/world/agria/west-fort|Westfort]]. Barny's crystal ball shows the fort still standing and the battlefield devastated; by the time the party returns, [[npcs/west-fort/commander-valerius|Commander Valerius]] confirms the children are safe and the immediate invasion has failed.
+
+The victory does not bring rest. Valerius warns of more deaths at [[locations/world/agria/southlands/mercy|the Mercy]], sickness in Ikiria, and fires elsewhere. The Bonebreakers report the Syndicate evidence, recover Tess from Barrow Spa, and collect a 24,000 gold reward for the rescue. When they reach the Mercy, an angry crowd has gathered over the poisoned well and Arden's mishandling of the crisis. Arden's apology only inflames the mob, and Akal disperses it by throwing gold into the crowd. The children are rescued and Westfort survives, but Ash escapes, Tobold remains missing, and the Mercy crisis takes over immediately.
 
 ## Important events
 

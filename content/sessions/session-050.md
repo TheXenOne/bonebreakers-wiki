@@ -12,11 +12,13 @@ See also: [[sessions/index|Sessions]], [[sessions/session-049|Session 49 - Rot a
 
 ## Narrative recap
 
-Session 50 begins with the Bonebreakers finally ending the corpse-pit battle in [[locations/world/agria/southlands/ikiria/plats|the Plats]]. The last wights, mummies, and skeletons are destroyed, but not before one surviving wight drains away half a level of [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]]'s life force, a severe blow that visibly rattles him. The aftermath is worse than a simple clean-up. [[npcs/ikiria/maren-sollow|Maren Sollow]] is dead, her notebook is recovered, ancient imperial armour is stripped from the undead, and [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]] identifies fresh necrotic traces in the graves that suggest recent spellcasting rather than a naturally spreading curse.
+The Bonebreakers finally finish the corpse-pit battle in [[locations/world/agria/southlands/ikiria/plats|the Plats]], destroying the remaining wights, mummies, and skeletons. Victory still costs them: one surviving wight drains away part of [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]]'s life force before it falls. In the aftermath, [[npcs/ikiria/maren-sollow|Maren Sollow]] is dead, her notebook is recovered, and ancient imperial armour is taken from the undead. [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]] finds no fresh traces of necrotic magic in the graves, suggesting the Bonebreakers have cleared the spell or effect that had taken hold there.
 
-The party then fans out across the southern district and finds a city section collapsing in other ways. [[locations/world/agria/southlands/ikiria/plats/reefers-row|Reefer's Row]] stands abandoned, [[locations/world/agria/southlands/ikiria/plats/salting-house|the Salting House]] is empty apart from a fishing log, and the docks hold deserted vessels such as the *Drowned Pig*. On the *Saint of Tides*, the party meets a friendly elf who knows of Maren's work and believes someone is deliberately upsetting the balance in Ikiria. Shaken by the loss of life force and desperate to claw something back, [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]] secretly slips away to [[locations/world/agria/southlands/ikiria/east-agria-company-headquarters|East Agria Company Headquarters]] and steals an antique sextant and antique gnomish clock.
+The party then searches the surrounding district and finds a different kind of collapse. [[locations/world/agria/southlands/ikiria/plats/reefers-row|Reefer's Row]] is abandoned, [[locations/world/agria/southlands/ikiria/plats/salting-house|the Salting House]] is empty except for a fishing log, and deserted vessels sit at the docks. [[characters/active-players/marta/characters/luthien|Luthien]] boards the *Saint of Tides* and speaks with a friendly elf who knows Maren's work and says someone seems to be deliberately upsetting Ikiria's balance. Barny, shaken by the life drain, secretly slips away to [[locations/world/agria/southlands/ikiria/east-agria-company-headquarters|East Agria Company Headquarters]] and steals an antique sextant and antique gnomish clock.
 
-The session's clearest advance in the plague investigation comes back in the northern Plats. A hostile mob, encouraged by inquisitors, now openly treats the Bonebreakers as necromancers, and public anger is turning toward [[npcs/agria/princess-agatha|Princess Agatha]] as well. At [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]], the party confirms that the water is poisoned, then has [[characters/active-players/ben/characters/ulrich|Ulrich]] descend and purify it. At the bottom he finds 400 pre-imperial gold pieces from Westmarsh, strongly suggesting that the poison and the ancient evidence in the well were planted deliberately. The party ends the session with permission to see [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]], but without yet being allowed to remove the traumatised guard Rufus from the quarantine district.
+Back in the northern Plats, public anger has hardened. A mob encouraged by [[factions/other/civilian-inquisition|civilian inquisitors]] accuses the Bonebreakers of necromancy, turning the undead outbreak into public evidence against the very people who stopped it. Arden breaks the moment by throwing gold into the crowd and casting Silence on the inquisitor, dispersing the mob before it can fully turn on the party. Near [[locations/world/agria/southlands/ikiria/plats/cartographers-hall|the Cartographer's Hall]], residents complain that [[npcs/agria/princess-agatha|Princess Agatha]] has fled or abandoned the city. The party also finds [[npcs/ikiria/rufus|Rufus]], a nearly unresponsive guard; through Selvar's ESP, they learn he is traumatised after accompanying an inquisitor while people were burned alive.
+
+The crucial discovery comes at [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]], the suspected source of the first wave of sickness. Steve confirms the water is poisoned, and [[characters/active-players/ben/characters/ulrich|Ulrich]] descends into the well to cast Neutralise Poison and purify it. At the bottom he finds 400 pre-imperial Westmarsh gold pieces, evidence that someone planted ancient material there to stage or frame the poisoning. While Ulrich is still below, a beggar woman approaches [[characters/active-players/john/characters/micaelis|Micaelis]] with information about a stolen boat in the southern Plats; Micaelis dismisses her, but Arden gives her money, thanks her, and reassures her that she did the right thing. [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]] then pushes her into the well before the party hauls her and Ulrich back out. The quarantine has tightened after the undead outbreak, so [[npcs/ikiria/jim|Jim]] refuses to let the Bonebreakers leave without authorisation, but he carries Selvar's message to [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] and returns with permission for them to see her. Rufus still cannot be removed from the quarantine district.
 
 ## Important events
 
@@ -25,16 +27,19 @@ The session's clearest advance in the plague investigation comes back in the nor
 - [[npcs/ikiria/maren-sollow|Maren Sollow]]'s notebook is recovered from her body.
 - Three suits of ancient imperial armour are taken from the dead and claimed by [[characters/active-players/john/characters/micaelis|Micaelis]], [[characters/active-players/alessandro/characters/selvar|Selvar]], and [[characters/active-players/jennifer/characters/quak-ii|Quak II!]].
 - [[characters/active-players/ben/characters/ulrich|Ulrich]] identifies the recovered armour as evil-aligned.
-- [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]] determines that necrotic energies were cast in the graves recently, while Ulrich confirms the cemetery itself is not inherently evil.
+- [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]] finds no fresh traces of necrotic magic after the fight, suggesting the spell or effect in the graves has been cleared.
 - [[locations/world/agria/southlands/ikiria/plats/reefers-row|Reefer's Row]] and [[locations/world/agria/southlands/ikiria/plats/salting-house|the Salting House]] are found abandoned.
-- The party meets a friendly elf aboard the *Saint of Tides*, who says someone is trying to upset the balance in Ikiria.
+- Luthien boards the *Saint of Tides* and meets a friendly elf who says someone is trying to upset the balance in Ikiria.
 - Barny secretly raids [[locations/world/agria/southlands/ikiria/east-agria-company-headquarters|East Agria Company Headquarters]] and steals two cultural artefacts.
 - A mob in the Plats, stirred up by inquisitors, openly accuses the Bonebreakers of necromancy.
+- Arden disperses the mob by throwing gold into the crowd and casting Silence on the inquisitor.
 - Citizens near [[locations/world/agria/southlands/ikiria/plats/cartographers-hall|the Cartographer's Hall]] complain that [[npcs/agria/princess-agatha|Princess Agatha]] is missing or has fled while the city suffers.
 - The quarantine is tightened after the undead outbreak, and the party cannot leave freely.
 - Ulrich descends into [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]], casts Neutralise Poison, and purifies it.
 - 400 pre-imperial gold pieces are recovered from the bottom of the well, and the party concludes they were placed there deliberately.
-- A traumatised guard named Rufus is calmed enough to be led toward safety, but cannot yet be taken out of the district.
+- A beggar woman offers information about a stolen boat; Micaelis dismisses her, Arden gives her money and thanks her, and Steve pushes her into the well.
+- [[npcs/ikiria/rufus|Rufus]] is found nearly unresponsive, and Selvar's ESP reveals his trauma is tied to accompanying an inquisitor while people were burned alive.
+- Rufus is calmed enough to be led toward safety, but cannot yet be taken out of the district.
 - A guard named Jim carries Selvar's note to [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]], and the party receives permission to see her.
 
 ## Locations visited
@@ -74,12 +79,11 @@ The session's clearest advance in the plague investigation comes back in the nor
 - Maren's notebook survives the corpse-pit fight and is recovered after the battle.
 - The undead wights are wearing finely made ancient imperial armour that radiates evil.
 - One wight drains away half a level of Barny's life force, making the undead threat personally costly even after the battle turns in the party's favour.
-- Arden finds evidence that necrotic magic was cast in the graves recently, distinguishing the cemetery from the wider curse or panic in the district.
+- Arden finds no fresh traces of necrotic magic after the battle, suggesting the graveyard effect has been cleared.
 - The party keeps an automaton hand from the graveyard.
 - Barny steals an antique sextant and an antique gnomish clock from [[locations/world/agria/southlands/ikiria/east-agria-company-headquarters|East Agria Company Headquarters]].
 - Steve confirms that the water in [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]] is poisoned before Ulrich purifies it.
 - Ulrich recovers 400 pre-imperial gold pieces from the bottom of the well, and the party concludes that they were planted there deliberately.
-- A supposed plague cure sold in the district proves to be alcohol rather than medicine.
 
 ## Threads raised this session
 

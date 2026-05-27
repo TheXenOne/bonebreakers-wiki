@@ -12,9 +12,13 @@ See also: [[sessions/index|Sessions]], [[sessions/session-033|Session 33 - The T
 
 ## Narrative recap
 
-The Bonebreakers make their first real push into Westmarsh and discover immediately that the frontier is even harsher than Westfort's rumours suggested. Reinforced by several temporary allies, the party tries to set an ambush for raiders on the great bridge out of the fort, only to be ambushed first by gnolls.
+The [[factions/other/bonebreakers|Bonebreakers]] make their first real push into [[locations/world/westmarsh|Westmarsh]] from [[locations/world/agria/west-fort|Westfort]], reinforced by temporary allies Bernard the Businessman, [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve "Ligma" Smith]], Quak!, and Alison. [[npcs/west-fort/commander-valerius|Commander Valerius]] offers guarded advice before they leave, but the exchange goes badly after Steve antagonises him, setting the tone for a messy expedition.
 
-The fight leaves Tess dead and the group shaken. Their interrogation of the surviving gnolls produces only uncertain leads about a matriarch named Grazka and a possible southern trail, while later contact with goblins proves inconclusive. The session ends with the Bonebreakers forced to regroup rather than press on, newly aware that brute initiative alone will not solve the Westmarsh crisis.
+The party studies its maps, hires a wagon and horse from [[npcs/west-fort/gorin-heavyhoof|Gorin Heavyhoof]], and tries to bait raiders beyond the ancient bridge. Tess and Alison pose as travellers beside the cart while the rest hide under a tarp among chickens, hoping to spring their own ambush. The plan fails almost immediately when nine [[factions/military-and-orders/monsters-of-westmarsh/gnolls-of-westmarsh|gnolls]] ambush them first. Tess is killed in the opening volley before anyone can react.
+
+The survivors recover quickly but grimly. Alison charges, the hidden party bursts from the cart, and Quak!'s Entangle locks down most of the attackers long enough for the Bonebreakers to win. What follows is uglier than the fight: Steve and Akal torture surviving gnolls for information, learning the name [[quests/minor/active/grazka-and-the-gnolls-of-westmarsh|Grazka]], a possible gnoll matriarch deeper in the marsh. The gnolls also claim the hawks went south, but the party and Valerius both doubt how reliable that information is.
+
+Returning to Westfort with Tess's body, the party hands the captives to Valerius. [[characters/active-players/ben-l/characters/sir-cedric-dawnmere|Sir Cedric]] arranges for Tess to be taken to Barrow Spa for resurrection, with Akal contributing gold out of guilt for using her as bait. The Bonebreakers regroup amid rumours about Queen Audrey's age and succession tensions between Prince Arthur and Princess Agatha. A later attempt to contact goblins at night goes nowhere, though Quak! leaves a gnoll head and an offer of meat as a signal. By the end of the session, the party knows Westmarsh is not a place they can solve with a simple trap.
 
 ## Important events
 

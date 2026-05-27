@@ -12,19 +12,23 @@ See also: [[sessions/index|Sessions]], [[sessions/session-005|Session 5 - Shrine
 
 ## Narrative recap
 
-The fight with Sootmurk begins badly. Barny's lightning bolt sets the Grease Dragon ablaze, but Sootmurk answers with Sleep, and the Bonebreakers awaken later in shackles, surrounded by gloop guards. Eric improvises a desperate lie, claiming the party serves a greater Gold Dragon named Goldmark, and Virien and Arden build on the story so convincingly that Captain Gullian agrees to release them in exchange for an introduction.
+The confrontation in [[npcs/kelfrek-marsh/shrine-of-the-oozing-serpent/sootmurk|Sootmurk]]'s cavern begins with the Bonebreakers trying to turn the shrine's own hazards against her. [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]] hurls a brass lightning bolt into the grease around the Grease Dragon, wounding her and setting her alight, while the party tries to seal the doors and block pursuit with flame. Sootmurk answers with Sleep, and the entire group awakens more than an hour later in shackles in the storeroom where they had earlier rescued [[characters/inactive-players/james/characters/eric|Eric]], surrounded by gloop guards.
 
-Once freed, the party turns the deception into an escape. Arden sets the grease trail alight, killing Gullian and scattering the gloops, then the Bonebreakers recover their weapons and re-enter the shrine through the hidden route. There they purify the basin, recover the last brass lightning bolt, and meet Gorfthistle, a gnome treasure-hunter who recognizes Virien's new sword and links it to the treasure of King Bomfluke.
+Eric keeps the party alive with a desperate lie: the Bonebreakers, he claims, are emissaries of a more powerful Gold Dragon named Goldmark, sent to test Sootmurk's worthiness. [[characters/inactive-players/dom/characters/virien|Virien]] and [[characters/active-players/ben-l/characters/arden-sable|Arden]] build on the story with a supposed gold tribute and promises of lightning magic. The timing of the alphorn and rumbling through the shrine makes the bluff seem convincing enough that [[npcs/kelfrek-marsh/shrine-of-the-oozing-serpent/captain-gulian|Captain Gulian]] sends away his most devout guards and privately agrees to release them if they will take him to Goldmark.
 
-With Gorfthistle's help, the party reactivates Auto-Mulvis, wheels it into Sootmurk's lair, and catches the dragon off guard. The battle ends in victory, though Barny is slain in the fighting. The Bonebreakers leave the shrine with a huge haul of treasure, a surviving gloop still fooled by the Goldmark story, and Barny's body, intending to return to Barrow Spa and restore their fallen companion.
+The lie becomes an escape plan. Still disarmed, the party lets Gulian march them toward the entrance, then Virien and Arden stage a distracting argument. Arden ignites the grease trail, killing Gulian and scattering many of the gloops. Two flee with the party's weapons, but [[characters/active-players/ben/characters/ulrich|Ulrich]], Barny, and Arden bring them down and rearm the group. Rather than leave the shrine unfinished, the Bonebreakers re-enter through the hidden route, purify the basin in the statue chamber, and recover the final brass lightning bolt.
+
+The next ally is unstable but useful. In the automaton room, the party meets [[npcs/kelfrek-marsh/shrine-of-the-oozing-serpent/gorfthistle|Gorfthistle]], a treasure-hungry gnome with an automaton dog named [[npcs/kelfrek-marsh/shrine-of-the-oozing-serpent/butch|Butch]]. Gorfthistle recognizes that Virien's new sword may connect to King Bomfluke's treasure, while the Bonebreakers know where the ornate royal casket lies. They strike a temporary bargain: he will help them defeat Sootmurk, and they will help him reach the treasure.
+
+Arden briefly activates the six-armed Auto-Mulvis and barely avoids being cut apart before shutting it down again. The party hauls the inert automaton onto a dolly, fights through more crab spiders in the foundry, and wheels the machine back to Sootmurk's lair. This time the attack works. Bran and Eric push Auto-Mulvis into the wounded dragon, the rest of the Bonebreakers follow, and Sootmurk is killed before the remaining gloops can turn the battle around. The victory is expensive: Barny dies in the fighting, even as the party claims part of Sootmurk's immense hoard. Arden extends the Goldmark deception to a surviving gloop, convincing it to stop kidnapping travellers, and the Bonebreakers haul treasure and Barny's body back through [[locations/world/agria/southlands/barrowshire/kelfrek-marsh|Kelfrek Marsh]] toward [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]] and resurrection.
 
 ## Important events
 
 - Barny wounds Sootmurk with a brass lightning bolt.
 - Sootmurk casts Sleep, and the entire party is captured.
 - Eric invents the story of Goldmark the Gold Dragon.
-- Gullian agrees to free the party in exchange for an escort to Goldmark.
-- Arden burns the grease trail, killing Gullian and scattering many gloops.
+- Gulian agrees to free the party in exchange for an escort to Goldmark.
+- Arden burns the grease trail, killing Gulian and scattering many gloops.
 - The Bonebreakers recover their weapons and return through the hidden entrance.
 - The basin in the statue chamber is purified, and the final brass lightning bolt is taken.
 - Gorfthistle and his automaton dog Butch join the party temporarily.
@@ -54,7 +58,7 @@ With Gorfthistle's help, the party reactivates Auto-Mulvis, wheels it into Sootm
 - Grog
 - Eric
 - Sootmurk
-- Captain Gullian
+- Captain Gulian
 - Gorfthistle
 - Butch
 - A surviving gloop follower

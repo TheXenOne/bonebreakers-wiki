@@ -12,9 +12,13 @@ See also: [[sessions/index|Sessions]], [[sessions/session-045|Session 45 - The S
 
 ## Narrative recap
 
-Session 46 closes one of the Bonebreakers' longest-running personal threads in the bleakest possible way. The halfling stalking the camp is not Tobold but an assassin wearing Tobold's face, and under pressure he confirms that Tobold is dead after enduring torture without betraying the party.
+The Bonebreakers reach the edge of [[locations/world/westmarsh/spiders-market|The Spider Market]] with [[npcs/agria/prince-arthur|Prince Arthur]], [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]], and their Syndicate evidence still in play. Before they can use the market to make contact, [[characters/active-players/john/characters/micaelis|Micaelis]] finds the party and joins them, and the camp is stalked at night by a halfling who looks like [[characters/active-players/david/characters/tobold-took|Tobold]].
 
-The rest of the session shifts from grief to dangerous negotiation. The Bonebreakers gather more rumours about the necropolis and the market, reveal Prince Arthur within the Spider Market, and finally meet Ash again under controlled terms. Her claim that she herself is the Grey Khan reframes the entire Syndicate question, but the session ends before the exchange, leaving the party committed to a perilous silent strike in the one place where open violence could bring disaster down on them all.
+The resemblance is a trap. After the party subdues him, the halfling proves to be an assassin wearing Tobold's face and carrying gems and a map to the hobgoblin fortress. Arden bargains for the truth, and the assassin confirms the worst: Tobold is dead, tortured for information about the Bonebreakers but never broken. The assassin was hired to kill Wendell, had seen [[npcs/westmarsh/grey-syndicate/ash|Ash]] at [[locations/world/westmarsh/invasion-fort|the Invasion Fort]], and was told the party would be at the market. The Bonebreakers pay him as agreed and let him go.
+
+The next day, the party enters the market with Arthur and Wendell masked. They gather rumours from battered adventurers about a western entrance to [[locations/world/westmarsh/necropolis|The Necropolis]], skeleton patrols, and a great central dome that may connect to the route beneath [[locations/world/agria/southlands/mercy|The Mercy]]. Arden then confronts a watching orc about the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]], and the situation shifts when Arthur's identity is revealed. More orcs gather, and a formal meeting is arranged.
+
+At the meeting, Ash arrives with two orcs and a cart. She recognises that Luthien is controlling Arthur, offers 10,000 gold for Wendell, and then claims that she herself is [[npcs/westmarsh/grey-syndicate/the-grey-khan|the Grey Khan]]. The Bonebreakers push the price to 20,000 gold for an exchange the following day, but Ash says she will not personally attend. When she remains inside the market overnight, the party starts planning a silent strike in the one place where open violence could bring the whole market down on them.
 
 ## Important events
 

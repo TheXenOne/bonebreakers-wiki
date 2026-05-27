@@ -13,9 +13,11 @@ See also: [[sessions/index|Sessions]], [[sessions/session-041|Session 41 - Into 
 
 ## Narrative recap
 
-The exact split between Sessions 42 and 43 is unclear. What is clear is that the Bonebreakers continued pushing deeper through Arch VII, exploring more warped chambers and ancient halls where distance, sound, and geometry refused to behave normally.
+The exact split between Sessions 42 and 43 is unclear. For this part of the delve, the Bonebreakers continue pressing through [[locations/world/westmarsh/necropolis/arch-vii|Arch VII]], using what they learned in the stonemason's camp and from [[npcs/necropolis/cornelius-vane|Cornelius Vane]] to push farther into the buried imperial wing beneath [[locations/world/agria/southlands/mercy|The Mercy]].
 
-This stretch of the delve is defined less by one clean objective than by continued probing of the necropolis itself. The party tests the architecture, survives further danger in the buried imperial wing, and sees Rose bring down a formidable enemy in a single strike. Exact room order and encounter breakdown for this session need review.
+The session is defined by exploration rather than a single clean objective. The party probes rooms and corridors where sound, distance, and geometry behave wrongly, trying to work out how the old construction fits together and what dangers still occupy it. Magic clings heavily to the stone, and the group keeps testing the environment as much as fighting through it.
+
+At some point in this stretch, Rose delivers one of the delve's most striking moments by bringing down a formidable enemy with a single sudden blow. The identity of that foe, the exact room order, and the encounter breakdown for Session 42 need review. What is clear is that the party's understanding of [[locations/world/westmarsh/necropolis|The Necropolis]] expands, but the place remains too large and distorted to unravel in one push.
 
 ## Important events
 

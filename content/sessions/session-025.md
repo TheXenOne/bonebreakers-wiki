@@ -12,9 +12,13 @@ See also: [[sessions/index|Sessions]], [[sessions/session-024|Session 24 - Ninja
 
 ## Narrative recap
 
-The rescue mission at the shrine of Mulvis becomes one of the party's most effective ambushes. After failed attempts to bluff Gruumsh with tribute, the Bonebreakers infiltrate the shrine at night, scout the interior carefully, and shape the battlefield with tripwires, grease, sleep magic, and choke points.
+The Bonebreakers answer [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]]'s ransom by preparing a rescue rather than a payment. They leave the church guarded, bring [[npcs/mercy/captain-fardr|Captain Fardr]], buy wine casks for a possible tribute ploy, and send Luthien forward with a charmed orc to test whether Gruumsh can be bluffed. When the gift approach fails, the party commits to a night infiltration of the [[locations/world/agria/southlands/barrowshire/kelfrek-marsh/shrine-of-the-oozing-serpent|old shrine of Mulvis]].
 
-Once the attack begins, the orc force collapses fast. Priests are freed, Gruumsh's followers are cut down in large numbers, and the shrine's treasure is claimed. The session's strangest turn comes after the fighting, when Barny secretly reanimates Krazak as a zombie thrall, while Frank scars Gruumsh and lets him go alive as a warning rather than finishing him.
+Frank scouts the complex invisibly and finds more than hostages: a working forge, sleeping orcs, guarded priests, misty catacombs, [[characters/active-players/callum/retainers-followers/krazak-the-silent|Krazak the Silent]] with a horn, and gnomish automaton parts stored inside the shrine. The Bonebreakers use that information to shape the fight before it starts, laying tripwires, preparing grease traps, and setting up sleep and holding magic around the orcs' own movement routes.
+
+Once the assault begins, the orc force collapses in sections. Frank steals Krazak's horn, Barny, Selvar, and Luthien put groups of orcs to sleep, Rhian bars doors, Ulrich holds Krazak in place, and the party clears the priest guards before moving the hostages into a hidden refuge. The ambush turns the shrine's corridors and forge against Gruumsh's warband.
+
+The final confrontation begins when Gruumsh and his remaining elite fighters push into the prepared killing ground. The Bonebreakers fall back through the trapped passages, draw the orcs into grease and fire, and use sleep magic to collapse the last organised resistance. With his followers burned, disabled, or surrounded, Gruumsh surrenders, and the party recovers the ransom money, stolen church wealth, and additional treasure from the shrine. The strangest consequence is hidden from most of the party: Barny secretly reanimates Krazak as a zombie thrall at personal cost, while Frank scars Gruumsh's face and lets him leave alive as a warning.
 
 ## Important events
 
@@ -57,7 +61,7 @@ Once the attack begins, the orc force collapses fast. Priests are freed, Gruumsh
 ## Items, magic, and discoveries
 
 - Frank recovers two gnomish power cores, six automaton arms, and two automaton eyes.
-- Ulrich creates a grease trap using sootmark residue.
+- Ulrich creates a grease trap using Sootmurk residue.
 - The party captures 15,000 gold pieces from the ransom arrangement and additional treasure from the shrine.
 - Church trinkets worth 2,500 gold pieces are recovered.
 - Another 4,000 gold pieces in treasure are claimed after the battle.

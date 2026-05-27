@@ -12,9 +12,15 @@ See also: [[sessions/index|Sessions]], [[sessions/session-021|Session 21 - Soup 
 
 ## Narrative recap
 
-With the library and bishop's quarters finally breached, the Bonebreakers uncover the last clear evidence of how the Cathedral of the Crimson Flame was corrupted. The original bishop's writings describe a church sliding into torture, execution, and necrotic influence, and hidden mechanisms in the altar open a path down toward the source of the rot.
+With the library and bishop's quarters finally breached, the Bonebreakers assemble the clearest picture yet of how the [[locations/world/agria/southlands/mercy|Cathedral of the Crimson Flame]] was corrupted. The original bishop's diary describes a church collapsing under plague, fear, torture, execution, and a necrotic presence that entered the cathedral. The evidence points away from simple fanaticism and toward something that replaced or consumed the bishop himself.
 
-The confrontation with the Crimson Bishop is deadly. Barny is slain by Finger of Death, Frank risks himself in a desperate gaseous-form grapple, and the party only prevails by forcing the bishop out of the air and finishing him together. The session closes with the cathedral liberated, the plague lifted, massive treasure recovered, and both Barny and Frank restored to life in Barrow Spa, even as stranger depths below the church remain unexplored.
+The party finds the next path by working the altar mechanisms, opening a hidden descent beneath the church. Below, the [[npcs/mercy/crimson-bishop|Crimson Bishop]] offers the Bonebreakers the cathedral as a base if they will serve him, but Cedric demands the cleansing of the undead and the plague instead. The offer fails, and the fight becomes the decisive battle for the church.
+
+The Crimson Bishop proves far more dangerous than the knights above. Barny is killed by Finger of Death, the bishop takes to the air, and the Bonebreakers have to improvise under pressure. Frank uses gaseous form to reach and grapple him, Cedric and Athlestan help drag the creature down, and Timo's illusion exposes the ghoul-like truth beneath the bishop's splendour before the party finally destroys him.
+
+Victory does not end the danger immediately. The prisoners in the chamber rise as ghouls, Frank nearly dies to rot grubs hidden among the treasure, and an eerie voice from a seemingly endless stair below invites the party deeper with promises of treasure. The Bonebreakers choose to secure what they have won instead of chasing the voice.
+
+By the end of the session, the deathless plague and the church's occupation are broken. Captain Fardr and the surviving priests are freed, the cathedral and its wealth pass into the party's hands, and Barny and Frank are restored to life at [[locations/world/agria/southlands/barrowshire/barrow-spa/second-chance|The Second Chance]] in [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]]. Barny also leaves with new leads on Baronbold and a possible scroll of immortality, shifting part of his attention back toward the [[locations/world/agria/southlands/barrowshire/barrow|Barrow]].
 
 ## Important events
 

@@ -12,9 +12,15 @@ See also: [[sessions/index|Sessions]], [[sessions/session-037|Session 37 - Drums
 
 ## Narrative recap
 
-Rose's reconnaissance pays off immediately. Her closer look at the fortress reveals invasion plans, a hawk feather matching the kidnappers' trail, and a partial garrison preparing openly for war. The Bonebreakers translate the captured documents and confirm that Westfort is a near-term target.
+[[characters/active-players/laura/characters/rose|Rose]]'s reconnaissance of [[locations/world/westmarsh/invasion-fort|The Invasion Fort]] pays off immediately. Still invisible and flying, she slips through a high skylight into the cliffside stronghold and finds a forge producing weapons, soldiers in the main hall, and a planning room dominated by maps of Westmarsh and East Agria. A hawk feather matching the one tied to [[characters/active-players/david/characters/tobold-took|Tobold]]'s abduction proves the kidnappings and the army are connected.
 
-Rather than simply warn the fort, the party strikes. They break into the visible section of the stronghold, kill its officers, and nearly commit to holding it, only to discover a hidden passage opening onto a far larger invasion force with siege engines and allied troops waiting beyond. They escape with only seconds to spare and return to Westfort bearing two urgent warnings at once: a siege is coming, and the Mercy is facing a poisoning crisis of its own.
+Unable to find the fort's hidden section, Rose creates chaos instead: she throws oil into the forge, kills several hobgoblins in the explosion, steals the invasion maps and papers, and escapes. Luthien and Selvar translate the documents for the party, confirming that [[locations/world/agria/west-fort|Westfort]] is a near-term target. The Bonebreakers decide the visible garrison may be vulnerable enough to strike before the army moves.
+
+The raid begins well. Ulrich blesses the party, Barny puts the outer guards to sleep, Rose opens the gate from inside, and Selvar drops the main-hall hobgoblins with magic. That success draws several hobgoblin officers into the hall, turning the assault into a much rougher fight that leaves several party members badly hurt. The Bonebreakers still win, loot gold and powerful arms from the fallen, and press deeper until they catch a crowned hobgoblin opening a secret passage.
+
+That passage reveals the true scale of the threat: hundreds of hobgoblins, orcs, goblins, and even humans gathered around siege engines in a hidden army hall. The party blocks pursuit with its last jar of dragon grease, sets it alight, and flees on horseback to warn [[npcs/west-fort/commander-valerius|Commander Valerius]]. He begins preparing Westfort for siege but asks them to keep searching for the children.
+
+The return to Westfort brings a second crisis. A letter from [[locations/world/agria/southlands/mercy|the Mercy]] reports poisonings, dead or dying priests, and doubts about [[characters/active-players/ben-l/characters/arden-sable|Bishop Arden]]'s leadership. Cedric writes for answers, Ulrich sends the [[items/party-inventory/crown-of-king-bomfluke|Crown of King Bomfluke]] as protection, and Barny uses the [[items/party-inventory/crystal-ball|crystal ball]] to confirm the sickness at the Mercy and Jeremy's presence near the cliffside fort. Barny keeps the Mercy confirmation from the party, leaving them with war imminent on the frontier and their home base also under threat.
 
 ## Important events
 

@@ -12,9 +12,13 @@ See also: [[sessions/index|Sessions]], [[sessions/session-030|Session 30 - A Toa
 
 ## Narrative recap
 
-The Bonebreakers continue their uneasy exploration of the Blood Moon manor by shifting from open infiltration to selective cooperation. A letter in the music room points to Lord Demetrius opposing the Blood King, and almost immediately the party is approached by the Princess of Blood, who offers protection in exchange for assassinating Circander before the feast.
+The [[factions/other/bonebreakers|Bonebreakers]] continue through the [[locations/world/agria/southlands/ikiria/halls-of-the-blood-king|Halls of the Blood King]] after the spider fight, harvesting strange arcane lotus flowers before entering an immaculate music room dominated by a silver grand piano. Tess finds a letter to [[npcs/ikiria/halls-of-the-blood-king/princess-of-blood|the Princess of Blood]] that appears to come from [[npcs/ikiria/halls-of-the-blood-king/lord-demetrius|Lord Demetrius]], pledging support against [[npcs/ikiria/halls-of-the-blood-king/the-blood-king|the Blood King]] and hinting that a useful artifact is hidden in the piano. Before the party can act on it, the Princess herself enters with Demetrius and offers a bargain: help her rise, and she will spare them when she becomes queen.
 
-The party accepts the bargain for the moment and carries it out with brutal efficiency. From there, the session widens into a deeper look at the manor's hidden victims and stranger secrets: captives in the basement, a grieving spectral mother searching for Serion, and a fungus-ridden figure linked to Lord Demetrius. By session end the Bonebreakers have rescued prisoners, gained access to the lower floors, and learned that the manor's horrors go well beyond ordinary vampirism.
+Her first demand is the murder of [[npcs/ikiria/halls-of-the-blood-king/circander|Circander]], a vampire she fears will expose her secrets at the coming feast. The Bonebreakers accept for the moment, while Tess uses the distraction to steal an obsidian dagger. They find Circander bathing in blood and kill her quickly with holy water, blades, and a stake, but a living blood trap rises from another tub and forces them out. The Princess rewards them with the [[items/party-inventory/wand-of-daystars|Wand of Daystars]], a basement key, and an upper-floor map, making the party useful pawns in her succession plot.
+
+The party then pushes through more of the main floor, starting with the guard bunkroom near the southwest side of the manor. Human guards say the feast is close, the dungeons are full, and the kitchens are busy near the main hall. Barny kills one with the [[items/party-inventory/staff-of-withering|Staff of Withering]], Tess finds a magical crossbow for Luthien, and a passing shadow snuffs out the lights before Barny quietly raises one corpse as a zombie. In a nearby luxury bedroom, a ghostly woman begs the Bonebreakers to find her son Serion, who was taken and infused with the Blood King's power, while Luthien cracks open an ornate chest of jewellery. The promise to help Serion remains unresolved.
+
+Using the basement key, the Bonebreakers descend into torture chambers and free several prisoners. The captives warn that the Blood King was torturing a vampire nearby, but the body they find is stranger than expected: it resembles Demetrius, yet speaks as a sentient magical fungus that wants to spread into a hive mind. The party pretends to cooperate long enough to burn it. By session end they have returned the rescued prisoners to [[npcs/ikiria/halls-of-the-blood-king/selana|Selana]]'s trapped room, carrying new valuables including scrolls and [[items/party-inventory/age-reading-enchanted-gloves|age-reading enchanted gloves]], while the feast and the Blood King's heart remain ahead.
 
 ## Important events
 
@@ -23,7 +27,7 @@ The party accepts the bargain for the moment and carries it out with brutal effi
 - The Princess of Blood offers the party safety if they help her kill Circander.
 - Tess steals an obsidian dagger while the Princess is distracted.
 - The party kills Circander in the bathing chamber with holy water, blades, and a stake.
-- The Princess rewards the party with a wand, a basement key, and a map of the upper floor.
+- The Princess rewards the party with the Wand of Daystars, a basement key, and a map of the upper floor.
 - The Bonebreakers question human guards and learn the feast is close and the dungeons are full.
 - Barny secretly raises one dead guard as a zombie.
 - A spectral woman begs the party to find her son, Serion, who was infused with the Blood King's power.
@@ -33,7 +37,7 @@ The party accepts the bargain for the moment and carries it out with brutal effi
 
 ## Locations visited
 
-- The Blood Moon manor
+- The Halls of the Blood King
 - The glass-roofed garden
 - The music room
 - The barracks
@@ -69,7 +73,7 @@ The party accepts the bargain for the moment and carries it out with brutal effi
 
 - Arcane lotus flowers are harvested from the manor garden.
 - Tess steals an obsidian dagger.
-- The Princess gives Barny a wand, a basement key, and a map of the upper floor.
+- The Princess gives Barny the Wand of Daystars, a basement key, and a map of the upper floor.
 - Luthien finds a large dark key, scrolls of Remove Curse and Protection from Evil, enchanted gloves, and an unknown potion.
 - Barny discovers the gloves reveal the age of anything he touches.
 - The letter in the music room points to a hidden artifact in the piano.

@@ -12,11 +12,13 @@ See also: [[sessions/index|Sessions]], [[sessions/session-016|Session 16 - Sebas
 
 ## Narrative recap
 
-The Nixies make their intentions plain: the party may be welcome in their underwater city, but only as permanent residents. Rather than fight underwater charm magic head-on, the Bonebreakers negotiate. They promise to bring physicians from the temple in their place, winning both their freedom and the treasure the Nixies had been using as bait.
+The Nixies make their hospitality plain: the Bonebreakers are welcome in the underwater city beneath [[locations/world/fos-imeras|Fos Imeras]], but only if they stay forever. Their friendliness is backed by charm magic, making a direct fight underwater a dangerous answer to a problem that already has half the party off balance. Rather than turn the lake into another desperate battle, the group bargains. They promise to bring physicians from [[locations/world/fos-imeras/golden-asclepeion|the Golden Asclepeion]] in their place, and the [[npcs/fos-imeras/nixies|Nixies]] accept the exchange.
 
-That treasure carries new weight. Ehecat claims the magic sword and discovers it is sentient, forged by a druid of his own lost people, the Cassets, and bent toward vengeance against the Ramen Empire. He keeps that revelation mostly to himself. With the Eleftheria under their control, the party returns to the Asclepeion, finishes clearing the remaining harpies, and rescues a princess of Agria along with seven other nobles.
+The bargain wins the party its freedom and the treasure that had been used to lure them in. [[characters/inactive-players/marco/characters/ehecat|Ehecat]] claims the magic sword and discovers privately that it is [[items/party-inventory/sentient-sword-of-the-cassets|a sentient weapon]] forged by a druid of the Cassets, his own lost people. The sword urges vengeance against the [[factions/governments/ramen-empire|Ramen Empire]], tying the expedition's loot directly to Ehecat's personal grief and future ambitions. He does not fully share the revelation with the party.
 
-The voyage home is politically delicate but successful. The Ramen navy intercepts the party once more, yet the return of Orsilochus, a musician, and an imperial sailor transforms the encounter into an escort rather than a threat. The Bonebreakers leave Fos Imeras alive, richer, and suddenly entangled in the affairs of both Agria and the Ramen Empire.
+With [[items/party-inventory/eleftherias-rudder|the Eleftheria]] under their control, the Bonebreakers return to the Asclepeion to finish the work they began. They clear the remaining harpies and rescue a noblewoman who proves to be a princess of Agria, along with seven other Agrian nobles. The rescue reframes the whole Fos Imeras expedition: what began as a paid investigation for [[npcs/flux-academy/ulna-glitterpatch|Ulna Glitterpatch]] has also recovered politically important Agrian prisoners.
+
+The escape from Fos Imeras is delicate but successful. The party learns more about the Eleftheria's modular magical nature, leaving with a ship that can be concealed or reassembled through its components. When the Ramen navy intercepts them again, the return of [[npcs/fos-imeras/orsilochus|Orsilochus]], [[npcs/fos-imeras/chairis|Chairis]], and an [[npcs/fos-imeras/sailor|Imperial sailor]] turns the encounter from threat into gratitude. The Ramen escort the Bonebreakers back toward Ikiria, and the party leaves Fos Imeras alive, richer, and entangled in both Agrian royal politics and Ramen imperial memory.
 
 ## Important events
 
@@ -47,7 +49,7 @@ The voyage home is politically delicate but successful. The Ramen navy intercept
 - Ulrich
 - Frank
 - Ehecat
-- Durandal
+- Durandale
 - Luthien
 - Athlestan
 - The Nixies

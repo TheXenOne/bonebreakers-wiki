@@ -12,11 +12,15 @@ See also: [[sessions/index|Sessions]], [[sessions/session-015|Session 15 - The G
 
 ## Narrative recap
 
-The session opens with the party confronting the oracle Sebastaeia in the grand hall of the Asclepeion. Durandal’s attempt to persuade her fails, combat begins, and the Bonebreakers fight both the oracle and incoming harpies while Barny’s Hold Portal delays a larger rush. Sebastaeia dies, but the temple’s horrors prove far from over.
+The session opens in the grand hall of [[locations/world/fos-imeras/golden-asclepeion|the Golden Asclepeion]], where the Bonebreakers confront [[npcs/fos-imeras/sebastaeia|Sebastaeia]], the oracle behind the temple's warped purification. She is beautiful, calm, and unwilling to stop. [[characters/inactive-players/laurene/characters/durandale|Durandale]] tries to persuade her to end what she is doing to the temple's victims, but Sebastaeia insists that everyone needs healing. When violence breaks out, her lion runs to summon help, and [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]] uses Hold Portal to delay the flood of harpies and physicians from one entrance.
 
-Using a map found near the throne, the party navigates through the complex under pressure. They encounter a faceless being, a horrific mass of “purified” bodies, angry physicians freed from the held door, and more sick prisoners deeper inside. The party also reaches a gymnasium-like chamber and recognizes one of the survivors as Orsilochus, the legendary Imperial figure sought by the Ramen.
+The fight is chaotic but decisive. Sebastaeia's precognitive gifts make her difficult to strike, harpies keep arriving and charming different members of the party, and the lion buys time for more enemies to gather. The Bonebreakers hold long enough for [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran]] to land the final blow on Sebastaeia. From her throne chamber they recover ancient pottery shards, a [[items/party-inventory/crystal-ball|crystal ball]], 2,000 GP, and a map of the temple, but the temple's horrors prove far from over.
 
-The second half of the session shifts to the lake marked on the map. There the party faces blue-skinned singing figures and only escapes by solving an old riddle with ritual offerings. This summons the Eleftheria, Orsilochus’ magical ship. Once aboard, the Bonebreakers gain safety, glimpse an underwater city through the lake, and learn that the strange figures are Nixies who want to draw them in even further.
+Using the map, the party pushes through the complex under pressure. They pass a faceless creature with wet footsteps, find a hovering mass of "purified" bodies that causes ringing ears and bloody noses, and discover that more purified wait below a marked trapdoor. Sixteen physicians pursue them after Barny's held door finally gives way, forcing the Bonebreakers to keep moving. In a gymnasium-like room, [[npcs/fos-imeras/kleostratos|Kleostratos]] recognizes a black-haired man as [[npcs/fos-imeras/orsilochus|Orsilochus]], the legendary Imperial figure the [[factions/governments/ramen-empire|Ramen Empire]] sent them to find, and the party helps him begin remembering who he is.
+
+After escaping the temple with treasure and survivors, the Bonebreakers follow the marked map to the lake. Clear water and singing blue figures pull several party members toward danger, and the party struggles against charm magic as more figures rise from below. [[characters/inactive-players/matt/characters/athlestan-ghoulsbane|Athlestan]] remembers the old riddle of offerings: a villain's rib, a pound of gold, something purple, and something old. When the offerings are thrown into the lake, [[items/party-inventory/eleftherias-rudder|the Eleftheria]] rises from the water, giving the party temporary safety aboard Orsilochus's magical ship.
+
+The lake then opens into a wider mystery. Bran drops his rainbow stone and reveals a vast submerged city, while the blue figures identify themselves as [[npcs/fos-imeras/nixies|Nixies]] and invite the party down to see their treasure. [[characters/active-players/deri/characters/francis-spencer-gray|Frank]], still charmed, descends and sees 10,000 silver pieces and a magic sword. The session ends with the temple's oracle dead, Orsilochus and the Eleftheria recovered, and the party caught between escape and the Nixies' underwater lure.
 
 ## Important events
 
@@ -51,7 +55,7 @@ The second half of the session shifts to the lake marked on the map. There the p
 - Ulrich
 - Frank
 - Ehecat
-- Durandal
+- Durandale
 - Luthien
 - Athlestan
 - Bran "The Wolf"

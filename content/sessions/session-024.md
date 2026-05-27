@@ -12,9 +12,13 @@ See also: [[sessions/index|Sessions]], [[sessions/session-023|Session 23 - Secre
 
 ## Narrative recap
 
-The Bonebreakers begin by putting their newly won church into order, dividing the rescued priests between repairs, spying, research, and clergy work. That brief sense of stability is shattered when a large group of ninja-like orcs strikes the church at night, targeting the party's fragile new power base rather than meeting them in the open.
+The Bonebreakers begin by putting their newly won [[locations/world/agria/southlands/mercy|church]] into order. The rescued priests are divided between repairs, spying, research, and clergy work, while [[npcs/mercy/captain-fardr|Captain Fardr]] helps turn the place from a liberated battlefield into a functioning base. For a brief moment, the party's victory over the Crimson Bishop looks like it might become stable.
 
-The raid is chaotic and costly. Frank sounds the alarm, Athlestan is attacked by Krazak the Silent, and four priests are carried off before the party can fully react. Barny uses his crystal ball to confirm the hostages are alive and to identify Gruumsh One-Tusk's force at an old shrine of Mulvis, but the session ends before the rescue attempt begins in earnest.
+That stability breaks when a force of ninja-like orcs raids the church at night. Frank hears the movement and raises the alarm, but the attackers are already inside the walls, moving in coordinated groups and targeting priests rather than trying to win an open battle. Athlestan is attacked by [[characters/active-players/callum/retainers-followers/krazak-the-silent|Krazak the Silent]], and four priests are carried off before the Bonebreakers can fully stop the raid.
+
+The party responds quickly instead of waiting for the trail to go cold. Barny uses the [[items/party-inventory/crystal-ball|crystal ball]] to confirm that the hostages are alive, while a charmed orc reveals that roughly one hundred orcs are gathered at an old shrine of Mulvis in the Kelfrek Marsh. The ransom demand comes from [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]], who asks for 60,000 gold and warns the party not to bring soldiers.
+
+The Bonebreakers buy time by arranging a partial exchange: 15,000 gold for one priest now, with the rest supposedly to follow. The deal proves Gruumsh will bargain, but it also confirms that the remaining hostages are still in danger at the [[locations/world/agria/southlands/barrowshire/kelfrek-marsh/shrine-of-the-oozing-serpent|old shrine]]. By the end of the session, the church has survived the raid, but its security is exposed and the party is committed to a rescue mission on enemy ground.
 
 ## Important events
 

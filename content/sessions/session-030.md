@@ -12,9 +12,13 @@ See also: [[sessions/index|Sessions]], [[sessions/session-029|Session 29 - The B
 
 ## Narrative recap
 
-The Bonebreakers press deeper into the Blood Moon manor by leaning into deception. Cloaked in vampire garments to mask their scent, they move through a trophy hall and bar where Akal and Del successfully bluff a drunken vampire into revealing key details about the Blood King's habits and power.
+The [[factions/other/bonebreakers|Bonebreakers]] continue their infiltration of the [[locations/world/agria/southlands/ikiria/halls-of-the-blood-king|Halls of the Blood King]] by turning the previous session's discoveries into cover. After Tess's vampire-scented clothing proves useful, Luthien and the rest of the group put on dark cloaks from the manor so they smell more like the creatures they are hunting. [[npcs/ikiria/halls-of-the-blood-king/selana|Selana]] confirms the disguise may help at a glance, giving the party a way to move through vampire spaces without immediately announcing themselves as intruders. Their goal remains the same: learn how to reach and destroy the Blood King's hidden protections before the manor's court can overwhelm them.
 
-The infiltration pays off with information, but not safety. The party learns of a relic the Blood King wears and hears the strange claim that Lord Demetrius never drinks blood, then kills the vampire before it can recover. A later fight in the conservatory turns violent when giant speaking spiders denounce the party as murderers, leaving Tess badly hurt and the survivors fleeing to warn their queen.
+Akal returns from scouting in tiny form with glimpses of a games room and possible ghosts, just before the party hears glass breaking nearby. Following the sound leads them into a trophy hall and bar lined with silver cups, medals, pale noble portraits, stocked bottles, and a crowned vampire statue. Rather than attack at once, Akal and Del pretend to be drunk and share a toast with the lone vampire at the bar. Their deception works: the vampire reveals that [[npcs/ikiria/halls-of-the-blood-king/the-blood-king|the Blood King]] wears a neck relic associated with restoring the dead, and that [[npcs/ikiria/halls-of-the-blood-king/lord-demetrius|Lord Demetrius]] never drinks blood.
+
+Once the Bonebreakers have the information they need, they kill the vampire. It turns to mist, reforms as a wolf, and pins Barny before Del stakes it through the heart. The party loots trophies and wine, and Barny claims a bottle containing two blinking eyes whose purpose remains unclear. The encounter advances the party's understanding of the court: the Blood King has another layer of protection or power, and Demetrius is unusual even among the manor's vampires.
+
+The next room widens the threat beyond the vampire court. In the glass-ceilinged conservatory, overgrown flowers and vines fill the humid air before giant speaking spiders descend from the plants and accuse the Bonebreakers of murder. The accusation may connect to the orderly spiders Barny attacked in the armory, but the full meaning is not yet clear. The party kills one spider, but Tess is badly wounded and turns invisible to survive. The remaining spiders retreat, shouting that they must tell their queen. By the end of the session the Bonebreakers have gained valuable court intelligence, but their presence has likely reached another power within the manor.
 
 ## Important events
 
@@ -31,7 +35,7 @@ The infiltration pays off with information, but not safety. The party learns of 
 
 ## Locations visited
 
-- The Blood Moon manor
+- The Halls of the Blood King
 - The trophy hall
 - The bar
 - The conservatory

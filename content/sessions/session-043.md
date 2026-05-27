@@ -13,9 +13,11 @@ See also: [[sessions/index|Sessions]], [[sessions/session-042|Session 42 - Echoe
 
 ## Narrative recap
 
-The same shared summary that covers Session 42 also covers Session 43, so some attribution remains uncertain. The clearest later beats are that the Bonebreakers eventually withdraw to regroup, while Steve rides alone toward Ikiria to confirm the state of the plague for himself and returns with only worse news.
+The same shared account covers Sessions 42 and 43, so some attribution remains uncertain. The clearest later sequence is that the Bonebreakers eventually withdraw from [[locations/world/westmarsh/necropolis/arch-vii|Arch VII]] to recover and take stock, with the buried imperial wing still only partly understood.
 
-After that pause, the party descends again into the necropolis and works its way back toward the deep section marked by massive claw scars. By the end of the available summary, Luthien is once again scouting ahead in the dark, setting up the discovery that follows in the next session.
+During that pause, [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]] rides alone toward Ikiria to verify the plague rumours for himself. He confirms that the sickness is real and worsening, beyond anything he can solve alone, then turns back for [[locations/world/agria/southlands/mercy|The Mercy]] after narrowly avoiding bandits on the road. The wider crisis is no longer just rumour reaching the cathedral.
+
+Once the party regroups, the Bonebreakers descend again into [[locations/world/westmarsh/necropolis|The Necropolis]] and retrace their route through its warped chambers. Their goal is to return to the deep section marked by enormous claw scars, evidence that something powerful has been moving through the old halls. By the end of the session, Luthien is scouting ahead once more in the dark, setting up the discovery of what has been making those marks. The precise division of scenes between Sessions 42 and 43 needs review.
 
 ## Important events
 

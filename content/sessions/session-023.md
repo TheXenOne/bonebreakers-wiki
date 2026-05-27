@@ -12,9 +12,13 @@ See also: [[sessions/index|Sessions]], [[sessions/session-022|Session 22 - Frank
 
 ## Narrative recap
 
-After the cathedral's liberation, Barny slips back toward the Barrow on his own, drawing the rest of the Bonebreakers after him. What follows is a final sweep through the old dungeon by way of a cave-side entrance, where the party deals with lingering horrors rather than an organised enemy force.
+After the cathedral's liberation, Barny tries to slip back to the [[locations/world/agria/southlands/barrowshire/barrow|Barrow]] on his own, following his new leads on [[quests/minor/active/barnys-search-for-immortality|forbidden lore and immortality]]. Frank notices, the rest of the Bonebreakers follow, and the party returns through a cave-side entrance to make one more sweep through the old dungeon.
 
-The session mixes cleanup with unsettling discovery. The party defeats a baby carcass crawler, hears an undead treant beg for release, and uncovers relics tied to older knights and saints. Barny's continued hunt for forbidden lore leads him into old chambers where he finds more coin, a grimoire, and a scroll, while Arden's cleansing of Quintius' quarters finally strips the Barrow of its necromantic taint and lets the party claim it as a research site.
+This return is less an invasion than a reckoning with what the Barrow has left behind. The party deals with a baby carcass crawler, finds an undead treant begging for release, and passes through old, blood-stained chambers where the dungeon's earlier violence still clings to the stone. They also uncover stranger relics: the talking skull Sir Gallant and the holy symbol of Sir Ignacious, which draws Ulrich further into his [[quests/minor/active/ulrichs-search-for-the-one-true-god|search for the one true god]].
+
+Barny's private objective remains the search for arcane answers. He finds coin hidden in [[npcs/barrowshire/the-barrow/alfwine|Alfwine]]'s old chambers, then reaches [[npcs/barrowshire/the-barrow/quintius|Quintius]]' quarters and recovers a grimoire and scroll that seem important to his pursuit of immortality. The rest of the party sees enough to understand that Barny's interest in the Barrow is not finished.
+
+The decisive change comes when Arden cleanses Quintius' chamber, breaking the active necromantic taint that still lingered in the site. With the Barrow no longer radiating the same corruption, the Bonebreakers choose to annex it as a controlled magical research location rather than abandon it or destroy it. The session closes with the party owning two dangerous inheritances at once: a reclaimed church and a purged dungeon full of secrets.
 
 ## Important events
 

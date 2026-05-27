@@ -12,15 +12,21 @@ See also: [[sessions/index|Sessions]], [[sessions/session-032|Session 32 - The H
 
 ## Narrative recap
 
-The Blood Moon crisis ends only for the campaign to pivot immediately into a new one. As the party escorts freed prisoners away from the ruined manor, Tobold is snatched by a giant hawk, and the Bonebreakers quickly learn that several villages have lost children to the same coordinated abductions.
+The [[locations/world/agria/southlands/ikiria/halls-of-the-blood-king|Halls of the Blood King]] collapse behind the [[factions/other/bonebreakers|Bonebreakers]], and dawn reveals that the Blood Moon has faded back into an ordinary festival morning. The party escorts the freed prisoners south toward [[locations/world/agria/southlands/ikiria|Ikiria]], but the relief lasts only minutes. Near a village, [[characters/active-players/david/characters/tobold-took|Tobold Took]] runs ahead for food and is snatched by a giant hawk, which carries him west faster than the party can follow.
 
-Their search leads west toward Westfort and into a broader investigation of the Westmarsh. Along the way the party uncovers old history about the marsh, rumours of trained hawks, signs of organised monster activity, and evidence that Westfort itself has recently been sabotaged by human hands. By session end the rescue mission has widened into a frontier campaign involving kidnappings, mercenaries, and a failing border fort.
+The villagers reveal that children were taken at the same time, by hawks that came from the west and carried their victims back that way. After hearing the same account in another village, the Bonebreakers return the manor prisoners to safety and begin researching the hawks. Library work and local wilderness knowledge suggest such coordination would require unusual training. Rumours blame elves, but the evidence points more broadly toward [[locations/world/westmarsh|Westmarsh]], a dangerous region once known for culture and learning before a necrotic plague drove survivors east and helped form Agria.
+
+The rescue mission becomes a western expedition. The party travels through Barrow Spa, sells and banks loot, and follows the West Road toward [[locations/world/agria/west-fort|Westfort]]. On the road, Akal attacks a lone rider, Selvar puts him to sleep, and Akal kills him, disturbing several companions. The rider carries an illegal dagger, a bottle of liquid, and a Gnollish record of raids and ransoms, suggesting organised violence on the frontier.
+
+Westfort itself is in poor shape: an old stone ruin reinforced with wooden defences, under-staffed and short on weapons. [[npcs/west-fort/sergeant-dara|Sergeant Dara]] explains that the fort was sabotaged after the kidnappings: its granary burned, water poisoned, and weapons stolen. Akal trades swords for local support, and the Bonebreakers gain use of the fort as a base plus a map from [[npcs/west-fort/kenric|Kenric]].
+
+The rest of the session turns Westfort into an investigation hub. At [[locations/world/agria/west-fort/cracked-shield|the Cracked Shield]], Tess overhears rumours of monsters acting with unusual coordination. Luthien confirms the marsh is full of gnolls, orcs, goblins, bugbears, ogres, and undead. Akal hears that human mercenaries fled the fort after the sabotage, while Ulrich meets [[npcs/west-fort/sister-aldrith|Sister Aldrith]] at the temple of Saint Lucia. By session end, Tobold's abduction has widened into a frontier crisis involving missing children, trained hawks, sabotage, and something organising Westmarsh's monsters.
 
 ## Important events
 
 - The party escapes the collapsing manor with rescued prisoners at dawn.
 - Tobold is carried off by a giant hawk.
-- Villagers confirm that children have been taken from the west and carried back in that direction.
+- Villagers confirm that children were taken in the same attack by hawks that came from the west and returned that way.
 - The party returns the former manor prisoners to safety before beginning a western expedition.
 - Research in Ikiria points to highly trained hawks and to the long history of Westmarsh.
 - The Bonebreakers learn Westmarsh was once a prosperous land before a necrotic plague.
@@ -32,7 +38,7 @@ Their search leads west toward Westfort and into a broader investigation of the 
 
 ## Locations visited
 
-- The road south from the Blood Moon manor
+- The road south from the Halls of the Blood King
 - Villages east of Westmarsh
 - Ikiria
 - The library

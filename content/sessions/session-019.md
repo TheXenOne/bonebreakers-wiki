@@ -12,18 +12,22 @@ See also: [[sessions/index|Sessions]], [[sessions/session-018|Session 18 - New B
 
 ## Narrative recap
 
-Commander Smith meets the party in disguise and recommends a stealthy forest approach to the Cathedral of the Crimson Flame. The Bonebreakers add Alinar to their ranks, buy horses, and scout the grounds carefully before committing to an assault. Frank’s reconnaissance reveals the bell plaza and a gruff red-haired sergeant drilling trainees below.
+After a night at [[locations/world/agria/southlands/ikiria/upper-class|the Upper Class]], the party is approached at breakfast by a hooded stranger. [[characters/active-players/deri/characters/francis-spencer-gray|Frank]] mistakes him for a server, but the figure reveals himself as [[npcs/agria/east-agria-company/commander-smith|Commander Smith]] in disguise. Smith advises a low-profile forest approach to [[locations/world/agria/southlands/mercy|the Cathedral of the Crimson Flame]], warning that the river route would be too visible. The Bonebreakers add Alinar, buy horses, and ride north before cutting west through woods.
 
-The party launches a surprise attack, kills Sergeant Grimlocke, and tries to deny the enemy their alarm, but a trainee rings the twisted bell before it can be destroyed. The Bonebreakers fortify the plaza and brace for a counterattack from Crimson Knights and a Son of Bahal. Their turning attempts fail, the fight sours quickly, and Arden is killed in front of the party.
+The cathedral grounds show the scale of the problem. A fifteen-foot wall encloses overgrown gardens and a church split between a lower southern section and a huge northern dome pouring smoke into the sky. After one aborted scouting attempt, Frank climbs again and looks down into a central bell plaza where initiates are being drilled by [[npcs/mercy/sergeant-grimlock|Sergeant Grimlock]], a gruff red-haired sergeant. A twisted bell hangs in the middle of the plaza, making the alarm itself an immediate tactical problem.
 
-Timo’s illusion of a collapsing wall saves the survivors from immediate destruction, but only at great cost. Durandale dies charging the Son of Bahal, and the session ends with the Bonebreakers bloodied, cornered, and relying on illusion and retreat rather than victory.
+The Bonebreakers choose speed and surprise. [[characters/active-players/ben-l/characters/arden-sable|Arden]] blesses the attackers, they leap the wall, and Grimlock is cut down before he can shout. [[characters/active-players/ben/characters/ulrich|Ulrich]] sets the bell aflame, but one trainee reaches it in time to ring it before it collapses. The party spikes doors, builds a shield barricade from fallen weapons, and prepares to hold the plaza while enemies answer the alarm.
+
+The counterattack is far worse than the first wave. Five Crimson Knights and an undead Son of Bahal burst through the southern door. Attempts to turn the undead fail, most attacks fail to bite through the armor and pressure, and the Son of Bahal and another knight cut Arden down while he proclaims the fury of Belenus. With his last breath, Arden hands Bran a note and his holy symbol. The party fights on with arrows, magic missiles, and desperate positioning, but it is clear the first assault has gone badly wrong.
+
+[[characters/inactive-players/matt/retainers-followers/timo|Timo]] saves the survivors with an illusion of a collapsing church wall. The knights hesitate under the force of the phantasm, giving the Bonebreakers a chance to pull back. [[characters/inactive-players/laurene/characters/durandale|Durandale]] sees through the illusion and charges the Son of Bahal anyway, nearly landing a blow before she is killed. The session ends with the illusory rubble pinning the enemy in place, but the Bonebreakers are bloodied, Arden and Durandale are dead, and the mission to end the plague has opened with a failed assault rather than a victory.
 
 ## Important events
 
 - Commander Smith advises the party to approach the cathedral through the woods.
 - Alinar joins the party.
 - The Bonebreakers scout the cathedral and identify the bell plaza.
-- Sergeant Grimlocke is killed in the opening ambush.
+- Sergeant Grimlock is killed in the opening ambush.
 - A trainee rings the twisted bell before Ulrich can destroy it completely.
 - The party barricades doors and prepares a defensive stand.
 - Crimson Knights and a Son of Bahal counterattack.
@@ -50,7 +54,7 @@ Timo’s illusion of a collapsing wall saves the survivors from immediate destru
 - Durandale
 - Alinar
 - Commander Smith
-- Sergeant Grimlocke
+- Sergeant Grimlock
 - Timo
 - Crimson Knights
 - Sons of Bahal
