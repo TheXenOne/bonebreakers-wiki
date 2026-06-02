@@ -14,6 +14,7 @@ source_sessions:
   - 21
   - 46
   - 51
+  - 52
 ---
 
 ## Overview
@@ -44,6 +45,7 @@ Needs review.
 - Helps in the cathedral assault and later arcs.
 - Continues with the party through [[sessions/session-046|Session 46]].
 - In [[sessions/session-051|Session 51]], he discovers during an ochre jelly fight that his newly worn ancient imperial armour is cursed and worsens his protection.
+- In [[sessions/session-052|Session 52]], he is caught in the Bloated One's necrotic explosion, though Micaelis and Steve suffer the worst of the rotting disease.
 
 ## Relationships
 
@@ -60,3 +62,4 @@ Active. Selvar is currently affected by the cursed ancient imperial armour.
 - [[sessions/session-039|Session 39]]
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-051|Session 51]]
+- [[sessions/session-052|Session 52]]

@@ -20,6 +20,7 @@ source_sessions:
   - 49
   - 50
   - 51
+  - 52
 ---
 
 ## Overview
@@ -49,7 +50,7 @@ Pressing the eagle's gemstone eyes causes ash-like curtains across the arches to
 - [[locations/world/westmarsh/necropolis/arch-ii|Arch II]]: A narrow corridor carved with reliefs that appear to record family histories or ancestral lines.
 - [[locations/world/westmarsh/necropolis/arch-iii|Arch III]]: A violet-lit, incense-scented passage whose visible mosaic shows the rise of the empire and gods giving fire to humanity.
 - [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]]: A cracked, lichen-covered hall with a greenish tint, stagnant-water smell, and a slope toward a flooded fork.
-- [[locations/world/westmarsh/necropolis/arch-v|Arch V]]: A dry, dusty underground boulevard lined with old homes, zombie labourers, and endless restoration work tied to [[npcs/necropolis/the-bloated-one|the Bloated One]].
+- [[locations/world/westmarsh/necropolis/arch-v|Arch V]]: A dry, dusty underground boulevard lined with old homes, zombie labourers, looping streets, the children's quarters, and endless restoration work tied to [[npcs/necropolis/the-bloated-one|the Bloated One]].
 - [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]]: A smoky corridor sloping upward to a storm-lashed gatehouse and outer wall. Cornelius Vane says this was his route in from Westmarsh, and the Bonebreakers' exploration supports that account.
 - [[locations/world/westmarsh/necropolis/arch-vii|Arch VII]]: A flickering arch showing a stone-cutting or construction area. This is the only arch the Bonebreakers have explored in depth.
 - [[locations/world/westmarsh/necropolis/arch-viii|Arch VIII]]: The northern arch, sealed when first discovered.
@@ -83,6 +84,7 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - In [[sessions/session-047|Session 47]], a captured recruiter places the Necropolis roughly 50 miles west of the Spider Market, lending more weight to the western-route rumours.
 - In [[sessions/session-048|Session 48]] through [[sessions/session-050|Session 50]], evidence in Ikiria raises the possibility that related ancient necromancy or Westmarsh material is being used in the city's crisis.
 - In [[sessions/session-051|Session 51]], the party confirms more of Arch VI, explores Arch V, meets [[npcs/necropolis/mortimer|Mortimer]], and recovers the [[items/party-inventory/arch-v-necropolis-map|Arch V map]] pointing toward the Bloated One's domain.
+- In [[sessions/session-052|Session 52]], the party explores the [[locations/world/westmarsh/necropolis/arch-v/childrens-quarters|Arch V children's quarters]], breaks a looping street, reads the [[items/bloated-one-work-ledger|Bloated One work ledger]], kills the Bloated One, and suffers a necrotic disease when it explodes.
 
 ## Related sessions
 
@@ -98,13 +100,15 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - [[sessions/session-049|Session 49]]
 - [[sessions/session-050|Session 50]]
 - [[sessions/session-051|Session 51]]
+- [[sessions/session-052|Session 52]]
 
 ## Unresolved threads or mysteries
 
-- Arch VII remains the only arch explored in depth, but Arch V and Arch VI are now partly mapped.
+- Arch VII remains the only arch explored in depth, but Arch V and Arch VI are now increasingly mapped.
 - Arch VIII was sealed when first discovered.
 - The full scale of the Necropolis and the reason the Mercy route reaches it remain unresolved.
 - Arch VI appears to confirm the western outer entrance, but whether the western dome reported by adventurers is the Nexus or another dome remains unresolved.
 - Whether the Ikiria undead and planted Westmarsh coins are directly connected to the Necropolis remains unresolved.
-- The purpose of the Bloated One's domain and the false Barnys remains unresolved.
+- The Bloated One is dead, but the purpose of its domain, its annual inspections, and the false Barnys remains unresolved.
+- The sun drawing in the Arch V children's quarters may be ancient or recent; the party cannot yet tell.
 - Exact event attribution between [[sessions/session-042|Session 42]] and [[sessions/session-043|Session 43]] needs review.

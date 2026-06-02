@@ -15,11 +15,12 @@ source_sessions:
   - 34
   - 46
   - 47
+  - 52
 ---
 
 ## Overview
 
-Steve "Ligma" Smith is a barbarian who joins the party in the Westmarsh arc. He is chaotic, abrasive, and openly disrespectful toward authority, but he also brings a wild, funny energy to the group and throws himself enthusiastically into the frontier's chaos.
+Steve "Ligma" Smith is a barbarian who joins the party in the Westmarsh arc. He is chaotic, abrasive, and openly disrespectful toward authority, but he also brings a wild, funny energy to the group and throws himself enthusiastically into the frontier's chaos. He is currently in danger after [[npcs/necropolis/the-bloated-one|the Bloated One]]'s death burst infected him with a Constitution-draining disease.
 
 ## Player
 
@@ -46,6 +47,7 @@ Barbarian.
 - Continues through the Westmarsh arc into [[sessions/session-046|Session 46]].
 - In [[sessions/session-046|Session 46]], Ulrich's new holy symbol identifies him as extremely evil.
 - In [[sessions/session-047|Session 47]], Steve charms a sprite, completes his orc disguise by collecting new mail, and is sharply warned by Commander Valerius after killing prisoners in Westfort.
+- In [[sessions/session-052|Session 52]], Steve breaks the Arch V looping-street magic with a symmetrical floor arrow, helps kill the Bloated One, and is badly affected by the creature's necrotic death burst.
 
 ## Relationships
 
@@ -53,7 +55,7 @@ Barbarian.
 
 ## Current status
 
-Active.
+Active, but infected by the Bloated One's death burst. If the disease is not cured before his Constitution reaches zero, he will become a zombie.
 
 ## Related sessions
 
@@ -62,3 +64,4 @@ Active.
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-047|Session 47]]
+- [[sessions/session-052|Session 52]]

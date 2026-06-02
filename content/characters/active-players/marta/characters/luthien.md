@@ -13,6 +13,7 @@ source_sessions:
   - 15
   - 18
   - 43
+  - 52
 ---
 
 ## Overview
@@ -41,6 +42,7 @@ Needs review.
 - Joins the group during the Fos Imeras arc.
 - Shares her ambitions in [[sessions/session-018|Session 18]].
 - Remains active deep into the necropolis arc.
+- In [[sessions/session-052|Session 52]], she is caught in the Bloated One's necrotic explosion, though Micaelis and Steve suffer the worst of the rotting disease.
 
 ## Relationships
 
@@ -56,3 +58,4 @@ Active.
 - [[sessions/session-018|Session 18]]
 - [[sessions/session-031|Session 31]]
 - [[sessions/session-043|Session 43]]
+- [[sessions/session-052|Session 52]]
