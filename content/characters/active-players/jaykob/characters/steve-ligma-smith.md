@@ -16,11 +16,12 @@ source_sessions:
   - 46
   - 47
   - 52
+  - 53
 ---
 
 ## Overview
 
-Steve "Ligma" Smith is a barbarian who joins the party in the Westmarsh arc. He is chaotic, abrasive, and openly disrespectful toward authority, but he also brings a wild, funny energy to the group and throws himself enthusiastically into the frontier's chaos. He is currently in danger after [[npcs/necropolis/the-bloated-one|the Bloated One]]'s death burst infected him with a Constitution-draining disease.
+Steve "Ligma" Smith is a barbarian who joins the party in the Westmarsh arc. He is chaotic, abrasive, and openly disrespectful toward authority, but he also brings a wild, funny energy to the group and throws himself enthusiastically into the frontier's chaos. He survived [[npcs/necropolis/the-bloated-one|the Bloated One]]'s rotting disease after Ulrich cured him at the Mercy.
 
 ## Player
 
@@ -48,6 +49,7 @@ Barbarian.
 - In [[sessions/session-046|Session 46]], Ulrich's new holy symbol identifies him as extremely evil.
 - In [[sessions/session-047|Session 47]], Steve charms a sprite, completes his orc disguise by collecting new mail, and is sharply warned by Commander Valerius after killing prisoners in Westfort.
 - In [[sessions/session-052|Session 52]], Steve breaks the Arch V looping-street magic with a symmetrical floor arrow, helps kill the Bloated One, and is badly affected by the creature's necrotic death burst.
+- In [[sessions/session-053|Session 53]], Steve finds the Bloated One's Senior Administrator sash, pries the Nexus eagle's ruby eye-buttons out for loot, insults the orcs through the Abyss trapdoor, kills surviving orc prisoners during Frank's questioning, and is cured of the rotting disease by Ulrich after the party rests at the Mercy.
 
 ## Relationships
 
@@ -55,7 +57,7 @@ Barbarian.
 
 ## Current status
 
-Active, but infected by the Bloated One's death burst. If the disease is not cured before his Constitution reaches zero, he will become a zombie.
+Active. No longer infected by the Bloated One's rotting disease.
 
 ## Related sessions
 
@@ -65,3 +67,4 @@ Active, but infected by the Bloated One's death burst. If the disease is not cur
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-052|Session 52]]
+- [[sessions/session-053|Session 53]]

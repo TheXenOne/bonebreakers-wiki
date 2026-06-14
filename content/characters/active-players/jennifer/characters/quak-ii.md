@@ -11,6 +11,7 @@ aliases:
   - characters/quak-ii
 source_sessions:
   - 49
+  - 53
 ---
 
 ## Overview
@@ -37,6 +38,7 @@ No documented retainers or companions.
 ## Important campaign events
 
 - In [[sessions/session-049|Session 49]], Quak II! arrives to reinforce the party during the corpse-pit undead battle.
+- In [[sessions/session-053|Session 53]], Quak II! helps finish off the zombies that arrive after the Bloated One's death.
 
 ## Relationships
 
@@ -50,3 +52,4 @@ Active.
 ## Related sessions
 
 - [[sessions/session-049|Session 49]]
+- [[sessions/session-053|Session 53]]

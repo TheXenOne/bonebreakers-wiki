@@ -14,6 +14,7 @@ This page tracks notable Bonebreaker-held items, including both shared gear and 
 - [[items/party-inventory/asclepeion-map|Asclepeion Map]]
 - [[items/party-inventory/arch-v-necropolis-map|Arch V Necropolis Map]]
 - [[items/party-inventory/arch-v-iron-key|Arch V Iron Key]]
+- [[items/party-inventory/arch-v-shrine-locket|Arch V Shrine Locket]]
 - [[items/party-inventory/astral-tuning-fork|Astral Tuning Fork]]
 - [[items/party-inventory/black-stone-ritual-knife|Black Stone Ritual Knife]]
 - [[items/party-inventory/book-of-sublime-holiness|Book of Sublime Holiness]]

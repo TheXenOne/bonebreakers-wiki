@@ -18,11 +18,13 @@ related_sessions:
   - 45
   - 46
   - 47
+  - 53
 related_locations:
   - Westfort
   - Spider Market
   - Invasion Fort
   - Westmarsh
+  - The Mercy
 related_npcs:
   - Ash
   - Jeremy
@@ -41,11 +43,12 @@ source_sessions:
   - 45
   - 46
   - 47
+  - 53
 ---
 
 ## Overview
 
-The Grey Syndicate links Westfort sabotage, Westmarsh kidnappings, political manipulation, and direct royal conspiracy. It remains one of the clearest active enemy networks facing the Bonebreakers.
+The Grey Syndicate links Westfort sabotage, Westmarsh kidnappings, political manipulation, direct royal conspiracy, and attacks on the Mercy. It remains one of the clearest active enemy networks facing the Bonebreakers.
 
 ## How it began
 
@@ -58,16 +61,18 @@ The thread becomes visible when the party exposes Vex's sabotage cell in [[sessi
 - Papers recovered in [[sessions/session-040|Session 40]] show the Syndicate destabilising Agria through fire, poison, and kidnapping.
 - In [[sessions/session-044|Session 44]] to [[sessions/session-046|Session 46]], the Syndicate is tied directly to [[npcs/agria/prince-arthur|Prince Arthur]] and the struggle against Princess Agatha.
 - In [[sessions/session-047|Session 47]], the Bonebreakers rob a decoy market cell of 20,000 gold, learn the Syndicate is dispersed rather than centralised, and hear of renewed invasion plans at a hobgoblin fort. Needs review.
+- In [[sessions/session-053|Session 53]], captured orcs in the Mercy say they came from Westmarsh, were ordered to delay the Bonebreakers, and that the first priest kidnapping from the Mercy was also Syndicate work.
 
 ## Current status
 
-The Syndicate is still active. It loses money and Arthur as an ally in Session 47, but Ash remains at large and the network is still broad enough to threaten both Westmarsh and the Southlands.
+The Syndicate is still active. It loses money and Arthur as an ally in Session 47, but Ash remains at large and the network is still broad enough to threaten both Westmarsh and the Southlands. Session 53 shows the Syndicate or its allies can still strike at the Mercy and use orc forces to delay the party.
 
 ## Consequences
 
 - The party can no longer treat Westmarsh raids as isolated frontier problems.
 - The conspiracy reaches from criminal handlers to royal succession.
 - Arthur's arrest turns part of the conspiracy from hidden leverage into open political evidence.
+- The priest kidnapping once attributed to Gruumsh's warband now appears to have been connected to the Syndicate, though the exact arrangement remains unclear.
 
 ## Related characters and NPCs
 
@@ -82,6 +87,7 @@ The Syndicate is still active. It loses money and Arthur as an ally in Session 4
 - [[locations/world/agria/west-fort|Westfort]]
 - [[locations/world/westmarsh/spiders-market|Spider Market]]
 - [[locations/world/westmarsh/invasion-fort|Invasion Fort]]
+- [[locations/world/agria/southlands/mercy|The Mercy]]
 
 ## Related factions
 
@@ -96,8 +102,10 @@ The Syndicate is still active. It loses money and Arthur as an ally in Session 4
 - [[sessions/session-044|Session 44]]
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-047|Session 47]]
+- [[sessions/session-053|Session 53]]
 
 ## Loose ends
 
 - Whether Ash really is the Grey Khan remains unresolved.
 - The Syndicate's next move after losing 20,000 gold and Arthur's protection is unresolved.
+- Whether the Session 53 delay order targeted Westfort, the Necropolis, or another objective remains unresolved.

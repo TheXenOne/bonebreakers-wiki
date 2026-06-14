@@ -24,11 +24,12 @@ source_sessions:
   - 22
   - 24
   - 25
+  - 53
 ---
 
 ## Overview
 
-The Church of the Crimson Flame was the corrupted religious power centred on [[locations/world/agria/southlands/mercy|the Mercy]]. Once a sanctuary of Bahal, it became the heart of the deathless plague before the Bonebreakers destroyed its leadership.
+The Church of the Crimson Flame was the corrupted religious power centred on [[locations/world/agria/southlands/mercy|the Mercy]]. Once a church to Bahal, a healing god, it became the heart of the deathless plague before the Bonebreakers destroyed its leadership. Later research shows that [[locations/world/agria/southlands/the-abyss|the Abyss]] beneath the cathedral predates the church above it.
 
 ## Purpose or role
 
@@ -61,6 +62,7 @@ The Church served as both a cultic faith structure and an armed stronghold. Its 
 - In [[sessions/session-018|Session 18]], the party is secretly tasked with ending the plague centred on the church.
 - [[sessions/session-019|Session 19]] through [[sessions/session-022|Session 22]] cover the assault, infiltration, interrogations, and final fall of its leadership.
 - In [[sessions/session-024|Session 24]] and [[sessions/session-025|Session 25]], the aftermath of its fall still shapes events at the reclaimed cathedral.
+- In [[sessions/session-053|Session 53]], Barny's research confirms that the Abyss predates the Bahal church and the basement stairway built over it, making the church's corruption potentially connected to the Necropolis below.
 
 ## Current status
 
@@ -75,8 +77,10 @@ Broken. Its leadership was destroyed, its cathedral was taken, and surviving per
 - [[sessions/session-022|Session 22]]
 - [[sessions/session-024|Session 24]]
 - [[sessions/session-025|Session 25]]
+- [[sessions/session-053|Session 53]]
 
 ## Unresolved threads
 
 - The full doctrine and earlier history of the church before its corruption remain only partly described.
 - The extent of any surviving splinter adherents is unknown. Needs review.
+- Whether the Crimson Bishop's corruption came from the Abyss or Necropolis remains unresolved.

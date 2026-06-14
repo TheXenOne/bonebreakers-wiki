@@ -11,6 +11,7 @@ source_sessions:
   - 38
   - 40
   - 47
+  - 53
 ---
 
 ## Overview
@@ -21,6 +22,7 @@ The Crystal Ball is a remote-viewing magic item recovered from the [[locations/w
 
 - The ball is used for long-distance surveillance rather than simple identification.
 - By later sessions, Barny relies on it to check battlefields, kidnappers, and the state of [[locations/world/agria/southlands/mercy|the Mercy]] from far away.
+- In [[sessions/session-053|Session 53]], Barny can see an orc through the crystal ball clearly enough to charm him through it while the party is trapped below the Mercy.
 - By later sessions, the crystal ball appears to have been improved by Barny's studies. The exact nature of that improvement: Needs review.
 
 ## Known history
@@ -31,6 +33,7 @@ The Crystal Ball is a remote-viewing magic item recovered from the [[locations/w
 - In [[sessions/session-038|Session 38]], Barny confirms both the sickness at the Mercy and Jeremy's presence near the cliffside fort.
 - In [[sessions/session-040|Session 40]], Barny checks that Westfort still stands after the invasion battle.
 - In [[sessions/session-047|Session 47]], Barny uses it to confirm that the Invasion Fort is active again, though with reduced forces.
+- In [[sessions/session-053|Session 53]], Barny uses it to observe orcs occupying the Mercy, then charms the orc guarding the Abyss trapdoor so the party can escape from below.
 
 ## Current status
 
@@ -44,3 +47,4 @@ The crystal ball remains in Barny's hands and continues to shape party decisions
 - [[sessions/session-038|Session 38]]
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-047|Session 47]]
+- [[sessions/session-053|Session 53]]

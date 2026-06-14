@@ -14,6 +14,7 @@ source_sessions:
   - 13
   - 18
   - 46
+  - 53
 ---
 
 ## Overview
@@ -44,6 +45,7 @@ Thief.
 - Joins the party in [[sessions/session-013|Session 13]].
 - Shares his goals in [[sessions/session-018|Session 18]].
 - Plays major scouting and infiltration roles in the cathedral, Blood Moon, and Westmarsh arcs.
+- In [[sessions/session-053|Session 53]], he is badly injured by zombies in Arch V, tries unsuccessfully to lure the orcs above the Abyss with cooking, questions Kronk after the Mercy counterattack, and orders specialised crossbow bolts by diagram in Barrow Spa.
 
 ## Relationships
 
@@ -60,3 +62,4 @@ Active.
 - [[sessions/session-018|Session 18]]
 - [[sessions/session-041|Session 41]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-053|Session 53]]

@@ -14,6 +14,7 @@ source_sessions:
   - 18
   - 43
   - 52
+  - 53
 ---
 
 ## Overview
@@ -30,7 +31,7 @@ Elf.
 
 ## Retainers or companions
 
-Needs review.
+An unusually intelligent bear begins following Luthien after she speaks with it on the road to [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]] in [[sessions/session-053|Session 53]]. Needs review on whether it remains a long-term companion.
 
 ## Associated locations
 
@@ -43,6 +44,7 @@ Needs review.
 - Shares her ambitions in [[sessions/session-018|Session 18]].
 - Remains active deep into the necropolis arc.
 - In [[sessions/session-052|Session 52]], she is caught in the Bloated One's necrotic explosion, though Micaelis and Steve suffer the worst of the rotting disease.
+- In [[sessions/session-053|Session 53]], she opens the hidden Arch V shrine cache, keeps the silver locket found inside, puts the Mercy orcs to sleep during the counterattack, befriends an unusually intelligent bear, and orders a fine bow in Barrow Spa.
 
 ## Relationships
 
@@ -59,3 +61,4 @@ Active.
 - [[sessions/session-031|Session 31]]
 - [[sessions/session-043|Session 43]]
 - [[sessions/session-052|Session 52]]
+- [[sessions/session-053|Session 53]]

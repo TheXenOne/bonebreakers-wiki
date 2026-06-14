@@ -12,11 +12,12 @@ aliases:
 source_sessions:
   - 46
   - 52
+  - 53
 ---
 
 ## Overview
 
-Micaelis is a fighter who joins near the Spider Market late in the Westmarsh arc. He is a disgraced city guard devoted to proving the supremacy of the spear. He is currently in serious danger after [[npcs/necropolis/the-bloated-one|the Bloated One]]'s death burst infected him with a Constitution-draining disease.
+Micaelis is a fighter who joins near the Spider Market late in the Westmarsh arc. He is a disgraced city guard devoted to proving the supremacy of the spear. He survived [[npcs/necropolis/the-bloated-one|the Bloated One]]'s rotting disease after Ulrich cured him at the Mercy.
 
 ## Player
 
@@ -38,6 +39,7 @@ Needs review.
 
 - Formally joins the party in [[sessions/session-046|Session 46]].
 - In [[sessions/session-052|Session 52]], he is caught in the Bloated One's necrotic explosion and becomes one of the two party members worst affected by the rotting disease.
+- In [[sessions/session-053|Session 53]], he helps destroy the zombies after the Bloated One's death, is cured of the rotting disease by Ulrich after the party rests at the Mercy, and later collects a springy spear in Barrow Spa that may let him vault obstacles.
 
 ## Relationships
 
@@ -45,9 +47,10 @@ Needs review.
 
 ## Current status
 
-Active, but infected by the Bloated One's death burst. If the disease is not cured before his Constitution reaches zero, he will become a zombie.
+Active. No longer infected by the Bloated One's rotting disease.
 
 ## Related sessions
 
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-052|Session 52]]
+- [[sessions/session-053|Session 53]]

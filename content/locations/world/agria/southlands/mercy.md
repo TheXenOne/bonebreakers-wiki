@@ -22,11 +22,14 @@ source_sessions:
   - 44
   - 45
   - 51
+  - 53
 ---
 
 ## Overview
 
-The Mercy was once the Church of the Crimson Flame, a sanctuary of Bahal that fell into corruption and became the centre of the deathless plague. After the fall of the Crimson Bishop and his followers, the Bonebreakers claimed the site and Princess Agatha formally granted it to them, making it the main stronghold of the [[factions/religions-and-cults/belenites|Belenites]].
+The Mercy is the Bonebreakers' reclaimed cathedral north-west of Ikiria. The site was built about 200 years ago as a church to Bahal, a healing god, over an older underground opening known as [[locations/world/agria/southlands/the-abyss|the Abyss]]. Its original builders knew the Abyss was there, feared it, believed it held power, and built a stairway over it in the basement.
+
+The cathedral later became the Church of the Crimson Flame and fell into corruption under the Crimson Bishop. After killing the Bishop, the Bonebreakers claimed the site, Princess Agatha formally granted it to them, and it is now called the Mercy.
 
 ![The Mercy](./the-mercy.png)
 
@@ -34,8 +37,9 @@ The Mercy was once the Church of the Crimson Flame, a sanctuary of Bahal that fe
 
 - The cathedral lies north-west of [[locations/world/agria/southlands/ikiria|Ikiria]] behind outer walls and overgrown gardens.
 - The site is split between a southern hall and a northern domed section.
-- Later exploration reveals a poisoned well, hidden lower stairs, and a route into [[locations/world/westmarsh/necropolis|the Necropolis]].
+- Later exploration reveals a poisoned well, [[locations/world/agria/southlands/the-abyss|the Abyss]], and a route into [[locations/world/westmarsh/necropolis|the Necropolis]].
 - By [[sessions/session-051|Session 51]], the party has commissioned a hatch or abyss door to cover the basement opening and stores its pre-imperial coin cache in the cathedral vault.
+- In [[sessions/session-053|Session 53]], that trapdoor cannot be opened from below, briefly trapping the party while Grey Syndicate-linked orcs occupy the nave above.
 
 ## Notable sublocations
 
@@ -43,7 +47,7 @@ The Mercy was once the Church of the Crimson Flame, a sanctuary of Bahal that fe
 - Southern cathedral hall
 - Library
 - Bishop's quarters and sanctum
-- Hidden lower chamber
+- [[locations/world/agria/southlands/the-abyss|The Abyss]]
 - Poisoned well
 - Cathedral vault
 
@@ -61,6 +65,8 @@ The Mercy was once the Church of the Crimson Flame, a sanctuary of Bahal that fe
 - [[sessions/session-024|Session 24]] and [[sessions/session-025|Session 25]] deal with the site's first major counterattack.
 - In [[sessions/session-040|Session 40]] and later, the Mercy becomes the staging ground for the Necropolis arc and for worsening plague rumours.
 - In [[sessions/session-051|Session 51]], the party returns from Ikiria, secures its pre-imperial coins in the cathedral vault, and descends again into the Necropolis.
+- In [[sessions/session-053|Session 53]], orcs linked to the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]] imprison the Mercy's inhabitants until the Bonebreakers escape the Abyss stairwell, defeat the attackers, and free the prisoners.
+- Barny's library research confirms that the Abyss predates the cathedral, and that the original Bahal worshippers built a basement stairway over it because they feared it and believed it held power.
 
 ## Related sessions
 
@@ -72,8 +78,10 @@ The Mercy was once the Church of the Crimson Flame, a sanctuary of Bahal that fe
 - [[sessions/session-041|Session 41]]
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-051|Session 51]]
+- [[sessions/session-053|Session 53]]
 
 ## Unresolved threads or mysteries
 
-- The exact relationship between the Mercy and [[locations/world/westmarsh/necropolis|the Necropolis]] remains only partly understood.
+- The exact relationship between the Mercy, [[locations/world/agria/southlands/the-abyss|the Abyss]], and [[locations/world/westmarsh/necropolis|the Necropolis]] remains only partly understood.
 - Plague, unrest, and questions around Arden's leadership remain unresolved.
+- The party suspects the Crimson Bishop may have been possessed or corrupted by something from below, but this remains unproven.

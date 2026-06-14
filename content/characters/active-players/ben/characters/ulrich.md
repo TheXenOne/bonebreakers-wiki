@@ -14,6 +14,7 @@ source_sessions:
   - 18
   - 46
   - 51
+  - 53
 ---
 
 ## Overview
@@ -44,6 +45,7 @@ Cleric of none.
 - Shares his spiritual quest in [[sessions/session-018|Session 18]].
 - Remains active through later events, including [[sessions/session-046|Session 46]].
 - In [[sessions/session-051|Session 51]], he asks [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] to petition the [[factions/guilds-and-companies/east-agria-company|East Agria Company]] to ease the quarantine, then later identifies mostly non-evil idols in [[locations/world/westmarsh/necropolis/arch-v|Arch V]] and keeps them for research.
+- In [[sessions/session-053|Session 53]], he destroys several zombies with turning magic, locates the hidden shrine chest in Arch V, helps hold the Mercy orcs in place during the counterattack, and cures Steve and Micaelis of the Bloated One's rotting disease.
 
 ## Relationships
 
@@ -61,3 +63,4 @@ Active.
 - [[sessions/session-026|Session 26]]
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-051|Session 51]]
+- [[sessions/session-053|Session 53]]

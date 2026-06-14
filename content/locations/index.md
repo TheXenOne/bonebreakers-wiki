@@ -36,6 +36,7 @@ tags:
 - [[locations/world/agria/southlands/ikiria/flux-academy|Flux Academy]]
 - [[locations/world/agria/southlands/ikiria/east-agria-company-headquarters|East Agria Company Headquarters]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
+- [[locations/world/agria/southlands/the-abyss|The Abyss]]
 
 ## Dangerous sites
 

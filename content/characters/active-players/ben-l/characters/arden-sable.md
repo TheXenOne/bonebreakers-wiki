@@ -14,6 +14,7 @@ source_sessions:
   - 18
   - 19
   - 26
+  - 53
 ---
 
 ## Overview
@@ -46,6 +47,7 @@ Cleric of Belenus and Bishop of the Mercy.
 - Shares his long-term ambitions in [[sessions/session-018|Session 18]].
 - Is slain in the cathedral assault in [[sessions/session-019|Session 19]] and restored soon after.
 - Helps claim and reshape [[locations/world/agria/southlands/mercy|The Mercy]] in the cathedral arc.
+- In [[sessions/session-053|Session 53]], he destroys zombies with turning magic, tests the Nexus eagle's ruby eye-buttons again, helps hold orcs during the Mercy counterattack, and identifies the hidden Arch V vial as holy water.
 
 ## Relationships
 
@@ -63,3 +65,4 @@ Active. Arden remains Bishop of the Mercy and continues with the party in later 
 - [[sessions/session-018|Session 18]]
 - [[sessions/session-019|Session 19]]
 - [[sessions/session-026|Session 26]]
+- [[sessions/session-053|Session 53]]

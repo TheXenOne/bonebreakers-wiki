@@ -21,17 +21,18 @@ source_sessions:
   - 50
   - 51
   - 52
+  - 53
 ---
 
 ## Overview
 
-The Necropolis is an ancient imperial ruin in [[locations/world/westmarsh|Westmarsh]], older than the Ramen Empire and tied to the civilisation that ruled the region before its fall. The entrance beneath [[locations/world/agria/southlands/mercy|the Mercy]] is a strange secondary route into the same buried complex rather than evidence that the Necropolis itself lies under the cathedral.
+The Necropolis is an ancient imperial ruin in [[locations/world/westmarsh|Westmarsh]], older than the Ramen Empire and tied to the civilisation that ruled the region before its fall. The route below the Mercy is a strange secondary entrance into the same buried complex rather than evidence that the Necropolis itself lies under the cathedral.
 
 It is known for impossible architecture, ancient imperial markings, undead guardians, necromantic relics, and evidence of a civilisation that blended administration, monumental architecture, death rites, and dangerous magical doctrine.
 
 ## Known entrances
 
-- The Mercy route begins below the cathedral, past a spiral descent where orientation reverses and the whole passage detects as saturated with magic.
+- The Mercy route begins below the cathedral, through a basement stairway built over [[locations/world/agria/southlands/the-abyss|the Abyss]], which predates the cathedral.
 - That route opens into the Necropolis through the Nexus, a vast domed chamber with eight imperial archways.
 - [[npcs/necropolis/cornelius-vane|Cornelius Vane]] says he entered the Necropolis from Westmarsh through Arch VI and became trapped for what felt to him like eleven days, though he had entered six months earlier.
 - In [[sessions/session-051|Session 51]], the Bonebreakers follow Arch VI upward into a storm-lashed gatehouse and rampart, with Westmarsh visible beyond the walls.
@@ -42,7 +43,7 @@ It is known for impossible architecture, ancient imperial markings, undead guard
 
 The Nexus is the main domed chamber reached from beneath the Mercy. It contains eight white archways arranged around a giant imperial eagle statue with two dull red gemstone eyes. The arches are marked with imperial numerals older than Ramen imperial forms, and the northern arch, Arch VIII, was sealed when first discovered.
 
-Pressing the eagle's gemstone eyes causes ash-like curtains across the arches to vanish, revealing glimpses of the spaces beyond. When the Bonebreakers first activate the Nexus, skeletons march out of Arch I before [[characters/active-players/ben/characters/ulrich|Ulrich]] destroys them with turning.
+Pressing the eagle's gemstone eyes causes ash-like curtains across the arches to vanish, revealing glimpses of the spaces beyond. When the Bonebreakers first activate the Nexus, skeletons march out of Arch I before [[characters/active-players/ben/characters/ulrich|Ulrich]] destroys them with turning. In [[sessions/session-053|Session 53]], [[characters/active-players/ben-l/characters/arden-sable|Arden]] tests the ruby eye-buttons again and sees no obvious change, after which [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]] removes them for loot.
 
 ## The Arches
 
@@ -85,6 +86,7 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - In [[sessions/session-048|Session 48]] through [[sessions/session-050|Session 50]], evidence in Ikiria raises the possibility that related ancient necromancy or Westmarsh material is being used in the city's crisis.
 - In [[sessions/session-051|Session 51]], the party confirms more of Arch VI, explores Arch V, meets [[npcs/necropolis/mortimer|Mortimer]], and recovers the [[items/party-inventory/arch-v-necropolis-map|Arch V map]] pointing toward the Bloated One's domain.
 - In [[sessions/session-052|Session 52]], the party explores the [[locations/world/westmarsh/necropolis/arch-v/childrens-quarters|Arch V children's quarters]], breaks a looping street, reads the [[items/bloated-one-work-ledger|Bloated One work ledger]], kills the Bloated One, and suffers a necrotic disease when it explodes.
+- In [[sessions/session-053|Session 53]], the party destroys the zombies that arrived after the Bloated One's death, finds a sash naming the Bloated One Senior Administrator of Residential District V, recovers a hidden locket and holy water from the Arch V shrine, and later learns that the Abyss predates the cathedral above it.
 
 ## Related sessions
 
@@ -101,6 +103,7 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - [[sessions/session-050|Session 50]]
 - [[sessions/session-051|Session 51]]
 - [[sessions/session-052|Session 52]]
+- [[sessions/session-053|Session 53]]
 
 ## Unresolved threads or mysteries
 
@@ -111,4 +114,7 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - Whether the Ikiria undead and planted Westmarsh coins are directly connected to the Necropolis remains unresolved.
 - The Bloated One is dead, but the purpose of its domain, its annual inspections, and the false Barnys remains unresolved.
 - The sun drawing in the Arch V children's quarters may be ancient or recent; the party cannot yet tell.
+- The hidden shrine locket's family and purpose remain unidentified.
+- The Nexus eye-buttons have been removed, but their full function is still unclear.
+- Evidence suggests the Necropolis may be connected to the Crimson Bishop's corruption, but this is not proven.
 - Exact event attribution between [[sessions/session-042|Session 42]] and [[sessions/session-043|Session 43]] needs review.

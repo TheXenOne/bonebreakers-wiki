@@ -26,6 +26,7 @@ source_sessions:
   - 22
   - 26
   - 48
+  - 53
 ---
 
 ## Overview
@@ -69,10 +70,11 @@ The faith is associated with healing, public charity, and resistance to undead c
 - In [[sessions/session-021|Session 21]] and [[sessions/session-022|Session 22]], the fall of the Crimson Bishop opens the way for Belenite control of the cathedral.
 - In [[sessions/session-026|Session 26]], Frank establishes the [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|Temple of Merciful Life]] in Ikiria.
 - In [[sessions/session-048|Session 48]], the party finds [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|the Temple of Merciful Life]] in Ikiria burned by civilian inquisitors, while Arden and Frank continue public healing and charity in the district.
+- In [[sessions/session-053|Session 53]], Grey Syndicate-linked orcs briefly seize the Mercy and imprison its inhabitants before the Bonebreakers retake the nave.
 
 ## Current status
 
-Active, but now under direct pressure in Ikiria. The faith holds the Mercy, but its known Ikirian temple-front has been burned, and the Belenites remain visibly associated with relief efforts during the plague.
+Active, but under pressure in both Ikiria and at the Mercy. The faith still holds the Mercy after the Session 53 counterattack, but its known Ikirian temple-front has been burned, and the Belenites remain visibly associated with relief efforts during the plague.
 
 ## Related sessions
 
@@ -82,6 +84,7 @@ Active, but now under direct pressure in Ikiria. The faith holds the Mercy, but 
 - [[sessions/session-021|Session 21]]
 - [[sessions/session-022|Session 22]]
 - [[sessions/session-026|Session 26]]
+- [[sessions/session-053|Session 53]]
 
 ## Unresolved threads
 
