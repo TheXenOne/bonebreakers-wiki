@@ -17,6 +17,7 @@ source_sessions:
   - 47
   - 52
   - 53
+  - 54
 ---
 
 ## Overview
@@ -50,6 +51,7 @@ Barbarian.
 - In [[sessions/session-047|Session 47]], Steve charms a sprite, completes his orc disguise by collecting new mail, and is sharply warned by Commander Valerius after killing prisoners in Westfort.
 - In [[sessions/session-052|Session 52]], Steve breaks the Arch V looping-street magic with a symmetrical floor arrow, helps kill the Bloated One, and is badly affected by the creature's necrotic death burst.
 - In [[sessions/session-053|Session 53]], Steve finds the Bloated One's Senior Administrator sash, pries the Nexus eagle's ruby eye-buttons out for loot, insults the orcs through the Abyss trapdoor, kills surviving orc prisoners during Frank's questioning, and is cured of the rotting disease by Ulrich after the party rests at the Mercy.
+- In [[sessions/session-054|Session 54]], Steve finishes reading the [[items/party-inventory/manual-of-strength|Manual of Strength]] and gains additional strength. He also plays along with a zombie merchant in [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]], paying two gold pieces and receiving gems worth 380 gold pieces.
 
 ## Relationships
 
@@ -57,7 +59,7 @@ Barbarian.
 
 ## Current status
 
-Active. No longer infected by the Bloated One's rotting disease.
+Active. No longer infected by the Bloated One's rotting disease and stronger after completing the Manual of Strength.
 
 ## Related sessions
 
@@ -68,3 +70,4 @@ Active. No longer infected by the Bloated One's rotting disease.
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-052|Session 52]]
 - [[sessions/session-053|Session 53]]
+- [[sessions/session-054|Session 54]]

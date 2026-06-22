@@ -26,7 +26,7 @@ This section is organised by player. Each player page links to their character p
 
 ## Active Players
 
-- [[characters/active-players/ben-l|Ben L]] - Arden Sable, Sir Cedric Dawnmere, Tess Tattercloak; Bran "The Wolf".
+- [[characters/active-players/ben-l|Ben L]] - Arden Sable, Sir Cedric Dawnmere, Tess Tattercloak; Bran "The Wolf" (dead).
 - [[characters/active-players/ben|Ben]] - Ulrich, Ike, Del; Fred.
 - [[characters/active-players/callum|Callum]] - Barny; Rhian, Rattius, and Krazak.
 - [[characters/active-players/deri|Deri]] - Frank, Akal Dreek; Merrick.
@@ -38,6 +38,8 @@ This section is organised by player. Each player page links to their character p
 - [[characters/active-players/john|John]] - Micaelis.
 - [[characters/active-players/jennifer|Jennifer]] - Quak II!; her earlier character Quak! was a bard.
 - [[characters/active-players/david|David]] - Tobold Took.
+- [[characters/active-players/marie|Marie]] - Fred.
+- [[characters/active-players/valerio|Valerio]] - Paul.
 
 ## Inactive Players
 

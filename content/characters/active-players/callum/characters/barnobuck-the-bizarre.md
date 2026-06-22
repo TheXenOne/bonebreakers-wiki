@@ -18,6 +18,7 @@ source_sessions:
   - 50
   - 51
   - 53
+  - 54
 ---
 
 ## Overview
@@ -53,6 +54,7 @@ Magic-user.
 - In [[sessions/session-050|Session 50]], a wight drains away half a level of his life force, prompting a panicked solo theft at East Agria Company Headquarters.
 - In [[sessions/session-051|Session 51]], two false Barnys appear inside [[locations/world/westmarsh/necropolis|the Necropolis]]. One imperfectly mimics him near [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]], while another claims that eternal life lies through faith before the party destroys it.
 - In [[sessions/session-053|Session 53]], Barny uses the crystal ball to spy on orcs occupying the Mercy, charms the guard above the Abyss trapdoor through the ball, secretly reanimates the dead orc squad leader for questioning, and researches the older history of the Abyss.
+- In [[sessions/session-054|Session 54]], Barny improves the [[items/party-inventory/staff-of-withering|Staff of Withering]] and uses the [[items/party-inventory/crystal-ball|crystal ball]] to view the siege at Westfort's west gate, but does not share what he sees with the party.
 
 ## Relationships
 
@@ -62,7 +64,7 @@ Magic-user.
 
 ## Current status
 
-Active. Barny remains with the party, but the Necropolis is now producing doubles tied uncomfortably to his identity and immortality obsession, while his own secret necromancy continues to create party-facing risk.
+Active. Barny remains with the party, but the Necropolis is now producing doubles tied uncomfortably to his identity and immortality obsession, while his own secretive use of magic and information continues to create party-facing risk.
 
 ## Related sessions
 
@@ -73,3 +75,4 @@ Active. Barny remains with the party, but the Necropolis is now producing double
 - [[sessions/session-050|Session 50]]
 - [[sessions/session-051|Session 51]]
 - [[sessions/session-053|Session 53]]
+- [[sessions/session-054|Session 54]]

@@ -19,6 +19,7 @@ related_sessions:
   - 46
   - 47
   - 53
+  - 54
 related_locations:
   - Westfort
   - Spider Market
@@ -44,6 +45,7 @@ source_sessions:
   - 46
   - 47
   - 53
+  - 54
 ---
 
 ## Overview
@@ -62,10 +64,11 @@ The thread becomes visible when the party exposes Vex's sabotage cell in [[sessi
 - In [[sessions/session-044|Session 44]] to [[sessions/session-046|Session 46]], the Syndicate is tied directly to [[npcs/agria/prince-arthur|Prince Arthur]] and the struggle against Princess Agatha.
 - In [[sessions/session-047|Session 47]], the Bonebreakers rob a decoy market cell of 20,000 gold, learn the Syndicate is dispersed rather than centralised, and hear of renewed invasion plans at a hobgoblin fort. Needs review.
 - In [[sessions/session-053|Session 53]], captured orcs in the Mercy say they came from Westmarsh, were ordered to delay the Bonebreakers, and that the first priest kidnapping from the Mercy was also Syndicate work.
+- In [[sessions/session-054|Session 54]], news confirms that the renewed invasion of Westfort has become a siege. Whether the Syndicate directs the siege remains unresolved.
 
 ## Current status
 
-The Syndicate is still active. It loses money and Arthur as an ally in Session 47, but Ash remains at large and the network is still broad enough to threaten both Westmarsh and the Southlands. Session 53 shows the Syndicate or its allies can still strike at the Mercy and use orc forces to delay the party.
+The Syndicate is still active. It loses money and Arthur as an ally in Session 47, but Ash remains at large and the network is still broad enough to threaten both Westmarsh and the Southlands. Session 53 shows the Syndicate or its allies can still strike at the Mercy and use orc forces to delay the party. The renewed siege of Westfort may be connected to the same network, but that link remains unproven.
 
 ## Consequences
 
@@ -103,9 +106,11 @@ The Syndicate is still active. It loses money and Arthur as an ally in Session 4
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-053|Session 53]]
+- [[sessions/session-054|Session 54]]
 
 ## Loose ends
 
 - Whether Ash really is the Grey Khan remains unresolved.
 - The Syndicate's next move after losing 20,000 gold and Arthur's protection is unresolved.
 - Whether the Session 53 delay order targeted Westfort, the Necropolis, or another objective remains unresolved.
+- Whether the renewed Westfort siege is under Syndicate direction remains unresolved.

@@ -25,11 +25,12 @@ source_sessions:
   - 38
   - 39
   - 40
+  - 54
 ---
 
 ## Overview
 
-The Westfort Garrison is the undermanned military force defending [[locations/world/agria/west-fort|Westfort]] and its crossing into [[locations/world/westmarsh|Westmarsh]].
+The Westfort Garrison is the undermanned military force defending [[locations/world/agria/west-fort|Westfort]] and its crossing into [[locations/world/westmarsh|Westmarsh]]. By [[sessions/session-054|Session 54]], it is holding the settlement through a renewed stalemated siege.
 
 ## Purpose or role
 
@@ -65,10 +66,11 @@ It protects one of Agria's key frontier approaches and becomes central to the sa
 - In [[sessions/session-033|Session 33]], the Bonebreakers arrive to find the fort already damaged by coordinated sabotage.
 - In [[sessions/session-035|Session 35]] and [[sessions/session-036|Session 36]], investigation reveals Vex, Borak, Jeremy, and the Grey Syndicate network.
 - In [[sessions/session-038|Session 38]] through [[sessions/session-040|Session 40]], the garrison prepares for and survives the attempted invasion.
+- In [[sessions/session-054|Session 54]], news from Westfort says the renewed invasion has become a stalemated siege. The enemy is reduced but still has siege engines and includes hobgoblins, goblins, and ogres.
 
 ## Current status
 
-Active, but visibly strained by sabotage, infiltration, and frontier pressure.
+Active and under siege. The garrison is holding, but the outcome remains unresolved.
 
 ## Related sessions
 
@@ -78,8 +80,9 @@ Active, but visibly strained by sabotage, infiltration, and frontier pressure.
 - [[sessions/session-038|Session 38]]
 - [[sessions/session-039|Session 39]]
 - [[sessions/session-040|Session 40]]
+- [[sessions/session-054|Session 54]]
 
 ## Unresolved threads
 
 - Veteran Borak's ultimate fate after his exposure is not shown.
-- The fort survives the immediate war crisis, but the wider Westmarsh threat remains unresolved.
+- The fort survived the first war crisis, but the renewed siege remains unresolved.

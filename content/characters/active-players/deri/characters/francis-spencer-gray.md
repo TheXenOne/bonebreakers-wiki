@@ -15,6 +15,7 @@ source_sessions:
   - 18
   - 46
   - 53
+  - 54
 ---
 
 ## Overview
@@ -46,6 +47,7 @@ Thief.
 - Shares his goals in [[sessions/session-018|Session 18]].
 - Plays major scouting and infiltration roles in the cathedral, Blood Moon, and Westmarsh arcs.
 - In [[sessions/session-053|Session 53]], he is badly injured by zombies in Arch V, tries unsuccessfully to lure the orcs above the Abyss with cooking, questions Kronk after the Mercy counterattack, and orders specialised crossbow bolts by diagram in Barrow Spa.
+- In [[sessions/session-054|Session 54]], he commissions major defences for [[locations/world/agria/southlands/mercy|the Mercy]], including a moat and 30-foot walls, and later plays along with the zombie market in [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]].
 
 ## Relationships
 
@@ -63,3 +65,4 @@ Active.
 - [[sessions/session-041|Session 41]]
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-053|Session 53]]
+- [[sessions/session-054|Session 54]]

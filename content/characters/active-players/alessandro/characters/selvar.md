@@ -15,6 +15,7 @@ source_sessions:
   - 46
   - 51
   - 52
+  - 54
 ---
 
 ## Overview
@@ -46,6 +47,7 @@ Needs review.
 - Continues with the party through [[sessions/session-046|Session 46]].
 - In [[sessions/session-051|Session 51]], he discovers during an ochre jelly fight that his newly worn ancient imperial armour is cursed and worsens his protection.
 - In [[sessions/session-052|Session 52]], he is caught in the Bloated One's necrotic explosion, though Micaelis and Steve suffer the worst of the rotting disease.
+- In [[sessions/session-054|Session 54]], he finishes reading the [[items/party-inventory/manual-of-strength|Manual of Strength]] and gains additional strength.
 
 ## Relationships
 
@@ -53,7 +55,7 @@ Needs review.
 
 ## Current status
 
-Active. Selvar is currently affected by the cursed ancient imperial armour.
+Active. Selvar is currently affected by the cursed ancient imperial armour and has gained strength from the Manual of Strength.
 
 ## Related sessions
 
@@ -63,3 +65,4 @@ Active. Selvar is currently affected by the cursed ancient imperial armour.
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-051|Session 51]]
 - [[sessions/session-052|Session 52]]
+- [[sessions/session-054|Session 54]]

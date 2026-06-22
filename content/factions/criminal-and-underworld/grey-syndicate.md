@@ -28,6 +28,7 @@ source_sessions:
   - 46
   - 47
   - 53
+  - 54
 ---
 
 ## Overview
@@ -76,7 +77,7 @@ The Syndicate is the main hidden enemy behind the Westfort sabotage arc and late
 
 ## Current status
 
-Active and still dangerous, despite losing money and Arthur's freedom in Session 47. The Syndicate now appears to have used orc forces against the Mercy at least twice, though the chain of command behind those raids remains unclear.
+Active and still dangerous, despite losing money and Arthur's freedom in Session 47. The Syndicate now appears to have used orc forces against the Mercy at least twice, though the chain of command behind those raids remains unclear. The renewed siege of Westfort is also active by Session 54, but whether the Syndicate directs it remains unproven.
 
 ## Related sessions
 
@@ -95,3 +96,4 @@ Active and still dangerous, despite losing money and Arthur's freedom in Session
 - Whether Ash truly is the Grey Khan remains unresolved.
 - The Syndicate's full leadership, reach, and long-term goals are still only partly known.
 - Whether the orc delay order was meant to keep the Bonebreakers away from Westfort, the Necropolis, or something else remains unresolved.
+- Whether the renewed Westfort siege is a Syndicate operation, a surviving Westmarsh military effort, or both remains unresolved.

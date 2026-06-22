@@ -22,12 +22,14 @@ related_sessions:
   - 51
   - 52
   - 53
+  - 54
 related_locations:
   - The Mercy
   - Necropolis
   - Arch VII
   - Arch V
   - Arch VI
+  - Arch IV
   - The Abyss
 related_npcs:
   - Cornelius Vane
@@ -51,13 +53,14 @@ source_sessions:
   - 51
   - 52
   - 53
+  - 54
 ---
 
 ## Overview
 
 The party discovers that a section of the legendary [[locations/world/westmarsh/necropolis|Necropolis]] can be reached from beneath [[locations/world/agria/southlands/mercy|the Mercy]]. After resolving the immediate danger in [[locations/world/agria/southlands/ikiria/plats|the Plats]], the Bonebreakers return below, beginning a renewed Necropolis arc focused on purging undead, seeking treasure, and mapping the ruin's larger structure.
 
-The renewed delve has widened the Necropolis from a buried dungeon into a half-understood civic ruin. [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]] appears to connect the [[locations/world/westmarsh/necropolis#The Nexus|Nexus]] to a western exterior gate, while [[locations/world/westmarsh/necropolis/arch-v|Arch V]] has revealed an undead restoration district with labourers, foremen, children's quarters, a schoolroom, hidden maintenance routes, and orders stretching back more than 2,000 years. Their push through Arch V has now killed [[npcs/necropolis/the-bloated-one|the Bloated One]] and recovered new evidence about the district's administration.
+The renewed delve has widened the Necropolis from a buried dungeon into a half-understood civic ruin. [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]] appears to connect the [[locations/world/westmarsh/necropolis#The Nexus|Nexus]] to a western exterior gate, while [[locations/world/westmarsh/necropolis/arch-v|Arch V]] has revealed an undead restoration district with labourers, foremen, children's quarters, a schoolroom, hidden maintenance routes, and orders stretching back more than 2,000 years. Their push through Arch V has killed [[npcs/necropolis/the-bloated-one|the Bloated One]] and recovered new evidence about the district's administration. In [[sessions/session-054|Session 54]], the party begins exploring [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]], finding a damp lichen-covered route and a zombie market that still yields real treasure.
 
 ## How it began
 
@@ -89,10 +92,11 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 - After the party rests at the Mercy, Ulrich cures Steve and Micaelis of the Bloated One's rotting disease.
 - Barny researches the Mercy's history and confirms that the Abyss predates the cathedral and the stairway built over it.
 - The party suspects something from the Necropolis may have possessed or corrupted the Crimson Bishop, but this remains unproven.
+- In [[sessions/session-054|Session 54]], the party enters Arch IV, finds a damp lichen-covered hall and zombie market street, and receives gems worth 380 gold pieces from a zombie merchant after Steve pays two gold pieces.
 
 ## Current status
 
-Active as the current major arc. Arch VII has been explored in depth, Arch VI now appears to be the western outer entrance, and Arch V has opened onto an undead restoration district whose central figure, the Bloated One, is now dead. Steve and Micaelis have been cured of the Bloated One's rotting disease, while the larger unresolved questions now centre on [[npcs/necropolis/the-tribune|the Tribune]], the annual inspection system, the false Barnys, the deeper purpose of the restoration works, and the possible link between the Necropolis and the Crimson Bishop.
+Active as the current major arc. Arch VII has been explored in depth, Arch VI now appears to be the western outer entrance, Arch V has opened onto an undead restoration district whose central figure, the Bloated One, is now dead, and Arch IV has begun to reveal a damp market district or market-like ruin. Steve and Micaelis have been cured of the Bloated One's rotting disease, while the larger unresolved questions now centre on [[npcs/necropolis/the-tribune|the Tribune]], the annual inspection system, the false Barnys, the deeper purpose of the restoration works, the rules of Arch IV's zombie market, and the possible link between the Necropolis and the Crimson Bishop.
 
 ## Consequences
 
@@ -102,6 +106,7 @@ Active as the current major arc. Arch VII has been explored in depth, Arch VI no
 - The Bloated One's death may affect the undead restoration works, but the party does not yet know how.
 - The Tribune is now a named authority or subject of secrecy within the restoration system, though the party does not yet know what it is.
 - The Nexus eye-buttons have been removed, leaving their full purpose unresolved.
+- Arch IV shows that the Necropolis may preserve social routines as well as labour systems, with zombie merchants still acting out market transactions.
 
 ## Related characters and NPCs
 
@@ -116,6 +121,7 @@ Active as the current major arc. Arch VII has been explored in depth, Arch VI no
 
 - [[locations/world/agria/southlands/mercy|The Mercy]]
 - [[locations/world/westmarsh/necropolis|Necropolis]]
+- [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]]
 - [[locations/world/westmarsh/necropolis/arch-v|Arch V]]
 - [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]]
 - [[locations/world/agria/southlands/the-abyss|The Abyss]]
@@ -138,6 +144,7 @@ Active as the current major arc. Arch VII has been explored in depth, Arch VI no
 - [[sessions/session-051|Session 51]]
 - [[sessions/session-052|Session 52]]
 - [[sessions/session-053|Session 53]]
+- [[sessions/session-054|Session 54]]
 
 ## Loose ends
 
@@ -153,3 +160,4 @@ Active as the current major arc. Arch VII has been explored in depth, Arch VI no
 - The unexplained sun drawing in the schoolroom remains unresolved.
 - The Arch V shrine locket's family and purpose remain unresolved.
 - The connection between the Abyss, the Crimson Bishop, and the Necropolis remains unresolved.
+- The purpose and rules of Arch IV's zombie market remain unresolved.

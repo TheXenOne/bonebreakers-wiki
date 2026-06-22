@@ -16,6 +16,7 @@ Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still s
 - [[quests/major/active/grey-syndicate-conspiracy|Grey Syndicate Conspiracy]]
 - [[quests/major/active/prince-arthur-and-the-grey-khan|Prince Arthur and the Grey Khan]]
 - [[quests/major/active/necropolis-beneath-the-mercy|Necropolis Beneath the Mercy]]
+- [[quests/major/active/renewed-siege-of-westfort|Renewed Siege of Westfort]]
 
 ### Completed Threads
 

@@ -18,3 +18,5 @@ tags:
 - [[characters/active-players/john|John]]
 - [[characters/active-players/jennifer|Jennifer]]
 - [[characters/active-players/david|David]]
+- [[characters/active-players/marie|Marie]]
+- [[characters/active-players/valerio|Valerio]]

@@ -23,6 +23,7 @@ source_sessions:
   - 45
   - 51
   - 53
+  - 54
 ---
 
 ## Overview
@@ -40,6 +41,7 @@ The cathedral later became the Church of the Crimson Flame and fell into corrupt
 - Later exploration reveals a poisoned well, [[locations/world/agria/southlands/the-abyss|the Abyss]], and a route into [[locations/world/westmarsh/necropolis|the Necropolis]].
 - By [[sessions/session-051|Session 51]], the party has commissioned a hatch or abyss door to cover the basement opening and stores its pre-imperial coin cache in the cathedral vault.
 - In [[sessions/session-053|Session 53]], that trapdoor cannot be opened from below, briefly trapping the party while Grey Syndicate-linked orcs occupy the nave above.
+- In [[sessions/session-054|Session 54]], Frank commissions a moat around the Mercy and has the walls raised to 30 feet after the site's repeated attacks.
 
 ## Notable sublocations
 
@@ -50,6 +52,7 @@ The cathedral later became the Church of the Crimson Flame and fell into corrupt
 - [[locations/world/agria/southlands/the-abyss|The Abyss]]
 - Poisoned well
 - Cathedral vault
+- New moat and raised 30-foot walls
 
 ## Associated people and groups
 
@@ -67,6 +70,8 @@ The cathedral later became the Church of the Crimson Flame and fell into corrupt
 - In [[sessions/session-051|Session 51]], the party returns from Ikiria, secures its pre-imperial coins in the cathedral vault, and descends again into the Necropolis.
 - In [[sessions/session-053|Session 53]], orcs linked to the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]] imprison the Mercy's inhabitants until the Bonebreakers escape the Abyss stairwell, defeat the attackers, and free the prisoners.
 - Barny's library research confirms that the Abyss predates the cathedral, and that the original Bahal worshippers built a basement stairway over it because they feared it and believed it held power.
+- In [[sessions/session-054|Session 54]], the Bonebreakers hold a wake and ceremony for [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran "The Wolf"]] after his death on the road, and plan to commission a statue in his honour.
+- Frank commissions new defensive works: a moat and walls raised to 30 feet.
 
 ## Related sessions
 
@@ -79,9 +84,11 @@ The cathedral later became the Church of the Crimson Flame and fell into corrupt
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-051|Session 51]]
 - [[sessions/session-053|Session 53]]
+- [[sessions/session-054|Session 54]]
 
 ## Unresolved threads or mysteries
 
 - The exact relationship between the Mercy, [[locations/world/agria/southlands/the-abyss|the Abyss]], and [[locations/world/westmarsh/necropolis|the Necropolis]] remains only partly understood.
 - Plague, unrest, and questions around Arden's leadership remain unresolved.
 - The party suspects the Crimson Bishop may have been possessed or corrupted by something from below, but this remains unproven.
+- The exact timing and completion state of the moat, raised walls, and Bran statue remain unclear.

@@ -9,4 +9,4 @@ aliases:
 
 ## Ben L's Retainers & Followers
 
-- [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran "The Wolf"]]
+- [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran "The Wolf"]] (dead)

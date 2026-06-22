@@ -8,7 +8,7 @@ tags:
 aliases:
   - Westmarsh hobgoblins
   - factions/military-and-orders/hobgoblins-of-westmarsh
-status: broken
+status: active
 primary_location: Westmarsh
 notable_members:
   - Crowned hobgoblin officer
@@ -25,11 +25,12 @@ source_sessions:
   - 39
   - 40
   - 46
+  - 54
 ---
 
 ## Overview
 
-The hobgoblins of Westmarsh are the clearest organised monster army shown in the Westfort arc. They oversee mining and weapons production, hire mercenaries, and form the core of the invasion force aimed at [[locations/world/agria/west-fort|Westfort]].
+The hobgoblins of Westmarsh are the clearest organised monster army shown in the Westfort arc. They oversee mining and weapons production, hire mercenaries, and form the core of the invasion force aimed at [[locations/world/agria/west-fort|Westfort]]. Although the original invasion force was broken, hobgoblins are still present in the renewed siege reported in [[sessions/session-054|Session 54]].
 
 ## Purpose or role
 
@@ -65,10 +66,11 @@ They function as the main military organisers of the western invasion effort rat
 - In [[sessions/session-037|Session 37]], the mine and market rumours reveal that hobgoblins are hiring mercenaries and feeding a larger war effort.
 - In [[sessions/session-038|Session 38]], the Bonebreakers raid the invasion fort and discover large-scale plans against Agria.
 - In [[sessions/session-039|Session 39]] and [[sessions/session-040|Session 40]], the resulting invasion force attacks Westfort and is eventually broken.
+- In [[sessions/session-054|Session 54]], news from Westfort says the renewed siege still includes hobgoblins, along with goblins, ogres, and siege engines.
 
 ## Current status
 
-Broken as a major invasion force after the Westfort campaign. Surviving remnants and leadership: Needs review.
+Active in reduced form. The original invasion force was broken, but hobgoblins remain part of the renewed siege of Westfort. Surviving leadership and exact command structure: Needs review.
 
 ## Related sessions
 
@@ -78,8 +80,10 @@ Broken as a major invasion force after the Westfort campaign. Surviving remnants
 - [[sessions/session-039|Session 39]]
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-054|Session 54]]
 
 ## Unresolved threads
 
 - Who ultimately directed the hobgoblin war effort remains unclear.
-- The surviving strength of their forces after the failed invasion is unknown.
+- The surviving strength and leadership of their forces after the failed invasion are still unclear.
+- Their exact role in the renewed siege of Westfort remains unresolved.
