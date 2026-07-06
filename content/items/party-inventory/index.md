@@ -12,6 +12,7 @@ This page tracks notable Bonebreaker-held items, including both shared gear and 
 - [[items/party-inventory/age-reading-enchanted-gloves|Age-Reading Enchanted Gloves]]
 - [[items/party-inventory/amulet-of-protection-against-scrying|Amulet of Protection Against Scrying]]
 - [[items/party-inventory/asclepeion-map|Asclepeion Map]]
+- [[items/party-inventory/arch-iv-sunken-market-map|Arch IV Sunken Market Map]]
 - [[items/party-inventory/arch-v-necropolis-map|Arch V Necropolis Map]]
 - [[items/party-inventory/arch-v-iron-key|Arch V Iron Key]]
 - [[items/party-inventory/arch-v-shrine-locket|Arch V Shrine Locket]]

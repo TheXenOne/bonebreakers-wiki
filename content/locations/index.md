@@ -51,3 +51,4 @@ tags:
 - [[locations/world/westmarsh/hobgoblin-mine|The Hobgoblin Mine]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 - [[locations/world/westmarsh/necropolis|The Necropolis]]
+- [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|The Sunken Market]]

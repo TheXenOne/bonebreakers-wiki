@@ -60,3 +60,4 @@ Published session pages:
 - [[sessions/session-052|Session 52 - The Bloated One]]
 - [[sessions/session-053|Session 53 - Orcs Above, Dead Below]]
 - [[sessions/session-054|Session 54 - The Last Charge of Bran]]
+- [[sessions/session-055|Session 55 - Ambush at the Counting House]]

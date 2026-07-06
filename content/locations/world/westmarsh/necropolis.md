@@ -23,6 +23,7 @@ source_sessions:
   - 52
   - 53
   - 54
+  - 55
 ---
 
 ## Overview
@@ -51,7 +52,7 @@ Pressing the eagle's gemstone eyes causes ash-like curtains across the arches to
 - [[locations/world/westmarsh/necropolis/arch-i|Arch I]]: A dark view of a buried city street with marching sounds. Skeletons emerge from this arch when the Nexus is first activated.
 - [[locations/world/westmarsh/necropolis/arch-ii|Arch II]]: A narrow corridor carved with reliefs that appear to record family histories or ancestral lines.
 - [[locations/world/westmarsh/necropolis/arch-iii|Arch III]]: A violet-lit, incense-scented passage whose visible mosaic shows the rise of the empire and gods giving fire to humanity.
-- [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]]: A damp, lichen-covered route leading to a dead market street where zombies act out the motions of trade and can still hand over real treasure.
+- [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]]: A damp, lichen-covered route leading to the [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|Sunken Market]], where zombie merchants still trade, flooded routes are marked on a recovered map, and new hazards include serpents, snake-men, and dark druids of the Deep One.
 - [[locations/world/westmarsh/necropolis/arch-v|Arch V]]: A dry, dusty underground boulevard lined with old homes, zombie labourers, looping streets, the children's quarters, and endless restoration work tied to [[npcs/necropolis/the-bloated-one|the Bloated One]].
 - [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]]: A smoky corridor sloping upward to a storm-lashed gatehouse and outer wall. Cornelius Vane says this was his route in from Westmarsh, and the Bonebreakers' exploration supports that account.
 - [[locations/world/westmarsh/necropolis/arch-vii|Arch VII]]: A flickering arch showing a stone-cutting or construction area. This is the only arch the Bonebreakers have explored in depth.
@@ -89,6 +90,7 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - In [[sessions/session-052|Session 52]], the party explores the [[locations/world/westmarsh/necropolis/arch-v/childrens-quarters|Arch V children's quarters]], breaks a looping street, reads the [[items/bloated-one-work-ledger|Bloated One work ledger]], kills the Bloated One, and suffers a necrotic disease when it explodes.
 - In [[sessions/session-053|Session 53]], the party destroys the zombies that arrived after the Bloated One's death, finds a sash naming the Bloated One Senior Administrator of Residential District V, recovers a hidden locket and holy water from the Arch V shrine, and later learns that the Abyss predates the cathedral above it.
 - In [[sessions/session-054|Session 54]], the party enters [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]], finds a damp lichen-covered hall and a market street of zombie merchants, and obtains gems worth 380 gold pieces through a strange transaction.
+- In [[sessions/session-055|Session 55]], the party identifies the area as the [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|Sunken Market]], recovers the [[items/party-inventory/arch-iv-sunken-market-map|Arch IV Sunken Market Map]] from the counting house, defeats serpents and snake-men, and encounters [[factions/religions-and-cults/dark-druids-of-the-deep-one|dark druids of the Deep One]].
 
 ## Related sessions
 
@@ -107,6 +109,7 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - [[sessions/session-052|Session 52]]
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-054|Session 54]]
+- [[sessions/session-055|Session 55]]
 
 ## Unresolved threads or mysteries
 
@@ -120,5 +123,7 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - The hidden shrine locket's family and purpose remain unidentified.
 - The Nexus eye-buttons have been removed, but their full function is still unclear.
 - Evidence suggests the Necropolis may be connected to the Crimson Bishop's corruption, but this is not proven.
-- The zombie market in Arch IV can apparently produce real treasure, but its rules and risks remain unclear.
 - Exact event attribution between [[sessions/session-042|Session 42]] and [[sessions/session-043|Session 43]] needs review.
+- The Sunken Market in Arch IV can apparently produce real goods and treasure, but its rules and risks remain unclear.
+- The Sunken Market map marks flooded routes, a dangerous channel after dark, fishermen's quarters, and something in the sump that is not a fish.
+- The dark druids of the Deep One are active inside Arch IV, but their origin and purpose remain unknown.

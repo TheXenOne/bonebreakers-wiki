@@ -23,6 +23,7 @@ related_sessions:
   - 52
   - 53
   - 54
+  - 55
 related_locations:
   - The Mercy
   - Necropolis
@@ -30,6 +31,7 @@ related_locations:
   - Arch V
   - Arch VI
   - Arch IV
+  - Sunken Market
   - The Abyss
 related_npcs:
   - Cornelius Vane
@@ -40,6 +42,7 @@ related_npcs:
   - Crimson Bishop
 related_factions:
   - Bonebreakers
+  - Dark Druids of the Deep One
 source_sessions:
   - 41
   - 42
@@ -54,13 +57,14 @@ source_sessions:
   - 52
   - 53
   - 54
+  - 55
 ---
 
 ## Overview
 
 The party discovers that a section of the legendary [[locations/world/westmarsh/necropolis|Necropolis]] can be reached from beneath [[locations/world/agria/southlands/mercy|the Mercy]]. After resolving the immediate danger in [[locations/world/agria/southlands/ikiria/plats|the Plats]], the Bonebreakers return below, beginning a renewed Necropolis arc focused on purging undead, seeking treasure, and mapping the ruin's larger structure.
 
-The renewed delve has widened the Necropolis from a buried dungeon into a half-understood civic ruin. [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]] appears to connect the [[locations/world/westmarsh/necropolis#The Nexus|Nexus]] to a western exterior gate, while [[locations/world/westmarsh/necropolis/arch-v|Arch V]] has revealed an undead restoration district with labourers, foremen, children's quarters, a schoolroom, hidden maintenance routes, and orders stretching back more than 2,000 years. Their push through Arch V has killed [[npcs/necropolis/the-bloated-one|the Bloated One]] and recovered new evidence about the district's administration. In [[sessions/session-054|Session 54]], the party begins exploring [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]], finding a damp lichen-covered route and a zombie market that still yields real treasure.
+The renewed delve has widened the Necropolis from a buried dungeon into a half-understood civic ruin. [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]] appears to connect the [[locations/world/westmarsh/necropolis#The Nexus|Nexus]] to a western exterior gate, while [[locations/world/westmarsh/necropolis/arch-v|Arch V]] has revealed an undead restoration district with labourers, foremen, children's quarters, a schoolroom, hidden maintenance routes, and orders stretching back more than 2,000 years. Their push through Arch V has killed [[npcs/necropolis/the-bloated-one|the Bloated One]] and recovered new evidence about the district's administration. [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]] now opens onto the [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|Sunken Market]], a flooded market district where zombie merchants still trade, serpent pools punish broken routines, snake-men defend or patrol the counting house, and [[factions/religions-and-cults/dark-druids-of-the-deep-one|dark druids of the Deep One]] move through the stalls.
 
 ## How it began
 
@@ -93,10 +97,15 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 - Barny researches the Mercy's history and confirms that the Abyss predates the cathedral and the stairway built over it.
 - The party suspects something from the Necropolis may have possessed or corrupted the Crimson Bishop, but this remains unproven.
 - In [[sessions/session-054|Session 54]], the party enters Arch IV, finds a damp lichen-covered hall and zombie market street, and receives gems worth 380 gold pieces from a zombie merchant after Steve pays two gold pieces.
+- In [[sessions/session-055|Session 55]], the party learns more of the market's rules through strange transactions, including imaginary payment, a real imperial coin given as change, valuable instruments, ancient wine, a reserved carved mask, and imperial crystal vials.
+- Arden's destruction of a zombie merchant triggers a serpent attack from nearby pools, showing that the market can respond violently when its routines are broken.
+- Paul finds the [[items/party-inventory/arch-iv-sunken-market-map|Arch IV Sunken Market Map]] hidden in a counting-house chest, naming the [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|Sunken Market]] and marking flooded routes, fishermen's quarters, a dangerous after-dark channel, and a sump containing something that is not a fish.
+- The party kills three snake-men drawn by the noise of smashed chests, but notes that some spells and special attacks have limited effect against them.
+- Steve speaks with [[factions/religions-and-cults/dark-druids-of-the-deep-one|dark druids of the Deep One]] in the chaotic tongue, avoiding an immediate fight but learning they are not from the market and cannot promise safe passage.
 
 ## Current status
 
-Active as the current major arc. Arch VII has been explored in depth, Arch VI now appears to be the western outer entrance, Arch V has opened onto an undead restoration district whose central figure, the Bloated One, is now dead, and Arch IV has begun to reveal a damp market district or market-like ruin. Steve and Micaelis have been cured of the Bloated One's rotting disease, while the larger unresolved questions now centre on [[npcs/necropolis/the-tribune|the Tribune]], the annual inspection system, the false Barnys, the deeper purpose of the restoration works, the rules of Arch IV's zombie market, and the possible link between the Necropolis and the Crimson Bishop.
+Active as the current major arc. Arch VII has been explored in depth, Arch VI now appears to be the western outer entrance, Arch V has opened onto an undead restoration district whose central figure, the Bloated One, is now dead, and Arch IV has revealed the Sunken Market. Steve and Micaelis have been cured of the Bloated One's rotting disease, while the larger unresolved questions now centre on [[npcs/necropolis/the-tribune|the Tribune]], the annual inspection system, the false Barnys, the deeper purpose of the restoration works, the rules of the Sunken Market, the lower floor and reserved mask, the after-dark channel, the sump, the snake-men, the dark druids, and the possible link between the Necropolis and the Crimson Bishop.
 
 ## Consequences
 
@@ -106,7 +115,9 @@ Active as the current major arc. Arch VII has been explored in depth, Arch VI no
 - The Bloated One's death may affect the undead restoration works, but the party does not yet know how.
 - The Tribune is now a named authority or subject of secrecy within the restoration system, though the party does not yet know what it is.
 - The Nexus eye-buttons have been removed, leaving their full purpose unresolved.
-- Arch IV shows that the Necropolis may preserve social routines as well as labour systems, with zombie merchants still acting out market transactions.
+- Arch IV shows that the Necropolis may preserve social and economic routines as well as labour systems, with zombie merchants still acting out market transactions.
+- The Sunken Market map turns Arch IV from a single market street into a larger flooded district with marked routes and hazards.
+- The dark druids introduce the Deep One as a new unresolved religious or supernatural presence inside the Necropolis.
 
 ## Related characters and NPCs
 
@@ -122,6 +133,7 @@ Active as the current major arc. Arch VII has been explored in depth, Arch VI no
 - [[locations/world/agria/southlands/mercy|The Mercy]]
 - [[locations/world/westmarsh/necropolis|Necropolis]]
 - [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]]
+- [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|The Sunken Market]]
 - [[locations/world/westmarsh/necropolis/arch-v|Arch V]]
 - [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]]
 - [[locations/world/agria/southlands/the-abyss|The Abyss]]
@@ -129,6 +141,7 @@ Active as the current major arc. Arch VII has been explored in depth, Arch VI no
 ## Related factions
 
 - [[factions/other/bonebreakers|Bonebreakers]]
+- [[factions/religions-and-cults/dark-druids-of-the-deep-one|Dark Druids of the Deep One]]
 
 ## Related sessions
 
@@ -145,6 +158,7 @@ Active as the current major arc. Arch VII has been explored in depth, Arch VI no
 - [[sessions/session-052|Session 52]]
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-054|Session 54]]
+- [[sessions/session-055|Session 55]]
 
 ## Loose ends
 
@@ -160,4 +174,8 @@ Active as the current major arc. Arch VII has been explored in depth, Arch VI no
 - The unexplained sun drawing in the schoolroom remains unresolved.
 - The Arch V shrine locket's family and purpose remain unresolved.
 - The connection between the Abyss, the Crimson Bishop, and the Necropolis remains unresolved.
-- The purpose and rules of Arch IV's zombie market remain unresolved.
+- The Sunken Market's trade rules remain unresolved.
+- The reserved carved mask, its intended recipient, and the significance of Luthien's accepted descent claim remain unresolved.
+- The after-dark channel and the thing in the sump remain unresolved.
+- The snake-men's role in the market remains unclear.
+- The origin, purpose, and loyalties of the dark druids of the Deep One remain unresolved.

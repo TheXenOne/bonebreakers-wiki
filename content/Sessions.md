@@ -8,4 +8,4 @@ Published session pages are listed at [[sessions/index|Sessions]].
 
 Most recent session:
 
-- [[sessions/session-054|Session 54 - The Last Charge of Bran]]
+- [[sessions/session-055|Session 55 - Ambush at the Counting House]]
