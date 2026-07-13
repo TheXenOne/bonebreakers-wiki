@@ -42,6 +42,7 @@ Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still s
 - [[quests/minor/active/ehecats-vow-against-the-ramen-empire|Ehecat's Vow Against the Ramen Empire]]
 - [[quests/minor/active/grazka-and-the-gnolls-of-westmarsh|Grazka and the Gnolls of Westmarsh]]
 - [[quests/minor/active/the-purified-of-fos-imeras|The Purified of Fos Imeras]]
+- [[quests/minor/active/gryphon-mounts|Gryphon Mounts]]
 
 ### Completed Threads
 

@@ -12,11 +12,12 @@ affiliations:
 source_sessions:
   - 10
   - 11
+  - 56
 ---
 
 ## Overview
 
-Aldrich runs [[locations/world/agria/southlands/barrowshire/barrow-spa/last-chance|the Last Chance]] in Barrow Spa.
+Aldrich runs [[locations/world/agria/southlands/barrowshire/barrow-spa/last-chance|the Last Chance]] in Barrow Spa and repeatedly identifies unusual magical items for the Bonebreakers.
 
 ## Appearance
 
@@ -29,6 +30,7 @@ Scatter-brained and absent-minded.
 ## Role in the campaign
 
 - Aldrich helps identify magical items during the Tarantella and cursed-ring material.
+- In [[sessions/session-056|Session 56]], he identifies several more magical items, including a [[items/party-inventory/ring-of-invisibility|Ring of Invisibility]] and a [[items/party-inventory/venomous-dagger|Venomous Dagger]].
 
 ## Affiliations
 
@@ -46,6 +48,7 @@ Scatter-brained and absent-minded.
 ## Campaign events
 
 - Around [[sessions/session-010|Session 10]] and [[sessions/session-011|Session 11]], Aldrich identifies items and reacts with surprise to Virien's successful reincarnation.
+- In [[sessions/session-056|Session 56]], the party again brings him magical equipment for identification.
 
 ## Current status
 
@@ -55,6 +58,7 @@ Alive.
 
 - [[sessions/session-010|Session 10]]
 - [[sessions/session-011|Session 11]]
+- [[sessions/session-056|Session 56]]
 
 ## Unresolved threads
 

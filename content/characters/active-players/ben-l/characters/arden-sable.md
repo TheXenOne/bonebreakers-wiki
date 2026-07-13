@@ -16,6 +16,7 @@ source_sessions:
   - 26
   - 53
   - 54
+  - 56
 ---
 
 ## Overview
@@ -50,6 +51,7 @@ Cleric of Belenus and Bishop of the Mercy.
 - Helps claim and reshape [[locations/world/agria/southlands/mercy|The Mercy]] in the cathedral arc.
 - In [[sessions/session-053|Session 53]], he destroys zombies with turning magic, tests the Nexus eagle's ruby eye-buttons again, helps hold orcs during the Mercy counterattack, and identifies the hidden Arch V vial as holy water.
 - In [[sessions/session-054|Session 54]], Bran dies covering Arden and Micaelis's retreat from twelve insectoid humanoids. Arden later leads Bran's wake at the Mercy and gains Bran's Heroic Aura as a spell in his honour.
+- In [[sessions/session-056|Session 56]], Arden uses Bran's Heroic Aura to protect the party's final horse during a gryphon ambush, helps blind two attackers, and heals Barny after a near-fatal blow. After the battle, he gives his own dead horse a proper burial.
 
 ## Relationships
 
@@ -69,3 +71,4 @@ Active. Arden remains Bishop of the Mercy and continues with the party in later 
 - [[sessions/session-026|Session 26]]
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-054|Session 54]]
+- [[sessions/session-056|Session 56]]

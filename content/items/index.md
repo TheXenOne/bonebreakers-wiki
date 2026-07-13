@@ -18,5 +18,8 @@ Named magic items, relics, treasures, and notable party-held objects.
 - [[items/party-inventory/arch-v-shrine-locket|Arch V Shrine Locket]]
 - [[items/bloated-one-work-ledger|Bloated One Work Ledger]]
 - [[items/party-inventory/cursed-imperial-armour|Cursed Imperial Armour]]
+- [[items/party-inventory/massive-crossbow|Massive Crossbow]]
 - [[items/party-inventory/necropolis-divine-idols|Necropolis Divine Idols]]
 - [[items/reserved-carved-mask|Reserved Carved Mask]]
+- [[items/party-inventory/ring-of-invisibility|Ring of Invisibility]]
+- [[items/party-inventory/venomous-dagger|Venomous Dagger]]

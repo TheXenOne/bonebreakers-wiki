@@ -21,6 +21,7 @@ source_sessions:
   - 33
   - 40
   - 45
+  - 56
 ---
 
 ## Overview
@@ -54,6 +55,7 @@ Leadership is shared and situational rather than strictly formal.
 - In [[sessions/session-018|Session 18]] to [[sessions/session-022|Session 22]], the Bonebreakers become Agatha's covert agents and reclaim the Mercy.
 - In [[sessions/session-033|Session 33]] through [[sessions/session-040|Session 40]], they become central defenders of Westfort and opponents of the Grey Syndicate.
 - In [[sessions/session-044|Session 44]] to [[sessions/session-046|Session 46]], they hold politically dangerous evidence tied to Prince Arthur and the Syndicate.
+- In [[sessions/session-056|Session 56]], they capture two gryphons after a roadside ambush and commission harnesses and a wagon while exploring the possibility of breeding flying mounts.
 
 ## Current status
 
@@ -67,8 +69,10 @@ Active and increasingly influential.
 - [[sessions/session-033|Session 33]]
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-045|Session 45]]
+- [[sessions/session-056|Session 56]]
 
 ## Unresolved threads
 
 - The company's long-term formal structure, if any, remains loose.
 - Its future relationship with Agatha, Arthur, and the Mercy's growing political weight remains unresolved.
+- Whether its captured gryphons can be safely trained and bred as mounts remains unresolved.

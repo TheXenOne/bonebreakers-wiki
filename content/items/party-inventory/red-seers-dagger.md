@@ -13,11 +13,12 @@ source_sessions:
   - 35
   - 36
   - 41
+  - 56
 ---
 
 ## Overview
 
-The Red Seer's Dagger is a magical dagger first recovered during the [[locations/world/agria/southlands/barrowshire/kelfrek-marsh/shrine-of-the-oozing-serpent|Shrine of the Oozing Serpent]] arc, and it is currently owned by [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]]. It becomes one of his most distinctive scouting tools.
+The Red Seer's Dagger is a magical dagger first recovered during the [[locations/world/agria/southlands/barrowshire/kelfrek-marsh/shrine-of-the-oozing-serpent|Shrine of the Oozing Serpent]] arc. It becomes one of [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]]'s most distinctive scouting tools, but is currently lodged in a gryphon that escaped the party.
 
 ## Known properties
 
@@ -32,10 +33,11 @@ The Red Seer's Dagger is a magical dagger first recovered during the [[locations
 - In [[sessions/session-010|Session 10]], Barny uses it again to spy on a deeper laboratory in the sanctum.
 - In [[sessions/session-035|Session 35]] and [[sessions/session-036|Session 36]], the dagger helps the party track Vex's network and Jeremy's movements.
 - In [[sessions/session-041|Session 41]], Barny uses the dagger on [[characters/active-players/callum/retainers-followers/rattius|Rattius]] to scout the strange spiral descent beneath [[locations/world/agria/southlands/mercy|the Mercy]].
+- In [[sessions/session-056|Session 56]], Barny stabs a gryphon with the dagger. The creature escapes with the blade still lodged in it, leaving Barny able to use its magic to observe the gryphon in the future.
 
 ## Current status
 
-Barny still uses the dagger in later arcs, making it one of the longest-running magical tools in the campaign.
+No longer in Barny's physical possession. The dagger remains lodged in an escaped gryphon, which may still be observed through the weapon's magic.
 
 ## Related sessions
 
@@ -45,3 +47,4 @@ Barny still uses the dagger in later arcs, making it one of the longest-running 
 - [[sessions/session-035|Session 35]]
 - [[sessions/session-036|Session 36]]
 - [[sessions/session-041|Session 41]]
+- [[sessions/session-056|Session 56]]

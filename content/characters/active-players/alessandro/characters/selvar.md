@@ -16,6 +16,7 @@ source_sessions:
   - 51
   - 52
   - 54
+  - 56
 ---
 
 ## Overview
@@ -48,6 +49,7 @@ Needs review.
 - In [[sessions/session-051|Session 51]], he discovers during an ochre jelly fight that his newly worn ancient imperial armour is cursed and worsens his protection.
 - In [[sessions/session-052|Session 52]], he is caught in the Bloated One's necrotic explosion, though Micaelis and Steve suffer the worst of the rotting disease.
 - In [[sessions/session-054|Session 54]], he finishes reading the [[items/party-inventory/manual-of-strength|Manual of Strength]] and gains additional strength.
+- In [[sessions/session-056|Session 56]], he uses Mirror Image during the gryphon ambush, then subdues and binds one gryphon alive for the party's attempted [[quests/minor/active/gryphon-mounts|breeding and training plan]].
 
 ## Relationships
 
@@ -55,7 +57,7 @@ Needs review.
 
 ## Current status
 
-Active. Selvar is currently affected by the cursed ancient imperial armour and has gained strength from the Manual of Strength.
+Active. Selvar is currently affected by the cursed ancient imperial armour, has gained strength from the Manual of Strength, and helped capture one of the party's two living gryphons.
 
 ## Related sessions
 
@@ -66,3 +68,4 @@ Active. Selvar is currently affected by the cursed ancient imperial armour and h
 - [[sessions/session-051|Session 51]]
 - [[sessions/session-052|Session 52]]
 - [[sessions/session-054|Session 54]]
+- [[sessions/session-056|Session 56]]

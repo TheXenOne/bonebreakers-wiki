@@ -13,6 +13,8 @@ source_sessions:
   - 46
   - 52
   - 53
+  - 54
+  - 56
 ---
 
 ## Overview
@@ -40,6 +42,8 @@ Needs review.
 - Formally joins the party in [[sessions/session-046|Session 46]].
 - In [[sessions/session-052|Session 52]], he is caught in the Bloated One's necrotic explosion and becomes one of the two party members worst affected by the rotting disease.
 - In [[sessions/session-053|Session 53]], he helps destroy the zombies after the Bloated One's death, is cured of the rotting disease by Ulrich after the party rests at the Mercy, and later collects a springy spear in Barrow Spa that may let him vault obstacles.
+- In [[sessions/session-054|Session 54]], he fights through the mantid-like ambush and escapes with Arden after Bran's last charge creates an opening.
+- In [[sessions/session-056|Session 56]], he leaps onto a gryphon to fight it at close quarters and is caught with the creatures when Fred casts Web.
 
 ## Relationships
 
@@ -54,3 +58,5 @@ Active. No longer infected by the Bloated One's rotting disease.
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-052|Session 52]]
 - [[sessions/session-053|Session 53]]
+- [[sessions/session-054|Session 54]]
+- [[sessions/session-056|Session 56]]

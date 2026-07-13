@@ -12,6 +12,7 @@ completed_session:
 related_sessions:
   - 47
   - 54
+  - 56
 related_locations:
   - Westfort
   - Invasion Fort
@@ -24,6 +25,7 @@ related_factions:
 source_sessions:
   - 47
   - 54
+  - 56
 ---
 
 ## Overview
@@ -44,10 +46,11 @@ In [[sessions/session-047|Session 47]], a captured Grey Syndicate recruiter warn
 - The enemy force is much reduced from its original strength, but still has siege engines.
 - Known enemy forces include hobgoblins, goblins, and ogres.
 - Barny views the west gate of the siege through the [[items/party-inventory/crystal-ball|crystal ball]] but does not tell the party what he sees.
+- In [[sessions/session-056|Session 56]], the Bonebreakers choose Westfort as their next destination, but a gryphon ambush kills their horses and forces them back to Barrow Spa before they reach the fort.
 
 ## Current status
 
-Active. Westfort is under siege, and the outcome is unresolved.
+Active. Westfort is under siege, and the outcome is unresolved. The Bonebreakers intend to travel there, but their first attempt ends before they reach the fort.
 
 ## Consequences
 
@@ -75,9 +78,11 @@ Active. Westfort is under siege, and the outcome is unresolved.
 
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-054|Session 54]]
+- [[sessions/session-056|Session 56]]
 
 ## Loose ends
 
 - Whether the renewed siege is directed by the Grey Syndicate, surviving hobgoblin command, or another Westmarsh power remains unresolved.
 - What Barny saw at the west gate remains unknown to the party.
 - The siege's immediate military balance and next likely move remain unclear.
+- When and how the Bonebreakers will resume the journey after losing their horses remains unresolved.

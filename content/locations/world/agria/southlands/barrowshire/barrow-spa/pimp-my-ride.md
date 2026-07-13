@@ -10,11 +10,12 @@ parent_location: "[[locations/world/agria/southlands/barrowshire/barrow-spa|Barr
 source_sessions:
   - 4
   - 7
+  - 56
 ---
 
 ## Overview
 
-Pimp My Ride is a carriage customisation shop in [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]]. It is run by Gus and is described as the only service of its kind in the Barony.
+Pimp My Ride is a carriage customisation and harness shop in [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]]. It is run by [[npcs/barrowshire/barrow-spa-locals/gus|Gus]] and is described as the only service of its kind in the Barony. The shop now matters to the party's attempt to contain and handle two captured gryphons.
 
 ## Geography or layout
 
@@ -30,12 +31,14 @@ Pimp My Ride is a carriage customisation shop in [[locations/world/agria/southla
 
 - In [[sessions/session-004|Session 4]], the Bonebreakers commission Gus to repaint their cart black with red lettering before the marsh expedition.
 - In [[sessions/session-007|Session 7]], the party later collects the decorated cart and horses.
+- In [[sessions/session-056|Session 56]], the Bonebreakers commission Gus to build secure gryphon harnesses and a new wagon decorated with Bonebreaker motifs.
 
 ## Related sessions
 
 - [[sessions/session-004|Session 4]]
 - [[sessions/session-007|Session 7]]
+- [[sessions/session-056|Session 56]]
 
 ## Unresolved threads or mysteries
 
-- Needs review.
+- Whether the gryphon harnesses and decorated wagon are complete, and what they cost: Needs review.

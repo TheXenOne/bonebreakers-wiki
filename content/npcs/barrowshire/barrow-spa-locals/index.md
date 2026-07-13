@@ -17,6 +17,7 @@ source_sessions:
   - 10
   - 11
   - 45
+  - 56
 ---
 
 ## Overview
@@ -70,6 +71,7 @@ This page groups the recurring named proprietors and civic figures most strongly
 - The campaign opens around these businesses in [[sessions/session-001|Session 1]].
 - Aldrich and Judas become especially relevant during the cursed rings and resurrection episodes around [[sessions/session-010|Session 10]] and [[sessions/session-011|Session 11]].
 - Ruby later advises the party on imperial coinage in [[sessions/session-044|Session 44]].
+- In [[sessions/session-056|Session 56]], Aldrich identifies new magical equipment while Gus accepts commissions for gryphon harnesses and a Bonebreaker-decorated wagon.
 
 ## Current status
 
@@ -84,6 +86,7 @@ Recurring town fixtures in Barrow Spa.
 - [[sessions/session-010|Session 10]]
 - [[sessions/session-011|Session 11]]
 - [[sessions/session-044|Session 44]]
+- [[sessions/session-056|Session 56]]
 
 ## Unresolved threads
 

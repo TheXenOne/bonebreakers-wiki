@@ -18,6 +18,8 @@ source_sessions:
   - 52
   - 53
   - 54
+  - 55
+  - 56
 ---
 
 ## Overview
@@ -52,6 +54,8 @@ Barbarian.
 - In [[sessions/session-052|Session 52]], Steve breaks the Arch V looping-street magic with a symmetrical floor arrow, helps kill the Bloated One, and is badly affected by the creature's necrotic death burst.
 - In [[sessions/session-053|Session 53]], Steve finds the Bloated One's Senior Administrator sash, pries the Nexus eagle's ruby eye-buttons out for loot, insults the orcs through the Abyss trapdoor, kills surviving orc prisoners during Frank's questioning, and is cured of the rotting disease by Ulrich after the party rests at the Mercy.
 - In [[sessions/session-054|Session 54]], Steve finishes reading the [[items/party-inventory/manual-of-strength|Manual of Strength]] and gains additional strength. He also plays along with a zombie merchant in [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]], paying two gold pieces and receiving gems worth 380 gold pieces.
+- In [[sessions/session-055|Session 55]], Steve smashes open the counting-house chests, helps fight the snake-men, and uses the chaotic tongue to prevent an immediate confrontation with the dark druids.
+- In [[sessions/session-056|Session 56]], he buys a [[items/party-inventory/massive-crossbow|massive crossbow]] that hits hard but is slow to use.
 
 ## Relationships
 
@@ -59,7 +63,7 @@ Barbarian.
 
 ## Current status
 
-Active. No longer infected by the Bloated One's rotting disease and stronger after completing the Manual of Strength.
+Active. No longer infected by the Bloated One's rotting disease, stronger after completing the Manual of Strength, and equipped with a massive crossbow.
 
 ## Related sessions
 
@@ -71,3 +75,5 @@ Active. No longer infected by the Bloated One's rotting disease and stronger aft
 - [[sessions/session-052|Session 52]]
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-054|Session 54]]
+- [[sessions/session-055|Session 55]]
+- [[sessions/session-056|Session 56]]

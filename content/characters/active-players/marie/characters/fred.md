@@ -8,6 +8,8 @@ player: Marie
 status: active
 source_sessions:
   - 54
+  - 55
+  - 56
 ---
 
 ## Overview
@@ -37,6 +39,8 @@ Needs review.
 
 - Joins the party in [[sessions/session-054|Session 54]].
 - Dies in the road fight against twelve insectoid humanoids and is resurrected after Bran's sacrifice lets the survivors escape with his body.
+- In [[sessions/session-055|Session 55]], he is dragged underwater by a pool serpent, falls unconscious, and later webs the snake-men in the Sunken Market counting house.
+- In [[sessions/session-056|Session 56]], he traps four gryphons and Micaelis in a Web, then lands the final blow against one of the trapped attackers.
 
 ## Relationships
 
@@ -49,3 +53,5 @@ Active after resurrection and recovery.
 ## Related sessions
 
 - [[sessions/session-054|Session 54]]
+- [[sessions/session-055|Session 55]]
+- [[sessions/session-056|Session 56]]

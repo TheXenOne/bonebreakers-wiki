@@ -19,6 +19,7 @@ source_sessions:
   - 45
   - 47
   - 54
+  - 56
 ---
 
 ## Overview
@@ -56,6 +57,7 @@ Westfort is a frontier settlement on Agria's western edge, guarding the crossing
 - [[sessions/session-038|Session 38]] through [[sessions/session-040|Session 40]] cover the invasion threat, counterattack, and rescue of the kidnapped children.
 - In [[sessions/session-047|Session 47]], the party returns with fresh warning of renewed preparations at the invasion fort, only to find the garrison short on prison space and still under strain.
 - In [[sessions/session-054|Session 54]], Ulrich hears that the renewed invasion has become a siege. The enemy force is reduced from its earlier strength but still has siege engines and includes hobgoblins, goblins, and ogres.
+- In [[sessions/session-056|Session 56]], the Bonebreakers choose Westfort as their next destination, but a gryphon ambush kills their horses and forces them back to Barrow Spa before they arrive.
 
 ## Related sessions
 
@@ -67,7 +69,9 @@ Westfort is a frontier settlement on Agria's western edge, guarding the crossing
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-054|Session 54]]
+- [[sessions/session-056|Session 56]]
 
 ## Unresolved threads or mysteries
 
 - Westfort survives the first invasion threat, but the renewed siege is active and unresolved.
+- The Bonebreakers intend to return, but their journey has been delayed by the loss of their horses.
