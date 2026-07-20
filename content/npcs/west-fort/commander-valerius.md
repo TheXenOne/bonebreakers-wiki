@@ -17,6 +17,7 @@ source_sessions:
   - 39
   - 40
   - 47
+  - 57
 ---
 
 ## Overview
@@ -55,10 +56,11 @@ Cynical, seasoned, and authoritative.
 - From [[sessions/session-033|Session 33]] through [[sessions/session-040|Session 40]], Valerius repeatedly receives reports, prisoners, and strategic outcomes from the party, including the recovered garrison weapons, captured conspirators, and warning of the imminent siege.
 - During the Westfort crisis, he prepares the fort for war and asks the party to find the kidnapped children while he handles the military response.
 - In [[sessions/session-047|Session 47]], he receives warning of renewed invasion preparations and sharply rebukes Steve after Steve kills prisoners to clear cell space.
+- In [[sessions/session-057|Session 57]], Valerius tells the party the western bridge is a no-man's land and the siege is stalemated while nightly goblin raids threaten Westfort's food. He confers with Captain Rodrick over the hobgoblins' demand for the Bonebreakers' surrender.
 
 ## Current status
 
-Alive.
+Alive and commanding Westfort during the renewed siege.
 
 ## Related sessions
 
@@ -69,7 +71,8 @@ Alive.
 - [[sessions/session-039|Session 39]]
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-047|Session 47]]
+- [[sessions/session-057|Session 57]]
 
 ## Unresolved threads
 
-- Renewed but reduced invasion preparations remain a live concern after Session 47.
+- The renewed siege and the secret surrender demand remain unresolved.

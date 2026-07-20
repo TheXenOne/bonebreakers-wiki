@@ -26,7 +26,7 @@ The final confrontation begins when Gruumsh and his remaining elite fighters pus
 - The party buys wine casks and prepares a tribute ploy.
 - Luthien's attempt to bluff Gruumsh with gifts fails.
 - Frank scouts the shrine and maps the enemy positions.
-- Frank finds automaton parts and power cores inside the complex.
+- Frank finds automaton parts and [[items/party-inventory/gnomish-power-cores|power cores]] inside the complex.
 - The Bonebreakers set traps and begin a night assault.
 - Sleep, Hold Person, and other control magic help wipe out much of the warband.
 - The captured priests are freed and moved to safety.
@@ -60,7 +60,7 @@ The final confrontation begins when Gruumsh and his remaining elite fighters pus
 
 ## Items, magic, and discoveries
 
-- Frank recovers two gnomish power cores, six automaton arms, and two automaton eyes.
+- Frank recovers two [[items/party-inventory/gnomish-power-cores|gnomish power cores]], six automaton arms, and two automaton eyes.
 - Ulrich creates a grease trap using Sootmurk residue.
 - The party captures 15,000 gold pieces from the ransom arrangement and additional treasure from the shrine.
 - Church trinkets worth 2,500 gold pieces are recovered.

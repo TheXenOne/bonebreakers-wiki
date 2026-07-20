@@ -20,17 +20,19 @@ source_sessions:
   - 47
   - 54
   - 56
+  - 57
 ---
 
 ## Overview
 
-Westfort is a frontier settlement on Agria's western edge, guarding the crossing into [[locations/world/westmarsh|Westmarsh]]. It combines an old stone stronghold with later wooden reinforcement and houses both civilians and an undermanned garrison. By [[sessions/session-054|Session 54]], renewed invasion pressure has become a stalemated siege.
+Westfort is a frontier settlement on Agria's western edge, guarding the crossing into [[locations/world/westmarsh|Westmarsh]]. It combines an old stone stronghold with later wooden reinforcement and houses both civilians and an undermanned garrison. The renewed siege has badly damaged its palisades, turned the western bridge into a no-man's land, and exposed its food supply to nightly goblin raids.
 
 ## Geography and layout
 
 - The fort controls the bridge over the [[locations/world/agria/west-flow-river|West Flow River]] at the [[locations/world/westmarsh|Westmarsh]] frontier crossing once known as West Ford.
 - Much of the oldest stonework is ancient and partly buried.
 - By the time the Bonebreakers arrive, sabotage has already burned the granary, poisoned the water, and stripped the armoury.
+- During the renewed siege, large holes in the eastern palisade are patched with wagons, carts, and other available materials.
 
 ## Notable sublocations
 
@@ -58,6 +60,7 @@ Westfort is a frontier settlement on Agria's western edge, guarding the crossing
 - In [[sessions/session-047|Session 47]], the party returns with fresh warning of renewed preparations at the invasion fort, only to find the garrison short on prison space and still under strain.
 - In [[sessions/session-054|Session 54]], Ulrich hears that the renewed invasion has become a siege. The enemy force is reduced from its earlier strength but still has siege engines and includes hobgoblins, goblins, and ogres.
 - In [[sessions/session-056|Session 56]], the Bonebreakers choose Westfort as their next destination, but a gryphon ambush kills their horses and forces them back to Barrow Spa before they arrive.
+- In [[sessions/session-057|Session 57]], they arrive on foot and find the siege threatening the town's food supply. Hobgoblin envoys demand the party's surrender for a one-year truce; the Bonebreakers refuse, ambush the nightly raiders, and leave to block their southern mountain route.
 
 ## Related sessions
 
@@ -70,8 +73,10 @@ Westfort is a frontier settlement on Agria's western edge, guarding the crossing
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-056|Session 56]]
+- [[sessions/session-057|Session 57]]
 
 ## Unresolved threads or mysteries
 
 - Westfort survives the first invasion threat, but the renewed siege is active and unresolved.
-- The Bonebreakers intend to return, but their journey has been delayed by the loss of their horses.
+- One southern raiding route has been blocked, but whether this will stop the attacks or materially change the siege remains unresolved.
+- The people of Westfort do not know about the offer to trade the Bonebreakers for a one-year truce.

@@ -62,3 +62,4 @@ Published session pages:
 - [[sessions/session-054|Session 54 - The Last Charge of Bran]]
 - [[sessions/session-055|Session 55 - Ambush at the Counting House]]
 - [[sessions/session-056|Session 56 - Nine Gryphons from the Sky]]
+- [[sessions/session-057|Session 57 - Siege and Secrets]]

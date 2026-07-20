@@ -7,4 +7,6 @@ aliases:
 
 ---
 
-No documented retainers or followers.
+## Jennifer's Retainers & Followers
+
+- [[characters/active-players/jennifer/retainers-followers/cecil|Cecil]]

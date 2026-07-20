@@ -15,6 +15,7 @@ source_sessions:
   - 43
   - 52
   - 53
+  - 57
 ---
 
 ## Overview
@@ -45,6 +46,7 @@ An unusually intelligent bear begins following Luthien after she speaks with it 
 - Remains active deep into the necropolis arc.
 - In [[sessions/session-052|Session 52]], she is caught in the Bloated One's necrotic explosion, though Micaelis and Steve suffer the worst of the rotting disease.
 - In [[sessions/session-053|Session 53]], she opens the hidden Arch V shrine cache, keeps the silver locket found inside, puts the Mercy orcs to sleep during the counterattack, befriends an unusually intelligent bear, and orders a fine bow in Barrow Spa.
+- In [[sessions/session-057|Session 57]], she scouts the Invasion Fort alone through its secret entrance, finds the early chambers nearly empty, and is seized by a mimic disguised as a chest near the western secret entrance.
 
 ## Relationships
 
@@ -52,7 +54,7 @@ An unusually intelligent bear begins following Luthien after she speaks with it 
 
 ## Current status
 
-Active.
+Active, but trapped by a mimic inside the Invasion Fort at the end of Session 57.
 
 ## Related sessions
 
@@ -62,3 +64,4 @@ Active.
 - [[sessions/session-043|Session 43]]
 - [[sessions/session-052|Session 52]]
 - [[sessions/session-053|Session 53]]
+- [[sessions/session-057|Session 57]]

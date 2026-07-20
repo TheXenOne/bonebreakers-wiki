@@ -13,6 +13,7 @@ affiliations:
   - Westfort
 source_sessions:
   - 33
+  - 57
 ---
 
 ## Overview
@@ -46,6 +47,7 @@ Needs review.
 ## Campaign events
 
 - Gorin appears in the party's wider Westfort support network after their arrival.
+- In [[sessions/session-057|Session 57]], he has no horses to sell the Bonebreakers because of the siege.
 
 ## Current status
 
@@ -54,6 +56,7 @@ Alive.
 ## Related sessions
 
 - [[sessions/session-033|Session 33]]
+- [[sessions/session-057|Session 57]]
 
 ## Unresolved threads
 

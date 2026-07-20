@@ -27,6 +27,7 @@ This page tracks notable Bonebreaker-held items, including both shared gear and 
 - [[items/party-inventory/encoded-gnomish-tome|Encoded Gnomish Tome]]
 - [[items/party-inventory/face-changing-golden-coin|Face-Changing Golden Coin]]
 - [[items/party-inventory/five-cursed-rings|Five Cursed Rings]]
+- [[items/party-inventory/gnomish-power-cores|Gnomish Power Cores]] — destroyed in Session 57
 - [[items/party-inventory/manual-of-strength|Manual of Strength]]
 - [[items/party-inventory/massive-crossbow|Massive Crossbow]]
 - [[items/party-inventory/morlans-marvelous-magic|Morlan's Marvelous Magic]]

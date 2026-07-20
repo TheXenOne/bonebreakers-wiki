@@ -13,6 +13,7 @@ related_sessions:
   - 47
   - 54
   - 56
+  - 57
 related_locations:
   - Westfort
   - Invasion Fort
@@ -26,13 +27,14 @@ source_sessions:
   - 47
   - 54
   - 56
+  - 57
 ---
 
 ## Overview
 
 The renewed siege of [[locations/world/agria/west-fort|Westfort]] is the second major military crisis around the frontier settlement. After earlier warning signs of reduced but renewed preparations at [[locations/world/westmarsh/invasion-fort|the Invasion Fort]], the Bonebreakers learn in [[sessions/session-054|Session 54]] that the invasion has become a stalemated siege.
 
-The enemy force is much smaller than the original invasion army, but still has siege engines and includes hobgoblins, goblins, and ogres. Westfort is holding for now, but the siege is unresolved.
+The enemy force is much smaller than the original invasion army, but still has siege engines and includes hobgoblins, goblins, and ogres. By [[sessions/session-057|Session 57]], the walls are badly damaged, the western bridge is a no-man's land, and nightly goblin raids are stripping food shipments. The Bonebreakers have blocked one southern mountain route, but the siege remains unresolved.
 
 ## How it began
 
@@ -47,16 +49,21 @@ In [[sessions/session-047|Session 47]], a captured Grey Syndicate recruiter warn
 - Known enemy forces include hobgoblins, goblins, and ogres.
 - Barny views the west gate of the siege through the [[items/party-inventory/crystal-ball|crystal ball]] but does not tell the party what he sees.
 - In [[sessions/session-056|Session 56]], the Bonebreakers choose Westfort as their next destination, but a gryphon ambush kills their horses and forces them back to Barrow Spa before they reach the fort.
+- In [[sessions/session-057|Session 57]], the Bonebreakers reach Westfort, refuse a hobgoblin demand that they surrender for a one-year truce, and keep the offer from the public.
+- They ambush the nightly food raiders, hire the survivor Gobbo as a guide, and use two gnomish power cores to trigger a landslide across one southern mountain route.
+- They then approach the Invasion Fort, where Luthien is seized by a mimic while scouting alone.
 
 ## Current status
 
-Active. Westfort is under siege, and the outcome is unresolved. The Bonebreakers intend to travel there, but their first attempt ends before they reach the fort.
+Active and partially disrupted. Westfort remains under siege, but the Bonebreakers have stopped one night's raiders and blocked one mountain route used against the town. They are now operating near the Invasion Fort.
 
 ## Consequences
 
 - Westfort remains a live military crisis even after the earlier child rescue and apparent breaking of the original invasion force.
 - Barny's private crystal-ball viewing may contain useful information the rest of the party does not yet have.
 - The exact command structure behind the renewed siege remains unclear.
+- Westfort's food supply remains endangered even after one raiding route is blocked.
+- Public resentment toward the Bonebreakers could worsen if the hobgoblin surrender demand becomes known.
 
 ## Related characters and NPCs
 
@@ -79,10 +86,12 @@ Active. Westfort is under siege, and the outcome is unresolved. The Bonebreakers
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-056|Session 56]]
+- [[sessions/session-057|Session 57]]
 
 ## Loose ends
 
 - Whether the renewed siege is directed by the Grey Syndicate, surviving hobgoblin command, or another Westmarsh power remains unresolved.
 - What Barny saw at the west gate remains unknown to the party.
-- The siege's immediate military balance and next likely move remain unclear.
-- When and how the Bonebreakers will resume the journey after losing their horses remains unresolved.
+- Whether the hobgoblins will honour, repeat, or retaliate after their rejected surrender demand remains unclear.
+- Whether other routes can sustain the nightly food raids remains unresolved.
+- Luthien is trapped by a mimic inside the Invasion Fort while scouting alone.

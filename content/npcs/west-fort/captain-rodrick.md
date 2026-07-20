@@ -11,11 +11,12 @@ affiliations:
   - Westfort garrison
 source_sessions:
   - 33
+  - 57
 ---
 
 ## Overview
 
-Captain Rodrick is a senior officer at Westfort.
+Captain Rodrick is a senior officer at Westfort. During the renewed siege, he receives the hobgoblins' demand that the town surrender the Bonebreakers in exchange for a one-year truce.
 
 ## Appearance
 
@@ -44,6 +45,7 @@ Stubborn, conservative, and dismissive of conspiracies.
 ## Campaign events
 
 - In [[sessions/session-033|Session 33]], Rodrick dismisses the party's concerns about human sabotage inside the fort.
+- In [[sessions/session-057|Session 57]], he warns the returning Bonebreakers that Westfort is under siege, meets hobgoblin envoys under a white flag, and brings their surrender demand to Commander Valerius.
 
 ## Current status
 
@@ -52,7 +54,8 @@ Alive.
 ## Related sessions
 
 - [[sessions/session-033|Session 33]]
+- [[sessions/session-057|Session 57]]
 
 ## Unresolved threads
 
-- Needs review.
+- How Rodrick and Valerius intend to handle the secret surrender demand remains unresolved.

@@ -26,11 +26,12 @@ source_sessions:
   - 40
   - 46
   - 54
+  - 57
 ---
 
 ## Overview
 
-The hobgoblins of Westmarsh are the clearest organised monster army shown in the Westfort arc. They oversee mining and weapons production, hire mercenaries, and form the core of the invasion force aimed at [[locations/world/agria/west-fort|Westfort]]. Although the original invasion force was broken, hobgoblins are still present in the renewed siege reported in [[sessions/session-054|Session 54]].
+The hobgoblins of Westmarsh are the clearest organised monster army shown in the Westfort arc. They oversee mining and weapons production, hire mercenaries, and form the core of the invasion force aimed at [[locations/world/agria/west-fort|Westfort]]. Although the original invasion force was broken, they remain the organised enemy presence in the renewed siege, holding the far side of Westfort's western bridge and directing nightly food raids.
 
 ## Purpose or role
 
@@ -67,10 +68,11 @@ They function as the main military organisers of the western invasion effort rat
 - In [[sessions/session-038|Session 38]], the Bonebreakers raid the invasion fort and discover large-scale plans against Agria.
 - In [[sessions/session-039|Session 39]] and [[sessions/session-040|Session 40]], the resulting invasion force attacks Westfort and is eventually broken.
 - In [[sessions/session-054|Session 54]], news from Westfort says the renewed siege still includes hobgoblins, along with goblins, ogres, and siege engines.
+- In [[sessions/session-057|Session 57]], hobgoblin envoys demand the Bonebreakers in exchange for a one-year truce. Goblin raiders working through southern mountain paths attack food shipments until the party blocks one route.
 
 ## Current status
 
-Active in reduced form. The original invasion force was broken, but hobgoblins remain part of the renewed siege of Westfort. Surviving leadership and exact command structure: Needs review.
+Active and besieging Westfort. Their forces hold the western approach and use goblin raiders to pressure the town's food supply. Surviving leadership and exact command structure: Needs review.
 
 ## Related sessions
 
@@ -81,9 +83,10 @@ Active in reduced form. The original invasion force was broken, but hobgoblins r
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-054|Session 54]]
+- [[sessions/session-057|Session 57]]
 
 ## Unresolved threads
 
 - Who ultimately directed the hobgoblin war effort remains unclear.
 - The surviving strength and leadership of their forces after the failed invasion are still unclear.
-- Their exact role in the renewed siege of Westfort remains unresolved.
+- Whether they will act on the Bonebreakers' rejection of the surrender demand remains unresolved.

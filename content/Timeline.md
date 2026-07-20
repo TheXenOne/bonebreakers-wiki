@@ -60,10 +60,11 @@ source_sessions:
     54,
     55,
     56,
+    57,
   ]
 ---
 
-<svg viewBox="0 0 1000 15340" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
+<svg viewBox="0 0 1000 15590" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
 <defs>
 <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
 <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.22" />
@@ -73,10 +74,10 @@ source_sessions:
 <stop offset="100%" stop-color="#4b5563" stop-opacity="0.7" />
 </linearGradient>
 </defs>
-<rect x="0" y="0" width="1000" height="15340" fill="transparent" />
+<rect x="0" y="0" width="1000" height="15590" fill="transparent" />
 <text x="170" y="86" fill="#f3f4f6" font-size="46" font-weight="800" font-family="ui-sans-serif, system-ui, sans-serif">CAMPAIGN TIMELINE</text>
-<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 56</text>
-<line x1="260" y1="160" x2="260" y2="15248" stroke="url(#spine)" stroke-width="2" />
+<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 57</text>
+<line x1="260" y1="160" x2="260" y2="15492" stroke="url(#spine)" stroke-width="2" />
 <g font-family="ui-sans-serif, system-ui, sans-serif">
 <text x="198" y="304" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S1</text>
 <text x="198" y="330" text-anchor="end" fill="#94a3b8" font-size="14">Undead</text>
@@ -698,5 +699,16 @@ source_sessions:
 <text x="336" y="15106" fill="#d6dee8" font-size="15">Six die, two are captured for a possible flying-mount breeding plan,</text>
 <text x="336" y="15128" fill="#d6dee8" font-size="15">and one escapes carrying Barny&apos;s Red Seer&apos;s Dagger.</text>
 <text x="336" y="15150" fill="#d6dee8" font-size="15">The party returns to Barrow Spa for harnesses and replacement transport.</text>
+<text x="198" y="15306" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S57</text>
+<text x="198" y="15332" text-anchor="end" fill="#94a3b8" font-size="14">Siege</text>
+<circle cx="260" cy="15314" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="260" cy="15314" r="6" fill="#cbd5e1"/>
+<rect x="304" y="15222" rx="26" ry="26" width="620" height="228" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<text x="336" y="15256" fill="#f3f4f6" font-size="24" font-weight="700">The Bonebreakers enter</text>
+<text x="336" y="15284" fill="#f3f4f6" font-size="24" font-weight="700">the renewed siege</text>
+<text x="336" y="15328" fill="#d6dee8" font-size="15">At Westfort, the party refuses a truce offered for its surrender,</text>
+<text x="336" y="15350" fill="#d6dee8" font-size="15">ambushes goblin food raiders, and blocks a southern mountain route.</text>
+<text x="336" y="15372" fill="#d6dee8" font-size="15">They approach the Invasion Fort, where a mimic seizes Luthien</text>
+<text x="336" y="15394" fill="#d6dee8" font-size="15">while she scouts alone through its secret passages.</text>
 </g>
 </svg>
