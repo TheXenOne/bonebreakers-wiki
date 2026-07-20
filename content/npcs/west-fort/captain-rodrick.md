@@ -58,4 +58,4 @@ Alive.
 
 ## Unresolved threads
 
-- How Rodrick and Valerius intend to handle the secret surrender demand remains unresolved.
+- Rodrick, Valerius, and the Bonebreakers have decided not to publicise the surrender demand; the consequences of rejecting it remain unresolved.

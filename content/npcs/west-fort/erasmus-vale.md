@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Erasmus Vale is the proprietor of [[locations/world/agria/west-fort/tincture-and-tonic|Tincture & Tonic]] and a reliable source of specialised potions. He is producing potions of water breathing for the Bonebreakers at one per day.
+Erasmus Vale is the proprietor of [[locations/world/agria/west-fort/tincture-and-tonic|Tincture & Tonic]] and a reliable source of specialised potions. He is producing an initial order of six potions of water breathing for the Bonebreakers at one per day.
 
 ## Appearance
 
@@ -47,7 +47,7 @@ Practical and commercially useful.
 ## Campaign events
 
 - During the build-up around [[sessions/session-038|Session 38]] and [[sessions/session-039|Session 39]], Erasmus becomes a practical supplier for the party.
-- In [[sessions/session-057|Session 57]], he agrees to make potions of water breathing for 75 gold pieces each. Each lasts one day, and he can produce one per day.
+- In [[sessions/session-057|Session 57]], he accepts an initial order for six potions of water breathing at 75 gold pieces each. Each lasts one day, and he can produce one per day.
 
 ## Current status
 

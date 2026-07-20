@@ -50,7 +50,7 @@ In [[sessions/session-047|Session 47]], a captured Grey Syndicate recruiter warn
 - Barny views the west gate of the siege through the [[items/party-inventory/crystal-ball|crystal ball]] but does not tell the party what he sees.
 - In [[sessions/session-056|Session 56]], the Bonebreakers choose Westfort as their next destination, but a gryphon ambush kills their horses and forces them back to Barrow Spa before they reach the fort.
 - In [[sessions/session-057|Session 57]], the Bonebreakers reach Westfort, refuse a hobgoblin demand that they surrender for a one-year truce, and keep the offer from the public.
-- They ambush the nightly food raiders, hire the survivor Gobbo as a guide, and use two gnomish power cores to trigger a landslide across one southern mountain route.
+- They ambush the nightly food raiders, hire the survivor [[npcs/westmarsh/gobbo|Gobbo]] as a guide, and use two gnomish power cores to trigger a landslide across one southern mountain route.
 - They then approach the Invasion Fort, where Luthien is seized by a mimic while scouting alone.
 
 ## Current status

@@ -16,13 +16,13 @@ The Bonebreakers begin at the [[locations/world/agria/southlands/barrowshire/bar
 
 They arrive from the east to find the outer palisades badly damaged and patched with wagons, carts, and anything else available. [[npcs/west-fort/captain-rodrick|Captain Rodrick]] confirms that the town is under siege, while [[npcs/west-fort/commander-valerius|Commander Valerius]] explains that the western bridge has become a no-man's land. Hobgoblin forces wait outside, and goblin raiders enter through the southern mountains each night to steal food. Their attacks coincide precisely with incoming food shipments, leaving the garrison in a dangerous stalemate.
 
-Before acting on the siege, the party completes its original business in Westfort. [[npcs/west-fort/erasmus-vale|Erasmus Vale]] agrees to produce one potion of water breathing per day for 75 gold pieces; each potion will last for a full day, and the Bonebreakers commission a supply for their return to the [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|Sunken Market]]. [[npcs/west-fort/gorin-heavyhoof|Gorin Heavyhoof]] cannot replace their lost horses because the siege has left none available.
+Before acting on the siege, the party completes its original business in Westfort. [[npcs/west-fort/erasmus-vale|Erasmus Vale]] agrees to produce one potion of water breathing per day for 75 gold pieces; each potion will last for a full day, and the Bonebreakers initially commission six for their return to the [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|Sunken Market]]. [[npcs/west-fort/gorin-heavyhoof|Gorin Heavyhoof]] cannot replace their lost horses because the siege has left none available.
 
-The party's arrival draws whispers from townspeople who connect the Bonebreakers to the chain of events behind the siege. At the damaged wall, hobgoblin envoys approach under a white flag and give Rodrick a written demand: surrender the Bonebreakers in exchange for a one-year truce. The document lists genuine crimes committed by the party while omitting that the hobgoblins attacked Westfort first. The Bonebreakers refuse to surrender and decide to keep the offer from the public in case resentment turns the town against them.
+The party's arrival draws whispers from townspeople who connect the Bonebreakers to the chain of events behind the siege. At the damaged wall, hobgoblin envoys approach under a white flag and privately give Rodrick a written demand. Only Rodrick, Valerius, and the Bonebreakers learn that it offers a one-year truce in exchange for surrendering the party. The document lists genuine crimes committed by the Bonebreakers while omitting that the hobgoblins attacked Westfort first. The party refuses to surrender, and those present decide not to publicise the demand in case resentment turns the town against them.
 
-That night, the party ambushes two groups of goblin food raiders. Sleep magic helps them defeat the attackers quickly, and they leave one survivor for questioning. The goblin, Gobbo, confirms that the raiders use routes through the southern mountains. He leads the Bonebreakers into the hills, where they find six mules that explain how the raiders have been moving so quickly. The party takes the animals, hires Gobbo as a guide for ten gold pieces per day, and reaches the approaches to [[locations/world/westmarsh/hobgoblin-mine|the Hobgoblin Mine]].
+That night, the party ambushes two groups of goblin food raiders. Sleep magic helps them defeat the attackers quickly, and they leave one survivor for questioning. The goblin, [[npcs/westmarsh/gobbo|Gobbo]], confirms that the raiders use routes through the southern mountains. He leads the Bonebreakers into the hills, where they find six mules that explain how the raiders have been moving so quickly. The party takes the animals, hires Gobbo as a guide for ten gold pieces per day, and reaches the approaches to [[locations/world/westmarsh/hobgoblin-mine|the Hobgoblin Mine]].
 
-Rather than follow the raiding route directly into enemy territory, the Bonebreakers backtrack and use the two [[items/party-inventory/gnomish-power-cores|gnomish power cores]] recovered long ago from gnomish automatons to destroy the mountain path. The rigged cores explode with enough force to trigger a landslide, cutting the route used against Westfort. The blast attracts thirteen starving dogs. After the animals bite Arden, Cecil, and Micaelis, [[characters/active-players/ben-l/characters/arden-sable|Arden]] speaks with them, offers food, and persuades the pack to follow the party toward [[locations/world/westmarsh/invasion-fort|the Invasion Fort]].
+Rather than follow the raiding route directly into enemy territory, the Bonebreakers backtrack and use the two [[items/party-inventory/gnomish-power-cores|gnomish power cores]] recovered long ago from gnomish automatons to destroy the mountain path. The rigged cores explode with enough force to trigger a landslide, cutting the route used against Westfort. The blast attracts thirteen starving dogs. After the animals bite Arden, Cecil, and Micaelis, [[characters/active-players/ben-l/characters/arden-sable|Arden]] casts Speak with Animals, offers food, and persuades the pack to follow the party toward [[locations/world/westmarsh/invasion-fort|the Invasion Fort]].
 
 [[characters/active-players/marta/characters/luthien|Luthien]] scouts ahead through the fort's secret entrance. The early chambers are almost deserted, with only two sleeping hobgoblins, and the foul-smelling hork chamber remains cluttered but empty. Near the western secret entrance she finds a chest and reaches inside, only for it to reveal itself as a mimic and seize her. The session ends with Luthien trapped alone inside the enemy fortress while the party remains outside.
 
@@ -31,10 +31,10 @@ Rather than follow the raiding route directly into enemy territory, the Bonebrea
 - Quak II! hires Cecil, a paladin troubled by violent urges and doubts about his faith, as a retainer for twenty-five per cent of one share.
 - The Bonebreakers reach Westfort on foot and find its defences badly damaged by the active siege.
 - Goblins are stealing food each night through routes in the southern mountains, timing their raids to incoming shipments.
-- Erasmus Vale is commissioned to make one day-long potion of water breathing per day for 75 gold pieces each.
+- Erasmus Vale is initially commissioned to make six potions of water breathing at 75 gold pieces each, producing one per day; each potion lasts one day.
 - Hobgoblin envoys offer Westfort a one-year truce if the town surrenders the Bonebreakers.
 - The party refuses the demand and keeps its existence from the public.
-- A night ambush destroys two groups of goblin raiders; Gobbo is spared, questioned, and hired as a guide.
+- A night ambush destroys two groups of goblin raiders; [[npcs/westmarsh/gobbo|Gobbo]] is spared, questioned, and hired as a guide.
 - The party captures six mules used by the raiders.
 - Two gnomish power cores are detonated to cause a landslide and block the mountain supply route.
 - Arden wins over thirteen starving dogs and brings them toward the Invasion Fort.
@@ -66,12 +66,12 @@ Rather than follow the raiding route directly into enemy territory, the Bonebrea
 
 ## Items, magic, and discoveries
 
-- Potions of water breathing can be made by Erasmus Vale at a rate of one per day, for 75 gold pieces each; a potion lasts one day.
-- The hobgoblin surrender demand offers Westfort a one-year truce in exchange for the Bonebreakers and lists the party's crimes without the context of the original attack.
+- Six potions of water breathing are initially commissioned from Erasmus Vale. He can make one per day at 75 gold pieces each, and each potion lasts one day.
+- The secret hobgoblin demand, known only to Rodrick, Valerius, and the Bonebreakers, offers Westfort a one-year truce in exchange for the party and lists their crimes without the context of the original attack.
 - Sleep magic allows the party to neutralise the goblin raiders with little difficulty.
 - Six mules were hidden in a mountain cave and used to move raiders quickly.
 - The party's two [[items/party-inventory/gnomish-power-cores|gnomish power cores]] are consumed in the explosion that blocks the raiding route.
-- Arden uses Speak with Animals to negotiate with the starving dog pack.
+- Arden casts Speak with Animals to negotiate with the starving dog pack.
 - A chest near the Invasion Fort's western secret entrance is a mimic.
 
 ## Threads raised this session
