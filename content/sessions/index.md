@@ -63,3 +63,4 @@ Published session pages:
 - [[sessions/session-055|Session 55 - Ambush at the Counting House]]
 - [[sessions/session-056|Session 56 - Nine Gryphons from the Sky]]
 - [[sessions/session-057|Session 57 - Siege and Secrets]]
+- [[sessions/session-058|Session 58 - Luthien’s Last Journey]]

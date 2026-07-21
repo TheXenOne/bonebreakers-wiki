@@ -19,6 +19,7 @@ source_sessions:
   - 41
   - 45
   - 46
+  - 58
 ---
 
 ## Overview
@@ -38,6 +39,7 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 - [[locations/world/westmarsh/hobgoblin-mine|The Hobgoblin Mine]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 - [[locations/world/westmarsh/necropolis|The Necropolis]]
+- [[locations/world/westmarsh/imperial-hill-temple|The Imperial Hill Temple]]
 
 ## Associated people and groups
 
@@ -50,6 +52,7 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 - The western frontier arc begins in [[sessions/session-033|Session 33]].
 - [[sessions/session-036|Session 36]] through [[sessions/session-040|Session 40]] reveal coordinated military activity across the region.
 - By [[sessions/session-041|Session 41]] and later, the marsh is also tied to Necropolis exploration and rumours of a second entrance.
+- In [[sessions/session-058|Session 58]], the party finds a monumental imperial temple-like ruin while travelling northwest toward the Necropolis.
 
 ## Related sessions
 
@@ -60,6 +63,7 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 - [[sessions/session-039|Session 39]]
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-058|Session 58]]
 
 ## Unresolved threads or mysteries
 

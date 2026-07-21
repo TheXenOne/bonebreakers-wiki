@@ -6,6 +6,7 @@ tags:
   - telescope
 source_sessions:
   - 32
+  - 58
 ---
 
 ## Overview
@@ -21,6 +22,7 @@ The Nightmare-Revealing Telescope is one of the strangest treasures taken from t
 
 - In [[sessions/session-032|Session 32]], the party finds the telescope on the balcony outside the observatory.
 - Barny experiments with it, learns what it does, and later carries it out during the manor's collapse.
+- In [[sessions/session-058|Session 58]], Barny aims it at disenchanters in an imperial ruin and sees that they dream of a soul contained within a codex.
 
 ## Current status
 
@@ -29,3 +31,4 @@ Barny is the last clearly known bearer.
 ## Related sessions
 
 - [[sessions/session-032|Session 32]]
+- [[sessions/session-058|Session 58]]

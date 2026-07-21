@@ -17,11 +17,12 @@ source_sessions:
   - 47
   - 54
   - 57
+  - 58
 ---
 
 ## Overview
 
-The Invasion Fort is a fortified enemy outpost in the hills south-west of [[locations/world/agria/west-fort|Westfort]]. It serves as a staging ground for the attempted invasion of the fort and later reveals deeper Grey Syndicate involvement. Renewed military pressure from Westmarsh has become a siege of Westfort. In [[sessions/session-057|Session 57]], the Bonebreakers return through a secret entrance and find the early chambers almost deserted, though the exact command link between the fortress and the siege remains unclear.
+The Invasion Fort is a fortified enemy outpost in the hills south-west of [[locations/world/agria/west-fort|Westfort]]. It serves as a staging ground for the attempted invasion of the fort and later reveals deeper Grey Syndicate involvement. In Sessions [[sessions/session-057|57]] and [[sessions/session-058|58]], the Bonebreakers returned through a secret entrance, killed the few hobgoblins they encountered, destroyed two dangerous creatures, and disabled the portcullis mechanism before leaving for the Necropolis.
 
 ## Geography and layout
 
@@ -53,6 +54,7 @@ The Invasion Fort is a fortified enemy outpost in the hills south-west of [[loca
 - In [[sessions/session-047|Session 47]], Barny's crystal ball shows renewed but reduced military preparations at the fort.
 - In [[sessions/session-054|Session 54]], news from Westfort confirms that renewed invasion pressure has become a stalemated siege involving siege engines, hobgoblins, goblins, and ogres.
 - In [[sessions/session-057|Session 57]], Luthien scouts the fort's secret route, finds only two sleeping hobgoblins in the early chambers, and is seized by a mimic disguised as a chest near the western secret entrance.
+- In [[sessions/session-058|Session 58]], Luthien escapes the mimic but is killed and partly eaten by a Krell. The damage prevents Raise Dead from restoring her, leaving Reincarnation as the only apparent means of bringing her back. The party kills the Krell, recovers her remains, kills two hobgoblins, breaks the chain controlling the portcullis, and destroys the mimic before leaving.
 
 ## Related sessions
 
@@ -64,8 +66,9 @@ The Invasion Fort is a fortified enemy outpost in the hills south-west of [[loca
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-057|Session 57]]
+- [[sessions/session-058|Session 58]]
 
 ## Unresolved threads or mysteries
 
 - Later crystal-ball checks and news from Westfort show that smaller war preparations have become a renewed siege, but the siege's command structure remains unclear.
-- Luthien is trapped by a mimic inside the fort while separated from the party.
+- The effect of the sabotaged portcullis on the fort and wider siege remains unknown.

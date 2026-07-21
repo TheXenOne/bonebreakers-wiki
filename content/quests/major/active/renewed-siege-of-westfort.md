@@ -14,6 +14,7 @@ related_sessions:
   - 54
   - 56
   - 57
+  - 58
 related_locations:
   - Westfort
   - Invasion Fort
@@ -28,13 +29,14 @@ source_sessions:
   - 54
   - 56
   - 57
+  - 58
 ---
 
 ## Overview
 
 The renewed siege of [[locations/world/agria/west-fort|Westfort]] is the second major military crisis around the frontier settlement. After earlier warning signs of reduced but renewed preparations at [[locations/world/westmarsh/invasion-fort|the Invasion Fort]], the Bonebreakers learn in [[sessions/session-054|Session 54]] that the invasion has become a stalemated siege.
 
-The enemy force is much smaller than the original invasion army, but still has siege engines and includes hobgoblins, goblins, and ogres. By [[sessions/session-057|Session 57]], the walls are badly damaged, the western bridge is a no-man's land, and nightly goblin raids are stripping food shipments. The Bonebreakers have blocked one southern mountain route, but the siege remains unresolved.
+The enemy force is much smaller than the original invasion army, but still has siege engines and includes hobgoblins, goblins, and ogres. The Bonebreakers have blocked one southern mountain route and sabotaged the Invasion Fort's portcullis, but the siege remains unresolved.
 
 ## How it began
 
@@ -52,10 +54,12 @@ In [[sessions/session-047|Session 47]], a captured Grey Syndicate recruiter warn
 - In [[sessions/session-057|Session 57]], the Bonebreakers reach Westfort, refuse a hobgoblin demand that they surrender for a one-year truce, and keep the offer from the public.
 - They ambush the nightly food raiders, hire the survivor [[npcs/westmarsh/gobbo|Gobbo]] as a guide, and use two gnomish power cores to trigger a landslide across one southern mountain route.
 - They then approach the Invasion Fort, where Luthien is seized by a mimic while scouting alone.
+- In [[sessions/session-058|Session 58]], the party kills two hobgoblins inside the fort, breaks the chain connecting the portcullis to its lever, and then leaves for the Necropolis.
+- Luthien escapes the mimic but is killed and partly eaten by a Krell before the party can save her. Raise Dead can no longer restore her; only Reincarnation appears possible.
 
 ## Current status
 
-Active and partially disrupted. Westfort remains under siege, but the Bonebreakers have stopped one night's raiders and blocked one mountain route used against the town. They are now operating near the Invasion Fort.
+Active and partially disrupted. Westfort remains under siege, but the Bonebreakers have stopped one night's raiders, blocked one mountain route, and disabled the Invasion Fort's portcullis. They have now left the fort for the Necropolis.
 
 ## Consequences
 
@@ -87,6 +91,7 @@ Active and partially disrupted. Westfort remains under siege, but the Bonebreake
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-056|Session 56]]
 - [[sessions/session-057|Session 57]]
+- [[sessions/session-058|Session 58]]
 
 ## Loose ends
 
@@ -94,4 +99,4 @@ Active and partially disrupted. Westfort remains under siege, but the Bonebreake
 - What Barny saw at the west gate remains unknown to the party.
 - Whether the hobgoblins will honour, repeat, or retaliate after their rejected surrender demand remains unclear.
 - Whether other routes can sustain the nightly food raids remains unresolved.
-- Luthien is trapped by a mimic inside the Invasion Fort while scouting alone.
+- Whether sabotaging the Invasion Fort's portcullis will materially weaken the siege remains unclear.

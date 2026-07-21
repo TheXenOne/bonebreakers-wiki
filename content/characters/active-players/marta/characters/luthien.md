@@ -5,7 +5,7 @@ tags:
   - character
   - player-character
 player: Marta
-status: active
+status: dead
 aliases:
   - characters/marta/characters/luthien
   - characters/luthien
@@ -16,11 +16,12 @@ source_sessions:
   - 52
   - 53
   - 57
+  - 58
 ---
 
 ## Overview
 
-Luthien is an elf adventurer with bluntly power-seeking ambitions. In [[sessions/session-018|Session 18]], she describes a desire for dark magic and a rejection of the quiet life she left behind.
+Luthien was an elf adventurer with bluntly power-seeking ambitions. She was killed by a Krell inside [[locations/world/westmarsh/invasion-fort|the Invasion Fort]] in [[sessions/session-058|Session 58]]. The creature partly devoured her body before the Bonebreakers could recover it, ruling out Raise Dead. Reincarnation appears to be the only remaining way to return her to life.
 
 ## Player
 
@@ -47,6 +48,7 @@ An unusually intelligent bear begins following Luthien after she speaks with it 
 - In [[sessions/session-052|Session 52]], she is caught in the Bloated One's necrotic explosion, though Micaelis and Steve suffer the worst of the rotting disease.
 - In [[sessions/session-053|Session 53]], she opens the hidden Arch V shrine cache, keeps the silver locket found inside, puts the Mercy orcs to sleep during the counterattack, befriends an unusually intelligent bear, and orders a fine bow in Barrow Spa.
 - In [[sessions/session-057|Session 57]], she scouts the Invasion Fort alone through its secret entrance, finds the early chambers nearly empty, and is seized by a mimic disguised as a chest near the western secret entrance.
+- In [[sessions/session-058|Session 58]], she escapes the mimic by slipping out of her glove, but a Krell paralyses and kills her before the party can reach her. The creature partly eats her body before it is killed, preventing Raise Dead from restoring her. Her belongings and what remains of her body are recovered.
 
 ## Relationships
 
@@ -54,7 +56,7 @@ An unusually intelligent bear begins following Luthien after she speaks with it 
 
 ## Current status
 
-Active, but trapped by a mimic inside the Invasion Fort at the end of Session 57.
+Dead. Her partly eaten remains are in the Bonebreakers' possession. Raise Dead cannot restore her; Reincarnation appears to be the only remaining possibility.
 
 ## Related sessions
 
@@ -65,3 +67,4 @@ Active, but trapped by a mimic inside the Invasion Fort at the end of Session 57
 - [[sessions/session-052|Session 52]]
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-057|Session 57]]
+- [[sessions/session-058|Session 58]]

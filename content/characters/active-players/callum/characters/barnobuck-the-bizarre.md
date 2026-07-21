@@ -20,6 +20,7 @@ source_sessions:
   - 53
   - 54
   - 56
+  - 58
 ---
 
 ## Overview
@@ -57,6 +58,7 @@ Magic-user.
 - In [[sessions/session-053|Session 53]], Barny uses the crystal ball to spy on orcs occupying the Mercy, charms the guard above the Abyss trapdoor through the ball, secretly reanimates the dead orc squad leader for questioning, and researches the older history of the Abyss.
 - In [[sessions/session-054|Session 54]], Barny improves the [[items/party-inventory/staff-of-withering|Staff of Withering]] and uses the [[items/party-inventory/crystal-ball|crystal ball]] to view the siege at Westfort's west gate, but does not share what he sees with the party.
 - In [[sessions/session-056|Session 56]], Barny poisons the party's final horse during a gryphon attack, helping kill three of the creatures when they bring it down. He is nearly killed after stabbing another with the [[items/party-inventory/red-seers-dagger|Red Seer's Dagger]], and the wounded gryphon escapes with the blade still lodged in it.
+- In [[sessions/session-058|Session 58]], Barny kills the Krell that ate Luthien's body, harvests its remains, locates the escaped gryphon through the Red Seer's Dagger, and discovers soul-binding magic in an imperial ruin. He conceals the magic's true purpose from the party and later sees a soul held in a codex through the Nightmare-Revealing Telescope.
 
 ## Relationships
 
@@ -66,7 +68,7 @@ Magic-user.
 
 ## Current status
 
-Active. The Red Seer's Dagger is no longer in Barny's physical possession, but its magic may let him observe the gryphon that carried it away.
+Active. He has located the gryphon carrying his Red Seer's Dagger and is concealing what he knows about the soul-bound box in the Imperial Hill Temple.
 
 ## Related sessions
 
@@ -79,3 +81,4 @@ Active. The Red Seer's Dagger is no longer in Barny's physical possession, but i
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-056|Session 56]]
+- [[sessions/session-058|Session 58]]

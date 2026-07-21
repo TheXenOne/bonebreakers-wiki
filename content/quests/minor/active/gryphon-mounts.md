@@ -11,6 +11,7 @@ started_session: 56
 completed_session:
 related_sessions:
   - 56
+  - 58
 related_locations:
   - Barrow Spa
 related_npcs:
@@ -19,6 +20,7 @@ related_factions:
   - Bonebreakers
 source_sessions:
   - 56
+  - 58
 ---
 
 ## Overview
@@ -37,10 +39,11 @@ In [[sessions/session-056|Session 56]], nine gryphons kill the party's horses du
 - [[npcs/barrowshire/barrow-spa-locals/gus|Gus]] is commissioned to make secure gryphon harnesses.
 - The party forms a long-term plan to breed the gryphons as possible flying mounts.
 - One escaped gryphon carries the [[items/party-inventory/red-seers-dagger|Red Seer's Dagger]], potentially allowing Barny to observe it.
+- In [[sessions/session-058|Session 58]], Barny sees that the escaped gryphon is in a high mountain cave with other gryphons and several eggs.
 
 ## Current status
 
-Active. The Bonebreakers hold two untamed gryphons and are waiting for purpose-built harnesses. Breeding and training have not yet begun.
+Active. The Bonebreakers hold two untamed gryphons and are waiting for purpose-built harnesses. Barny has located the escaped gryphon in a mountain nesting cave containing other gryphons and eggs, but the cave's location is unknown.
 
 ## Consequences
 
@@ -64,9 +67,10 @@ Active. The Bonebreakers hold two untamed gryphons and are waiting for purpose-b
 ## Related sessions
 
 - [[sessions/session-056|Session 56]]
+- [[sessions/session-058|Session 58]]
 
 ## Loose ends
 
 - Whether the captured gryphons can be safely housed, bred, trained, or ridden remains unresolved.
 - The completion date and cost of Gus's harnesses and decorated wagon are unclear.
-- Whether Barny will use the Red Seer's Dagger to find or observe the escaped gryphon remains unresolved.
+- The exact location of the mountain nesting cave seen through the Red Seer's Dagger remains unknown.

@@ -24,6 +24,7 @@ related_sessions:
   - 53
   - 54
   - 55
+  - 58
 related_locations:
   - The Mercy
   - Necropolis
@@ -58,6 +59,7 @@ source_sessions:
   - 53
   - 54
   - 55
+  - 58
 ---
 
 ## Overview
@@ -102,10 +104,11 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 - Paul finds the [[items/party-inventory/arch-iv-sunken-market-map|Arch IV Sunken Market Map]] hidden in a counting-house chest, naming the [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|Sunken Market]] and marking flooded routes, fishermen's quarters, a dangerous after-dark channel, and a sump containing something that is not a fish.
 - The party kills three snake-men drawn by the noise of smashed chests, but notes that some spells and special attacks have limited effect against them.
 - Steve speaks with [[factions/religions-and-cults/dark-druids-of-the-deep-one|dark druids of the Deep One]] in the chaotic tongue, avoiding an immediate fight but learning they are not from the market and cannot promise safe passage.
+- In [[sessions/session-058|Session 58]], the party travels northwest across Westmarsh toward the Necropolis, but Arden realises that their previous decision to spike the Mercy trapdoor shut from below may prevent entry. They find the [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]] en route, where soul-binding sigils, a locked iron box, and a vision of a soul contained in a codex suggest another connection to the ancient imperial dead.
 
 ## Current status
 
-Active as the current major arc. Arch VII has been explored in depth, Arch VI now appears to be the western outer entrance, Arch V has opened onto an undead restoration district whose central figure, the Bloated One, is now dead, and Arch IV has revealed the Sunken Market. Steve and Micaelis have been cured of the Bloated One's rotting disease, while the larger unresolved questions now centre on [[npcs/necropolis/the-tribune|the Tribune]], the annual inspection system, the false Barnys, the deeper purpose of the restoration works, the rules of the Sunken Market, the lower floor and reserved mask, the after-dark channel, the sump, the snake-men, the dark druids, and the possible link between the Necropolis and the Crimson Bishop.
+Active as the current major arc. The party is approaching the Necropolis across Westmarsh but has stopped at an imperial soul-binding ruin, and its intended Mercy entrance may be inaccessible because the trapdoor was spiked shut from below. The larger unresolved questions still include the Tribune, the restoration works, the Sunken Market, the dark druids, and the possible link between the Necropolis and the Crimson Bishop.
 
 ## Consequences
 
@@ -159,6 +162,7 @@ Active as the current major arc. Arch VII has been explored in depth, Arch VI no
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-055|Session 55]]
+- [[sessions/session-058|Session 58]]
 
 ## Loose ends
 
@@ -179,3 +183,5 @@ Active as the current major arc. Arch VII has been explored in depth, Arch VI no
 - The after-dark channel and the thing in the sump remain unresolved.
 - The snake-men's role in the market remains unclear.
 - The origin, purpose, and loyalties of the dark druids of the Deep One remain unresolved.
+- Whether the party can enter the Mercy through the trapdoor it previously spiked shut remains unresolved.
+- The relationship between the Imperial Hill Temple, its soul-bound box, the codex seen in the disenchanters' dreams, and the Necropolis remains unresolved.

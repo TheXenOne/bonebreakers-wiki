@@ -61,10 +61,11 @@ source_sessions:
     55,
     56,
     57,
+    58,
   ]
 ---
 
-<svg viewBox="0 0 1000 15590" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
+<svg viewBox="0 0 1000 15870" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
 <defs>
 <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
 <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.22" />
@@ -74,10 +75,10 @@ source_sessions:
 <stop offset="100%" stop-color="#4b5563" stop-opacity="0.7" />
 </linearGradient>
 </defs>
-<rect x="0" y="0" width="1000" height="15590" fill="transparent" />
+<rect x="0" y="0" width="1000" height="15870" fill="transparent" />
 <text x="170" y="86" fill="#f3f4f6" font-size="46" font-weight="800" font-family="ui-sans-serif, system-ui, sans-serif">CAMPAIGN TIMELINE</text>
-<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 57</text>
-<line x1="260" y1="160" x2="260" y2="15492" stroke="url(#spine)" stroke-width="2" />
+<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 58</text>
+<line x1="260" y1="160" x2="260" y2="15772" stroke="url(#spine)" stroke-width="2" />
 <g font-family="ui-sans-serif, system-ui, sans-serif">
 <text x="198" y="304" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S1</text>
 <text x="198" y="330" text-anchor="end" fill="#94a3b8" font-size="14">Undead</text>
@@ -710,5 +711,16 @@ source_sessions:
 <text x="336" y="15350" fill="#d6dee8" font-size="15">ambushes goblin food raiders, and blocks a southern mountain route.</text>
 <text x="336" y="15372" fill="#d6dee8" font-size="15">They approach the Invasion Fort, where a mimic seizes Luthien</text>
 <text x="336" y="15394" fill="#d6dee8" font-size="15">while she scouts alone through its secret passages.</text>
+<text x="198" y="15590" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S58</text>
+<text x="198" y="15616" text-anchor="end" fill="#94a3b8" font-size="14">Soul</text>
+<circle cx="260" cy="15598" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="260" cy="15598" r="6" fill="#cbd5e1"/>
+<rect x="304" y="15506" rx="26" ry="26" width="620" height="228" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<text x="336" y="15540" fill="#f3f4f6" font-size="24" font-weight="700">Luthien falls on the road</text>
+<text x="336" y="15568" fill="#f3f4f6" font-size="24" font-weight="700">to the Necropolis</text>
+<text x="336" y="15612" fill="#d6dee8" font-size="15">A Krell kills Luthien inside the Invasion Fort before the party</text>
+<text x="336" y="15634" fill="#d6dee8" font-size="15">sabotages its portcullis and heads northwest. At an imperial ruin,</text>
+<text x="336" y="15656" fill="#d6dee8" font-size="15">soul-binding sigils and a vision of a soul held in a codex open</text>
+<text x="336" y="15678" fill="#d6dee8" font-size="15">a new mystery on the Necropolis approach.</text>
 </g>
 </svg>
