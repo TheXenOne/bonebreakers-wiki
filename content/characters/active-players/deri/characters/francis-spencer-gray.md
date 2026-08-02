@@ -16,6 +16,8 @@ source_sessions:
   - 46
   - 53
   - 54
+  - 58
+  - 59
 ---
 
 ## Overview
@@ -48,6 +50,8 @@ Thief.
 - Plays major scouting and infiltration roles in the cathedral, Blood Moon, and Westmarsh arcs.
 - In [[sessions/session-053|Session 53]], he is badly injured by zombies in Arch V, tries unsuccessfully to lure the orcs above the Abyss with cooking, questions Kronk after the Mercy counterattack, and orders specialised crossbow bolts by diagram in Barrow Spa.
 - In [[sessions/session-054|Session 54]], he commissions major defences for [[locations/world/agria/southlands/mercy|the Mercy]], including a moat and 30-foot walls, and later plays along with the zombie market in [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]].
+- In [[sessions/session-058|Session 58]], Frank scouts the [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]] using Luthien's recovered cloak and boots and helps open its three-locked soul-bound chest.
+- In [[sessions/session-059|Session 59]], he scouts the command quarter, finds its centurion's insignia and prison traps, takes corroded lockpicks from a cell, and helps kill a minotaur. He later promises to lay [[npcs/necropolis/captain-varro|Captain Varro]] to rest, after which Varro leaves the imperial armoury unlocked for the party.
 
 ## Relationships
 
@@ -66,3 +70,5 @@ Active.
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-054|Session 54]]
+- [[sessions/session-058|Session 58]]
+- [[sessions/session-059|Session 59]]

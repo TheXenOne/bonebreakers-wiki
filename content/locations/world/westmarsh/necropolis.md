@@ -24,6 +24,8 @@ source_sessions:
   - 53
   - 54
   - 55
+  - 58
+  - 59
 ---
 
 ## Overview
@@ -38,6 +40,7 @@ It is known for impossible architecture, ancient imperial markings, undead guard
 - That route opens into the Necropolis through the Nexus, a vast domed chamber with eight imperial archways.
 - [[npcs/necropolis/cornelius-vane|Cornelius Vane]] says he entered the Necropolis from Westmarsh through Arch VI and became trapped for what felt to him like eleven days, though he had entered six months earlier.
 - In [[sessions/session-051|Session 51]], the Bonebreakers follow Arch VI upward into a storm-lashed gatehouse and rampart, with Westmarsh visible beyond the walls.
+- The [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]] opens through a soul-bound vault into a command quarter of barracks, prisons, a mess hall, funerary rooms, and an armoury. This zone connects to one of the Nexus arches, but the party has not established which one.
 - Adventurers at [[locations/world/westmarsh/spiders-market|the Spider Market]] describe a western entrance several days west of the market, beyond outer walls and guarded by skeleton patrols.
 - A captured Grey Syndicate recruiter later places the Necropolis roughly 50 miles west of the Spider Market.
 
@@ -51,12 +54,12 @@ Pressing the eagle's gemstone eyes causes ash-like curtains across the arches to
 
 - [[locations/world/westmarsh/necropolis/arch-i|Arch I]]: A dark view of a buried city street with marching sounds. Skeletons emerge from this arch when the Nexus is first activated.
 - [[locations/world/westmarsh/necropolis/arch-ii|Arch II]]: A narrow corridor carved with reliefs that appear to record family histories or ancestral lines.
-- [[locations/world/westmarsh/necropolis/arch-iii|Arch III]]: A violet-lit, incense-scented passage whose visible mosaic shows the rise of the empire and gods giving fire to humanity.
+- [[locations/world/westmarsh/necropolis/arch-iii|Arch III]]: A violet-lit, incense-scented passage whose visible mosaic shows the rise of the empire and gods giving fire to humanity. Captain Varro says it leads to the temple district, where the high priest [[npcs/necropolis/valedictus|Valedictus]] “sees all.”
 - [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]]: A damp, lichen-covered route leading to the [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|Sunken Market]], where zombie merchants still trade, flooded routes are marked on a recovered map, and new hazards include serpents, snake-men, and dark druids of the Deep One.
 - [[locations/world/westmarsh/necropolis/arch-v|Arch V]]: A dry, dusty underground boulevard lined with old homes, zombie labourers, looping streets, the children's quarters, and endless restoration work tied to [[npcs/necropolis/the-bloated-one|the Bloated One]].
 - [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]]: A smoky corridor sloping upward to a storm-lashed gatehouse and outer wall. Cornelius Vane says this was his route in from Westmarsh, and the Bonebreakers' exploration supports that account.
 - [[locations/world/westmarsh/necropolis/arch-vii|Arch VII]]: A flickering arch showing a stone-cutting or construction area. This is the only arch the Bonebreakers have explored in depth.
-- [[locations/world/westmarsh/necropolis/arch-viii|Arch VIII]]: The northern arch, sealed when first discovered.
+- [[locations/world/westmarsh/necropolis/arch-viii|Arch VIII]]: The northern arch, sealed after something went wrong when the empire ended.
 
 ## Westmarsh rumours
 
@@ -73,7 +76,8 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 ## Associated people and groups
 
 - [[npcs/necropolis/cornelius-vane|Cornelius Vane]] is the first trapped explorer the Bonebreakers find inside the known route.
-- Valedictus wrote the iron-bound necromantic treatise found in Arch VII.
+- [[npcs/necropolis/captain-varro|Captain Varro]] is a weary wight officer who quietly assists the party in the command quarter.
+- [[npcs/necropolis/valedictus|Valedictus]] wrote the iron-bound necromantic treatise found in Arch VII. When the party asks Captain Varro which priest was involved in the evil done within the vault, he refuses to speak the answer and writes Valedictus's name instead.
 - Skeleton patrols, unnatural geometry, undead guardians, and necromantic relics all mark the site.
 - The Grey Syndicate has repeatedly tried to draw the Bonebreakers toward the western Necropolis entrance.
 
@@ -91,6 +95,8 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - In [[sessions/session-053|Session 53]], the party destroys the zombies that arrived after the Bloated One's death, finds a sash naming the Bloated One Senior Administrator of Residential District V, recovers a hidden locket and holy water from the Arch V shrine, and later learns that the Abyss predates the cathedral above it.
 - In [[sessions/session-054|Session 54]], the party enters [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]], finds a damp lichen-covered hall and a market street of zombie merchants, and obtains gems worth 380 gold pieces through a strange transaction.
 - In [[sessions/session-055|Session 55]], the party identifies the area as the [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|Sunken Market]], recovers the [[items/party-inventory/arch-iv-sunken-market-map|Arch IV Sunken Market Map]] from the counting house, defeats serpents and snake-men, and encounters [[factions/religions-and-cults/dark-druids-of-the-deep-one|dark druids of the Deep One]].
+- In [[sessions/session-058|Session 58]], the party finds the Imperial Hill Temple while crossing Westmarsh and discovers a soul-bound vault guarded by skeletal legionnaires and disenchanters.
+- In [[sessions/session-059|Session 59]], the party confirms that the site is a secret Necropolis entrance, maps the surrounding command quarter, meets Captain Varro, and learns more about Valedictus and Arch VIII. Secret passages also lead into the separate district containing the [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]]. The session ends when the party triggers a poisonous-gas trap while looting the armoury.
 
 ## Related sessions
 
@@ -110,11 +116,13 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-055|Session 55]]
+- [[sessions/session-058|Session 58]]
+- [[sessions/session-059|Session 59]]
 
 ## Unresolved threads or mysteries
 
 - Arch VII remains the only arch explored in depth, but Arch V, Arch VI, and now Arch IV are increasingly mapped.
-- Arch VIII was sealed when first discovered.
+- Arch VIII was sealed after something went wrong when the empire ended, but what happened remains unknown.
 - The full scale of the Necropolis and the reason the Mercy route reaches it remain unresolved.
 - Arch VI appears to confirm the western outer entrance, but whether the western dome reported by adventurers is the Nexus or another dome remains unresolved.
 - Whether the Ikiria undead and planted Westmarsh coins are directly connected to the Necropolis remains unresolved.
@@ -127,3 +135,11 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - The Sunken Market in Arch IV can apparently produce real goods and treasure, but its rules and risks remain unclear.
 - The Sunken Market map marks flooded routes, a dangerous channel after dark, fishermen's quarters, and something in the sump that is not a fish.
 - The dark druids of the Deep One are active inside Arch IV, but their origin and purpose remain unknown.
+- The identity of the prominent family in the Imperial Family Tomb and the purpose of its guardians' missing reliquaries remain unknown.
+- The prison warning against trusting a halfling, the reworked halfling funerary carvings, and the threat to the vault remain unexplained.
+- Valedictus's fate and connection to the soul-bound vault remain unclear.
+- Captain Varro remains undead, and the Bonebreakers have promised to lay him to rest.
+- [[npcs/necropolis/valedictus|Valedictus]] is the high priest in Arch III's temple district and is said to “see all,” but his present condition remains unknown.
+- The command quarter reached through the Imperial Hill Temple connects to one of the Nexus arches. Arch I or Arch II appear most likely, but the exact connection remains unknown.
+- Varro says the Imperial Family Tomb belongs to a separate district from his command quarter; why secret passages connect the two remains unknown.
+- The party is endangered by poisonous gas in the command-quarter armoury.

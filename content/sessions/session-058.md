@@ -75,7 +75,7 @@ Frank and Barny begin their approach, but Barny's attempt to tie up one skeleton
 - The party is travelling toward the Necropolis from Westmarsh, but the Mercy trapdoor may be inaccessible because they spiked it shut from below. Status: Still unresolved.
 - The identity of the soul bound to the temple's locked box or codex, and the relationship between the box and the disenchanters' dream, remain unknown. Status: Still unresolved.
 - Barny has concealed the soul-binding nature of the box from the rest of the party. Status: Still unresolved.
-- Both disenchanters have been dealt with. Status: Resolved in Session 58.
+- Both disenchanters have been dealt with. Status: Resolved in Session 59, when the remaining disenchanter is killed.
 - Selvar's sword has lost its enchantment. Whether that effect can be reversed: Needs review.
 
 ## Related sessions

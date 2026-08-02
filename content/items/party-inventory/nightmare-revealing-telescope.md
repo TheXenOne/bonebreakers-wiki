@@ -7,6 +7,7 @@ tags:
 source_sessions:
   - 32
   - 58
+  - 59
 ---
 
 ## Overview
@@ -23,6 +24,7 @@ The Nightmare-Revealing Telescope is one of the strangest treasures taken from t
 - In [[sessions/session-032|Session 32]], the party finds the telescope on the balcony outside the observatory.
 - Barny experiments with it, learns what it does, and later carries it out during the manor's collapse.
 - In [[sessions/session-058|Session 58]], Barny aims it at disenchanters in an imperial ruin and sees that they dream of a soul contained within a codex.
+- In [[sessions/session-059|Session 59]], Barny aims it at the twenty-four wights guarding the [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]] and sees them dreaming of reliquaries they no longer wear. One sarcophagus occupant dreams of power and wealth.
 
 ## Current status
 
@@ -32,3 +34,4 @@ Barny is the last clearly known bearer.
 
 - [[sessions/session-032|Session 32]]
 - [[sessions/session-058|Session 58]]
+- [[sessions/session-059|Session 59]]

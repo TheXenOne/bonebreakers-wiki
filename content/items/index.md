@@ -19,6 +19,7 @@ Named magic items, relics, treasures, and notable party-held objects.
 - [[items/bloated-one-work-ledger|Bloated One Work Ledger]]
 - [[items/party-inventory/cursed-imperial-armour|Cursed Imperial Armour]]
 - [[items/party-inventory/gnomish-power-cores|Gnomish Power Cores]]
+- [[items/imperial-command-quarter-map|Imperial Command-Quarter Map]]
 - [[items/party-inventory/massive-crossbow|Massive Crossbow]]
 - [[items/party-inventory/necropolis-divine-idols|Necropolis Divine Idols]]
 - [[items/reserved-carved-mask|Reserved Carved Mask]]

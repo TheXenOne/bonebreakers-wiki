@@ -62,10 +62,11 @@ source_sessions:
     56,
     57,
     58,
+    59,
   ]
 ---
 
-<svg viewBox="0 0 1000 15870" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
+<svg viewBox="0 0 1000 16120" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
 <defs>
 <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
 <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.22" />
@@ -75,10 +76,10 @@ source_sessions:
 <stop offset="100%" stop-color="#4b5563" stop-opacity="0.7" />
 </linearGradient>
 </defs>
-<rect x="0" y="0" width="1000" height="15870" fill="transparent" />
+<rect x="0" y="0" width="1000" height="16120" fill="transparent" />
 <text x="170" y="86" fill="#f3f4f6" font-size="46" font-weight="800" font-family="ui-sans-serif, system-ui, sans-serif">CAMPAIGN TIMELINE</text>
-<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 58</text>
-<line x1="260" y1="160" x2="260" y2="15772" stroke="url(#spine)" stroke-width="2" />
+<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 59</text>
+<line x1="260" y1="160" x2="260" y2="16022" stroke="url(#spine)" stroke-width="2" />
 <g font-family="ui-sans-serif, system-ui, sans-serif">
 <text x="198" y="304" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S1</text>
 <text x="198" y="330" text-anchor="end" fill="#94a3b8" font-size="14">Undead</text>
@@ -722,5 +723,16 @@ source_sessions:
 <text x="336" y="15634" fill="#d6dee8" font-size="15">sabotages its portcullis and heads northwest. At an imperial ruin,</text>
 <text x="336" y="15656" fill="#d6dee8" font-size="15">soul-binding sigils and a vision of a soul held in a codex open</text>
 <text x="336" y="15678" fill="#d6dee8" font-size="15">a new mystery on the Necropolis approach.</text>
+<text x="198" y="15834" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S59</text>
+<text x="198" y="15860" text-anchor="end" fill="#94a3b8" font-size="14">Back entrance</text>
+<circle cx="260" cy="15842" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="260" cy="15842" r="6" fill="#cbd5e1"/>
+<rect x="304" y="15750" rx="26" ry="26" width="620" height="228" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<text x="336" y="15784" fill="#f3f4f6" font-size="24" font-weight="700">Questions for the dead reveal</text>
+<text x="336" y="15812" fill="#f3f4f6" font-size="24" font-weight="700">a secret way inside</text>
+<text x="336" y="15856" fill="#d6dee8" font-size="15">An imperial map confirms the hill ruin as a concealed Necropolis entrance.</text>
+<text x="336" y="15878" fill="#d6dee8" font-size="15">Captain Varro names Valedictus as the Arch III high priest and explains</text>
+<text x="336" y="15900" fill="#d6dee8" font-size="15">the sealed Eighth Wing. A guarded family tomb</text>
+<text x="336" y="15922" fill="#d6dee8" font-size="15">and a trapped armoury leave the party with new dangers below.</text>
 </g>
 </svg>
