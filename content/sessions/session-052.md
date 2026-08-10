@@ -18,7 +18,7 @@ Beyond the school, the district starts resisting ordinary exploration. The party
 
 The Bonebreakers then go back into Arch V and try to solve the loop rather than simply endure it. Steve erases the wall markings and draws a symmetrical arrow on the floor, opening the route to a note-covered foreman's station. There Frank reads the [[items/bloated-one-work-ledger|Bloated One work ledger]], a record of restoration work and annual inspections stretching back more than 2,000 years. One recent entry matters most: warm air and an anomaly behind the school, with an instruction not to report it to [[npcs/necropolis/the-tribune|the Tribune]].
 
-The party finally meets [[npcs/necropolis/the-bloated-one|the Bloated One]] in the unfinished halls beyond: a horse-sized, necrotic, swollen figure wrapped in deep robes. [[characters/active-players/connor/characters/cyder|Cyder]] tries to bluff it with a foreman's sash and a claim to be from Section 22, only to learn that Section 22 was demolished and reused for Section 12 because the restoration works have no fresh source of stone and keep cannibalising other parts of the city. Before fighting, the Bonebreakers return to the school to investigate the anomaly, find a maintenance passage behind it, and emerge directly behind the Bloated One. The "warm air" anomaly now seems likely to be the creature itself venting gas.
+The party finally meets [[npcs/necropolis/the-bloated-one|the Bloated One]] in the unfinished halls beyond: a horse-sized, necrotic, swollen figure wrapped in deep robes. [[characters/inactive-players/connor/characters/cyder|Cyder]] tries to bluff it with a foreman's sash and a claim to be from Section 22, only to learn that Section 22 was demolished and reused for Section 12 because the restoration works have no fresh source of stone and keep cannibalising other parts of the city. Before fighting, the Bonebreakers return to the school to investigate the anomaly, find a maintenance passage behind it, and emerge directly behind the Bloated One. The "warm air" anomaly now seems likely to be the creature itself venting gas.
 
 The ambush works almost too well. With Bless, Silence, Web, Mirror Image, and conjured snakes already in play, the Bonebreakers kill the Bloated One before it can properly respond. Its death still punishes them: the body explodes in necrotic force, catching [[characters/active-players/john/characters/micaelis|Micaelis]], Steve, [[characters/active-players/marta/characters/luthien|Luthien]], and [[characters/active-players/alessandro/characters/selvar|Selvar]]. Micaelis and Steve are hit hardest, suffering a rotting disease that will turn them into zombies if it drains their Constitution to zero. As the party starts searching the remains, eleven zombies arrive.
 
@@ -61,7 +61,7 @@ The ambush works almost too well. With Bless, Silence, Web, Mirror Image, and co
 - [[characters/active-players/deri/characters/francis-spencer-gray|Francis "Frank" Spencer Gray]]
 - [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve "Ligma" Smith]]
 - [[characters/active-players/alessandro/characters/selvar|Selvar]]
-- [[characters/active-players/connor/characters/cyder|Cyder]]
+- [[characters/inactive-players/connor/characters/cyder|Cyder]]
 - [[characters/active-players/john/characters/micaelis|Micaelis]]
 - [[characters/active-players/marta/characters/luthien|Luthien]]
 - [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barnobuck "Barny" the Bizarre]]

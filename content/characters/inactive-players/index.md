@@ -13,3 +13,4 @@ tags:
 - [[characters/inactive-players/don|Don]]
 - [[characters/inactive-players/vince|Vince]]
 - [[characters/inactive-players/james|James]]
+- [[characters/inactive-players/connor|Connor]]

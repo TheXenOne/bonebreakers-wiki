@@ -4,9 +4,10 @@ tags:
   - characters
 aliases:
   - characters/connor/characters
+  - characters/active-players/connor/characters
 
 ---
 
 ## Connor's Characters
 
-- [[characters/active-players/connor/characters/cyder|Cyder]]
+- [[characters/inactive-players/connor/characters/cyder|Cyder]]

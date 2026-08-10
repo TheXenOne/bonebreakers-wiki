@@ -24,7 +24,7 @@ The final move is into locked-down [[locations/world/agria/southlands/ikiria|Iki
 
 ## Important events
 
-- [[characters/active-players/connor/characters/cyder|Cyder]] casts Invisibility on [[characters/active-players/alessandro/characters/selvar|Selvar]] before the strike.
+- [[characters/inactive-players/connor/characters/cyder|Cyder]] casts Invisibility on [[characters/active-players/alessandro/characters/selvar|Selvar]] before the strike.
 - Sprites appear at camp during the night, and Selvar persuades them to create a distraction in the market.
 - [[characters/active-players/ben/characters/ulrich|Ulrich]] casts Silence on a rabbit, and Cyder turns it invisible, giving the party a strange but useful distraction tool.
 - Selvar and [[characters/active-players/marta/characters/luthien|Luthien]] trigger the assault on the orc tent, and group Sleep spells bring down the occupants.
@@ -61,7 +61,7 @@ The final move is into locked-down [[locations/world/agria/southlands/ikiria|Iki
 - [[npcs/agria/prince-arthurs-retinue/captain-hassock|Captain Hassock]]
 - [[npcs/west-fort/commander-valerius|Commander Valerius]]
 - [[npcs/agria/princess-agatha|Princess Agatha]]
-- [[characters/active-players/connor/characters/cyder|Cyder]]
+- [[characters/inactive-players/connor/characters/cyder|Cyder]]
 - [[characters/active-players/alessandro/characters/selvar|Selvar]]
 - [[characters/active-players/marta/characters/luthien|Luthien]]
 - [[characters/active-players/john/characters/micaelis|Micaelis]]

@@ -34,7 +34,6 @@ This section is organised by player. Each player page links to their character p
 - [[characters/active-players/alessandro|Alessandro]] - Selvar.
 - [[characters/active-players/laura|Laura]] - Rose.
 - [[characters/active-players/jaykob|Jaykob]] - Steve "Ligma" Smith, Wistor; bugbear, ogre, and sprite followers. Needs review on names.
-- [[characters/active-players/connor|Connor]] - Cyder.
 - [[characters/active-players/john|John]] - Micaelis.
 - [[characters/active-players/jennifer|Jennifer]] - Quak II!; her earlier character Quak! was a bard.
 - [[characters/active-players/david|David]] - Tobold Took.
@@ -50,3 +49,4 @@ This section is organised by player. Each player page links to their character p
 - [[characters/inactive-players/don|Don]] - Malakai.
 - [[characters/inactive-players/vince|Vince]] - Karsin.
 - [[characters/inactive-players/james|James]] - Eric.
+- [[characters/inactive-players/connor|Connor]] - Cyder.
