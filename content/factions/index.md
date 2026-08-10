@@ -16,6 +16,10 @@ Organisations, kingdoms, guilds, cults, institutions, and political powers that 
 
 - [[factions/noble-houses/tarantella-family|Tarantella Family]]
 
+## Necropolis factions
+
+- [[factions/necropolis/house-varrick|House Varrick]]
+
 ## Guilds and companies
 
 - [[factions/guilds-and-companies/east-agria-company|East Agria Company]]

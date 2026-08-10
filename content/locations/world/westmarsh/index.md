@@ -21,6 +21,7 @@ source_sessions:
   - 46
   - 58
   - 59
+  - 60
 ---
 
 ## Overview
@@ -42,6 +43,7 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 - [[locations/world/westmarsh/necropolis|The Necropolis]]
 - [[locations/world/westmarsh/imperial-hill-temple|The Imperial Hill Temple]], a concealed entrance into the Necropolis
 - [[locations/world/westmarsh/necropolis/imperial-family-tomb|The Imperial Family Tomb]]
+- [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]]
 
 ## Associated people and groups
 
@@ -56,6 +58,7 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 - By [[sessions/session-041|Session 41]] and later, the marsh is also tied to Necropolis exploration and rumours of a second entrance.
 - In [[sessions/session-058|Session 58]], the party finds a monumental imperial temple-like ruin while travelling northwest toward the Necropolis.
 - In [[sessions/session-059|Session 59]], the party confirms that the ruin is a concealed Necropolis entrance, meets Captain Varro, and explores a military command quarter within.
+- In [[sessions/session-060|Session 60]], the party learns about Valedictus's three phylacteries from Lord Varrick, crosses the Arch I drill yard, and returns to the Mercy through the Nexus.
 
 ## Related sessions
 
@@ -68,6 +71,7 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-058|Session 58]]
 - [[sessions/session-059|Session 59]]
+- [[sessions/session-060|Session 60]]
 
 ## Unresolved threads or mysteries
 

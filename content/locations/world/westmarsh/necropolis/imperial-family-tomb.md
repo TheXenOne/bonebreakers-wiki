@@ -12,7 +12,7 @@ source_sessions:
 
 ## Overview
 
-The Imperial Family Tomb is a vast domed chamber belonging to a different Necropolis district from [[npcs/necropolis/captain-varro|Captain Varro]]'s command quarter. The Bonebreakers reached it through secret passages behind the [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]], apparently discovering a concealed connection between the two districts. It holds twelve members of a prominent ancient imperial family and is guarded by twenty-four wights. The party withdrew after seeing the scale of its defences, leaving the tomb unexplored.
+The Imperial Family Tomb is a vast domed chamber belonging to a different Necropolis district from [[npcs/necropolis/captain-varro|Captain Varro]]'s command quarter. The Bonebreakers reached it through secret passages behind the [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]], apparently discovering a concealed connection between the two districts. It holds twelve members of a prominent ancient imperial family and is guarded by twenty-four wights. The party withdrew after seeing the scale of its defences, leaving the tomb unexplored. It is distinct from the later discovered [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]].
 
 ## Geography and layout
 

@@ -63,10 +63,11 @@ source_sessions:
     57,
     58,
     59,
+    60,
   ]
 ---
 
-<svg viewBox="0 0 1000 16120" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
+<svg viewBox="0 0 1000 16540" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
 <defs>
 <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
 <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.22" />
@@ -76,10 +77,10 @@ source_sessions:
 <stop offset="100%" stop-color="#4b5563" stop-opacity="0.7" />
 </linearGradient>
 </defs>
-<rect x="0" y="0" width="1000" height="16120" fill="transparent" />
+<rect x="0" y="0" width="1000" height="16540" fill="transparent" />
 <text x="170" y="86" fill="#f3f4f6" font-size="46" font-weight="800" font-family="ui-sans-serif, system-ui, sans-serif">CAMPAIGN TIMELINE</text>
-<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 59</text>
-<line x1="260" y1="160" x2="260" y2="16022" stroke="url(#spine)" stroke-width="2" />
+<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 60</text>
+<line x1="260" y1="160" x2="260" y2="16442" stroke="url(#spine)" stroke-width="2" />
 <g font-family="ui-sans-serif, system-ui, sans-serif">
 <text x="198" y="304" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S1</text>
 <text x="198" y="330" text-anchor="end" fill="#94a3b8" font-size="14">Undead</text>
@@ -734,5 +735,19 @@ source_sessions:
 <text x="336" y="15878" fill="#d6dee8" font-size="15">Captain Varro names Valedictus as the Arch III high priest and explains</text>
 <text x="336" y="15900" fill="#d6dee8" font-size="15">the sealed Eighth Wing. A guarded family tomb</text>
 <text x="336" y="15922" fill="#d6dee8" font-size="15">and a trapped armoury leave the party with new dangers below.</text>
+<text x="198" y="16106" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S60</text>
+<text x="198" y="16132" text-anchor="end" fill="#94a3b8" font-size="14">Phylacteries</text>
+<circle cx="260" cy="16114" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="260" cy="16114" r="6" fill="#cbd5e1"/>
+<rect x="304" y="16010" rx="26" ry="26" width="620" height="316" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<text x="336" y="16044" fill="#f3f4f6" font-size="24" font-weight="700">Lord Varrick reveals</text>
+<text x="336" y="16072" fill="#f3f4f6" font-size="24" font-weight="700">Valedictus&apos;s phylacteries</text>
+<text x="336" y="16116" fill="#d6dee8" font-size="15">The undead noble warns that Valedictus has three phylacteries and may be</text>
+<text x="336" y="16138" fill="#d6dee8" font-size="15">the Grey Syndicate&apos;s target. He urges the party to find the Stylus, while</text>
+<text x="336" y="16160" fill="#d6dee8" font-size="15">a nightmare implicates the glowing skull Steve traded away.</text>
+<text x="336" y="16182" fill="#d6dee8" font-size="15">After crossing a drill yard of 300 skeletons, the party reaches the Nexus</text>
+<text x="336" y="16204" fill="#d6dee8" font-size="15">through Arch I and Wistor reopens the spiked trapdoor with Knock.</text>
+<text x="336" y="16226" fill="#d6dee8" font-size="15">The Bonebreakers return to the Mercy, where preparations begin</text>
+<text x="336" y="16248" fill="#d6dee8" font-size="15">for Luthien&apos;s funeral.</text>
 </g>
 </svg>

@@ -29,6 +29,7 @@ source_sessions:
   - 47
   - 53
   - 54
+  - 60
 ---
 
 ## Overview
@@ -74,10 +75,11 @@ The Syndicate is the main hidden enemy behind the Westfort sabotage arc and late
 - In [[sessions/session-044|Session 44]] to [[sessions/session-046|Session 46]], the Syndicate becomes directly tied to Arthur and succession intrigue in Agria.
 - In [[sessions/session-047|Session 47]], a captured recruiter describes the Syndicate as dispersed across Westmarsh with some Southlands presence, even after the party steals 20,000 gold meant for its operations.
 - In [[sessions/session-053|Session 53]], orcs from Westmarsh seize the Mercy and say they were ordered to delay the Bonebreakers. Kronk also says the earlier kidnapping of priests from the Mercy was Syndicate work, suggesting [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]] may have been working for them.
+- In [[sessions/session-060|Session 60]], [[npcs/necropolis/lord-varrick|Lord Varrick]] suggests that the Syndicate may be seeking [[npcs/necropolis/valedictus|Valedictus's]] necromantic power or may intend to destroy him. The party has no proof of either motive.
 
 ## Current status
 
-Active and still dangerous, despite losing money and Arthur's freedom in Session 47. The Syndicate now appears to have used orc forces against the Mercy at least twice, though the chain of command behind those raids remains unclear. The renewed siege of Westfort is also active by Session 54, but whether the Syndicate directs it remains unproven.
+Active and still dangerous, despite losing money and Arthur's freedom in Session 47. The Syndicate now appears to have used orc forces against the Mercy at least twice, though the chain of command behind those raids remains unclear. Valedictus may be one reason for its long-standing interest in the Necropolis, but that remains Lord Varrick's speculation. The renewed siege of Westfort is also active by Session 54, but whether the Syndicate directs it remains unproven.
 
 ## Related sessions
 
@@ -90,6 +92,7 @@ Active and still dangerous, despite losing money and Arthur's freedom in Session
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-053|Session 53]]
+- [[sessions/session-060|Session 60]]
 
 ## Unresolved threads
 
@@ -97,3 +100,4 @@ Active and still dangerous, despite losing money and Arthur's freedom in Session
 - The Syndicate's full leadership, reach, and long-term goals are still only partly known.
 - Whether the orc delay order was meant to keep the Bonebreakers away from Westfort, the Necropolis, or something else remains unresolved.
 - Whether the renewed Westfort siege is a Syndicate operation, a surviving Westmarsh military effort, or both remains unresolved.
+- Whether the Syndicate wants Valedictus's power or his destruction remains unresolved.

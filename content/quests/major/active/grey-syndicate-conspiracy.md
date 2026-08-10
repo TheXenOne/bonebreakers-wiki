@@ -20,6 +20,7 @@ related_sessions:
   - 47
   - 53
   - 54
+  - 60
 related_locations:
   - Westfort
   - Spider Market
@@ -32,6 +33,7 @@ related_npcs:
   - Vex
   - Prince Arthur
   - The Grey Khan
+  - Lord Varrick
 related_factions:
   - Grey Syndicate
   - Westfort Garrison
@@ -46,6 +48,7 @@ source_sessions:
   - 47
   - 53
   - 54
+  - 60
 ---
 
 ## Overview
@@ -65,10 +68,11 @@ The thread becomes visible when the party exposes Vex's sabotage cell in [[sessi
 - In [[sessions/session-047|Session 47]], the Bonebreakers rob a decoy market cell of 20,000 gold, learn the Syndicate is dispersed rather than centralised, and hear of renewed invasion plans at a hobgoblin fort. Needs review.
 - In [[sessions/session-053|Session 53]], captured orcs in the Mercy say they came from Westmarsh, were ordered to delay the Bonebreakers, and that the first priest kidnapping from the Mercy was also Syndicate work.
 - In [[sessions/session-054|Session 54]], news confirms that the renewed invasion of Westfort has become a siege. Whether the Syndicate directs the siege remains unresolved.
+- In [[sessions/session-060|Session 60]], [[npcs/necropolis/lord-varrick|Lord Varrick]] suggests that the Syndicate may be seeking Valedictus's necromantic power or may instead intend to destroy him. This is informed speculation rather than proof of the Syndicate's objective.
 
 ## Current status
 
-The Syndicate is still active. It loses money and Arthur as an ally in Session 47, but Ash remains at large and the network is still broad enough to threaten both Westmarsh and the Southlands. Session 53 shows the Syndicate or its allies can still strike at the Mercy and use orc forces to delay the party. The renewed siege of Westfort may be connected to the same network, but that link remains unproven.
+The Syndicate is still active. It loses money and Arthur as an ally in Session 47, but Ash remains at large and the network is still broad enough to threaten both Westmarsh and the Southlands. Session 53 shows the Syndicate or its allies can still strike at the Mercy and use orc forces to delay the party. Lord Varrick's speculation adds Valedictus as a possible Necropolis objective, but whether the Syndicate wants his power or his destruction remains unknown. The renewed siege of Westfort may be connected to the same network, but that link remains unproven.
 
 ## Consequences
 
@@ -107,6 +111,7 @@ The Syndicate is still active. It loses money and Arthur as an ally in Session 4
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-054|Session 54]]
+- [[sessions/session-060|Session 60]]
 
 ## Loose ends
 
@@ -114,3 +119,4 @@ The Syndicate is still active. It loses money and Arthur as an ally in Session 4
 - The Syndicate's next move after losing 20,000 gold and Arthur's protection is unresolved.
 - Whether the Session 53 delay order targeted Westfort, the Necropolis, or another objective remains unresolved.
 - Whether the renewed Westfort siege is under Syndicate direction remains unresolved.
+- Whether the Syndicate seeks Valedictus's necromantic power or intends to destroy him remains unresolved.

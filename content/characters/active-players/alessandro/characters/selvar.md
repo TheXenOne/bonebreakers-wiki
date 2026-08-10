@@ -18,6 +18,7 @@ source_sessions:
   - 54
   - 56
   - 58
+  - 60
 ---
 
 ## Overview
@@ -52,6 +53,7 @@ Needs review.
 - In [[sessions/session-054|Session 54]], he finishes reading the [[items/party-inventory/manual-of-strength|Manual of Strength]] and gains additional strength.
 - In [[sessions/session-056|Session 56]], he uses Mirror Image during the gryphon ambush, then subdues and binds one gryphon alive for the party's attempted [[quests/minor/active/gryphon-mounts|breeding and training plan]].
 - In [[sessions/session-058|Session 58]], a disenchanter in the [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]] removes the enchantment from his sword. Whether the loss is permanent: Needs review.
+- In [[sessions/session-060|Session 60]], gas from a broken jar temporarily paralyses Selvar until Arden removes the effect with healing magic.
 
 ## Relationships
 
@@ -72,3 +74,4 @@ Active. Selvar is affected by cursed ancient imperial armour, has gained strengt
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-056|Session 56]]
 - [[sessions/session-058|Session 58]]
+- [[sessions/session-060|Session 60]]

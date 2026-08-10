@@ -28,7 +28,7 @@ Further questions clarify other parts of the Necropolis. Varro says the Eighth W
 
 The Bonebreakers next enter another sleeping hall, where twelve skeletons sit among the personal effects of former soldiers. Micaelis approaches them as a fellow guard, but they attack immediately. Arden and [[characters/active-players/ben/characters/ulrich|Ulrich]] destroy ten with Turn Undead; Rose and Barny kill the remaining two. Among the dead soldiers' possessions, the party finds a child's letter containing only the word “Home.”
 
-The Bonebreakers ask Varro for a tour, and he guides them into a well-maintained imperial armoury. A gated section contains superior weapons, bows, fine plate armour, and a chest. He says that he cannot grant access, but deliberately leaves the armoury unlocked and admits he is very tired after Frank promises that the Bonebreakers will lay him to rest. The party takes weapons and armour and finds 800 gold pieces in the chest. Their looting triggers a trap, and the session ends as poisonous gas pours into the armoury.
+The Bonebreakers ask Varro for a tour, and he guides them into a well-maintained imperial armoury. A gated section contains superior weapons, bows, fine plate armour, and a chest. He says that he cannot grant access, but deliberately leaves the armoury unlocked and admits he is very tired after Frank promises that the Bonebreakers will lay him to rest. The party takes weapons and armour, and Frank opens the chest to find 800 gold pieces and a document that remains unread at the end of the session. Their looting triggers a trap, and the session ends as poisonous gas pours into the armoury.
 
 ## Important events
 
@@ -77,7 +77,7 @@ The Bonebreakers ask Varro for a tour, and he guides them into a well-maintained
 - A satchel under a loose prison flagstone contains 160 gold pieces.
 - The [[items/party-inventory/nightmare-revealing-telescope|Nightmare-Revealing Telescope]] shows the tomb guardians dreaming of missing reliquaries and one sarcophagus occupant dreaming of power and wealth.
 - A child's letter to an imperial soldier contains the single word “Home.”
-- The armoury contains superior weapons, bows, fine plate armour, and a chest holding 800 gold pieces.
+- The armoury contains superior weapons, bows, fine plate armour, and a chest holding 800 gold pieces and an unread document.
 - Poisonous gas is pouring into the armoury from a triggered trap.
 
 ## Threads raised this session
@@ -98,3 +98,4 @@ The Bonebreakers ask Varro for a tour, and he guides them into a well-maintained
 ## Related sessions
 
 - Previous: [[sessions/session-058|Session 58 - Luthien’s Last Journey]]
+- Next: [[sessions/session-060|Session 60 - The Secret We Sold]]

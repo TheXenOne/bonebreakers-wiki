@@ -17,6 +17,7 @@ source_sessions:
   - 53
   - 57
   - 58
+  - 60
 ---
 
 ## Overview
@@ -49,6 +50,7 @@ An unusually intelligent bear begins following Luthien after she speaks with it 
 - In [[sessions/session-053|Session 53]], she opens the hidden Arch V shrine cache, keeps the silver locket found inside, puts the Mercy orcs to sleep during the counterattack, befriends an unusually intelligent bear, and orders a fine bow in Barrow Spa.
 - In [[sessions/session-057|Session 57]], she scouts the Invasion Fort alone through its secret entrance, finds the early chambers nearly empty, and is seized by a mimic disguised as a chest near the western secret entrance.
 - In [[sessions/session-058|Session 58]], she escapes the mimic by slipping out of her glove, but a Krell paralyses and kills her before the party can reach her. The creature partly eats her body before it is killed, preventing Raise Dead from restoring her. Her belongings and what remains of her body are recovered.
+- In [[sessions/session-060|Session 60]], the Bonebreakers return to the Mercy and a waiting priest begins preparations for her funeral.
 
 ## Relationships
 
@@ -56,7 +58,7 @@ An unusually intelligent bear begins following Luthien after she speaks with it 
 
 ## Current status
 
-Dead. Her partly eaten remains are in the Bonebreakers' possession. Raise Dead cannot restore her; Reincarnation appears to be the only remaining possibility.
+Dead. Her partly eaten remains are in the Bonebreakers' possession, and preparations for her funeral have begun at the Mercy. Raise Dead cannot restore her. Whether her will asks for or permits Reincarnation: Needs review.
 
 ## Related sessions
 
@@ -68,3 +70,4 @@ Dead. Her partly eaten remains are in the Bonebreakers' possession. Raise Dead c
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-057|Session 57]]
 - [[sessions/session-058|Session 58]]
+- [[sessions/session-060|Session 60]]

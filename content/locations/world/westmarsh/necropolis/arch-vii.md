@@ -10,6 +10,7 @@ source_sessions:
   - 42
   - 43
   - 44
+  - 60
 ---
 
 ## Overview
@@ -40,11 +41,11 @@ Deeper in is a level chamber with smooth walls and a stone plinth. Chained to th
 
 ## Foundation Chamber
 
-The Foundation Chamber appears to be one of the deepest known points reached from Arch VII. Its walls are smooth through some older force rather than normal craft. At the centre is a shallow depression containing a skull, surrounded by iron stakes and severed chains.
+The Foundation Chamber appears to be one of the deepest known points reached from Arch VII. Its walls are smooth through some older force rather than normal craft. At the centre is a shallow depression containing [[items/glowing-skull|a glowing skull]], surrounded by iron stakes and severed chains.
 
 Writing around the chamber is pre-imperial and preserves a creation myth in which something made the world, regretted doing so, and has sought to undo it ever since. Frank identifies the script as older than the other imperial material the party has seen.
 
-The skull does not respond when [[characters/active-players/ben/characters/ulrich|Ulrich]] attempts to turn undead. Treasure found here includes pre-imperial coinage and a black stone ritual knife.
+The skull does not respond when [[characters/active-players/ben/characters/ulrich|Ulrich]] attempts to turn undead. Steve later trades it away at the Broken Crown. In [[sessions/session-060|Session 60]], Lord Varrick's warning about Valedictus's three phylacteries and a spirit's nightmare of the skull in lizardfolk hands strongly implicate it as one of those phylacteries. Treasure found in the chamber also includes pre-imperial coinage and a black stone ritual knife.
 
 ## Chimera section
 

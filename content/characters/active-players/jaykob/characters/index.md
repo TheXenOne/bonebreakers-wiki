@@ -10,3 +10,4 @@ aliases:
 ## Jaykob's Characters
 
 - [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve "Ligma" Smith]]
+- [[characters/active-players/jaykob/characters/wistor|Wistor]]

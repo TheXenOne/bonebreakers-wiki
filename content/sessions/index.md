@@ -65,3 +65,4 @@ Published session pages:
 - [[sessions/session-057|Session 57 - Siege and Secrets]]
 - [[sessions/session-058|Session 58 - Luthien’s Last Journey]]
 - [[sessions/session-059|Session 59 - Questions for the Dead]]
+- [[sessions/session-060|Session 60 - The Secret We Sold]]

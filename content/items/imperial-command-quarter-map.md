@@ -7,6 +7,7 @@ tags:
   - necropolis
 source_sessions:
   - 59
+  - 60
 ---
 
 ## Overview
@@ -22,16 +23,19 @@ The Imperial Command-Quarter Map charts the Necropolis rooms reached through the
 - A secret passage is shown in the barracks.
 - Another secret passage is shown within the mess hall.
 - Treasure is marked beneath a loose flagstone in one prison cell.
+- In [[sessions/session-060|Session 60]], the party uses the map to identify the drill-yard route as District One, Arch One, confirming that the command quarter connects to the Nexus through [[locations/world/westmarsh/necropolis/arch-i|Arch I]].
 
 ## Known history
 
 - In [[sessions/session-059|Session 59]], Micaelis examines the map while Varro temporarily leaves the mess hall.
 - The party uses its information to open the mess-hall secret passage and recover 160 gold pieces hidden in the prison.
+- In [[sessions/session-060|Session 60]], the map confirms the route back to the Nexus as District One, Arch One.
 
 ## Current status
 
-The party has inspected the map. Whether they took it from the mess hall: Needs review.
+The party can consult the map during its escape through District One. Its physical bearer: Needs review.
 
 ## Related sessions
 
 - [[sessions/session-059|Session 59]]
+- [[sessions/session-060|Session 60]]

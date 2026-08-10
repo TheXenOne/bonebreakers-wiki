@@ -24,6 +24,7 @@ source_sessions:
   - 51
   - 53
   - 54
+  - 60
 ---
 
 ## Overview
@@ -42,6 +43,7 @@ The cathedral later became the Church of the Crimson Flame and fell into corrupt
 - By [[sessions/session-051|Session 51]], the party has commissioned a hatch or abyss door to cover the basement opening and stores its pre-imperial coin cache in the cathedral vault.
 - In [[sessions/session-053|Session 53]], that trapdoor cannot be opened from below, briefly trapping the party while Grey Syndicate-linked orcs occupy the nave above.
 - In [[sessions/session-054|Session 54]], Frank commissions a moat around the Mercy and has the walls raised to 30 feet after the site's repeated attacks.
+- In [[sessions/session-060|Session 60]], Wistor opens the lower trapdoor with Knock after the party reaches the Nexus through Arch I. The Bonebreakers return through the well, close and spike the trapdoor again, and begin preparations for Luthien's funeral.
 
 ## Notable sublocations
 
@@ -72,6 +74,7 @@ The cathedral later became the Church of the Crimson Flame and fell into corrupt
 - Barny's library research confirms that the Abyss predates the cathedral, and that the original Bahal worshippers built a basement stairway over it because they feared it and believed it held power.
 - In [[sessions/session-054|Session 54]], the Bonebreakers hold a wake and ceremony for [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran "The Wolf"]] after his death on the road, and plan to commission a statue in his honour.
 - Frank commissions new defensive works: a moat and walls raised to 30 feet.
+- In [[sessions/session-060|Session 60]], the party returns from the Necropolis and a waiting priest begins preparations for [[characters/active-players/marta/characters/luthien|Luthien's]] funeral.
 
 ## Related sessions
 
@@ -85,6 +88,7 @@ The cathedral later became the Church of the Crimson Flame and fell into corrupt
 - [[sessions/session-051|Session 51]]
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-054|Session 54]]
+- [[sessions/session-060|Session 60]]
 
 ## Unresolved threads or mysteries
 

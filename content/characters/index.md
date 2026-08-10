@@ -30,10 +30,10 @@ This section is organised by player. Each player page links to their character p
 - [[characters/active-players/ben|Ben]] - Ulrich, Ike, Del; Fred.
 - [[characters/active-players/callum|Callum]] - Barny; Rhian, Rattius, and Krazak.
 - [[characters/active-players/deri|Deri]] - Frank, Akal Dreek; Merrick.
-- [[characters/active-players/marta|Marta]] - Luthien.
+- [[characters/active-players/marta|Marta]] - Luthien (dead), Nila.
 - [[characters/active-players/alessandro|Alessandro]] - Selvar.
 - [[characters/active-players/laura|Laura]] - Rose.
-- [[characters/active-players/jaykob|Jaykob]] - Steve "Ligma" Smith; bugbear, ogre, and sprite followers. Needs review on names.
+- [[characters/active-players/jaykob|Jaykob]] - Steve "Ligma" Smith, Wistor; bugbear, ogre, and sprite followers. Needs review on names.
 - [[characters/active-players/connor|Connor]] - Cyder.
 - [[characters/active-players/john|John]] - Micaelis.
 - [[characters/active-players/jennifer|Jennifer]] - Quak II!; her earlier character Quak! was a bard.

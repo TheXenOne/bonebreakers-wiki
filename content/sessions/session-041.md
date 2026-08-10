@@ -54,7 +54,7 @@ By the end of the session, the poisoned well has been explained, but the Mercy h
 - Frank climbs into an inverted chamber to recover another map, then lowers a rope for the others.
 - Steve breaks open the chains around an iron-bound treatise protected by soul-binding sigils and eight numbered compulsion plates.
 - Barny reads the treatise, learns that it was written by Valedictus, and gains `+1` Intelligence.
-- In the Foundation Chamber, the party finds a skull among severed restraints. A thrown rock is repelled, and Turn Undead produces no response.
+- In the Foundation Chamber, the party finds [[items/glowing-skull|a skull]] among severed restraints. A thrown rock is repelled, and Turn Undead produces no response.
 - Frank translates a pre-imperial creation myth in which the world's creator regrets its work and seeks to undo it.
 - Steve recovers pre-imperial coinage and a black stone ritual knife.
 
@@ -105,8 +105,8 @@ By the end of the session, the poisoned well has been explained, but the Mercy h
 - The immediate mystery of the Mercy's poisoned well is settled when the poison proves natural. Status: Resolved in Session 41.
 - Tobold's voice from below the cathedral remains unexplained. Status: Still unresolved.
 - The party discovers that the hidden route beneath the Mercy somehow enters the Necropolis, creating a major ongoing delve. Status: Partially resolved.
-- The Bonebreakers initially know [[npcs/necropolis/valedictus|Valedictus]] only as the name written on the necromantic treatise. In [[sessions/session-059|Session 59]], Captain Varro identifies him as the all-seeing high priest in [[locations/world/westmarsh/necropolis/arch-iii|Arch III]] and implies that he was involved in the evil the priests did within the vault. His precise actions and present condition remain unclear. Status: Partially resolved in Session 59.
-- The identity of the skull in the Foundation Chamber, what severed its restraints, and why the chamber repels interference remain unknown. Status: Still unresolved.
+- Valedictus is known only as the name written on the necromantic treatise. His identity, actions, and present condition remain unclear. Status: Still unresolved.
+- The identity of the Foundation Chamber skull, what severed its restraints, and why the chamber repels interference remain unknown. Status: Still unresolved.
 
 ## Related sessions
 

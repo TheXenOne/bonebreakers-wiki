@@ -26,6 +26,7 @@ related_sessions:
   - 55
   - 58
   - 59
+  - 60
 related_locations:
   - The Mercy
   - Necropolis
@@ -37,6 +38,7 @@ related_locations:
   - The Abyss
   - Imperial Hill Temple
   - Imperial Family Tomb
+  - House Varrick Tomb
 related_npcs:
   - Cornelius Vane
   - Tobold Took
@@ -46,6 +48,7 @@ related_npcs:
   - Crimson Bishop
   - Captain Varro
   - Valedictus
+  - Lord Varrick
 related_factions:
   - Bonebreakers
   - Dark Druids of the Deep One
@@ -66,6 +69,7 @@ source_sessions:
   - 55
   - 58
   - 59
+  - 60
 ---
 
 ## Overview
@@ -74,7 +78,7 @@ The party discovers that a section of the legendary [[locations/world/westmarsh/
 
 The renewed delve has widened the Necropolis from a buried dungeon into a half-understood civic ruin. [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]] appears to connect the [[locations/world/westmarsh/necropolis#The Nexus|Nexus]] to a western exterior gate, while [[locations/world/westmarsh/necropolis/arch-v|Arch V]] has revealed an undead restoration district with labourers, foremen, children's quarters, a schoolroom, hidden maintenance routes, and orders stretching back more than 2,000 years. Their push through Arch V has killed [[npcs/necropolis/the-bloated-one|the Bloated One]] and recovered new evidence about the district's administration. [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]] now opens onto the [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|Sunken Market]], a flooded market district where zombie merchants still trade, serpent pools punish broken routines, snake-men defend or patrol the counting house, and [[factions/religions-and-cults/dark-druids-of-the-deep-one|dark druids of the Deep One]] move through the stalls.
 
-The [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]] has now opened another Necropolis zone: an imperial command quarter connected to one of the Nexus arches. The exact arch remains unknown, though Arch I or Arch II appear most likely. Secret passages from the command quarter also reach the separate district containing the [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]].
+The [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]] has now opened another Necropolis zone: a District One command quarter connected to the Nexus through [[locations/world/westmarsh/necropolis/arch-i|Arch I]]. Secret passages from the command quarter also reach the separate [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]] and [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]].
 
 ## How it began
 
@@ -118,14 +122,17 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 - Varro says [[locations/world/westmarsh/necropolis/arch-viii|Arch VIII]] was sealed after something went wrong when the empire ended and identifies Valedictus as the all-seeing high priest in [[locations/world/westmarsh/necropolis/arch-iii|Arch III]]'s temple district.
 - Secret passages carry the party from Varro's command quarter into a separate district containing the [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]]. The tomb is guarded by twenty-four wights, and the party retreats rather than fight them.
 - Frank promises to lay Varro to rest. The party then loots the command-quarter armoury and triggers a poisonous-gas trap.
+- In [[sessions/session-060|Session 60]], the party survives the trap, recovers 1,980 gold pieces of military valuables and unpaid wages from a hidden room, and passes through a resin-filled embalming workshop into House Varrick Tomb.
+- [[npcs/necropolis/lord-varrick|Lord Varrick]] says Valedictus sought continental dominion, remains in power, possesses three phylacteries, and is connected to [[items/the-stylus|the Stylus]], which he advises the party to find.
+- A powerful incorporeal spirit cannot be turned or harmed. Ulrich permanently blinds it with Continual Light, and Barny's telescope shows it dreaming of [[items/glowing-skull|the glowing skull]] in lizardfolk hands, strongly implicating the skull as one of Valedictus's phylacteries.
+- The party crosses a drill yard containing 300 skeletons and enters the Nexus through Arch I, confirming the command quarter's connection.
+- Wistor opens the spiked Mercy trapdoor from below with Knock. The party returns to the Mercy, closes the trapdoor, and spikes it shut again.
 
 ## Current status
 
-Active as the current major arc. The party is inside the command-quarter armoury, where a trap has begun filling the room with poisonous gas. They entered this newly discovered Necropolis zone through the Imperial Hill Temple, but have not found its route to the Nexus or established which arch it joins.
+Active as the current major arc. The Bonebreakers have escaped the command quarter through Arch I and returned to the Mercy. Wistor's Knock spell proves the lower trapdoor can be reopened from the Nexus side, although the party has closed and spiked it again.
 
-The earlier route from beneath the Mercy reaches the Necropolis through a trapdoor in the Nexus. The Bonebreakers previously spiked that trapdoor shut from below, and it remains unclear whether they can reopen it and pass through toward the Mercy. Entering through the Imperial Hill Temple gives them another way into the Necropolis, but does not solve the closed trapdoor or provide a confirmed route back to the Mercy.
-
-The larger unresolved questions include Captain Varro's release, Valedictus and the priests' necromancy, the sealed Eighth Wing, the guarded Imperial Family Tomb, the Tribune, the restoration works, the Sunken Market, the dark druids, and the possible link between the Necropolis and the Crimson Bishop.
+The delve has produced a new central threat: Valedictus remains in power, possesses three phylacteries, and is connected to the unknown Stylus. The glowing skull that Steve traded away is strongly implicated as one phylactery, while the three-locked soul-bound chest may hold another. The larger unresolved questions also include Captain Varro's release, the sealed Eighth Wing, the guarded Imperial Family Tomb, House Varrick, the Tribune, the restoration works, the Sunken Market, the dark druids, and the possible link between the Necropolis and the Crimson Bishop.
 
 ## Consequences
 
@@ -142,6 +149,11 @@ The larger unresolved questions include Captain Varro's release, Valedictus and 
 - Captain Varro provides the party with its first cooperative ancient imperial officer and a new source of information about the city's fall.
 - Varro's refusal to speak Valedictus's name strengthens the mystery around the priest and the Necropolis's necromantic history. His answer implies that Valedictus was connected to whatever the priests did in the vault, but the nature of that connection remains unclear.
 - The Imperial Family Tomb adds a separate district containing twelve powerful interred figures and twenty-four active wight guardians to the known Necropolis.
+- The Arch I route establishes that the Imperial Hill Temple enters District One and gives the party a complete path from Westmarsh back to the Mercy.
+- Lord Varrick turns Valedictus from an obscure high priest into an active continental threat with three phylacteries and an unexplained connection to the Stylus.
+- The Tribune's sealing order confirms authority beyond the Arch V restoration works.
+- Ulrich's Continual Light leaves a powerful incorporeal spirit permanently blinded but still active in the command quarter.
+- Barny has permanently gained control of a wight and six skeletons, although whether they left the drill yard with him needs review.
 
 ## Related characters and NPCs
 
@@ -153,6 +165,7 @@ The larger unresolved questions include Captain Varro's release, Valedictus and 
 - [[npcs/mercy/crimson-bishop|Crimson Bishop]]
 - [[npcs/necropolis/captain-varro|Captain Varro]]
 - [[npcs/necropolis/valedictus|Valedictus]]
+- [[npcs/necropolis/lord-varrick|Lord Varrick]]
 
 ## Related locations
 
@@ -165,6 +178,8 @@ The larger unresolved questions include Captain Varro's release, Valedictus and 
 - [[locations/world/agria/southlands/the-abyss|The Abyss]]
 - [[locations/world/westmarsh/imperial-hill-temple|The Imperial Hill Temple]]
 - [[locations/world/westmarsh/necropolis/imperial-family-tomb|The Imperial Family Tomb]]
+- [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]]
+- [[locations/world/westmarsh/necropolis/arch-i|Arch I]]
 
 ## Related factions
 
@@ -189,6 +204,7 @@ The larger unresolved questions include Captain Varro's release, Valedictus and 
 - [[sessions/session-055|Session 55]]
 - [[sessions/session-058|Session 58]]
 - [[sessions/session-059|Session 59]]
+- [[sessions/session-060|Session 60]]
 
 ## Loose ends
 
@@ -209,12 +225,15 @@ The larger unresolved questions include Captain Varro's release, Valedictus and 
 - The after-dark channel and the thing in the sump remain unresolved.
 - The snake-men's role in the market remains unclear.
 - The origin, purpose, and loyalties of the dark druids of the Deep One remain unresolved.
-- The route from beneath the Mercy reaches the Nexus through a lower trapdoor that the party previously spiked shut from below. Whether they can reopen it and pass through toward the Mercy remains unresolved; the Imperial Hill Temple entrance does not answer that question.
+- The route from beneath the Mercy reaches the Nexus through a lower trapdoor that Wistor can reopen with Knock. The party has closed and spiked it again after returning home.
 - The Imperial Hill Temple is confirmed as part of the Necropolis, but the relationship between its soul-bound chest, the codex seen in the disenchanters' dreams, and Valedictus remains unresolved.
-- The command quarter connects to one of the Nexus arches. Arch I or Arch II appear most likely, but the exact route remains unknown.
+- The command quarter connects to the Nexus through Arch I.
 - The prison warning against trusting a halfling and the altered funerary carvings remain unexplained.
 - The Imperial Family Tomb belongs to a separate district reached through hidden passages from Varro's command quarter. The connection's purpose, the family's identity, and the purpose of its guardians' missing reliquaries remain unknown.
 - What happened in Arch VIII when the empire ended remains unknown.
-- Valedictus is the high priest in Arch III and is said to “see all,” but his nature and intentions remain unknown.
+- Valedictus is the high priest in Arch III, sought continental dominion, and possesses three phylacteries, but his present form and immediate intentions remain unknown.
 - Frank has promised to lay Captain Varro to rest.
-- The party must survive the poisonous gas filling the armoury.
+- The permanently blinded incorporeal spirit remains active in the command quarter.
+- The nature and location of the Stylus, the locations of Valedictus's three phylacteries, and the glowing skull's present location remain unresolved.
+- Whether the three-locked soul-bound chest contains another phylactery remains only a suspicion.
+- The other occupants of House Varrick Tomb and the subjects of Lord Varrick's rejected petitions remain unknown.

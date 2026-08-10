@@ -10,3 +10,4 @@ aliases:
 ## Marta's Characters
 
 - [[characters/active-players/marta/characters/luthien|Luthien]]
+- [[characters/active-players/marta/characters/nila|Nila]]

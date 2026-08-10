@@ -13,6 +13,7 @@ source_sessions:
   - 31
   - 38
   - 46
+  - 60
 ---
 
 ## Overview
@@ -43,6 +44,7 @@ Needs review.
 - Her reconnaissance is especially important in [[sessions/session-038|Session 38]].
 - She becomes a key part of many infiltration plans in the Westmarsh arc.
 - Remains present through [[sessions/session-046|Session 46]].
+- In [[sessions/session-060|Session 60]], Rose tries to feed an unfamiliar armadillo-like creature before it proves to be a rust monster and eats her spear. A later incorporeal spirit overwhelms her with supernatural terror and ages her by ten years.
 
 ## Relationships
 
@@ -50,7 +52,7 @@ Needs review.
 
 ## Current status
 
-Active.
+Active. She has been supernaturally aged by ten years.
 
 ## Related sessions
 
@@ -58,3 +60,4 @@ Active.
 - [[sessions/session-038|Session 38]]
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-060|Session 60]]

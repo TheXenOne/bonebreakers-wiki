@@ -22,6 +22,7 @@ source_sessions:
   - 56
   - 58
   - 59
+  - 60
 ---
 
 ## Overview
@@ -61,6 +62,7 @@ Magic-user.
 - In [[sessions/session-056|Session 56]], Barny poisons the party's final horse during a gryphon attack, helping kill three of the creatures when they bring it down. He is nearly killed after stabbing another with the [[items/party-inventory/red-seers-dagger|Red Seer's Dagger]], and the wounded gryphon escapes with the blade still lodged in it.
 - In [[sessions/session-058|Session 58]], Barny kills the Krell that ate Luthien's body, harvests its remains, locates the escaped gryphon through the Red Seer's Dagger, and discovers soul-binding magic in an imperial ruin. He conceals the magic's true purpose from the party and later sees a soul held in a codex through the Nightmare-Revealing Telescope.
 - In [[sessions/session-059|Session 59]], Barny answers [[npcs/necropolis/captain-varro|Captain Varro]]'s questions and exaggerates Agria's military strength, prompting Varro to leave an imperial map unguarded. He later uses the Nightmare-Revealing Telescope on the [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]], seeing its twenty-four wight guardians dream of missing reliquaries and one sarcophagus occupant dream of power and wealth.
+- In [[sessions/session-060|Session 60]], Barny uses the telescope on an incorporeal spirit and sees a glowing skull in lizardfolk hands, strengthening the party's belief that [[items/glowing-skull|the skull]] is one of Valedictus's phylacteries. He then consumes a Potion of Control Undead and permanently takes command of a wight and six skeletons in the Arch I drill yard.
 
 ## Relationships
 
@@ -70,7 +72,7 @@ Magic-user.
 
 ## Current status
 
-Active. He has located the gryphon carrying his Red Seer's Dagger and is concealing what he knows about the soul-bound box in the Imperial Hill Temple.
+Active. He has located the gryphon carrying his Red Seer's Dagger, is concealing what he knows about the soul-bound box in the Imperial Hill Temple, and has permanently gained control of a wight and six skeletons. Whether those undead followed him out of the drill yard: Needs review.
 
 ## Related sessions
 
@@ -85,3 +87,4 @@ Active. He has located the gryphon carrying his Red Seer's Dagger and is conceal
 - [[sessions/session-056|Session 56]]
 - [[sessions/session-058|Session 58]]
 - [[sessions/session-059|Session 59]]
+- [[sessions/session-060|Session 60]]

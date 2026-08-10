@@ -18,6 +18,7 @@ source_sessions:
   - 54
   - 56
   - 57
+  - 60
 ---
 
 ## Overview
@@ -54,6 +55,7 @@ Cleric of Belenus and Bishop of the Mercy.
 - In [[sessions/session-054|Session 54]], Bran dies covering Arden and Micaelis's retreat from twelve insectoid humanoids. Arden later leads Bran's wake at the Mercy and gains Bran's Heroic Aura as a spell in his honour.
 - In [[sessions/session-056|Session 56]], Arden uses Bran's Heroic Aura to protect the party's final horse during a gryphon ambush, helps blind two attackers, and heals Barny after a near-fatal blow. After the battle, he gives his own dead horse a proper burial.
 - In [[sessions/session-057|Session 57]], Arden casts Speak with Animals to stop thirteen starving dogs from attacking and persuades them to follow the party with a promise of food.
+- In [[sessions/session-060|Session 60]], Arden leads the exchange with [[npcs/necropolis/lord-varrick|Lord Varrick]], learning about [[npcs/necropolis/valedictus|Valedictus's]] three phylacteries and [[items/the-stylus|the Stylus]]. A rust monster destroys his magical mace completely.
 
 ## Relationships
 
@@ -75,3 +77,4 @@ Active. Arden remains Bishop of the Mercy and continues with the party in later 
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-056|Session 56]]
 - [[sessions/session-057|Session 57]]
+- [[sessions/session-060|Session 60]]

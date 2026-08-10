@@ -11,13 +11,14 @@ parent_location: "[[locations/world/agria/southlands/mercy|The Mercy]]"
 source_sessions:
   - 41
   - 53
+  - 60
 ---
 
 ## Overview
 
 The Abyss is the older underground opening beneath [[locations/world/agria/southlands/mercy|the Mercy]] that leads toward [[locations/world/westmarsh/necropolis|the Necropolis]]. It predates the cathedral above it. The church's original Bahal worshippers knew of it, feared it, believed it held power, and built a stairway over it in the basement.
 
-The Bonebreakers know it as both a practical route into the Necropolis and a dangerous choke point. By [[sessions/session-053|Session 53]], a trapdoor over the opening can keep people below from returning to the nave unless someone opens it from above.
+The Bonebreakers know it as both a practical route into the Necropolis and a dangerous choke point. A trapdoor over the opening can keep people below from returning to the nave, but [[characters/active-players/jaykob/characters/wistor|Wistor]] proves in [[sessions/session-060|Session 60]] that Knock can reopen it from beneath.
 
 ## Known history
 
@@ -32,6 +33,7 @@ The Bonebreakers know it as both a practical route into the Necropolis and a dan
 - In [[sessions/session-041|Session 41]], the Bonebreakers discover the hidden lower route beneath the Mercy and begin the Necropolis arc.
 - In [[sessions/session-053|Session 53]], the party tries to return from below and finds the trapdoor cannot be opened from their side while Grey Syndicate-linked orcs occupy the nave above.
 - Barny later researches the Mercy's history and confirms that the Abyss came first, with the cathedral and basement stairway built above it later.
+- In [[sessions/session-060|Session 60]], Wistor casts Knock on the trapdoor after the party returns to the Nexus through Arch I. The Bonebreakers climb into the Mercy's well, close the trapdoor, and spike it shut again.
 
 ## Associated locations
 

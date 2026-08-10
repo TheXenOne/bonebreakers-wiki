@@ -53,4 +53,5 @@ tags:
 - [[locations/world/westmarsh/imperial-hill-temple|The Imperial Hill Temple]]
 - [[locations/world/westmarsh/necropolis|The Necropolis]]
 - [[locations/world/westmarsh/necropolis/imperial-family-tomb|The Imperial Family Tomb]]
+- [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]]
 - [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|The Sunken Market]]

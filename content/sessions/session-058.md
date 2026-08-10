@@ -72,12 +72,13 @@ Frank and Barny begin their approach, but Barny's attempt to tie up one skeleton
 - Luthien is dead and her partly eaten body cannot be restored through Raise Dead. Reincarnation appears to be the only remaining way to return her to life. Status: Still unresolved.
 - The [[quests/major/active/renewed-siege-of-westfort|renewed siege of Westfort]] continues; the Bonebreakers have sabotaged the Invasion Fort's portcullis but have now left for the Necropolis. Status: Partially resolved.
 - The escaped gryphon carrying the Red Seer's Dagger has been located in a high mountain cave with other gryphons and eggs. Status: Still unresolved.
-- The party is travelling toward the Necropolis from Westmarsh, but the Mercy trapdoor may be inaccessible because they spiked it shut from below. Status: Still unresolved.
+- The party is travelling toward the Necropolis from Westmarsh, but the Mercy trapdoor may be inaccessible because they spiked it shut from below. Status: Resolved in [[sessions/session-060|Session 60]].
 - The identity of the soul bound to the temple's locked box or codex, and the relationship between the box and the disenchanters' dream, remain unknown. Status: Still unresolved.
 - Barny has concealed the soul-binding nature of the box from the rest of the party. Status: Still unresolved.
-- Both disenchanters have been dealt with. Status: Resolved in Session 59, when the remaining disenchanter is killed.
+- One disenchanter is dead, while the blinded survivor remains alive at the end of the session. Status: Still unresolved.
 - Selvar's sword has lost its enchantment. Whether that effect can be reversed: Needs review.
 
 ## Related sessions
 
 - Previous: [[sessions/session-057|Session 57 - Siege and Secrets]]
+- Next: [[sessions/session-059|Session 59 - Questions for the Dead]]
