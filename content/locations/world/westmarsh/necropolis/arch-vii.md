@@ -45,7 +45,7 @@ The Foundation Chamber appears to be one of the deepest known points reached fro
 
 Writing around the chamber is pre-imperial and preserves a creation myth in which something made the world, regretted doing so, and has sought to undo it ever since. Frank identifies the script as older than the other imperial material the party has seen.
 
-The skull does not respond when [[characters/active-players/ben/characters/ulrich|Ulrich]] attempts to turn undead. Steve later trades it away at the Broken Crown. In [[sessions/session-060|Session 60]], Lord Varrick's warning about Valedictus's three phylacteries and a spirit's nightmare of the skull in lizardfolk hands strongly implicate it as one of those phylacteries. Treasure found in the chamber also includes pre-imperial coinage and a black stone ritual knife.
+The skull does not respond when [[characters/active-players/ben/characters/ulrich|Ulrich]] attempts to turn undead. [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]] takes it from the chamber and later trades it away at the Broken Crown. In [[sessions/session-060|Session 60]], Lord Varrick's warning about Valedictus's three phylacteries and a spirit's nightmare of the skull in lizardfolk hands strongly implicate it as one of those phylacteries. Treasure found in the chamber also includes pre-imperial coinage and a black stone ritual knife.
 
 ## Chimera section
 

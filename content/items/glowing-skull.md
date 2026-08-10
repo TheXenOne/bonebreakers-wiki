@@ -18,7 +18,7 @@ The glowing skull is a relic found in the Foundation Chamber of [[locations/worl
 
 ## Known history
 
-- In [[sessions/session-041|Session 41]], the party finds the skull amid severed restraints. A thrown stone is repelled, while Turn Undead produces no response.
+- In [[sessions/session-041|Session 41]], the party finds the skull amid severed restraints. A thrown stone is repelled, Turn Undead produces no response, and [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]] takes it with him.
 - In [[sessions/session-046|Session 46]], [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]] trades the skull for masks at the Broken Crown in the Spider Market.
 - In [[sessions/session-060|Session 60]], Lord Varrick reveals that Valedictus has three phylacteries. Barny's Nightmare-Revealing Telescope then shows a powerful spirit dreaming of a glowing skull in lizardfolk hands, convincing the party that the traded skull is one of them.
 

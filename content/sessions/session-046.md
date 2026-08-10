@@ -12,13 +12,21 @@ See also: [[sessions/index|Sessions]], [[sessions/session-045|Session 45 - The S
 
 ## Narrative recap
 
-The Bonebreakers reach the edge of [[locations/world/westmarsh/spiders-market|The Spider Market]] with [[npcs/agria/prince-arthur|Prince Arthur]], [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]], and their Syndicate evidence still in play. Before they can use the market to make contact, [[characters/active-players/john/characters/micaelis|Micaelis]] finds the party and joins them, and the camp is stalked at night by a halfling who looks like [[characters/active-players/david/characters/tobold-took|Tobold]].
+The Bonebreakers camp outside [[locations/world/westmarsh/spiders-market|the Spider Market]] with [[npcs/agria/prince-arthur|Prince Arthur]], [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]], and Arthur's guards. Before they enter, [[characters/active-players/john/characters/micaelis|Micaelis]], a former city guard determined to prove the superiority of spears, finds the company and joins it.
 
-The resemblance is a trap. After the party subdues him, the halfling proves to be an assassin wearing Tobold's face and carrying gems and a map to the hobgoblin fortress. Arden bargains for the truth, and the assassin confirms the worst: Tobold is dead, tortured for information about the Bonebreakers but never broken. The assassin was hired to kill Wendell, had seen [[npcs/westmarsh/grey-syndicate/ash|Ash]] at [[locations/world/westmarsh/invasion-fort|the Invasion Fort]], and was told the party would be at the market. The Bonebreakers pay him as agreed and let him go.
+During the second watch, a halfling creeps toward the camp. Arden senses that he intends harm and raises the alarm. Ulrich blinds the intruder with Light, Arden fails to hold him with magic, and Steve's ogre hurls Steve bodily into him. Luthien tackles the halfling before he can escape, while Micaelis helps subdue him. The captive has [[characters/active-players/david/characters/tobold-took|Tobold's]] face, but is dressed as an assassin and shows no recognition of Barny.
 
-The next day, the party enters the market with Arthur and Wendell masked. They gather rumours from battered adventurers about a western entrance to [[locations/world/westmarsh/necropolis|The Necropolis]], skeleton patrols, and a great central dome that may connect to the route beneath [[locations/world/agria/southlands/mercy|The Mercy]]. Arden then confronts a watching orc about the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]], and the situation shifts when Arthur's identity is revealed. More orcs gather, and a formal meeting is arranged.
+A search finds gems worth 4,000 gold pieces and a map to the hobgoblin fortress. Arden offers the prisoner 2,000 gold pieces for the truth. The assassin admits that Tobold is dead: he saw the body after Tobold was tortured for information about the Bonebreakers but refused to break. He also reports seeing [[npcs/westmarsh/grey-syndicate/ash|Ash]] at [[locations/world/westmarsh/invasion-fort|the Invasion Fort]] two or three days earlier. Someone told him the party would be at the Spider Market and hired him specifically to kill Wendell, though he claims not to know why. The Bonebreakers honour the bargain, pay him, and let him go. Wendell insists he does not know why he is a target, while Arthur says he dealt only with Ash and never met the Grey Khan.
 
-At the meeting, Ash arrives with two orcs and a cart. She recognises that Luthien is controlling Arthur, offers 10,000 gold for Wendell, and then claims that she herself is [[npcs/westmarsh/grey-syndicate/the-grey-khan|the Grey Khan]]. The Bonebreakers push the price to 20,000 gold for an exchange the following day, but Ash says she will not personally attend. When she remains inside the market overnight, the party starts planning a silent strike in the one place where open violence could bring the whole market down on them.
+During the day, Steve enters the market to obtain disguises. At the Broken Crown, he trades the [[items/glowing-skull|glowing skull]] taken from the Foundation Chamber for masks. Barny meanwhile uses the crystal ball to inspect the Invasion Fort and sees preparations for another war, though the forces gathered there are much smaller than before.
+
+The Bonebreakers then enter the market with Arthur and Wendell disguised. Three battered adventurers tell Ulrich that their original group of seven tried to enter [[locations/world/westmarsh/necropolis|the Necropolis]] over its outer wall several days west of the market. Skeleton patrols killed four of them, but they saw a great dome within the walls that might connect to the route beneath [[locations/world/agria/southlands/mercy|the Mercy]]. Arden also confronts an orc who has been watching the party and asks openly whether he serves the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]]. The orc warns him to be quiet and repeats the Syndicate's earlier offer concerning entry to the Necropolis. When Arden exposes Arthur's identity, more orcs begin gathering, and the two sides agree to meet in the market the following day.
+
+Before leaving, Cyder and Barny each buy a wand, Arden buys an Amulet of Proof against Scrying, and Ulrich purchases a holy symbol that detects evil. Testing it reveals that Steve is extremely evil. The party camps outside the market again, then returns the next day with Luthien and Arthur walking ahead while Arthur's guards remain with Wendell at the camp.
+
+Ash arrives at the meeting with two orcs and a cart. She immediately recognises that Luthien is controlling Arthur and says the Grey Khan is too busy to attend. Ash offers 10,000 gold pieces for Wendell, but the Bonebreakers insist they will surrender him only to the Grey Khan in person. Ash responds by claiming that she is [[npcs/westmarsh/grey-syndicate/the-grey-khan|the Grey Khan]], and further bargaining raises the proposed payment to 20,000 gold pieces for an exchange the next day. She warns that she will not personally attend that exchange.
+
+The party allows Ash to end the meeting, then considers killing her guards quietly and capturing her. Ash does not leave the Spider Market, however, and remains within its protected ground overnight. The session ends with the Bonebreakers planning a silent strike inside a market where violence, broken bargains, and disclosed secrets are all punishable by death.
 
 ## Important events
 
@@ -26,23 +34,23 @@ At the meeting, Ash arrives with two orcs and a cart. She recognises that Luthie
 - A halfling creeps toward the camp during the night and is subdued.
 - The captive is revealed to be an assassin impersonating Tobold.
 - The assassin says Tobold is dead and that he was tortured for information but never broke.
-- The assassin was sent to kill Prince Arthur's secretary and is released after being paid for the truth.
+- The assassin says he saw Ash at the Invasion Fort, was told the Bonebreakers would be at the market, and was hired to kill Prince Arthur's secretary. He is paid 2,000 gold pieces and released.
+- Steve trades the glowing skull from the Foundation Chamber to the Broken Crown in exchange for masks.
 - Barny checks the invasion fort and sees fresh, though smaller, war preparations.
 - The party enters the Spider Market with Arthur and the secretary disguised behind masks.
-- A battered adventuring party reports a western necropolis entrance guarded by skeleton patrols.
-- Arden's confrontation with a watching orc leads to a formal meeting arrangement.
+- Three survivors of a seven-person adventuring party report a western Necropolis entrance, lethal skeleton patrols, and a great dome inside the outer walls.
+- Arden confronts a watching orc about the Grey Syndicate and exposes Arthur's identity, leading to a formal meeting arrangement.
 - Ulrich buys a holy symbol that detects evil and finds Steve to be extremely evil.
 - Ash returns in person at the arranged meeting.
 - Ash offers 10,000 gold for the secretary, then agrees to 20,000 gold for an exchange on the following day.
 - Ash claims that she herself is the Grey Khan.
-- The Bonebreakers let Ash leave and begin planning a silent strike inside the market.
+- The Bonebreakers allow the meeting to end, then discover that Ash remains inside the market and begin planning a silent strike there.
 
 ## Locations visited
 
 - The party camp near the Spider Market
 - The Spider Market
 - The Broken Crown traders
-- The western necropolis rumour route
 - The meeting place inside the market
 
 ## NPCs and characters involved
@@ -53,7 +61,6 @@ At the meeting, Ash arrives with two orcs and a cart. She recognises that Luthie
 - Prince Arthur
 - Ash
 - The Grey Khan
-- Gorm
 - The battered adventuring survivors
 - Cyder
 - Steve "Ligma" Smith
@@ -72,7 +79,7 @@ At the meeting, Ash arrives with two orcs and a cart. She recognises that Luthie
 ## Items, magic, and discoveries
 
 - The assassin carries 4,000 gold pieces in gems and a map to the hobgoblin fortress.
-- Steve trades a glowing skull for masks at the Broken Crown.
+- Steve trades the [[items/glowing-skull|glowing skull]] taken from Arch VII's Foundation Chamber for masks at the Broken Crown.
 - Barny sees renewed but reduced military preparations at the invasion fort.
 - The surviving adventurers report a western necropolis entrance and a central dome within the outer walls.
 - Cyder buys a wand, and Barny buys another wand.

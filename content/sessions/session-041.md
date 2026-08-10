@@ -32,7 +32,7 @@ Moving shadows follow the group toward Cartographer's Folly. In the next room, t
 
 The adjoining chamber is level again, with smooth walls and an iron-bound book chained to a stone plinth. Soul-binding sigils cover the book, and eight numbered iron plates around it bear compulsion runes. The door closes by itself behind the party, though Steve simply opens it again. After failing to pull the book free, Steve breaks the chains holding it shut. Barny determines that the text concerns necrotic magic, souls, and binding, then reads it as quickly as possible. He gains `+1` Intelligence and learns that the treatise was written by someone named [[npcs/necropolis/valedictus|Valedictus]]. At this point, the name means nothing more to the Bonebreakers.
 
-Beyond lies the Foundation Chamber, apparently the lowest point in this section of the complex. Its walls are smooth through some force other than ordinary craft. A skull rests in a shallow central depression, surrounded by iron stakes and chains that have already been severed. Steve throws a rock at the skull, but it is harmlessly repelled. Frank translates the surrounding pre-imperial writing as a creation myth in which a being made the world, regretted doing so, and has sought to undo it ever since. Ulrich attempts to Turn Undead, but nothing responds. Steve's search also uncovers 200 gold pieces of pre-imperial coinage and a [[items/party-inventory/black-stone-ritual-knife|black stone ritual knife]] worth 600 gold pieces.
+Beyond lies the Foundation Chamber, apparently the lowest point in this section of the complex. Its walls are smooth through some force other than ordinary craft. A skull rests in a shallow central depression, surrounded by iron stakes and chains that have already been severed. Steve throws a rock at the skull, but it is harmlessly repelled. Frank translates the surrounding pre-imperial writing as a creation myth in which a being made the world, regretted doing so, and has sought to undo it ever since. Ulrich attempts to Turn Undead, but nothing responds. Steve takes the [[items/glowing-skull|skull]] and searches the chamber, uncovering 200 gold pieces of pre-imperial coinage and a [[items/party-inventory/black-stone-ritual-knife|black stone ritual knife]] worth 600 gold pieces.
 
 By the end of the session, the poisoned well has been explained, but the Mercy has become an entrance to a vast buried city whose distorted architecture, broken restraints, and surviving necromantic writings point toward dangers far older than the cathedral above.
 
@@ -54,7 +54,7 @@ By the end of the session, the poisoned well has been explained, but the Mercy h
 - Frank climbs into an inverted chamber to recover another map, then lowers a rope for the others.
 - Steve breaks open the chains around an iron-bound treatise protected by soul-binding sigils and eight numbered compulsion plates.
 - Barny reads the treatise, learns that it was written by Valedictus, and gains `+1` Intelligence.
-- In the Foundation Chamber, the party finds [[items/glowing-skull|a skull]] among severed restraints. A thrown rock is repelled, and Turn Undead produces no response.
+- In the Foundation Chamber, the party finds [[items/glowing-skull|a skull]] among severed restraints. A thrown rock is repelled, Turn Undead produces no response, and Steve takes the skull.
 - Frank translates a pre-imperial creation myth in which the world's creator regrets its work and seeks to undo it.
 - Steve recovers pre-imperial coinage and a black stone ritual knife.
 
@@ -96,7 +96,7 @@ By the end of the session, the poisoned well has been explained, but the Mercy h
 - Cornelius's maps name places such as the Vault, the Twins, the Collapsed Nave, and the Chamber.
 - Frank finds another map in the inverted room beyond Cartographer's Folly.
 - The only information the Bonebreakers learn about [[npcs/necropolis/valedictus|Valedictus]] is that the name appears as the author of an iron-bound treatise concerning necrotic arts, souls, binding, and compulsion. Barny reads it and gains `+1` Intelligence.
-- The Foundation Chamber contains a skull surrounded by iron stakes and severed chains. A thrown stone is repelled, while Turn Undead produces no response.
+- The Foundation Chamber contains a skull surrounded by iron stakes and severed chains. A thrown stone is repelled, Turn Undead produces no response, and Steve takes the skull with him.
 - Steve recovers 200 gold pieces of pre-imperial coinage and a [[items/party-inventory/black-stone-ritual-knife|black stone ritual knife]] worth 600 gold pieces.
 - The Foundation Chamber's text preserves a pre-imperial creation myth in which the world's creator regrets making it and seeks to undo it.
 

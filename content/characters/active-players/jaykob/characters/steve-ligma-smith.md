@@ -57,7 +57,7 @@ Barbarian.
 - In [[sessions/session-054|Session 54]], Steve finishes reading the [[items/party-inventory/manual-of-strength|Manual of Strength]] and gains additional strength. He also plays along with a zombie merchant in [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]], paying two gold pieces and receiving gems worth 380 gold pieces.
 - In [[sessions/session-055|Session 55]], Steve smashes open the counting-house chests, helps fight the snake-men, and uses the chaotic tongue to prevent an immediate confrontation with the dark druids.
 - In [[sessions/session-056|Session 56]], he buys a [[items/party-inventory/massive-crossbow|massive crossbow]] that hits hard but is slow to use.
-- A [[items/glowing-skull|glowing skull]] that Steve traded for masks at the Broken Crown in [[sessions/session-046|Session 46]] is strongly implicated as one of Valedictus's phylacteries in [[sessions/session-060|Session 60]].
+- Steve takes a [[items/glowing-skull|glowing skull]] from Arch VII's Foundation Chamber in [[sessions/session-041|Session 41]] and trades it for masks at the Broken Crown in [[sessions/session-046|Session 46]]. In [[sessions/session-060|Session 60]], the skull is strongly implicated as one of Valedictus's phylacteries.
 
 ## Relationships
 
