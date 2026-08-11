@@ -11,6 +11,7 @@ source_sessions:
   - 41
   - 59
   - 60
+  - 61
 ---
 
 ## Overview
@@ -27,6 +28,7 @@ Valedictus is an ancient imperial high priest and necromancer connected to the d
 - In [[sessions/session-060|Session 60]], Lord Varrick says Valedictus rejected his petitions three times, ignored substantial opposition in the Imperial City, and sought to spread his dark arts and dominion across the continent.
 - Varrick warns that Agria's undead problem will worsen while Valedictus remains in power, reveals that Valedictus has three phylacteries, and advises the party to find [[items/the-stylus|the Stylus]].
 - The party strongly suspects that [[items/glowing-skull|the glowing skull]] found in Arch VII and later traded away is one of those phylacteries. They suspect the three-locked soul-bound chest beneath the Imperial Hill Temple may hold another, but have no proof.
+- In [[sessions/session-061|Session 61]], Barny clarifies that the probable skull phylactery is being studied closely by a lizardfolk shaman from an unidentified clan.
 
 ## Current status
 
@@ -44,6 +46,7 @@ Still in power according to Lord Varrick, though the Bonebreakers have not enter
 - [[sessions/session-041|Session 41]]
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-061|Session 61]]
 
 ## Open questions
 

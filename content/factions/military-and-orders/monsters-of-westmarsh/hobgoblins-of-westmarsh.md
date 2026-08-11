@@ -11,7 +11,7 @@ aliases:
 status: active
 primary_location: Westmarsh
 notable_members:
-  - Crowned hobgoblin officer
+  - Broken-crowned hobgoblin commander
 related_locations:
   - Westmarsh
   - Hobgoblin Mine
@@ -27,11 +27,12 @@ source_sessions:
   - 46
   - 54
   - 57
+  - 61
 ---
 
 ## Overview
 
-The hobgoblins of Westmarsh are the clearest organised monster army shown in the Westfort arc. They oversee mining and weapons production, hire mercenaries, and form the core of the invasion force aimed at [[locations/world/agria/west-fort|Westfort]]. Although the original invasion force was broken, they remain the organised enemy presence in the renewed siege, holding the far side of Westfort's western bridge and directing nightly food raids.
+The hobgoblins of Westmarsh are the clearest organised monster army shown in the Westfort arc. They oversee mining and weapons production, hire mercenaries, and form the core of the invasion force aimed at [[locations/world/agria/west-fort|Westfort]]. Although the original invasion force was broken, approximately ninety hobgoblins now form the core of the renewed siege under a commander wearing a broken crown.
 
 ## Purpose or role
 
@@ -39,13 +40,13 @@ They function as the main military organisers of the western invasion effort rat
 
 ## Leadership
 
-- An unnamed crowned hobgoblin officer is the most visible commander.
+- An unnamed hobgoblin wearing a broken crown is the most visible commander and still leads the siege force in Session 61.
 - Several other hobgoblin officers appear during the assault on the invasion fort.
 - Higher command beyond those officers is still unclear.
 
 ## Notable members
 
-- Crowned hobgoblin officer
+- Broken-crowned hobgoblin commander
 - Unnamed hobgoblin officers at the invasion fort
 
 ## Associated locations
@@ -69,10 +70,11 @@ They function as the main military organisers of the western invasion effort rat
 - In [[sessions/session-039|Session 39]] and [[sessions/session-040|Session 40]], the resulting invasion force attacks Westfort and is eventually broken.
 - In [[sessions/session-054|Session 54]], news from Westfort says the renewed siege still includes hobgoblins, along with goblins, ogres, and siege engines.
 - In [[sessions/session-057|Session 57]], hobgoblin envoys demand the Bonebreakers in exchange for a one-year truce. Goblin raiders working through southern mountain paths attack food shipments until the party blocks one route.
+- In [[sessions/session-061|Session 61]], the broken-crowned commander remains in charge of approximately ninety hobgoblins, including thirty archers and thirty melee troops. Three ogres operate two catapults and one ballista. The Bonebreakers ignite the northern of two prepared oil lines behind the army, sabotage one catapult, and draw fire from ten archers as a relief attack begins. The southern oil line remains unlit.
 
 ## Current status
 
-Active and besieging Westfort. Their forces hold the western approach and use goblin raiders to pressure the town's food supply. Surviving leadership and exact command structure: Needs review.
+Active and besieging Westfort. Approximately ninety hobgoblins remain under the broken-crowned commander, supported by three ogres and three siege engines. The Bonebreakers have ignited the northern oil line behind their position and disabled one catapult, while the southern line remains unlit. The battle remains unresolved. The commander's identity and higher command relationships: Needs review.
 
 ## Related sessions
 
@@ -84,9 +86,10 @@ Active and besieging Westfort. Their forces hold the western approach and use go
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-057|Session 57]]
+- [[sessions/session-061|Session 61]]
 
 ## Unresolved threads
 
 - Who ultimately directed the hobgoblin war effort remains unclear.
-- The surviving strength and leadership of their forces after the failed invasion are still unclear.
-- Whether they will act on the Bonebreakers' rejection of the surrender demand remains unresolved.
+- The broken-crowned commander's identity and place in the wider Westmarsh command structure remain unclear.
+- Whether the force can survive the Bonebreakers' fire plan and Westfort's intended counterattack remains unresolved.

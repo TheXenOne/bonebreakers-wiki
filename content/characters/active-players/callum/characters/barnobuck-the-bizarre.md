@@ -23,6 +23,7 @@ source_sessions:
   - 58
   - 59
   - 60
+  - 61
 ---
 
 ## Overview
@@ -63,6 +64,7 @@ Magic-user.
 - In [[sessions/session-058|Session 58]], Barny kills the Krell that ate Luthien's body, harvests its remains, locates the escaped gryphon through the Red Seer's Dagger, and discovers soul-binding magic in an imperial ruin. He conceals the magic's true purpose from the party and later sees a soul held in a codex through the Nightmare-Revealing Telescope.
 - In [[sessions/session-059|Session 59]], Barny answers [[npcs/necropolis/captain-varro|Captain Varro]]'s questions and exaggerates Agria's military strength, prompting Varro to leave an imperial map unguarded. He later uses the Nightmare-Revealing Telescope on the [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]], seeing its twenty-four wight guardians dream of missing reliquaries and one sarcophagus occupant dream of power and wealth.
 - In [[sessions/session-060|Session 60]], Barny uses the telescope on an incorporeal spirit and sees a glowing skull in lizardfolk hands, strengthening the party's belief that [[items/glowing-skull|the skull]] is one of Valedictus's phylacteries. He then consumes a Potion of Control Undead and permanently takes command of a wight and six skeletons in the Arch I drill yard.
+- In [[sessions/session-061|Session 61]], Barny clarifies that the lizardfolk figure in the nightmare was a shaman from an unidentified clan studying the skull closely. He scries on Westfort, blinds a bugbear during the party's approach, then uses Fly and blinds one of the ogres operating the siege engines during the relief attack.
 
 ## Relationships
 
@@ -88,3 +90,4 @@ Active. He has located the gryphon carrying his Red Seer's Dagger, is concealing
 - [[sessions/session-058|Session 58]]
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-061|Session 61]]

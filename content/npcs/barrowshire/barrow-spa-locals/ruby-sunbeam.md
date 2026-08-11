@@ -31,6 +31,7 @@ Cheerful, useful, practical, and dependable.
 ## Role in the campaign
 
 - Ruby is one of the party's most consistently helpful civilian contacts for money and trade.
+- The Bonebreakers regularly bring Ruby loot to sell, making the Bean Counter their routine destination for converting expedition finds into usable funds.
 
 ## Affiliations
 
@@ -47,7 +48,7 @@ Cheerful, useful, practical, and dependable.
 
 ## Campaign events
 
-- Ruby is part of the early Barrow Spa economy, later advises the party on imperial coinage in [[sessions/session-044|Session 44]], and hosts them again during the Wendell testimony preparations in [[sessions/session-047|Session 47]].
+- Ruby is part of the early Barrow Spa economy, handles the party's repeated loot sales, later advises them on imperial coinage in [[sessions/session-044|Session 44]], and hosts them during the Wendell testimony preparations in [[sessions/session-047|Session 47]].
 
 ## Current status
 

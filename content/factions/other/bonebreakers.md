@@ -23,6 +23,7 @@ source_sessions:
   - 45
   - 56
   - 60
+  - 61
 ---
 
 ## Overview
@@ -58,6 +59,7 @@ Leadership is shared and situational rather than strictly formal.
 - In [[sessions/session-044|Session 44]] to [[sessions/session-046|Session 46]], they hold politically dangerous evidence tied to Prince Arthur and the Syndicate.
 - In [[sessions/session-056|Session 56]], they capture two gryphons after a roadside ambush and commission harnesses and a wagon while exploring the possibility of breeding flying mounts.
 - In [[sessions/session-060|Session 60]], [[characters/active-players/marta/characters/nila|Nila]] and [[characters/active-players/jaykob/characters/wistor|Wistor]] join the company during its escape from the Necropolis command quarter. The party learns that Valedictus has three phylacteries, returns to the Mercy through Arch I, and begins preparations for Luthien's funeral.
+- In [[sessions/session-061|Session 61]], the company returns to Westfort despite public resentment, coordinates a relief plan with Commander Valerius, circles behind the siege army through Westmarsh, and begins an attack using fire and sabotage against the enemy siege engines.
 
 ## Current status
 
@@ -73,6 +75,7 @@ Active and increasingly influential.
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-056|Session 56]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-061|Session 61]]
 
 ## Unresolved threads
 

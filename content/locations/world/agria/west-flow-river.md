@@ -7,7 +7,8 @@ tags:
 aliases:
   - West Flow
 parent_location: "[[locations/world/agria|The Kingdom of Agria]]"
-source_sessions: []
+source_sessions:
+  - 61
 ---
 
 ## Overview
@@ -18,6 +19,7 @@ West Flow River is the ancient river beside [[locations/world/agria/west-fort|We
 
 - The river marks a defining frontier crossing between Agria and [[locations/world/westmarsh|Westmarsh]].
 - The bridge and flanking towers control one of the main routes into the western frontier.
+- The Bonebreakers find a ford north of Westfort while circling behind the besieging army.
 
 ## Associated people and groups
 
@@ -26,11 +28,11 @@ West Flow River is the ancient river beside [[locations/world/agria/west-fort|We
 
 ## Campaign events
 
-- Published lore ties the river closely to the frontier importance of [[locations/world/agria/west-fort|Westfort]], but no single session page is dedicated to it. Needs review.
+- In [[sessions/session-061|Session 61]], the Bonebreakers avoid Westfort's contested bridge by travelling north and fording the river westward into Westmarsh.
 
 ## Related sessions
 
-- Needs review.
+- [[sessions/session-061|Session 61]]
 
 ## Unresolved threads or mysteries
 

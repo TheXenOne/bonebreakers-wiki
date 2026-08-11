@@ -15,11 +15,12 @@ source_sessions:
   - 53
   - 54
   - 56
+  - 61
 ---
 
 ## Overview
 
-Micaelis is a fighter who joins near the Spider Market late in the Westmarsh arc. He is a disgraced city guard devoted to proving the supremacy of the spear. He survived [[npcs/necropolis/the-bloated-one|the Bloated One]]'s rotting disease after Ulrich cured him at the Mercy.
+Micaelis is a fighter who joins near the Spider Market late in the Westmarsh arc. He is a disgraced city guard devoted to proving the supremacy of the spear.
 
 ## Player
 
@@ -44,6 +45,7 @@ Needs review.
 - In [[sessions/session-053|Session 53]], he helps destroy the zombies after the Bloated One's death, is cured of the rotting disease by Ulrich after the party rests at the Mercy, and later collects a springy spear in Barrow Spa that may let him vault obstacles.
 - In [[sessions/session-054|Session 54]], he fights through the mantid-like ambush and escapes with Arden after Bran's last charge creates an opening.
 - In [[sessions/session-056|Session 56]], he leaps onto a gryphon to fight it at close quarters and is caught with the creatures when Fred casts Web.
+- In [[sessions/session-061|Session 61]], Micaelis carries two oil barrels behind the hobgoblin siege line under Invisibility and Arden's Silence and lays two long oil lines. He ignites the northern line while leaving the southern line unlit for later, then sabotages the first catapult without alerting the nearest ogre.
 
 ## Relationships
 
@@ -51,7 +53,7 @@ Needs review.
 
 ## Current status
 
-Active. No longer infected by the Bloated One's rotting disease.
+Active and inside the Westfort siege line after disabling one catapult.
 
 ## Related sessions
 
@@ -60,3 +62,4 @@ Active. No longer infected by the Bloated One's rotting disease.
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-056|Session 56]]
+- [[sessions/session-061|Session 61]]

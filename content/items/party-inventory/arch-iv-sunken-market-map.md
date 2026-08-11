@@ -26,7 +26,7 @@ The Arch IV Sunken Market Map is a hidden map recovered from a false base inside
 
 ## Known history
 
-- In [[sessions/session-055|Session 55]], [[characters/active-players/valerio/characters/paul|Paul]] inspects an already-open chest in the Sunken Market counting house, finds a hidden button in the base, and presses it.
+- In [[sessions/session-055|Session 55]], [[characters/inactive-players/valerio/characters/paul|Paul]] inspects an already-open chest in the Sunken Market counting house, finds a hidden button in the base, and presses it.
 - The button opens a false base containing the map.
 
 ## Current status

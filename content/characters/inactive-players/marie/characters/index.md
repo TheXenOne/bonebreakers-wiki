@@ -4,9 +4,10 @@ tags:
   - characters
 aliases:
   - characters/marie/characters
+  - characters/active-players/marie/characters
 
 ---
 
 ## Marie's Characters
 
-- [[characters/active-players/marie/characters/fred|Fred]]
+- [[characters/inactive-players/marie/characters/fred|Fred]]

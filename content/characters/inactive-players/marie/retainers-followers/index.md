@@ -4,6 +4,7 @@ tags:
   - characters
 aliases:
   - characters/marie/retainers-followers
+  - characters/active-players/marie/retainers-followers
 
 ---
 

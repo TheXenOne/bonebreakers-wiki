@@ -64,10 +64,11 @@ source_sessions:
     58,
     59,
     60,
+    61,
   ]
 ---
 
-<svg viewBox="0 0 1000 16540" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
+<svg viewBox="0 0 1000 16740" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
 <defs>
 <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
 <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.22" />
@@ -77,10 +78,10 @@ source_sessions:
 <stop offset="100%" stop-color="#4b5563" stop-opacity="0.7" />
 </linearGradient>
 </defs>
-<rect x="0" y="0" width="1000" height="16540" fill="transparent" />
+<rect x="0" y="0" width="1000" height="16740" fill="transparent" />
 <text x="170" y="86" fill="#f3f4f6" font-size="46" font-weight="800" font-family="ui-sans-serif, system-ui, sans-serif">CAMPAIGN TIMELINE</text>
-<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 60</text>
-<line x1="260" y1="160" x2="260" y2="16442" stroke="url(#spine)" stroke-width="2" />
+<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 61</text>
+<line x1="260" y1="160" x2="260" y2="16642" stroke="url(#spine)" stroke-width="2" />
 <g font-family="ui-sans-serif, system-ui, sans-serif">
 <text x="198" y="304" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S1</text>
 <text x="198" y="330" text-anchor="end" fill="#94a3b8" font-size="14">Undead</text>
@@ -749,5 +750,17 @@ source_sessions:
 <text x="336" y="16204" fill="#d6dee8" font-size="15">through Arch I and Wistor reopens the spiked trapdoor with Knock.</text>
 <text x="336" y="16226" fill="#d6dee8" font-size="15">The Bonebreakers return to the Mercy, where preparations begin</text>
 <text x="336" y="16248" fill="#d6dee8" font-size="15">for Luthien&apos;s funeral.</text>
+<text x="198" y="16440" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S61</text>
+<text x="198" y="16466" text-anchor="end" fill="#94a3b8" font-size="14">Relief attack</text>
+<circle cx="260" cy="16448" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="260" cy="16448" r="6" fill="#cbd5e1"/>
+<rect x="304" y="16342" rx="26" ry="26" width="620" height="272" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<text x="336" y="16376" fill="#f3f4f6" font-size="24" font-weight="700">Fire behind the siege line</text>
+<text x="336" y="16404" fill="#f3f4f6" font-size="24" font-weight="700">opens the relief attack</text>
+<text x="336" y="16448" fill="#d6dee8" font-size="15">With fifty defenders facing ninety hobgoblins and three siege engines,</text>
+<text x="336" y="16470" fill="#d6dee8" font-size="15">the party circles through Westmarsh and lays two oil lines behind the army.</text>
+<text x="336" y="16492" fill="#d6dee8" font-size="15">Micaelis lights the northern line and disables one catapult as the Bonebreakers</text>
+<text x="336" y="16514" fill="#d6dee8" font-size="15">begin the attack. Westfort has not yet charged, and the battle</text>
+<text x="336" y="16536" fill="#d6dee8" font-size="15">remains unresolved.</text>
 </g>
 </svg>

@@ -11,7 +11,7 @@ source_sessions:
 
 ## Overview
 
-The Ring of Invisibility is one of several magical items that [[npcs/barrowshire/barrow-spa-locals/aldrich|Aldrich]] identifies for the Bonebreakers in [[sessions/session-056|Session 56]]. It is carried by [[characters/active-players/valerio/characters/paul|Paul]] and can make its wearer invisible, although the precise limits of the effect are unclear.
+The Ring of Invisibility is one of several magical items that [[npcs/barrowshire/barrow-spa-locals/aldrich|Aldrich]] identifies for the Bonebreakers in [[sessions/session-056|Session 56]]. It is carried by [[characters/inactive-players/valerio/characters/paul|Paul]] and can make its wearer invisible, although the precise limits of the effect are unclear.
 
 ## Known properties
 

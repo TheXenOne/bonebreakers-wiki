@@ -4,6 +4,7 @@ tags:
   - characters
 aliases:
   - characters/valerio/retainers-followers
+  - characters/active-players/valerio/retainers-followers
 
 ---
 

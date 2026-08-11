@@ -37,8 +37,6 @@ This section is organised by player. Each player page links to their character p
 - [[characters/active-players/john|John]] - Micaelis.
 - [[characters/active-players/jennifer|Jennifer]] - Quak II!; her earlier character Quak! was a bard.
 - [[characters/active-players/david|David]] - Tobold Took.
-- [[characters/active-players/marie|Marie]] - Fred.
-- [[characters/active-players/valerio|Valerio]] - Paul.
 
 ## Inactive Players
 
@@ -50,3 +48,5 @@ This section is organised by player. Each player page links to their character p
 - [[characters/inactive-players/vince|Vince]] - Karsin.
 - [[characters/inactive-players/james|James]] - Eric.
 - [[characters/inactive-players/connor|Connor]] - Cyder.
+- [[characters/inactive-players/marie|Marie]] - Fred.
+- [[characters/inactive-players/valerio|Valerio]] - Paul.

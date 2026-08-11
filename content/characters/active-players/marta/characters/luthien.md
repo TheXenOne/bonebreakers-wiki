@@ -18,11 +18,12 @@ source_sessions:
   - 57
   - 58
   - 60
+  - 61
 ---
 
 ## Overview
 
-Luthien was an elf adventurer with bluntly power-seeking ambitions. She was killed by a Krell inside [[locations/world/westmarsh/invasion-fort|the Invasion Fort]] in [[sessions/session-058|Session 58]]. The creature partly devoured her body before the Bonebreakers could recover it, ruling out Raise Dead. Reincarnation appears to be the only remaining way to return her to life.
+Luthien was an elf adventurer raised in a sheltered village she disliked. Ambitious and openly hungry for power, she left home to seek a less constrained life and became a long-serving member of the Bonebreakers.
 
 ## Player
 
@@ -51,6 +52,8 @@ An unusually intelligent bear begins following Luthien after she speaks with it 
 - In [[sessions/session-057|Session 57]], she scouts the Invasion Fort alone through its secret entrance, finds the early chambers nearly empty, and is seized by a mimic disguised as a chest near the western secret entrance.
 - In [[sessions/session-058|Session 58]], she escapes the mimic by slipping out of her glove, but a Krell paralyses and kills her before the party can reach her. The creature partly eats her body before it is killed, preventing Raise Dead from restoring her. Her belongings and what remains of her body are recovered.
 - In [[sessions/session-060|Session 60]], the Bonebreakers return to the Mercy and a waiting priest begins preparations for her funeral.
+- In [[sessions/session-061|Session 61]], the party says that a tree has been planted for Luthien. Arden commissions Michelangelo to create a wooden memorial statue of her, although the final material may still change.
+- Luthien's will explicitly states that she does not want to be reincarnated.
 
 ## Relationships
 
@@ -58,7 +61,7 @@ An unusually intelligent bear begins following Luthien after she speaks with it 
 
 ## Current status
 
-Dead. Her partly eaten remains are in the Bonebreakers' possession, and preparations for her funeral have begun at the Mercy. Raise Dead cannot restore her. Whether her will asks for or permits Reincarnation: Needs review.
+Dead. Her partly eaten remains are in the Bonebreakers' possession, preparations for her funeral have begun at the Mercy, and a memorial statue has been commissioned in Barrow Spa. Raise Dead cannot restore her, and her will explicitly refuses Reincarnation.
 
 ## Related sessions
 
@@ -71,3 +74,4 @@ Dead. Her partly eaten remains are in the Bonebreakers' possession, and preparat
 - [[sessions/session-057|Session 57]]
 - [[sessions/session-058|Session 58]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-061|Session 61]]

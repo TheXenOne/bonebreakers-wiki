@@ -12,6 +12,7 @@ source_sessions:
   - 40
   - 47
   - 53
+  - 61
 ---
 
 ## Overview
@@ -34,6 +35,7 @@ The Crystal Ball is a remote-viewing magic item recovered from the [[locations/w
 - In [[sessions/session-040|Session 40]], Barny checks that Westfort still stands after the invasion battle.
 - In [[sessions/session-047|Session 47]], Barny uses it to confirm that the Invasion Fort is active again, though with reduced forces.
 - In [[sessions/session-053|Session 53]], Barny uses it to observe orcs occupying the Mercy, then charms the orc guarding the Abyss trapdoor so the party can escape from below.
+- In [[sessions/session-061|Session 61]], Barny uses it to inspect the renewed siege of Westfort. He finds the battle still stalemated but conditions inside the fort better than when the party last saw them, helping confirm that a relief attempt remains possible.
 
 ## Current status
 
@@ -48,3 +50,4 @@ The crystal ball remains in Barny's hands and continues to shape party decisions
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-053|Session 53]]
+- [[sessions/session-061|Session 61]]

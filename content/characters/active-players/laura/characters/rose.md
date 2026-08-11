@@ -14,6 +14,7 @@ source_sessions:
   - 38
   - 46
   - 60
+  - 61
 ---
 
 ## Overview
@@ -45,6 +46,7 @@ Needs review.
 - She becomes a key part of many infiltration plans in the Westmarsh arc.
 - Remains present through [[sessions/session-046|Session 46]].
 - In [[sessions/session-060|Session 60]], Rose tries to feed an unfamiliar armadillo-like creature before it proves to be a rust monster and eats her spear. A later incorporeal spirit overwhelms her with supernatural terror and ages her by ten years.
+- In [[sessions/session-061|Session 61]], Rose's opening arrow deals minor damage to one of the ogres operating the Westfort siege engines as the relief attack begins.
 
 ## Relationships
 
@@ -61,3 +63,4 @@ Active. She has been supernaturally aged by ten years.
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-061|Session 61]]

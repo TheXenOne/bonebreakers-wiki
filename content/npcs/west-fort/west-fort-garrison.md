@@ -17,11 +17,13 @@ source_sessions:
   - 38
   - 39
   - 40
+  - 57
+  - 61
 ---
 
 ## Overview
 
-This page groups the main named military figures tied to [[locations/world/agria/west-fort/index|Westfort]]. Borak's captured status after [[sessions/session-035|Session 35]] needs review.
+This page groups the main named military figures tied to [[locations/world/agria/west-fort/index|Westfort]]. Commander Valerius and Captain Rodrick remain the party's principal military contacts during the renewed siege, while Borak's captured status after [[sessions/session-035|Session 35]] needs review.
 
 ## Key figures
 
@@ -68,12 +70,14 @@ This page groups the main named military figures tied to [[locations/world/agria
 - Dara and Rodrick become key contacts in [[sessions/session-033|Session 33]].
 - Valerius dominates the later war preparation and siege arc.
 - In [[sessions/session-035|Session 35]], Borak attempts to silence Sarla and is captured.
+- In [[sessions/session-057|Session 57]], Rodrick and Valerius receive the hobgoblins' offer of a one-year truce in exchange for surrendering the Bonebreakers.
+- In [[sessions/session-061|Session 61]], Rodrick warns that many residents blame the party for Westfort's troubles. Valerius reports that only fifty defenders remain and agrees a relief plan in which the Bonebreakers light a fire behind the siege army before the garrison charges.
 
 ## Current status
 
 - Dara: alive.
-- Rodrick: alive.
-- Valerius: alive.
+- Rodrick: alive and serving at besieged Westfort.
+- Valerius: alive and commanding fifty remaining defenders during the relief attack.
 - Borak: captured status after Session 35 needs review.
 
 ## Related sessions
@@ -84,7 +88,10 @@ This page groups the main named military figures tied to [[locations/world/agria
 - [[sessions/session-038|Session 38]]
 - [[sessions/session-039|Session 39]]
 - [[sessions/session-040|Session 40]]
+- [[sessions/session-057|Session 57]]
+- [[sessions/session-061|Session 61]]
 
 ## Unresolved threads
 
 - Borak's eventual punishment is not shown.
+- Whether the garrison has launched its planned charge after the Bonebreakers' fire signal remains unresolved.

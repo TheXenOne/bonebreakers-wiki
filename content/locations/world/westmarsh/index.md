@@ -22,6 +22,7 @@ source_sessions:
   - 58
   - 59
   - 60
+  - 61
 ---
 
 ## Overview
@@ -33,6 +34,7 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 - The frontier crossing near [[locations/world/agria/west-fort|Westfort]] controls one of the main routes in.
 - The region contains monster markets, mines, invasion staging grounds, and [[locations/world/westmarsh/necropolis|the Necropolis]], whose true location is in Westmarsh even though the Bonebreakers first reach one entrance from beneath [[locations/world/agria/southlands/mercy|the Mercy]].
 - Travel is consistently described as dangerous and poorly controlled.
+- North of Westfort, the Bonebreakers find boggy wetlands, low shrubs, and few trees before fording the West Flow River into the region.
 
 ## Notable sublocations
 
@@ -59,6 +61,7 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 - In [[sessions/session-058|Session 58]], the party finds a monumental imperial temple-like ruin while travelling northwest toward the Necropolis.
 - In [[sessions/session-059|Session 59]], the party confirms that the ruin is a concealed Necropolis entrance, meets Captain Varro, and explores a military command quarter within.
 - In [[sessions/session-060|Session 60]], the party learns about Valedictus's three phylacteries from Lord Varrick, crosses the Arch I drill yard, and returns to the Mercy through the Nexus.
+- In [[sessions/session-061|Session 61]], the party circles north through the wetlands, fords the West Flow River, kills eleven bugbears at a camp six to eight miles from Westfort's bridge, and approaches the rear of the hobgoblin siege line.
 
 ## Related sessions
 
@@ -72,6 +75,7 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 - [[sessions/session-058|Session 58]]
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-061|Session 61]]
 
 ## Unresolved threads or mysteries
 

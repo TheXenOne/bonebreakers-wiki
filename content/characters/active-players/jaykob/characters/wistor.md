@@ -8,6 +8,7 @@ player: Jaykob
 status: active
 source_sessions:
   - 60
+  - 61
 ---
 
 ## Overview
@@ -30,6 +31,7 @@ Magic-user.
 - He tells Lord Varrick that the plague destroyed Westmarsh civilisation and that House Varrick is no longer remembered, then records the house's carved history.
 - A powerful incorporeal spirit drains four points of his Constitution after his breath weapon fails to harm it.
 - He casts Knock on the spiked lower trapdoor, allowing the party to return to the Mercy.
+- He kills three giant crabs with Lightning Bolt during the northern approach to Westfort and helps kill the bugbears that attack the party's camp. He attempts to question the final bugbear, but it refuses to speak.
 
 ## Current status
 
@@ -38,3 +40,4 @@ Active and travelling with the Bonebreakers. His Constitution has been reduced b
 ## Related sessions
 
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-061|Session 61]]

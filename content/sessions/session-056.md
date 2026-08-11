@@ -14,11 +14,11 @@ See also: [[sessions/index|Sessions]], [[sessions/session-055|Session 55 - Ambus
 
 The Bonebreakers leave [[locations/world/agria/southlands/mercy|the Mercy]] intending to return to the [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|Sunken Market]] with the means to explore its submerged areas. Their plan is to travel through [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]] and continue to [[locations/world/agria/west-fort|Westfort]], where they hope to buy potions of water breathing from [[npcs/west-fort/erasmus-vale|Erasmus Vale]].
 
-During the stop in Barrow Spa, the party shops for equipment and takes several magical finds to [[npcs/barrowshire/barrow-spa-locals/aldrich|Aldrich]] for identification. Among the items he identifies are a [[items/party-inventory/ring-of-invisibility|Ring of Invisibility]] and a [[items/party-inventory/venomous-dagger|Venomous Dagger]], which the party gives to [[characters/active-players/valerio/characters/paul|Paul]]. [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]] also buys a [[items/party-inventory/massive-crossbow|massive crossbow]] capable of inflicting heavy damage, although its slow handling makes it awkward in a fast fight.
+During the stop in Barrow Spa, the party shops for equipment and takes several magical finds to [[npcs/barrowshire/barrow-spa-locals/aldrich|Aldrich]] for identification. Among the items he identifies are a [[items/party-inventory/ring-of-invisibility|Ring of Invisibility]] and a [[items/party-inventory/venomous-dagger|Venomous Dagger]], which the party gives to [[characters/inactive-players/valerio/characters/paul|Paul]]. [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]] also buys a [[items/party-inventory/massive-crossbow|massive crossbow]] capable of inflicting heavy damage, although its slow handling makes it awkward in a fast fight.
 
 The party chooses [[locations/world/agria/west-fort|Westfort]] as its next destination, but the journey is cut short when nine gryphons dive out of the sky and tear through the party's horses. Only [[characters/active-players/ben/characters/ulrich|Ulrich]]'s horse survives the first attack. [[characters/active-players/ben-l/characters/arden-sable|Arden]] protects it with Bran's Heroic Aura long enough for Ulrich to dismount, while [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]] covers the animal in poison. [[characters/active-players/alessandro/characters/selvar|Selvar]] surrounds himself with mirror images and Paul disappears from sight before the gryphons strike again.
 
-The poisoned horse is killed, but three gryphons die from the poison after attacking it. Arden and Ulrich blind two more, and [[characters/active-players/marie/characters/fred|Fred]] traps the last four in a Web. The spell also catches [[characters/active-players/john/characters/micaelis|Micaelis]], who has leapt onto one of the creatures to attack it at close quarters. Barny drives the [[items/party-inventory/red-seers-dagger|Red Seer's Dagger]] into a gryphon, only to be struck so badly in return that he is left barely alive. Arden heals him before the fight can finish him.
+The poisoned horse is killed, but three gryphons die from the poison after attacking it. Arden and Ulrich blind two more, and [[characters/inactive-players/marie/characters/fred|Fred]] traps the last four in a Web. The spell also catches [[characters/active-players/john/characters/micaelis|Micaelis]], who has leapt onto one of the creatures to attack it at close quarters. Barny drives the [[items/party-inventory/red-seers-dagger|Red Seer's Dagger]] into a gryphon, only to be struck so badly in return that he is left barely alive. Arden heals him before the fight can finish him.
 
 The Bonebreakers turn the ambush into an opportunity. Ulrich chases down and subdues one gryphon, Selvar restrains another, and the party kills the remaining trapped attackers from a distance, with Fred landing the final blow against one of them. Six gryphons are killed, two are captured alive, and one escapes with the Red Seer's Dagger still lodged in it. Because the dagger can show Barny what its bearer sees, the escaped gryphon may still be watched through the weapon.
 
@@ -56,9 +56,9 @@ With nearly all their horses dead and two dangerous captives to manage, the part
 - [[characters/active-players/ben/characters/ulrich|Ulrich]]
 - [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barnobuck "Barny" the Bizarre]]
 - [[characters/active-players/alessandro/characters/selvar|Selvar]]
-- [[characters/active-players/valerio/characters/paul|Paul]]
+- [[characters/inactive-players/valerio/characters/paul|Paul]]
 - [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve "Ligma" Smith]]
-- [[characters/active-players/marie/characters/fred|Fred]]
+- [[characters/inactive-players/marie/characters/fred|Fred]]
 - [[characters/active-players/john/characters/micaelis|Micaelis]]
 
 ## Items, magic, and discoveries

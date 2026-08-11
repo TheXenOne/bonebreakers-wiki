@@ -66,3 +66,4 @@ Published session pages:
 - [[sessions/session-058|Session 58 - Luthien’s Last Journey]]
 - [[sessions/session-059|Session 59 - Questions for the Dead]]
 - [[sessions/session-060|Session 60 - The Secret We Sold]]
+- [[sessions/session-061|Session 61 - Through the Fire and Flames]]

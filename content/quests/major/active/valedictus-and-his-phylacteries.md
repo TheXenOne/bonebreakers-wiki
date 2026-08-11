@@ -14,6 +14,7 @@ related_sessions:
   - 46
   - 59
   - 60
+  - 61
 related_locations:
   - The Necropolis
   - Arch III
@@ -30,6 +31,7 @@ source_sessions:
   - 46
   - 59
   - 60
+  - 61
 ---
 
 ## Overview
@@ -48,13 +50,14 @@ The Bonebreakers first find Valedictus's necromantic treatise in [[sessions/sess
 - Varrick warns that Agria's undead problem will worsen while Valedictus remains in power.
 - Valedictus has three phylacteries.
 - The party strongly suspects that [[items/glowing-skull|the glowing skull]] found in Arch VII and traded away at the Spider Market is one phylactery.
+- In [[sessions/session-061|Session 61]], Barny clarifies that a lizardfolk shaman from an unidentified clan is studying the probable skull phylactery closely.
 - The party suspects the three-locked soul-bound chest beneath the Imperial Hill Temple may hold another, but has no proof.
 - Varrick advises the party to find the Stylus, but does not explain what it is or why it matters.
 - Lord Varrick suggests the Grey Syndicate may be seeking Valedictus's power or trying to destroy him. Their actual aim remains unknown.
 
 ## Current status
 
-Active. The Bonebreakers know that Valedictus is tied to Arch III and possesses three phylacteries, but they do not know his present form or the locations of all three. One probable phylactery has already passed out of their hands. The Stylus is a separate lead of uncertain importance.
+Active. The Bonebreakers know that Valedictus is tied to Arch III and possesses three phylacteries, but they do not know his present form or the locations of all three. One probable phylactery has passed out of their hands and is now being studied by an unidentified lizardfolk shaman. The Stylus is a separate lead of uncertain importance.
 
 ## Related characters and NPCs
 
@@ -81,12 +84,13 @@ Active. The Bonebreakers know that Valedictus is tied to Arch III and possesses 
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-061|Session 61]]
 
 ## Loose ends
 
 - Valedictus's present form, location within the temple district, and immediate intentions remain unknown.
 - The locations of Valedictus's three phylacteries remain unknown.
-- The glowing skull's route from the Broken Crown to lizardfolk hands remains unexplained.
+- The glowing skull's route from the Broken Crown to the lizardfolk shaman remains unexplained, as do the shaman's identity, clan, location, and purpose.
 - Whether the three-locked chest contains a phylactery remains only a suspicion.
 - The nature, location, function, and importance of the Stylus remain unknown.
 - Whether the Grey Syndicate seeks Valedictus's power or his destruction remains unresolved.

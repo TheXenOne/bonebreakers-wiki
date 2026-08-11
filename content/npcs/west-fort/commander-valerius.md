@@ -18,6 +18,7 @@ source_sessions:
   - 40
   - 47
   - 57
+  - 61
 ---
 
 ## Overview
@@ -57,10 +58,12 @@ Cynical, seasoned, and authoritative.
 - During the Westfort crisis, he prepares the fort for war and asks the party to find the kidnapped children while he handles the military response.
 - In [[sessions/session-047|Session 47]], he receives warning of renewed invasion preparations and sharply rebukes Steve after Steve kills prisoners to clear cell space.
 - In [[sessions/session-057|Session 57]], Valerius tells the party the western bridge is a no-man's land and the siege is stalemated while nightly goblin raids threaten Westfort's food. He confers with Captain Rodrick over the hobgoblins' demand for the Bonebreakers' surrender.
+- In [[sessions/session-061|Session 61]], Valerius meets the party outside Westfort and reports that his remaining force consists of ten archers, twenty soldiers, and twenty militia. They face roughly ninety hobgoblins and three ogres operating two catapults and a ballista.
+- He agrees that the Bonebreakers will circle behind the besiegers and start a large fire as the signal for Westfort to charge, then gives the party two barrels of oil. The fire is lit at dawn, but his forces remain inside the fort when the session ends.
 
 ## Current status
 
-Alive and commanding Westfort during the renewed siege.
+Alive and commanding Westfort during the renewed siege. His remaining fifty defenders are awaiting or responding to the Bonebreakers' signal for a relief attack; the battle's outcome remains unresolved.
 
 ## Related sessions
 
@@ -72,7 +75,8 @@ Alive and commanding Westfort during the renewed siege.
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-057|Session 57]]
+- [[sessions/session-061|Session 61]]
 
 ## Unresolved threads
 
-- The renewed siege and the secret surrender demand remain unresolved.
+- The renewed siege, the planned garrison charge, and the secret surrender demand remain unresolved.

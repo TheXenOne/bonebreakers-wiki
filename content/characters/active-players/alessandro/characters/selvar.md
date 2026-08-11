@@ -19,6 +19,7 @@ source_sessions:
   - 56
   - 58
   - 60
+  - 61
 ---
 
 ## Overview
@@ -54,6 +55,7 @@ Needs review.
 - In [[sessions/session-056|Session 56]], he uses Mirror Image during the gryphon ambush, then subdues and binds one gryphon alive for the party's attempted [[quests/minor/active/gryphon-mounts|breeding and training plan]].
 - In [[sessions/session-058|Session 58]], a disenchanter in the [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]] removes the enchantment from his sword. Whether the loss is permanent: Needs review.
 - In [[sessions/session-060|Session 60]], gas from a broken jar temporarily paralyses Selvar until Arden removes the effect with healing magic.
+- In [[sessions/session-061|Session 61]], Selvar puts three of eleven attacking bugbears to sleep. During the Westfort relief attack, Ulrich protects him with Fire Resistance, but a missed shot alerts ten hobgoblin archers and his Mirror Image makes him their most conspicuous target.
 
 ## Relationships
 
@@ -75,3 +77,4 @@ Active. Selvar is affected by cursed ancient imperial armour, has gained strengt
 - [[sessions/session-056|Session 56]]
 - [[sessions/session-058|Session 58]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-061|Session 61]]

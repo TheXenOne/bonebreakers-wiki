@@ -3,9 +3,12 @@ title: Fred
 type: character
 tags:
   - character
-  - player-character
+  - retired-player-character
 player: Marie
-status: active
+status: unknown
+aliases:
+  - characters/marie/characters/fred
+  - characters/active-players/marie/characters/fred
 source_sessions:
   - 54
   - 55
@@ -16,7 +19,7 @@ source_sessions:
 
 Fred is Marie's player character, a drow, and a new Bonebreaker in [[sessions/session-054|Session 54]]. He joins the travelling group from [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]] toward [[locations/world/agria/southlands/mercy|the Mercy]], fights twelve four-armed insectoid humanoids on the road, lands a solid melee blow, and is then cut down by their attacks.
 
-Fred is carried back to Barrow Spa with [[characters/active-players/valerio/characters/paul|Paul]] and resurrected. He spends the next two weeks recovering.
+Fred is carried back to Barrow Spa with [[characters/inactive-players/valerio/characters/paul|Paul]] and resurrected. He spends the next two weeks recovering.
 
 ## Player
 
@@ -44,11 +47,11 @@ Needs review.
 
 ## Relationships
 
-- Travels with [[characters/active-players/valerio/characters/paul|Paul]], [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]], [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran "The Wolf"]], and [[characters/active-players/john/characters/micaelis|Micaelis]] in Session 54.
+- Travels with [[characters/inactive-players/valerio/characters/paul|Paul]], [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]], [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran "The Wolf"]], and [[characters/active-players/john/characters/micaelis|Micaelis]] in Session 54.
 
 ## Current status
 
-Active after resurrection and recovery.
+Fred survived resurrection and recovery. His current whereabouts and activities are unknown. Needs review.
 
 ## Related sessions
 

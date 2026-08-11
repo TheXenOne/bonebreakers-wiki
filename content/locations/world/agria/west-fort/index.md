@@ -21,11 +21,12 @@ source_sessions:
   - 54
   - 56
   - 57
+  - 61
 ---
 
 ## Overview
 
-Westfort is a frontier settlement on Agria's western edge, guarding the crossing into [[locations/world/westmarsh|Westmarsh]]. It combines an old stone stronghold with later wooden reinforcement and houses both civilians and an undermanned garrison. The renewed siege has badly damaged its palisades, turned the western bridge into a no-man's land, and exposed its food supply to nightly goblin raids.
+Westfort is a frontier settlement on Agria's western edge, guarding the crossing into [[locations/world/westmarsh|Westmarsh]]. It combines an old stone stronghold with later wooden reinforcement and houses both civilians and an undermanned garrison. During the renewed siege, its remaining fifty defenders face approximately ninety hobgoblins, three ogres, two catapults, and one ballista. The Bonebreakers have begun a coordinated attack on the siege line, but the outcome remains unresolved.
 
 ## Geography and layout
 
@@ -61,6 +62,7 @@ Westfort is a frontier settlement on Agria's western edge, guarding the crossing
 - In [[sessions/session-054|Session 54]], Ulrich hears that the renewed invasion has become a siege. The enemy force is reduced from its earlier strength but still has siege engines and includes hobgoblins, goblins, and ogres.
 - In [[sessions/session-056|Session 56]], the Bonebreakers choose Westfort as their next destination, but a gryphon ambush kills their horses and forces them back to Barrow Spa before they arrive.
 - In [[sessions/session-057|Session 57]], they arrive on foot and find the siege threatening the town's food supply. Hobgoblin envoys demand the party's surrender for a one-year truce; the Bonebreakers refuse, ambush the nightly raiders, and leave to block their southern mountain route.
+- In [[sessions/session-061|Session 61]], Captain Rodrick warns that many residents blame the Bonebreakers for Westfort's troubles. Commander Valerius agrees a relief plan with the party and provides two barrels of oil. The Bonebreakers circle behind the enemy through Westmarsh, lay two oil lines, ignite the northern line as the attack signal, and disable the first catapult. The southern line remains unlit, and the garrison has not yet emerged when the session ends.
 
 ## Related sessions
 
@@ -74,9 +76,10 @@ Westfort is a frontier settlement on Agria's western edge, guarding the crossing
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-056|Session 56]]
 - [[sessions/session-057|Session 57]]
+- [[sessions/session-061|Session 61]]
 
 ## Unresolved threads or mysteries
 
-- Westfort survives the first invasion threat, but the renewed siege is active and unresolved.
-- One southern raiding route has been blocked, but whether this will stop the attacks or materially change the siege remains unresolved.
-- The people of Westfort do not know about the offer to trade the Bonebreakers for a one-year truce.
+- The renewed siege is active, and the Bonebreakers' relief attack has begun without yet determining the battle's outcome.
+- Many residents blame the Bonebreakers for the town's suffering. Whether they know about the offer to trade the party for a one-year truce remains unclear.
+- The identity and command relationships of the broken-crowned hobgoblin leader remain unknown.

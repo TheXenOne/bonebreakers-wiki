@@ -27,11 +27,12 @@ source_sessions:
   - 40
   - 54
   - 57
+  - 61
 ---
 
 ## Overview
 
-The Westfort Garrison is the undermanned military force defending [[locations/world/agria/west-fort|Westfort]] and its crossing into [[locations/world/westmarsh|Westmarsh]]. It is holding through a renewed siege despite damaged palisades, a contested western bridge, and nightly attacks on food shipments.
+The Westfort Garrison is the undermanned military force defending [[locations/world/agria/west-fort|Westfort]] and its crossing into [[locations/world/westmarsh|Westmarsh]]. Its remaining ten archers, twenty soldiers, and twenty militia are holding through a renewed siege and preparing to exploit the Bonebreakers' fire attack behind the enemy line.
 
 ## Purpose or role
 
@@ -69,10 +70,11 @@ It protects one of Agria's key frontier approaches and becomes central to the sa
 - In [[sessions/session-038|Session 38]] through [[sessions/session-040|Session 40]], the garrison prepares for and survives the attempted invasion.
 - In [[sessions/session-054|Session 54]], news from Westfort says the renewed invasion has become a stalemated siege. The enemy is reduced but still has siege engines and includes hobgoblins, goblins, and ogres.
 - In [[sessions/session-057|Session 57]], the garrison is patching damaged walls with carts and wagons. Captain Rodrick receives a demand to surrender the Bonebreakers for a one-year truce, while the party moves against goblin food raiders using the southern mountains.
+- In [[sessions/session-061|Session 61]], Captain Rodrick tells the returning Bonebreakers that many residents blame them for Westfort's troubles. Commander Valerius meets the party outside the walls, reports that only fifty defenders remain, and provides two barrels of oil for a coordinated relief plan. The garrison is meant to charge when the party starts a large fire behind the besieging army, but remains inside when the session ends.
 
 ## Current status
 
-Active and under siege. The garrison is holding, but its walls and food supply are under severe pressure.
+Active and under siege. Fifty defenders remain: ten archers, twenty soldiers, and twenty militia. The Bonebreakers have given the agreed fire signal, but the garrison has not yet launched its counterattack.
 
 ## Related sessions
 
@@ -84,8 +86,9 @@ Active and under siege. The garrison is holding, but its walls and food supply a
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-057|Session 57]]
+- [[sessions/session-061|Session 61]]
 
 ## Unresolved threads
 
 - Veteran Borak's ultimate fate after his exposure is not shown.
-- The fort survived the first war crisis, but the renewed siege remains unresolved.
+- The fort survived the first war crisis, but the renewed siege and planned counterattack remain unresolved.

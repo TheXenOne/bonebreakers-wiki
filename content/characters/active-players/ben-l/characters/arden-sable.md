@@ -19,6 +19,7 @@ source_sessions:
   - 56
   - 57
   - 60
+  - 61
 ---
 
 ## Overview
@@ -56,11 +57,13 @@ Cleric of Belenus and Bishop of the Mercy.
 - In [[sessions/session-056|Session 56]], Arden uses Bran's Heroic Aura to protect the party's final horse during a gryphon ambush, helps blind two attackers, and heals Barny after a near-fatal blow. After the battle, he gives his own dead horse a proper burial.
 - In [[sessions/session-057|Session 57]], Arden casts Speak with Animals to stop thirteen starving dogs from attacking and persuades them to follow the party with a promise of food.
 - In [[sessions/session-060|Session 60]], Arden leads the exchange with [[npcs/necropolis/lord-varrick|Lord Varrick]], learning about [[npcs/necropolis/valedictus|Valedictus's]] three phylacteries and [[items/the-stylus|the Stylus]]. A rust monster destroys his magical mace completely.
+- In [[sessions/session-061|Session 61]], Arden commissions [[npcs/barrowshire/barrow-spa-locals/michelangelo|Michelangelo]] to make a stone memorial statue of Bran and a provisionally wooden statue of Luthien. During the Westfort relief operation, he blinds a giant crab and casts Silence on the invisible Micaelis so he can lay the oil lines and sabotage a catapult undetected.
 
 ## Relationships
 
 - Public leader of the [[factions/religions-and-cults/belenites|Belenites]].
 - Closely linked with Bran, Cedric, and Tess. Bran's death becomes a major personal and religious memory for Arden at the Mercy.
+- Arden is now arranging permanent memorials for Bran and Luthien through Michelangelo's statues.
 - Often works alongside [[characters/active-players/deri/characters/francis-spencer-gray|Frank]] on public-facing schemes.
 
 ## Current status
@@ -78,3 +81,4 @@ Active. Arden remains Bishop of the Mercy and continues with the party in later 
 - [[sessions/session-056|Session 56]]
 - [[sessions/session-057|Session 57]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-061|Session 61]]

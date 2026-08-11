@@ -16,6 +16,7 @@ source_sessions:
   - 33
   - 40
   - 45
+  - 61
 ---
 
 ## Overview
@@ -43,7 +44,7 @@ Barrow Spa is the capital of Barrowshire and a luxury resort town built around c
 
 ## Associated people and groups
 
-- Calley O'Toole, Ruby Sunbeam, Amadeus Thud, Agar, Esme, Aldrich, Judas, Reginald, and Gus are recurring local figures.
+- Calley O'Toole, Ruby Sunbeam, Amadeus Thud, Agar, Esme, Aldrich, Judas, Reginald, Gus, and [[npcs/barrowshire/barrow-spa-locals/michelangelo|Michelangelo]] are recurring or useful local figures.
 - Jessum Tarantella seeks to restore his family name from here.
 
 ## Campaign events
@@ -51,6 +52,7 @@ Barrow Spa is the capital of Barrowshire and a luxury resort town built around c
 - The Bonebreakers begin the campaign here in [[sessions/session-001|Session 1]].
 - The town supports repeated expeditions into [[locations/world/agria/southlands/barrowshire/barrow|the Barrow]], [[locations/world/agria/southlands/barrowshire/tarantella-manor/jewellers-sanctum|the Jeweller's Sanctum]], and [[locations/world/agria/southlands/barrowshire/kelfrek-marsh/shrine-of-the-oozing-serpent|the Shrine of the Oozing Serpent]].
 - It remains a reliable stop for banking, healing, shopping, and regrouping throughout later arcs.
+- In [[sessions/session-061|Session 61]], the party returns while travelling to Westfort and commissions Michelangelo to sculpt memorial statues of Bran and Luthien.
 
 ## Related sessions
 
@@ -60,6 +62,7 @@ Barrow Spa is the capital of Barrowshire and a luxury resort town built around c
 - [[sessions/session-013|Session 13]]
 - [[sessions/session-033|Session 33]]
 - [[sessions/session-045|Session 45]]
+- [[sessions/session-061|Session 61]]
 
 ## Unresolved threads or mysteries
 

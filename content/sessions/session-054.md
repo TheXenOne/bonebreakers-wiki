@@ -12,7 +12,7 @@ See also: [[sessions/index|Sessions]], [[sessions/session-053|Session 53 - Orcs 
 
 ## Narrative recap
 
-Back in [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]], the Bonebreakers regroup with two new player characters: [[characters/active-players/marie/characters/fred|Fred]] and [[characters/active-players/valerio/characters/paul|Paul]]. [[characters/active-players/ben-l/characters/arden-sable|Arden]], [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran]], [[characters/active-players/john/characters/micaelis|Micaelis]], Fred, and Paul set out by road toward [[locations/world/agria/southlands/mercy|the Mercy]], intending to rejoin the rest of the party before another descent into [[locations/world/westmarsh/necropolis|the Necropolis]].
+Back in [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]], the Bonebreakers regroup with two new player characters: [[characters/inactive-players/marie/characters/fred|Fred]] and [[characters/inactive-players/valerio/characters/paul|Paul]]. [[characters/active-players/ben-l/characters/arden-sable|Arden]], [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran]], [[characters/active-players/john/characters/micaelis|Micaelis]], Fred, and Paul set out by road toward [[locations/world/agria/southlands/mercy|the Mercy]], intending to rejoin the rest of the party before another descent into [[locations/world/westmarsh/necropolis|the Necropolis]].
 
 On the road near the broad river that runs from Barrow Spa toward [[locations/world/agria/southlands/ikiria|Ikiria]], they come upon twelve four-armed insectoid humanoids carrying polearms and deep battle rucksacks. The group catches the creatures from behind, but the numbers look too dangerous for a clean fight. They try to flee instead, only to discover that the mantid-like warriors are impossibly fast. Arden's Hold Person fails completely, and even the party's horses cannot open enough distance.
 
@@ -70,8 +70,8 @@ Beyond the arch, they enter a vast moisture-dripping hall covered in lichen and 
 ## NPCs and characters involved
 
 - [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran "The Wolf"]]
-- [[characters/active-players/marie/characters/fred|Fred]]
-- [[characters/active-players/valerio/characters/paul|Paul]]
+- [[characters/inactive-players/marie/characters/fred|Fred]]
+- [[characters/inactive-players/valerio/characters/paul|Paul]]
 - Twelve four-armed insectoid humanoids. Needs review.
 - Zombie merchants in Arch IV. Needs review.
 - [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]]

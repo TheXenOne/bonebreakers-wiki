@@ -14,3 +14,5 @@ tags:
 - [[characters/inactive-players/vince|Vince]]
 - [[characters/inactive-players/james|James]]
 - [[characters/inactive-players/connor|Connor]]
+- [[characters/inactive-players/marie|Marie]]
+- [[characters/inactive-players/valerio|Valerio]]

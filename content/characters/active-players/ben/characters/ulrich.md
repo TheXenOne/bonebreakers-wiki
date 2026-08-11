@@ -18,6 +18,7 @@ source_sessions:
   - 54
   - 56
   - 60
+  - 61
 ---
 
 ## Overview
@@ -52,6 +53,7 @@ Cleric of none.
 - In [[sessions/session-054|Session 54]], he researches a spell to locate nearby treasure and learns that the renewed invasion of [[locations/world/agria/west-fort|Westfort]] has become a stalemated siege.
 - In [[sessions/session-056|Session 56]], his horse is the only mount to survive the first gryphon strike, but is killed after Barny poisons it as a trap. Ulrich helps blind two attackers, chases down one gryphon, subdues it, and secures it alive for the party's attempted [[quests/minor/active/gryphon-mounts|gryphon-breeding plan]].
 - In [[sessions/session-060|Session 60]], Ulrich uses healing magic to remove gas-induced paralysis from Arden, who then cures Selvar, and uses Sticks to Snakes against a rust monster. When an incorporeal spirit proves too powerful to turn, Ulrich permanently blinds it with Continual Light, allowing the trapped party to survive. He also takes several sealed jars from an embalming workshop.
+- In [[sessions/session-061|Session 61]], Ulrich casts Sticks to Snakes during a bugbear attack, transforming fifteen sticks into fifteen snakes that poison, wound, and help kill the attackers. Before the Westfort relief assault, he casts Fire Resistance on himself and Selvar so they can operate within the spreading flames.
 
 ## Relationships
 
@@ -73,3 +75,4 @@ Active.
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-056|Session 56]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-061|Session 61]]

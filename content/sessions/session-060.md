@@ -99,7 +99,7 @@ The lower trapdoor into the Mercy remains spiked shut, but Wistor casts Knock an
 - Nila and Rose have each aged ten years, and Wistor has lost four points of Constitution. Whether Wistor's loss can be restored: Needs review.
 - The blinded incorporeal spirit remains active within the command quarter. Status: Still unresolved.
 - Barny permanently controls a wight and six skeletons, but whether they left the drill yard with him: Needs review.
-- The Mercy is preparing Luthien's funeral. Whether her will asks for or permits Reincarnation: Needs review.
+- The Mercy is preparing Luthien's funeral. Her will was subsequently clarified and explicitly refuses Reincarnation. Status: Resolved.
 
 ## Related sessions
 

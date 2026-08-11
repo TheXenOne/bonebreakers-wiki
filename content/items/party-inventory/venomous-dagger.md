@@ -11,7 +11,7 @@ source_sessions:
 
 ## Overview
 
-The Venomous Dagger is a magical blade identified by [[npcs/barrowshire/barrow-spa-locals/aldrich|Aldrich]] in [[sessions/session-056|Session 56]]. The Bonebreakers give it to their assassin, [[characters/active-players/valerio/characters/paul|Paul]].
+The Venomous Dagger is a magical blade identified by [[npcs/barrowshire/barrow-spa-locals/aldrich|Aldrich]] in [[sessions/session-056|Session 56]]. The Bonebreakers give it to their assassin, [[characters/inactive-players/valerio/characters/paul|Paul]].
 
 ## Known properties
 

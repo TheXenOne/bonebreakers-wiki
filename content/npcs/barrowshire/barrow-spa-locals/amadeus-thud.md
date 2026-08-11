@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Amadeus Thud is the proprietor of [[locations/world/agria/southlands/barrowshire/barrow-spa/minimarket|the Minimarket]].
+Amadeus Thud is the proprietor of [[locations/world/agria/southlands/barrowshire/barrow-spa/minimarket|the Minimarket]], a regular resupply point where the Bonebreakers also buy unidentified curios and magic items.
 
 ## Appearance
 

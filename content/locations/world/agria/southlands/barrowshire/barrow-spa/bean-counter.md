@@ -36,6 +36,7 @@ The Bean Counter is a vegan cafe and cooperative bank in [[locations/world/agria
 - In [[sessions/session-002|Session 2]], the party converts silk-merchants' IOUs here and opens a bank ledger.
 - In [[sessions/session-004|Session 4]], Ruby buys gems and trade goods from the party before the Kelfrek Marsh expedition.
 - In [[sessions/session-010|Session 10]], the Bean Counter buys the silver statues recovered from [[locations/world/agria/southlands/barrowshire/tarantella-manor/jewellers-sanctum|the Jeweller's Sanctum]].
+- Across later expeditions, the Bonebreakers routinely return here to sell accumulated loot through Ruby rather than treating each sale as a separate arrangement.
 - In [[sessions/session-047|Session 47]], the party stops here for coffee with Ruby Sunbeam and persuades Wendell to testify against Prince Arthur.
 
 ## Related sessions
