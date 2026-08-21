@@ -90,7 +90,7 @@ One of Selvar's shots misses, and ten hobgoblin archers see enough to respond. S
 
 ## Threads raised this session
 
-- [[quests/major/active/renewed-siege-of-westfort|The renewed siege of Westfort]] moves from stalemate to an active relief assault. One catapult is disabled, but the garrison has not yet charged and the battle's outcome remains unknown. Status: Active.
+- [[quests/major/completed/renewed-siege-of-westfort|The renewed siege of Westfort]] moves from stalemate to an active relief assault. One catapult is disabled, but the garrison has not yet charged and the battle's outcome remains unknown. Status: Active.
 - Westfort has only fifty defenders against about ninety hobgoblins, three ogres, two catapults, and one ballista. Whether the Bonebreakers' fire plan can overcome that disparity remains unresolved. Status: Still unresolved.
 - Many Westfort residents now blame the Bonebreakers for the town's troubles. How this resentment will affect the party's relationship with the settlement remains unresolved. Status: Active.
 - The broken-crowned hobgoblin commander remains in charge of the siege force. His identity and place in the wider Westmarsh command structure remain unknown. Status: Still unresolved.

@@ -65,10 +65,11 @@ source_sessions:
     59,
     60,
     61,
+    62,
   ]
 ---
 
-<svg viewBox="0 0 1000 16740" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
+<svg viewBox="0 0 1000 17060" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
 <defs>
 <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
 <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.22" />
@@ -78,10 +79,10 @@ source_sessions:
 <stop offset="100%" stop-color="#4b5563" stop-opacity="0.7" />
 </linearGradient>
 </defs>
-<rect x="0" y="0" width="1000" height="16740" fill="transparent" />
+<rect x="0" y="0" width="1000" height="17060" fill="transparent" />
 <text x="170" y="86" fill="#f3f4f6" font-size="46" font-weight="800" font-family="ui-sans-serif, system-ui, sans-serif">CAMPAIGN TIMELINE</text>
-<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 61</text>
-<line x1="260" y1="160" x2="260" y2="16642" stroke="url(#spine)" stroke-width="2" />
+<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 62</text>
+<line x1="260" y1="160" x2="260" y2="16962" stroke="url(#spine)" stroke-width="2" />
 <g font-family="ui-sans-serif, system-ui, sans-serif">
 <text x="198" y="304" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S1</text>
 <text x="198" y="330" text-anchor="end" fill="#94a3b8" font-size="14">Undead</text>
@@ -762,5 +763,18 @@ source_sessions:
 <text x="336" y="16492" fill="#d6dee8" font-size="15">Micaelis lights the northern line and disables one catapult as the Bonebreakers</text>
 <text x="336" y="16514" fill="#d6dee8" font-size="15">begin the attack. Westfort has not yet charged, and the battle</text>
 <text x="336" y="16536" fill="#d6dee8" font-size="15">remains unresolved.</text>
+<text x="198" y="16760" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S62</text>
+<text x="198" y="16786" text-anchor="end" fill="#94a3b8" font-size="14">Victory</text>
+<circle cx="260" cy="16768" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="260" cy="16768" r="6" fill="#cbd5e1"/>
+<rect x="304" y="16662" rx="26" ry="26" width="620" height="272" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<text x="336" y="16696" fill="#f3f4f6" font-size="24" font-weight="700">The heroes of Westfort</text>
+<text x="336" y="16724" fill="#f3f4f6" font-size="24" font-weight="700">break the renewed siege</text>
+<text x="336" y="16768" fill="#d6dee8" font-size="15">The Bonebreakers neutralise Kargaz&apos;s siege engines and destroy his ogres,</text>
+<text x="336" y="16790" fill="#d6dee8" font-size="15">archers, and remaining soldiers while Westfort&apos;s depleted garrison attacks.</text>
+<text x="336" y="16812" fill="#d6dee8" font-size="15">Wistor kills the hobgoblin king, but Barny secretly raises him as a zombie</text>
+<text x="336" y="16834" fill="#d6dee8" font-size="15">and sends him toward the Barrow. Westfort honours the party with a key</text>
+<text x="336" y="16856" fill="#d6dee8" font-size="15">to the city, and eleven water-breathing potions clear the practical way</text>
+<text x="336" y="16878" fill="#d6dee8" font-size="15">for a return to the flooded Necropolis after downtime.</text>
 </g>
 </svg>

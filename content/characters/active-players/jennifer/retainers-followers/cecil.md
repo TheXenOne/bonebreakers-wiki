@@ -13,7 +13,7 @@ source_sessions:
 
 ## Overview
 
-Cecil is a blonde-haired, bespectacled paladin hired by [[characters/active-players/jennifer/characters/quak-ii|Quak II!]] at the [[locations/world/agria/southlands/barrowshire/barrow-spa/red-herring|Red Herring]]. He joined the Bonebreakers for twenty-five per cent of one share and accompanied them into the mountains during the [[quests/major/active/renewed-siege-of-westfort|renewed siege of Westfort]].
+Cecil is a blonde-haired, bespectacled paladin hired by [[characters/active-players/jennifer/characters/quak-ii|Quak II!]] at the [[locations/world/agria/southlands/barrowshire/barrow-spa/red-herring|Red Herring]]. He joined the Bonebreakers for twenty-five per cent of one share and accompanied them into the mountains during the [[quests/major/completed/renewed-siege-of-westfort|renewed siege of Westfort]].
 
 ## Appearance
 

@@ -11,4 +11,3 @@ Ongoing major campaign threads with unresolved objectives or active consequences
 - [[quests/major/active/prince-arthur-and-the-grey-khan|Prince Arthur and the Grey Khan]]
 - [[quests/major/active/necropolis-beneath-the-mercy|Necropolis Beneath the Mercy]]
 - [[quests/major/active/valedictus-and-his-phylacteries|Valedictus and His Phylacteries]]
-- [[quests/major/active/renewed-siege-of-westfort|Renewed Siege of Westfort]]

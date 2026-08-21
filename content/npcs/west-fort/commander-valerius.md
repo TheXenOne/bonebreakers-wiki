@@ -19,6 +19,7 @@ source_sessions:
   - 47
   - 57
   - 61
+  - 62
 ---
 
 ## Overview
@@ -37,7 +38,7 @@ Cynical, seasoned, and authoritative.
 
 - Valerius becomes the main military authority during the fort's sabotage, investigations, and later war footing.
 - He receives prisoners, recovered arms, invasion intelligence, and hard-won reports from the party, and publicly commends them after the Vex operation despite his misgivings.
-- He remains the party's main military contact when renewed invasion rumours return after the Spider Market raid.
+- He remains the party's main military contact when renewed invasion rumours return after the Spider Market raid, and publicly honours them after they break the siege.
 
 ## Affiliations
 
@@ -60,10 +61,11 @@ Cynical, seasoned, and authoritative.
 - In [[sessions/session-057|Session 57]], Valerius tells the party the western bridge is a no-man's land and the siege is stalemated while nightly goblin raids threaten Westfort's food. He confers with Captain Rodrick over the hobgoblins' demand for the Bonebreakers' surrender.
 - In [[sessions/session-061|Session 61]], Valerius meets the party outside Westfort and reports that his remaining force consists of ten archers, twenty soldiers, and twenty militia. They face roughly ninety hobgoblins and three ogres operating two catapults and a ballista.
 - He agrees that the Bonebreakers will circle behind the besiegers and start a large fire as the signal for Westfort to charge, then gives the party two barrels of oil. The fire is lit at dawn, but his forces remain inside the fort when the session ends.
+- In [[sessions/session-062|Session 62]], Valerius's defenders charge into the battle and help destroy Kargaz's siege army, though they suffer heavy losses. He later publicly thanks the Bonebreakers and presents them with a key to the city.
 
 ## Current status
 
-Alive and commanding Westfort during the renewed siege. His remaining fifty defenders are awaiting or responding to the Bonebreakers' signal for a relief attack; the battle's outcome remains unresolved.
+Alive and commanding Westfort after the renewed siege. His garrison survived but suffered heavy losses, and he has publicly recognised the Bonebreakers as heroes of the settlement.
 
 ## Related sessions
 
@@ -76,7 +78,8 @@ Alive and commanding Westfort during the renewed siege. His remaining fifty defe
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-057|Session 57]]
 - [[sessions/session-061|Session 61]]
+- [[sessions/session-062|Session 62]]
 
 ## Unresolved threads
 
-- The renewed siege, the planned garrison charge, and the secret surrender demand remain unresolved.
+- Westfort's recovery and the garrison's remaining strength after the battle need review.

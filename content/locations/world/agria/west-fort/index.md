@@ -22,11 +22,12 @@ source_sessions:
   - 56
   - 57
   - 61
+  - 62
 ---
 
 ## Overview
 
-Westfort is a frontier settlement on Agria's western edge, guarding the crossing into [[locations/world/westmarsh|Westmarsh]]. It combines an old stone stronghold with later wooden reinforcement and houses both civilians and an undermanned garrison. During the renewed siege, its remaining fifty defenders face approximately ninety hobgoblins, three ogres, two catapults, and one ballista. The Bonebreakers have begun a coordinated attack on the siege line, but the outcome remains unresolved.
+Westfort is a frontier settlement on Agria's western edge, guarding the crossing into [[locations/world/westmarsh|Westmarsh]]. It combines an old stone stronghold with later wooden reinforcement and houses both civilians and an undermanned garrison. The Bonebreakers and Westfort's defenders broke the renewed hobgoblin siege in [[sessions/session-062|Session 62]], but the settlement and its badly depleted garrison now face recovery after heavy losses.
 
 ## Geography and layout
 
@@ -63,6 +64,7 @@ Westfort is a frontier settlement on Agria's western edge, guarding the crossing
 - In [[sessions/session-056|Session 56]], the Bonebreakers choose Westfort as their next destination, but a gryphon ambush kills their horses and forces them back to Barrow Spa before they arrive.
 - In [[sessions/session-057|Session 57]], they arrive on foot and find the siege threatening the town's food supply. Hobgoblin envoys demand the party's surrender for a one-year truce; the Bonebreakers refuse, ambush the nightly raiders, and leave to block their southern mountain route.
 - In [[sessions/session-061|Session 61]], Captain Rodrick warns that many residents blame the Bonebreakers for Westfort's troubles. Commander Valerius agrees a relief plan with the party and provides two barrels of oil. The Bonebreakers circle behind the enemy through Westmarsh, lay two oil lines, ignite the northern line as the attack signal, and disable the first catapult. The southern line remains unlit, and the garrison has not yet emerged when the session ends.
+- In [[sessions/session-062|Session 62]], the Bonebreakers destroy the siege engines, ogres, archers, and remaining hobgoblin soldiers while Westfort's defenders advance across the bridge. The garrison suffers heavy losses, but the siege army is wiped out and its king, [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]], is killed. The returning defenders and Bonebreakers receive a public welcome, Commander Valerius presents the party with a key to the city, and Frank contributes 1,000 gold pieces toward rebuilding and relief.
 
 ## Related sessions
 
@@ -77,9 +79,9 @@ Westfort is a frontier settlement on Agria's western edge, guarding the crossing
 - [[sessions/session-056|Session 56]]
 - [[sessions/session-057|Session 57]]
 - [[sessions/session-061|Session 61]]
+- [[sessions/session-062|Session 62]]
 
 ## Unresolved threads or mysteries
 
-- The renewed siege is active, and the Bonebreakers' relief attack has begun without yet determining the battle's outcome.
-- Many residents blame the Bonebreakers for the town's suffering. Whether they know about the offer to trade the party for a one-year truce remains unclear.
-- The identity and command relationships of the broken-crowned hobgoblin leader remain unknown.
+- Westfort survived the renewed siege, but the extent of the damage and the garrison's remaining strength need review.
+- Kargaz is confirmed as the broken-crowned king who commanded the siege, but whether his army belonged to a broader alliance or command structure remains unknown.

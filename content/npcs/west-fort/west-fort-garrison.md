@@ -19,11 +19,12 @@ source_sessions:
   - 40
   - 57
   - 61
+  - 62
 ---
 
 ## Overview
 
-This page groups the main named military figures tied to [[locations/world/agria/west-fort/index|Westfort]]. Commander Valerius and Captain Rodrick remain the party's principal military contacts during the renewed siege, while Borak's captured status after [[sessions/session-035|Session 35]] needs review.
+This page groups the main named military figures tied to [[locations/world/agria/west-fort/index|Westfort]]. Commander Valerius and Captain Rodrick remain the party's principal military contacts after the garrison and Bonebreakers break the renewed siege, while Borak's captured status after [[sessions/session-035|Session 35]] needs review.
 
 ## Key figures
 
@@ -72,12 +73,13 @@ This page groups the main named military figures tied to [[locations/world/agria
 - In [[sessions/session-035|Session 35]], Borak attempts to silence Sarla and is captured.
 - In [[sessions/session-057|Session 57]], Rodrick and Valerius receive the hobgoblins' offer of a one-year truce in exchange for surrendering the Bonebreakers.
 - In [[sessions/session-061|Session 61]], Rodrick warns that many residents blame the party for Westfort's troubles. Valerius reports that only fifty defenders remain and agrees a relief plan in which the Bonebreakers light a fire behind the siege army before the garrison charges.
+- In [[sessions/session-062|Session 62]], the garrison charges across the bridge and helps destroy Kargaz's siege army, but loses a substantial portion of its archers and soldiers. Valerius later presents the Bonebreakers with a key to the city.
 
 ## Current status
 
 - Dara: alive.
-- Rodrick: alive and serving at besieged Westfort.
-- Valerius: alive and commanding fifty remaining defenders during the relief attack.
+- Rodrick: alive and serving at Westfort after the siege.
+- Valerius: alive and commanding the surviving garrison; its exact post-battle strength needs review.
 - Borak: captured status after Session 35 needs review.
 
 ## Related sessions
@@ -90,8 +92,9 @@ This page groups the main named military figures tied to [[locations/world/agria
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-057|Session 57]]
 - [[sessions/session-061|Session 61]]
+- [[sessions/session-062|Session 62]]
 
 ## Unresolved threads
 
 - Borak's eventual punishment is not shown.
-- Whether the garrison has launched its planned charge after the Bonebreakers' fire signal remains unresolved.
+- Westfort's recovery and the garrison's exact surviving strength need review.

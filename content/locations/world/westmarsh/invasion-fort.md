@@ -70,5 +70,5 @@ The Invasion Fort is a fortified enemy outpost in the hills south-west of [[loca
 
 ## Unresolved threads or mysteries
 
-- Later crystal-ball checks and news from Westfort show that smaller war preparations have become a renewed siege, but the siege's command structure remains unclear.
-- The effect of the sabotaged portcullis on the fort and wider siege remains unknown.
+- The smaller war preparations become Kargaz's renewed siege army, which is destroyed at Westfort in Session 62. Whether the Invasion Fort retains another garrison or supports any surviving force remains unknown.
+- The effect of the sabotaged portcullis on the fort and the defeated siege army remains unknown.

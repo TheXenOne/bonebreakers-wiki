@@ -17,7 +17,6 @@ Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still s
 - [[quests/major/active/prince-arthur-and-the-grey-khan|Prince Arthur and the Grey Khan]]
 - [[quests/major/active/necropolis-beneath-the-mercy|Necropolis Beneath the Mercy]]
 - [[quests/major/active/valedictus-and-his-phylacteries|Valedictus and His Phylacteries]]
-- [[quests/major/active/renewed-siege-of-westfort|Renewed Siege of Westfort]]
 
 ### Completed Threads
 
@@ -31,6 +30,7 @@ Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still s
 - [[quests/major/completed/halls-of-the-blood-king|Halls of the Blood King]]
 - [[quests/major/completed/westfort-invasion-and-child-rescue|Westfort Invasion and Child Rescue]]
 - [[quests/major/completed/the-fate-of-tobold-took|The Fate of Tobold Took]]
+- [[quests/major/completed/renewed-siege-of-westfort|Renewed Siege of Westfort]]
 
 ## Minor Campaign Threads
 

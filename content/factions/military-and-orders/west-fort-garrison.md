@@ -28,11 +28,12 @@ source_sessions:
   - 54
   - 57
   - 61
+  - 62
 ---
 
 ## Overview
 
-The Westfort Garrison is the undermanned military force defending [[locations/world/agria/west-fort|Westfort]] and its crossing into [[locations/world/westmarsh|Westmarsh]]. Its remaining ten archers, twenty soldiers, and twenty militia are holding through a renewed siege and preparing to exploit the Bonebreakers' fire attack behind the enemy line.
+The Westfort Garrison is the undermanned military force defending [[locations/world/agria/west-fort|Westfort]] and its crossing into [[locations/world/westmarsh|Westmarsh]]. It survived the renewed siege and helped destroy Kargaz's army in [[sessions/session-062|Session 62]], but lost a substantial share of its already reduced archers and soldiers during the battle.
 
 ## Purpose or role
 
@@ -71,10 +72,11 @@ It protects one of Agria's key frontier approaches and becomes central to the sa
 - In [[sessions/session-054|Session 54]], news from Westfort says the renewed invasion has become a stalemated siege. The enemy is reduced but still has siege engines and includes hobgoblins, goblins, and ogres.
 - In [[sessions/session-057|Session 57]], the garrison is patching damaged walls with carts and wagons. Captain Rodrick receives a demand to surrender the Bonebreakers for a one-year truce, while the party moves against goblin food raiders using the southern mountains.
 - In [[sessions/session-061|Session 61]], Captain Rodrick tells the returning Bonebreakers that many residents blame them for Westfort's troubles. Commander Valerius meets the party outside the walls, reports that only fifty defenders remain, and provides two barrels of oil for a coordinated relief plan. The garrison is meant to charge when the party starts a large fire behind the besieging army, but remains inside when the session ends.
+- In [[sessions/session-062|Session 62]], the garrison advances across the bridge while the Bonebreakers eliminate the enemy archers, ogres, and siege engines. A hobgoblin volley kills a substantial portion of Westfort's archers, and melee troops wipe out one section of soldiers and kill several more defenders. The surviving soldiers, militia, and archers help destroy the remaining hobgoblin force and return to Westfort in victory.
 
 ## Current status
 
-Active and under siege. Fifty defenders remain: ten archers, twenty soldiers, and twenty militia. The Bonebreakers have given the agreed fire signal, but the garrison has not yet launched its counterattack.
+Active and no longer under siege. The garrison suffered heavy losses during its successful counterattack; its exact remaining strength: Needs review.
 
 ## Related sessions
 
@@ -87,8 +89,9 @@ Active and under siege. Fifty defenders remain: ten archers, twenty soldiers, an
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-057|Session 57]]
 - [[sessions/session-061|Session 61]]
+- [[sessions/session-062|Session 62]]
 
 ## Unresolved threads
 
 - Veteran Borak's ultimate fate after his exposure is not shown.
-- The fort survived the first war crisis, but the renewed siege and planned counterattack remain unresolved.
+- The renewed siege is over, but the garrison's recovery from its losses remains unresolved.

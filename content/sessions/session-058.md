@@ -70,7 +70,7 @@ Frank and Barny begin their approach, but Barny's attempt to tie up one skeleton
 ## Threads raised this session
 
 - Luthien is dead and her partly eaten body cannot be restored through Raise Dead. Reincarnation appears to be the only remaining way to return her to life. Status: Still unresolved.
-- The [[quests/major/active/renewed-siege-of-westfort|renewed siege of Westfort]] continues; the Bonebreakers have sabotaged the Invasion Fort's portcullis but have now left for the Necropolis. Status: Partially resolved.
+- The [[quests/major/completed/renewed-siege-of-westfort|renewed siege of Westfort]] continues; the Bonebreakers have sabotaged the Invasion Fort's portcullis but have now left for the Necropolis. Status: Partially resolved.
 - The escaped gryphon carrying the Red Seer's Dagger has been located in a high mountain cave with other gryphons and eggs. Status: Still unresolved.
 - The party is travelling toward the Necropolis from Westmarsh, but the Mercy trapdoor may be inaccessible because they spiked it shut from below. Status: Resolved in [[sessions/session-060|Session 60]].
 - The identity of the soul bound to the temple's locked box or codex, and the relationship between the box and the disenchanters' dream, remain unknown. Status: Still unresolved.

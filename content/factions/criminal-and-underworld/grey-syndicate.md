@@ -79,7 +79,7 @@ The Syndicate is the main hidden enemy behind the Westfort sabotage arc and late
 
 ## Current status
 
-Active and still dangerous, despite losing money and Arthur's freedom in Session 47. The Syndicate now appears to have used orc forces against the Mercy at least twice, though the chain of command behind those raids remains unclear. Valedictus may be one reason for its long-standing interest in the Necropolis, but that remains Lord Varrick's speculation. The renewed siege of Westfort is also active by Session 54, but whether the Syndicate directs it remains unproven.
+Active and still dangerous, despite losing money and Arthur's freedom in Session 47. The Syndicate now appears to have used orc forces against the Mercy at least twice, though the chain of command behind those raids remains unclear. Valedictus may be one reason for its long-standing interest in the Necropolis, but that remains Lord Varrick's speculation. Kargaz's renewed siege of Westfort ends in Session 62, but whether the Syndicate directed or supported it remains unproven.
 
 ## Related sessions
 

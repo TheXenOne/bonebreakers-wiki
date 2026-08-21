@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-Captain Rodrick is a senior officer at Westfort whose conservative judgement makes him initially dismissive of claims that human conspirators are sabotaging the fort. He remains one of the Bonebreakers' military contacts during the renewed siege.
+Captain Rodrick is a senior officer at Westfort whose conservative judgement makes him initially dismissive of claims that human conspirators are sabotaging the fort. He remains one of the Bonebreakers' military contacts through the renewed siege, which ends with Westfort's victory in Session 62.
 
 ## Appearance
 
@@ -51,7 +51,7 @@ Stubborn, conservative, and dismissive of conspiracies.
 
 ## Current status
 
-Alive and serving at besieged Westfort. He remains willing to act as the party's military contact despite the settlement's resentment.
+Alive and serving at Westfort after the renewed siege. The settlement's resentment toward the Bonebreakers gives way to public gratitude after the victory.
 
 ## Related sessions
 
@@ -61,4 +61,4 @@ Alive and serving at besieged Westfort. He remains willing to act as the party's
 
 ## Unresolved threads
 
-- Many residents now blame the Bonebreakers for Westfort's suffering, but whether they know about the surrender demand remains unclear.
+- Westfort's recovery and the garrison's remaining strength after the battle need review.

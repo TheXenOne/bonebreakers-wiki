@@ -9,6 +9,7 @@ status: active
 source_sessions:
   - 60
   - 61
+  - 62
 ---
 
 ## Overview
@@ -32,6 +33,7 @@ Magic-user.
 - A powerful incorporeal spirit drains four points of his Constitution after his breath weapon fails to harm it.
 - He casts Knock on the spiked lower trapdoor, allowing the party to return to the Mercy.
 - He kills three giant crabs with Lightning Bolt during the northern approach to Westfort and helps kill the bugbears that attack the party's camp. He attempts to question the final bugbear, but it refuses to speak.
+- In [[sessions/session-062|Session 62]], Wistor sets a catapult ablaze with his fire breath, helps destroy the remaining hobgoblin archers, and sends a Lightning Bolt through the enemy ranks that kills [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]] and badly damages the surrounding soldiers.
 
 ## Current status
 
@@ -41,3 +43,4 @@ Active and travelling with the Bonebreakers. His Constitution has been reduced b
 
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-061|Session 61]]
+- [[sessions/session-062|Session 62]]

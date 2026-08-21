@@ -11,7 +11,7 @@ aliases:
 status: active
 primary_location: Westmarsh
 notable_members:
-  - Broken-crowned hobgoblin commander
+  - Kargaz the Disciplined
 related_locations:
   - Westmarsh
   - Hobgoblin Mine
@@ -28,11 +28,12 @@ source_sessions:
   - 54
   - 57
   - 61
+  - 62
 ---
 
 ## Overview
 
-The hobgoblins of Westmarsh are the clearest organised monster army shown in the Westfort arc. They oversee mining and weapons production, hire mercenaries, and form the core of the invasion force aimed at [[locations/world/agria/west-fort|Westfort]]. Although the original invasion force was broken, approximately ninety hobgoblins now form the core of the renewed siege under a commander wearing a broken crown.
+The hobgoblins of Westmarsh are the clearest organised monster army shown in the Westfort arc. They oversee mining and weapons production, hire mercenaries, and form the core of repeated invasion forces aimed at [[locations/world/agria/west-fort|Westfort]]. Their renewed siege army is destroyed in [[sessions/session-062|Session 62]], and its broken-crowned king, [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]], is killed before Barny secretly reanimates him.
 
 ## Purpose or role
 
@@ -40,13 +41,13 @@ They function as the main military organisers of the western invasion effort rat
 
 ## Leadership
 
-- An unnamed hobgoblin wearing a broken crown is the most visible commander and still leads the siege force in Session 61.
+- [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]], a hobgoblin king wearing a broken crown, commands the renewed siege force until Wistor kills him in Session 62.
 - Several other hobgoblin officers appear during the assault on the invasion fort.
 - Higher command beyond those officers is still unclear.
 
 ## Notable members
 
-- Broken-crowned hobgoblin commander
+- [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]]
 - Unnamed hobgoblin officers at the invasion fort
 
 ## Associated locations
@@ -71,10 +72,11 @@ They function as the main military organisers of the western invasion effort rat
 - In [[sessions/session-054|Session 54]], news from Westfort says the renewed siege still includes hobgoblins, along with goblins, ogres, and siege engines.
 - In [[sessions/session-057|Session 57]], hobgoblin envoys demand the Bonebreakers in exchange for a one-year truce. Goblin raiders working through southern mountain paths attack food shipments until the party blocks one route.
 - In [[sessions/session-061|Session 61]], the broken-crowned commander remains in charge of approximately ninety hobgoblins, including thirty archers and thirty melee troops. Three ogres operate two catapults and one ballista. The Bonebreakers ignite the northern of two prepared oil lines behind the army, sabotage one catapult, and draw fire from ten archers as a relief attack begins. The southern oil line remains unlit.
+- In [[sessions/session-062|Session 62]], Kargaz is identified as the broken-crowned king. The Bonebreakers and Westfort's defenders kill the army's remaining archers, ogres, and soldiers, while Wistor kills Kargaz with Lightning Bolt. Barny later raises the king as a zombie and secretly sends him toward the Barrow.
 
 ## Current status
 
-Active and besieging Westfort. Approximately ninety hobgoblins remain under the broken-crowned commander, supported by three ogres and three siege engines. The Bonebreakers have ignited the northern oil line behind their position and disabled one catapult, while the southern line remains unlit. The battle remains unresolved. The commander's identity and higher command relationships: Needs review.
+The renewed siege army has been destroyed and no longer threatens Westfort. Other Westmarsh hobgoblins may remain active, but their surviving strength and leadership: Needs review. Kargaz was killed and then secretly reanimated under Barny's control.
 
 ## Related sessions
 
@@ -87,9 +89,10 @@ Active and besieging Westfort. Approximately ninety hobgoblins remain under the 
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-057|Session 57]]
 - [[sessions/session-061|Session 61]]
+- [[sessions/session-062|Session 62]]
 
 ## Unresolved threads
 
 - Who ultimately directed the hobgoblin war effort remains unclear.
-- The broken-crowned commander's identity and place in the wider Westmarsh command structure remain unclear.
-- Whether the force can survive the Bonebreakers' fire plan and Westfort's intended counterattack remains unresolved.
+- Kargaz's identity as the broken-crowned king is confirmed, but whether his army belonged to a broader alliance or command structure remains unclear.
+- Whether any organised hobgoblin force survives elsewhere in Westmarsh remains unknown.

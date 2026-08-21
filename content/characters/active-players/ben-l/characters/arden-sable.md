@@ -20,6 +20,7 @@ source_sessions:
   - 57
   - 60
   - 61
+  - 62
 ---
 
 ## Overview
@@ -58,6 +59,7 @@ Cleric of Belenus and Bishop of the Mercy.
 - In [[sessions/session-057|Session 57]], Arden casts Speak with Animals to stop thirteen starving dogs from attacking and persuades them to follow the party with a promise of food.
 - In [[sessions/session-060|Session 60]], Arden leads the exchange with [[npcs/necropolis/lord-varrick|Lord Varrick]], learning about [[npcs/necropolis/valedictus|Valedictus's]] three phylacteries and [[items/the-stylus|the Stylus]]. A rust monster destroys his magical mace completely.
 - In [[sessions/session-061|Session 61]], Arden commissions [[npcs/barrowshire/barrow-spa-locals/michelangelo|Michelangelo]] to make a stone memorial statue of Bran and a provisionally wooden statue of Luthien. During the Westfort relief operation, he blinds a giant crab and casts Silence on the invisible Micaelis so he can lay the oil lines and sabotage a catapult undetected.
+- In [[sessions/session-062|Session 62]], Arden paralyses the two surviving siege ogres with Hold Person. After the battle, he distributes gold among Westfort's people in Belenus's name and leads burial rites for the fallen defenders.
 
 ## Relationships
 
@@ -82,3 +84,4 @@ Active. Arden remains Bishop of the Mercy and continues with the party in later 
 - [[sessions/session-057|Session 57]]
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-061|Session 61]]
+- [[sessions/session-062|Session 62]]

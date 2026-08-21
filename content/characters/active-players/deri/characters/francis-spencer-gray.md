@@ -18,6 +18,7 @@ source_sessions:
   - 54
   - 58
   - 59
+  - 62
 ---
 
 ## Overview
@@ -52,6 +53,7 @@ Thief.
 - In [[sessions/session-054|Session 54]], he commissions major defences for [[locations/world/agria/southlands/mercy|the Mercy]], including a moat and 30-foot walls, and later plays along with the zombie market in [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]].
 - In [[sessions/session-058|Session 58]], Frank scouts the [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]] using Luthien's recovered cloak and boots and helps open its three-locked soul-bound chest.
 - In [[sessions/session-059|Session 59]], he scouts the command quarter, finds its centurion's insignia and prison traps, takes corroded lockpicks from a cell, and helps kill a minotaur. He later promises to lay [[npcs/necropolis/captain-varro|Captain Varro]] to rest, after which Varro leaves the imperial armoury unlocked for the party.
+- In [[sessions/session-062|Session 62]], Frank infiltrates the hobgoblin siege engines with Nila, badly wounds an ogre with a backstab and Kargaz with a crossbow shot, and helps eliminate the remaining archers. After the victory, he contributes 1,000 gold pieces to Westfort's rebuilding and asks Arden to lead burial rites for the fallen defenders.
 
 ## Relationships
 
@@ -72,3 +74,4 @@ Active.
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-058|Session 58]]
 - [[sessions/session-059|Session 59]]
+- [[sessions/session-062|Session 62]]

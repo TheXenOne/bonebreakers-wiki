@@ -27,6 +27,7 @@ related_sessions:
   - 58
   - 59
   - 60
+  - 62
 related_locations:
   - The Mercy
   - Necropolis
@@ -70,6 +71,7 @@ source_sessions:
   - 58
   - 59
   - 60
+  - 62
 ---
 
 ## Overview
@@ -127,10 +129,11 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 - A powerful incorporeal spirit cannot be turned or harmed. Ulrich permanently blinds it with Continual Light, and Barny's telescope shows it dreaming of [[items/glowing-skull|the glowing skull]] in lizardfolk hands, strongly implicating the skull as one of Valedictus's phylacteries.
 - The party crosses a drill yard containing 300 skeletons and enters the Nexus through Arch I, confirming the command quarter's connection.
 - Wistor opens the spiked Mercy trapdoor from below with Knock. The party returns to the Mercy, closes the trapdoor, and spikes it shut again.
+- In [[sessions/session-062|Session 62]], the party obtains eleven Potions of Water Breathing from Erasmus Vale after breaking the siege of Westfort. This removes the practical obstacle that previously forced the Bonebreakers to withdraw from the flooded Sunken Market routes.
 
 ## Current status
 
-Active as the current major arc. The Bonebreakers have escaped the command quarter through Arch I and returned to the Mercy. Wistor's Knock spell proves the lower trapdoor can be reopened from the Nexus side, although the party has closed and spiked it again.
+Active as the current major arc. The Bonebreakers have escaped the command quarter through Arch I and returned to the Mercy. Wistor's Knock spell proves the lower trapdoor can be reopened from the Nexus side, although the party has closed and spiked it again. They now possess eleven Potions of Water Breathing, allowing them to resume exploration of the flooded Sunken Market routes.
 
 The delve has produced a new central threat: Valedictus remains in power, possesses three phylacteries, and is connected to the unknown Stylus. The glowing skull that Steve traded away is strongly implicated as one phylactery, while the three-locked soul-bound chest may hold another. The larger unresolved questions also include Captain Varro's release, the sealed Eighth Wing, the guarded Imperial Family Tomb, House Varrick, the Tribune, the restoration works, the Sunken Market, the dark druids, and the possible link between the Necropolis and the Crimson Bishop.
 
@@ -205,6 +208,7 @@ The delve has produced a new central threat: Valedictus remains in power, posses
 - [[sessions/session-058|Session 58]]
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-062|Session 62]]
 
 ## Loose ends
 

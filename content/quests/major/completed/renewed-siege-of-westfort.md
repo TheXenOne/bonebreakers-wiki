@@ -1,14 +1,14 @@
 ---
 title: Renewed Siege of Westfort
 type: campaign-thread
-status: active
+status: completed
 importance: major
 tags:
   - campaign-thread
   - westmarsh
   - siege
 started_session: 47
-completed_session:
+completed_session: 62
 related_sessions:
   - 47
   - 54
@@ -16,12 +16,14 @@ related_sessions:
   - 57
   - 58
   - 61
+  - 62
 related_locations:
   - Westfort
   - Invasion Fort
   - Westmarsh
 related_npcs:
   - Commander Valerius
+  - Kargaz the Disciplined
 related_factions:
   - Westfort Garrison
   - Hobgoblins of Westmarsh
@@ -32,13 +34,14 @@ source_sessions:
   - 57
   - 58
   - 61
+  - 62
 ---
 
 ## Overview
 
 The renewed siege of [[locations/world/agria/west-fort|Westfort]] is the second major military crisis around the frontier settlement. After earlier warning signs of reduced but renewed preparations at [[locations/world/westmarsh/invasion-fort|the Invasion Fort]], the Bonebreakers learn in [[sessions/session-054|Session 54]] that the invasion has become a stalemated siege.
 
-The enemy force is much smaller than the original invasion army, but still has siege engines and includes hobgoblins, goblins, and ogres. The Bonebreakers have blocked one southern mountain route and sabotaged the Invasion Fort's portcullis. They have now returned to Westfort and begun a coordinated attack intended to break the siege.
+The enemy force is much smaller than the original invasion army, but still has siege engines and includes hobgoblins, goblins, and ogres. After blocking one southern mountain route and sabotaging the Invasion Fort's portcullis, the Bonebreakers return to Westfort and lead a coordinated relief attack. The siege ends in Session 62 with the destruction of the attacking army and the death of its king, [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]].
 
 ## How it began
 
@@ -63,26 +66,30 @@ In [[sessions/session-047|Session 47]], a captured Grey Syndicate recruiter warn
 - Valerius provides two barrels of oil for a coordinated relief plan. The Bonebreakers circle north through the marsh, ford the West Flow River, and approach the rear of the siege line.
 - After waiting a day for the wind to change, an invisible and silenced Micaelis lays two oil lines behind the enemy army. At dawn he ignites the northern line as the agreed signal, leaving the southern line unlit for later.
 - Micaelis sabotages the first catapult while Rose wounds one ogre and Barny blinds another. The hobgoblin archers begin responding, but Westfort's troops have not yet charged when the session ends.
+- In [[sessions/session-062|Session 62]], the Bonebreakers eliminate all three ogres and the hobgoblin archers while Westfort's defenders advance across the bridge. Rose kills a blinded ogre with the enemy ballista, and Wistor kills Kargaz with Lightning Bolt.
+- Hobgoblin attacks inflict heavy losses on Westfort's remaining archers and soldiers, but the surviving soldiers, militia, archers, and Bonebreakers destroy the final enemy troops.
+- The Bonebreakers return to public acclaim. Commander Valerius presents them with a key to the city, Frank gives 1,000 gold pieces toward rebuilding and relief, and Arden leads burial rites for the fallen defenders.
+- Barny secretly raises Kargaz as a zombie, turns him invisible, and orders him to hide before travelling to the Barrow.
 
 ## Current status
 
-Active and under direct assault. Westfort remains under siege, but the Bonebreakers have blocked one mountain route, disabled the Invasion Fort's portcullis, ignited the northern oil line behind the besieging army, and sabotaged one catapult. The southern oil line remains unlit, the garrison has not yet launched its agreed charge, and the battle's outcome remains unresolved.
+Completed in Session 62. The renewed siege army is destroyed and Westfort survives, though the garrison suffers heavy losses and the settlement faces rebuilding.
 
 ## Consequences
 
-- Westfort remains a live military crisis even after the earlier child rescue and apparent breaking of the original invasion force.
+- Westfort is no longer under immediate military threat from Kargaz's army.
 - Barny's private crystal-ball viewing may contain useful information the rest of the party does not yet have.
 - The exact command structure behind the renewed siege remains unclear.
-- Westfort's food supply remains endangered even after one raiding route is blocked.
-- Public resentment toward the Bonebreakers could worsen if the hobgoblin surrender demand becomes known.
-- Many Westfort residents already blame the Bonebreakers for the town's suffering, even though whether they know about the surrender demand remains unclear.
-- The garrison is down to about fifty defenders, including twenty militia, and is relying on the Bonebreakers' fire signal to create an opening.
+- Public resentment toward the Bonebreakers gives way to a markedly warmer reception after the victory, formalised by Valerius's gift of a key to the city.
+- The garrison survives but loses a substantial share of its remaining archers and soldiers; its exact post-battle strength needs review.
+- Barny's secret reanimation of Kargaz creates an unresolved consequence separate from the completed military objective.
 
 ## Related characters and NPCs
 
 - [[npcs/west-fort/commander-valerius|Commander Valerius]]
 - [[npcs/west-fort/captain-rodrick|Captain Rodrick]]
 - [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barnobuck "Barny" the Bizarre]]
+- [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]]
 
 ## Related locations
 
@@ -104,11 +111,12 @@ Active and under direct assault. Westfort remains under siege, but the Bonebreak
 - [[sessions/session-057|Session 57]]
 - [[sessions/session-058|Session 58]]
 - [[sessions/session-061|Session 61]]
+- [[sessions/session-062|Session 62]]
 
 ## Loose ends
 
-- Whether the renewed siege is directed by the Grey Syndicate, surviving hobgoblin command, or another Westmarsh power remains unresolved.
-- Whether the garrison will charge as agreed and whether the fire will break the siege remain unresolved.
-- The identity and wider allegiance of the broken-crowned hobgoblin commander remain unknown.
-- Whether the hobgoblins will repeat or retaliate for their rejected surrender demand remains unclear.
-- Whether public resentment will prevent the Bonebreakers from repairing their relationship with Westfort remains unresolved.
+- Whether the renewed siege was directed or supported by the Grey Syndicate or another Westmarsh power remains unresolved.
+- Kargaz is confirmed as the broken-crowned king, but whether his army belonged to a broader alliance or command structure remains unknown.
+- Whether any surviving hobgoblin force will retaliate for the defeat remains unclear.
+- Westfort's exact losses and the course of its rebuilding need review.
+- Whether Kargaz reached the Barrow and what Barny intends for the zombified king remain unresolved.

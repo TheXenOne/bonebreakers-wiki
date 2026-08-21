@@ -76,7 +76,7 @@ Rather than follow the raiding route directly into enemy territory, the Bonebrea
 
 ## Threads raised this session
 
-- The [[quests/major/active/renewed-siege-of-westfort|renewed siege of Westfort]] continues, but the Bonebreakers have blocked one mountain route used for nightly food raids. Status: Partially resolved.
+- The [[quests/major/completed/renewed-siege-of-westfort|renewed siege of Westfort]] continues, but the Bonebreakers have blocked one mountain route used for nightly food raids. Status: Partially resolved.
 - The hobgoblins have offered a one-year truce in exchange for the Bonebreakers, and the party is concealing the demand from Westfort's population. Status: Still unresolved.
 - Erasmus Vale has begun producing the potions needed to explore the Sunken Market's submerged areas. Status: Still unresolved.
 - Luthien has been seized by a mimic while scouting alone inside the Invasion Fort. Status: Still unresolved.

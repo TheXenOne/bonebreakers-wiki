@@ -73,6 +73,7 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 
 - [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]]
 - [[npcs/westmarsh/king-of-ghouls|King of Ghouls]]
+- [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]]
 
 ## Necropolis and Fos Imeras
 
