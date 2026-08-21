@@ -8,11 +8,13 @@ player: Marta
 status: active
 source_sessions:
   - 60
+  - 61
+  - 62
 ---
 
 ## Overview
 
-Nila is a thief and a new member of the Bonebreakers. She relies on stealth, observation, and lockwork when exploring dangerous places. Her wider background, motives, and ambitions remain unknown.
+Nila is a thief and member of the Bonebreakers. She relies on stealth, observation, and lockwork when exploring dangerous places. Her wider background, motives, and ambitions remain unknown.
 
 ## Player
 
@@ -24,9 +26,11 @@ Thief.
 
 ## Important campaign events
 
-- In [[sessions/session-060|Session 60]], Nila emerges from the shadows after following the party into the command quarter, takes the document from the chest Frank opened, and reads it.
-- She attempts to pick the armoury gate after the party backtracks from [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]], but cannot open it.
-- A powerful incorporeal spirit overwhelms her with supernatural terror and ages her by ten years.
+- In [[sessions/session-060|Session 60]], Nila emerges from the shadows after following the party into the command quarter, takes the document from the chest Frank opened, reads it, and shows it to the party. The document says that the Tribune ordered a secret passage sealed. After the party backtracks from [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]], Nila attempts to pick the armoury gate but cannot open it, then a powerful incorporeal spirit overwhelms her with supernatural terror and ages her by ten years.
+- In [[sessions/session-061|Session 61]], Nila travels with the Bonebreakers to Westfort and through Westmarsh to the rear of the hobgoblin siege army as the party begins its relief assault.
+- In [[sessions/session-062|Session 62]], Nila follows Frank behind the siege engines and sneaks into position, then kills one of the remaining hobgoblin archers.
+- After the siege is broken, Nila tries and fails to pick Frank's pocket. The resulting commotion inadvertently helps conceal Barny's reanimation of [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]].
+- During the subsequent downtime, Nila commissions several daggers.
 
 ## Current status
 
@@ -35,3 +39,5 @@ Active and travelling with the Bonebreakers. She has been supernaturally aged by
 ## Related sessions
 
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-061|Session 61]]
+- [[sessions/session-062|Session 62]]
