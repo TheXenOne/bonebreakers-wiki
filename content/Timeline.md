@@ -69,7 +69,7 @@ source_sessions:
   ]
 ---
 
-<svg viewBox="0 0 1000 17060" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
+<svg viewBox="0 0 1000 16580" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
 <defs>
 <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
 <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.22" />
@@ -79,10 +79,10 @@ source_sessions:
 <stop offset="100%" stop-color="#4b5563" stop-opacity="0.7" />
 </linearGradient>
 </defs>
-<rect x="0" y="0" width="1000" height="17060" fill="transparent" />
+<rect x="0" y="0" width="1000" height="16580" fill="transparent" />
 <text x="170" y="86" fill="#f3f4f6" font-size="46" font-weight="800" font-family="ui-sans-serif, system-ui, sans-serif">CAMPAIGN TIMELINE</text>
 <text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 62</text>
-<line x1="260" y1="160" x2="260" y2="16962" stroke="url(#spine)" stroke-width="2" />
+<line x1="260" y1="160" x2="260" y2="16490" stroke="url(#spine)" stroke-width="2" />
 <g font-family="ui-sans-serif, system-ui, sans-serif">
 <text x="198" y="304" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S1</text>
 <text x="198" y="330" text-anchor="end" fill="#94a3b8" font-size="14">Undead</text>
@@ -697,84 +697,64 @@ source_sessions:
 <text x="198" y="15088" text-anchor="end" fill="#94a3b8" font-size="14">Gryphons</text>
 <circle cx="260" cy="15070" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
 <circle cx="260" cy="15070" r="6" fill="#cbd5e1"/>
-<rect x="304" y="14978" rx="26" ry="26" width="620" height="228" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<rect x="304" y="14978" rx="26" ry="26" width="620" height="184" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
 <text x="336" y="15012" fill="#f3f4f6" font-size="24" font-weight="700">A gryphon ambush delays</text>
 <text x="336" y="15040" fill="#f3f4f6" font-size="24" font-weight="700">the road to Westfort</text>
-<text x="336" y="15084" fill="#d6dee8" font-size="15">Nine gryphons kill the party&apos;s horses on the road to the besieged fort.</text>
-<text x="336" y="15106" fill="#d6dee8" font-size="15">Six die, two are captured for a possible flying-mount breeding plan,</text>
-<text x="336" y="15128" fill="#d6dee8" font-size="15">and one escapes carrying Barny&apos;s Red Seer&apos;s Dagger.</text>
-<text x="336" y="15150" fill="#d6dee8" font-size="15">The party returns to Barrow Spa for harnesses and replacement transport.</text>
-<text x="198" y="15306" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S57</text>
-<text x="198" y="15332" text-anchor="end" fill="#94a3b8" font-size="14">Siege</text>
-<circle cx="260" cy="15314" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
-<circle cx="260" cy="15314" r="6" fill="#cbd5e1"/>
-<rect x="304" y="15222" rx="26" ry="26" width="620" height="228" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
-<text x="336" y="15256" fill="#f3f4f6" font-size="24" font-weight="700">The Bonebreakers enter</text>
-<text x="336" y="15284" fill="#f3f4f6" font-size="24" font-weight="700">the renewed siege</text>
-<text x="336" y="15328" fill="#d6dee8" font-size="15">At Westfort, the party refuses a truce offered for its surrender,</text>
-<text x="336" y="15350" fill="#d6dee8" font-size="15">ambushes goblin food raiders, and blocks a southern mountain route.</text>
-<text x="336" y="15372" fill="#d6dee8" font-size="15">They approach the Invasion Fort, where a mimic seizes Luthien</text>
-<text x="336" y="15394" fill="#d6dee8" font-size="15">while she scouts alone through its secret passages.</text>
-<text x="198" y="15590" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S58</text>
-<text x="198" y="15616" text-anchor="end" fill="#94a3b8" font-size="14">Soul</text>
-<circle cx="260" cy="15598" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
-<circle cx="260" cy="15598" r="6" fill="#cbd5e1"/>
-<rect x="304" y="15506" rx="26" ry="26" width="620" height="228" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
-<text x="336" y="15540" fill="#f3f4f6" font-size="24" font-weight="700">Luthien falls on the road</text>
-<text x="336" y="15568" fill="#f3f4f6" font-size="24" font-weight="700">to the Necropolis</text>
-<text x="336" y="15612" fill="#d6dee8" font-size="15">A Krell kills Luthien inside the Invasion Fort before the party</text>
-<text x="336" y="15634" fill="#d6dee8" font-size="15">sabotages its portcullis and heads northwest. At an imperial ruin,</text>
-<text x="336" y="15656" fill="#d6dee8" font-size="15">soul-binding sigils and a vision of a soul held in a codex open</text>
-<text x="336" y="15678" fill="#d6dee8" font-size="15">a new mystery on the Necropolis approach.</text>
-<text x="198" y="15834" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S59</text>
-<text x="198" y="15860" text-anchor="end" fill="#94a3b8" font-size="14">Back entrance</text>
-<circle cx="260" cy="15842" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
-<circle cx="260" cy="15842" r="6" fill="#cbd5e1"/>
-<rect x="304" y="15750" rx="26" ry="26" width="620" height="228" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
-<text x="336" y="15784" fill="#f3f4f6" font-size="24" font-weight="700">Questions for the dead reveal</text>
-<text x="336" y="15812" fill="#f3f4f6" font-size="24" font-weight="700">a secret way inside</text>
-<text x="336" y="15856" fill="#d6dee8" font-size="15">An imperial map confirms the hill ruin as a concealed Necropolis entrance.</text>
-<text x="336" y="15878" fill="#d6dee8" font-size="15">Captain Varro names Valedictus as the Arch III high priest and explains</text>
-<text x="336" y="15900" fill="#d6dee8" font-size="15">the sealed Eighth Wing. A guarded family tomb</text>
-<text x="336" y="15922" fill="#d6dee8" font-size="15">and a trapped armoury leave the party with new dangers below.</text>
-<text x="198" y="16106" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S60</text>
-<text x="198" y="16132" text-anchor="end" fill="#94a3b8" font-size="14">Phylacteries</text>
-<circle cx="260" cy="16114" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
-<circle cx="260" cy="16114" r="6" fill="#cbd5e1"/>
-<rect x="304" y="16010" rx="26" ry="26" width="620" height="316" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
-<text x="336" y="16044" fill="#f3f4f6" font-size="24" font-weight="700">Lord Varrick reveals</text>
-<text x="336" y="16072" fill="#f3f4f6" font-size="24" font-weight="700">Valedictus&apos;s phylacteries</text>
-<text x="336" y="16116" fill="#d6dee8" font-size="15">The undead noble warns that Valedictus has three phylacteries and may be</text>
-<text x="336" y="16138" fill="#d6dee8" font-size="15">the Grey Syndicate&apos;s target. He urges the party to find the Stylus, while</text>
-<text x="336" y="16160" fill="#d6dee8" font-size="15">a nightmare implicates the glowing skull Steve traded away.</text>
-<text x="336" y="16182" fill="#d6dee8" font-size="15">After crossing a drill yard of 300 skeletons, the party reaches the Nexus</text>
-<text x="336" y="16204" fill="#d6dee8" font-size="15">through Arch I and Wistor reopens the spiked trapdoor with Knock.</text>
-<text x="336" y="16226" fill="#d6dee8" font-size="15">The Bonebreakers return to the Mercy, where preparations begin</text>
-<text x="336" y="16248" fill="#d6dee8" font-size="15">for Luthien&apos;s funeral.</text>
-<text x="198" y="16440" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S61</text>
-<text x="198" y="16466" text-anchor="end" fill="#94a3b8" font-size="14">Relief attack</text>
-<circle cx="260" cy="16448" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
-<circle cx="260" cy="16448" r="6" fill="#cbd5e1"/>
-<rect x="304" y="16342" rx="26" ry="26" width="620" height="272" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
-<text x="336" y="16376" fill="#f3f4f6" font-size="24" font-weight="700">Fire behind the siege line</text>
-<text x="336" y="16404" fill="#f3f4f6" font-size="24" font-weight="700">opens the relief attack</text>
-<text x="336" y="16448" fill="#d6dee8" font-size="15">With fifty defenders facing ninety hobgoblins and three siege engines,</text>
-<text x="336" y="16470" fill="#d6dee8" font-size="15">the party circles through Westmarsh and lays two oil lines behind the army.</text>
-<text x="336" y="16492" fill="#d6dee8" font-size="15">Micaelis lights the northern line and disables one catapult as the Bonebreakers</text>
-<text x="336" y="16514" fill="#d6dee8" font-size="15">begin the attack. Westfort has not yet charged, and the battle</text>
-<text x="336" y="16536" fill="#d6dee8" font-size="15">remains unresolved.</text>
-<text x="198" y="16760" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S62</text>
-<text x="198" y="16786" text-anchor="end" fill="#94a3b8" font-size="14">Victory</text>
-<circle cx="260" cy="16768" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
-<circle cx="260" cy="16768" r="6" fill="#cbd5e1"/>
-<rect x="304" y="16662" rx="26" ry="26" width="620" height="272" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
-<text x="336" y="16696" fill="#f3f4f6" font-size="24" font-weight="700">The heroes of Westfort</text>
-<text x="336" y="16724" fill="#f3f4f6" font-size="24" font-weight="700">break the renewed siege</text>
-<text x="336" y="16768" fill="#d6dee8" font-size="15">The Bonebreakers neutralise Kargaz&apos;s siege engines and destroy his ogres,</text>
-<text x="336" y="16790" fill="#d6dee8" font-size="15">archers, and remaining soldiers while Westfort&apos;s depleted garrison attacks.</text>
-<text x="336" y="16812" fill="#d6dee8" font-size="15">Wistor kills the hobgoblin king, but Barny secretly raises him as a zombie</text>
-<text x="336" y="16834" fill="#d6dee8" font-size="15">and sends him toward the Barrow. Westfort honours the party with a key</text>
-<text x="336" y="16856" fill="#d6dee8" font-size="15">to the city, and eleven water-breathing potions clear the practical way</text>
-<text x="336" y="16878" fill="#d6dee8" font-size="15">for a return to the flooded Necropolis after downtime.</text>
+<text x="336" y="15084" fill="#d6dee8" font-size="15">Nine gryphons kill the party&apos;s horses on the road to Westfort.</text>
+<text x="336" y="15106" fill="#d6dee8" font-size="15">Six die, two are captured, and one escapes with Barny&apos;s dagger.</text>
+<text x="198" y="15280" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S57</text>
+<text x="198" y="15306" text-anchor="end" fill="#94a3b8" font-size="14">Siege</text>
+<circle cx="260" cy="15288" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="260" cy="15288" r="6" fill="#cbd5e1"/>
+<rect x="304" y="15196" rx="26" ry="26" width="620" height="184" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<text x="336" y="15230" fill="#f3f4f6" font-size="24" font-weight="700">The Bonebreakers enter</text>
+<text x="336" y="15258" fill="#f3f4f6" font-size="24" font-weight="700">the renewed siege</text>
+<text x="336" y="15302" fill="#d6dee8" font-size="15">At Westfort, the party rejects a truce for its surrender and blocks</text>
+<text x="336" y="15324" fill="#d6dee8" font-size="15">the raiders&apos; mountain route before a mimic seizes Luthien.</text>
+<text x="198" y="15498" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S58</text>
+<text x="198" y="15524" text-anchor="end" fill="#94a3b8" font-size="14">Soul</text>
+<circle cx="260" cy="15506" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="260" cy="15506" r="6" fill="#cbd5e1"/>
+<rect x="304" y="15414" rx="26" ry="26" width="620" height="184" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<text x="336" y="15448" fill="#f3f4f6" font-size="24" font-weight="700">Luthien falls on the road</text>
+<text x="336" y="15476" fill="#f3f4f6" font-size="24" font-weight="700">to the Necropolis</text>
+<text x="336" y="15520" fill="#d6dee8" font-size="15">A Krell kills Luthien before the party finds an imperial ruin with</text>
+<text x="336" y="15542" fill="#d6dee8" font-size="15">soul-binding sigils and a vision of a soul trapped in a codex.</text>
+<text x="198" y="15716" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S59</text>
+<text x="198" y="15742" text-anchor="end" fill="#94a3b8" font-size="14">Back entrance</text>
+<circle cx="260" cy="15724" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="260" cy="15724" r="6" fill="#cbd5e1"/>
+<rect x="304" y="15632" rx="26" ry="26" width="620" height="184" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<text x="336" y="15666" fill="#f3f4f6" font-size="24" font-weight="700">Questions for the dead reveal</text>
+<text x="336" y="15694" fill="#f3f4f6" font-size="24" font-weight="700">a secret way inside</text>
+<text x="336" y="15738" fill="#d6dee8" font-size="15">Varro identifies Valedictus and Arch VIII at a hidden Necropolis</text>
+<text x="336" y="15760" fill="#d6dee8" font-size="15">entrance, where a guarded tomb and trapped armoury await.</text>
+<text x="198" y="15934" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S60</text>
+<text x="198" y="15960" text-anchor="end" fill="#94a3b8" font-size="14">Phylacteries</text>
+<circle cx="260" cy="15942" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="260" cy="15942" r="6" fill="#cbd5e1"/>
+<rect x="304" y="15850" rx="26" ry="26" width="620" height="184" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<text x="336" y="15884" fill="#f3f4f6" font-size="24" font-weight="700">Lord Varrick reveals</text>
+<text x="336" y="15912" fill="#f3f4f6" font-size="24" font-weight="700">Valedictus&apos;s phylacteries</text>
+<text x="336" y="15956" fill="#d6dee8" font-size="15">Varrick reveals three phylacteries and directs the party to the Stylus.</text>
+<text x="336" y="15978" fill="#d6dee8" font-size="15">They return to the Mercy through Arch I.</text>
+<text x="198" y="16152" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S61</text>
+<text x="198" y="16178" text-anchor="end" fill="#94a3b8" font-size="14">Relief attack</text>
+<circle cx="260" cy="16160" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="260" cy="16160" r="6" fill="#cbd5e1"/>
+<rect x="304" y="16068" rx="26" ry="26" width="620" height="184" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<text x="336" y="16102" fill="#f3f4f6" font-size="24" font-weight="700">Fire behind the siege line</text>
+<text x="336" y="16130" fill="#f3f4f6" font-size="24" font-weight="700">opens the relief attack</text>
+<text x="336" y="16174" fill="#d6dee8" font-size="15">The party circles behind the besiegers, lays two oil lines, and opens</text>
+<text x="336" y="16196" fill="#d6dee8" font-size="15">Westfort&apos;s relief attack by igniting one and sabotaging a catapult.</text>
+<text x="198" y="16370" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S62</text>
+<text x="198" y="16396" text-anchor="end" fill="#94a3b8" font-size="14">Victory</text>
+<circle cx="260" cy="16378" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="260" cy="16378" r="6" fill="#cbd5e1"/>
+<rect x="304" y="16286" rx="26" ry="26" width="620" height="184" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<text x="336" y="16320" fill="#f3f4f6" font-size="24" font-weight="700">The heroes of Westfort</text>
+<text x="336" y="16348" fill="#f3f4f6" font-size="24" font-weight="700">break the renewed siege</text>
+<text x="336" y="16392" fill="#d6dee8" font-size="15">The Bonebreakers destroy Kargaz&apos;s army and receive Westfort&apos;s key.</text>
+<text x="336" y="16414" fill="#d6dee8" font-size="15">Barny secretly raises Kargaz; potions enable a return to the Necropolis.</text>
 </g>
 </svg>
