@@ -2,11 +2,14 @@
 title: Session 44 - Gold Beneath the Beast, Blood Above the Crown
 type: session
 session: 44
+date: 2026-03-30
 tags:
   - session
 source_sessions:
   - 44
 ---
+
+**Date:** 30/03/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-043|Session 43 - Echoes Beneath the Empire]], [[sessions/session-045|Session 45 - The Syndicate's Silence]]
 

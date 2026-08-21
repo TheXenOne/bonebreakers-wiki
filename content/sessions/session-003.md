@@ -2,11 +2,14 @@
 title: Session 3 - Barrow Blitz
 type: session
 session: 3
+date: 2025-01-27
 tags:
   - session
 source_sessions:
   - 3
 ---
+
+**Date:** 27/01/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-002|Session 2 - Bones, Fairy Deals, and Fallen Friends]], [[sessions/session-004|Session 4 - Gilded Gears and Grease Trails]]
 

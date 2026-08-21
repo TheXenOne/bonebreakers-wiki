@@ -2,11 +2,14 @@
 title: Session 5 - Shrine of the Oozing Serpent
 type: session
 session: 5
+date: 2025-02-10
 tags:
   - session
 source_sessions:
   - 5
 ---
+
+**Date:** 10/02/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-004|Session 4 - Gilded Gears and Grease Trails]], [[sessions/session-006|Session 6 - The Dragon's Deception]]
 

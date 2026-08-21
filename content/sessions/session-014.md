@@ -2,11 +2,14 @@
 title: Session 14 - Voyage to Fos Imeras
 type: session
 session: 14
+date: 2025-05-19
 tags:
   - session
 source_sessions:
   - 14
 ---
+
+**Date:** 19/05/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-013|Session 13 - Road to Ikiria]], [[sessions/session-015|Session 15 - The Golden Asclepeion]]
 

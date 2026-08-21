@@ -2,11 +2,14 @@
 title: Session 17 - Beneath the Surface, Above Suspicion
 type: session
 session: 17
+date: 2025-08-11
 tags:
   - session
 source_sessions:
   - 17
 ---
+
+**Date:** 11/08/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-016|Session 16 - Sebastaeia]], [[sessions/session-018|Session 18 - New Beginnings]]
 

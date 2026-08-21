@@ -2,11 +2,14 @@
 title: Session 41 - Into the Necropolis
 type: session
 session: 41
+date: 2026-02-16
 tags:
   - session
 source_sessions:
   - 41
 ---
+
+**Date:** 16/02/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-040|Session 40 - Rescue at the End of the Marsh]], [[sessions/session-042|Session 42 - Echoes Beneath the Empire]]
 

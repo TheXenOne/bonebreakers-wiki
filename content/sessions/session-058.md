@@ -2,11 +2,14 @@
 title: Session 58 - Luthien’s Last Journey
 type: session
 session: 58
+date: 2026-07-20
 tags:
   - session
 source_sessions:
   - 58
 ---
+
+**Date:** 20/07/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-057|Session 57 - Siege and Secrets]]
 

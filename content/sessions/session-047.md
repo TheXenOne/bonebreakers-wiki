@@ -2,11 +2,14 @@
 title: Session 47 - Twenty Thousand in the Dark
 type: session
 session: 47
+date: 2026-05-04
 tags:
   - session
 source_sessions:
   - 47
 ---
+
+**Date:** 04/05/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-046|Session 46 - The Grey Khan's Game]]
 

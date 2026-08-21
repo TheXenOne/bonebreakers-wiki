@@ -2,11 +2,14 @@
 title: Session 40 - Rescue at the End of the Marsh
 type: session
 session: 40
+date: 2026-02-09
 tags:
   - session
 source_sessions:
   - 40
 ---
+
+**Date:** 09/02/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-039|Session 39 - Ashes of the Siege]]
 

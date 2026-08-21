@@ -2,11 +2,14 @@
 title: Session 4 - Gilded Gears and Grease Trails
 type: session
 session: 4
+date: 2025-02-03
 tags:
   - session
 source_sessions:
   - 4
 ---
+
+**Date:** 03/02/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-003|Session 3 - Barrow Blitz]], [[sessions/session-005|Session 5 - Shrine of the Oozing Serpent]]
 

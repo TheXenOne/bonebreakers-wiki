@@ -2,11 +2,14 @@
 title: Session 55 - Ambush at the Counting House
 type: session
 session: 55
+date: 2026-06-29
 tags:
   - session
 source_sessions:
   - 55
 ---
+
+**Date:** 29/06/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-054|Session 54 - The Last Charge of Bran]]
 

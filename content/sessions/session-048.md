@@ -2,11 +2,14 @@
 title: Session 48 - The Burning of Belenus
 type: session
 session: 48
+date: 2026-05-11
 tags:
   - session
 source_sessions:
   - 48
 ---
+
+**Date:** 11/05/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-047|Session 47 - Twenty Thousand in the Dark]]
 

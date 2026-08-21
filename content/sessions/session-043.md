@@ -2,12 +2,15 @@
 title: Session 43 - Echoes Beneath the Empire
 type: session
 session: 43
+date: 2026-03-23
 tags:
   - session
 source_sessions:
   - 42
   - 43
 ---
+
+**Date:** 23/03/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-042|Session 42 - Echoes Beneath the Empire]], [[sessions/session-044|Session 44 - Gold Beneath the Beast, Blood Above the Crown]]
 

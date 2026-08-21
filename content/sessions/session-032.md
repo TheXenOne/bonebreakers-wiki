@@ -2,11 +2,14 @@
 title: Session 32 - The Heart of the Night
 type: session
 session: 32
+date: 2025-12-15
 tags:
   - session
 source_sessions:
   - 32
 ---
+
+**Date:** 15/12/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-031|Session 31 - Blood in the Bath, Knives in the Dark]], [[sessions/session-033|Session 33 - The Taking of Tobold Took]]
 

@@ -2,11 +2,14 @@
 title: Session 46 - The Grey Khan's Game
 type: session
 session: 46
+date: 2026-04-20
 tags:
   - session
 source_sessions:
   - 46
 ---
+
+**Date:** 20/04/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-045|Session 45 - The Syndicate's Silence]]
 

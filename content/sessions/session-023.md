@@ -2,11 +2,14 @@
 title: Session 23 - Secrets in the Stone
 type: session
 session: 23
+date: 2025-09-29
 tags:
   - session
 source_sessions:
   - 23
 ---
+
+**Date:** 29/09/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-022|Session 22 - Frank's Gambit and the Finger of Death]], [[sessions/session-024|Session 24 - Ninjas in the Dark]]
 

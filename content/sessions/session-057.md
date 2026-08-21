@@ -2,11 +2,14 @@
 title: Session 57 - Siege and Secrets
 type: session
 session: 57
+date: 2026-07-13
 tags:
   - session
 source_sessions:
   - 57
 ---
+
+**Date:** 13/07/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-056|Session 56 - Nine Gryphons from the Sky]]
 

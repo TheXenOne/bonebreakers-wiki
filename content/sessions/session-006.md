@@ -2,11 +2,14 @@
 title: Session 6 - The Dragon's Deception
 type: session
 session: 6
+date: 2025-03-17
 tags:
   - session
 source_sessions:
   - 6
 ---
+
+**Date:** 17/03/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-005|Session 5 - Shrine of the Oozing Serpent]], [[sessions/session-007|Session 7 - The Price of Greed]]
 

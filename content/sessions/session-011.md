@@ -2,11 +2,14 @@
 title: Session 11 - The Price of Curiosity
 type: session
 session: 11
+date: 2025-04-21
 tags:
   - session
 source_sessions:
   - 11
 ---
+
+**Date:** 21/04/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-010|Session 10 - Pentagrams and Pitfalls]], [[sessions/session-012|Session 12 - A Queen’s Death]]
 

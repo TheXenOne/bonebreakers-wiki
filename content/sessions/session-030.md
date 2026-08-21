@@ -2,11 +2,14 @@
 title: Session 30 - A Toast to the Damned
 type: session
 session: 30
+date: 2025-12-01
 tags:
   - session
 source_sessions:
   - 30
 ---
+
+**Date:** 01/12/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-029|Session 29 - The Blood Moon Rises]]
 

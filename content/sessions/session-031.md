@@ -2,11 +2,14 @@
 title: Session 31 - Blood in the Bath, Knives in the Dark
 type: session
 session: 31
+date: 2025-12-08
 tags:
   - session
 source_sessions:
   - 31
 ---
+
+**Date:** 08/12/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-030|Session 30 - A Toast to the Damned]], [[sessions/session-032|Session 32 - The Heart of the Night]]
 

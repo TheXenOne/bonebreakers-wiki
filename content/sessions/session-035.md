@@ -2,11 +2,14 @@
 title: Session 35 - Flames on the Frontier
 type: session
 session: 35
+date: 2026-01-05
 tags:
   - session
 source_sessions:
   - 35
 ---
+
+**Date:** 05/01/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-034|Session 34 - When the Trap Is Yours]], [[sessions/session-036|Session 36 - Threads of the Web]]
 

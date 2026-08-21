@@ -2,11 +2,14 @@
 title: Session 37 - Drums Beneath the Hills
 type: session
 session: 37
+date: 2026-01-19
 tags:
   - session
 source_sessions:
   - 37
 ---
+
+**Date:** 19/01/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-036|Session 36 - Threads of the Web]], [[sessions/session-038|Session 38 - The Siege Yet to Come]]
 

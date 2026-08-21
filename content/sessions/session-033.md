@@ -2,11 +2,14 @@
 title: Session 33 - The Taking of Tobold Took
 type: session
 session: 33
+date: 2025-12-22
 tags:
   - session
 source_sessions:
   - 33
 ---
+
+**Date:** 22/12/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-032|Session 32 - The Heart of the Night]], [[sessions/session-034|Session 34 - When the Trap Is Yours]]
 

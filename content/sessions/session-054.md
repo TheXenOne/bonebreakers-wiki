@@ -2,11 +2,14 @@
 title: Session 54 - The Last Charge of Bran
 type: session
 session: 54
+date: 2026-06-22
 tags:
   - session
 source_sessions:
   - 54
 ---
+
+**Date:** 22/06/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-053|Session 53 - Orcs Above, Dead Below]]
 

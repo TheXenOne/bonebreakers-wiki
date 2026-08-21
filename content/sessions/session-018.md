@@ -2,11 +2,14 @@
 title: Session 18 - New Beginnings
 type: session
 session: 18
+date: 2025-08-18
 tags:
   - session
 source_sessions:
   - 18
 ---
+
+**Date:** 18/08/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-017|Session 17 - Beneath the Surface, Above Suspicion]], [[sessions/session-019|Session 19 - The Bell Tolls]]
 

@@ -2,11 +2,14 @@
 title: Session 26 - The Day the Steel Spoke
 type: session
 session: 26
+date: 2025-10-20
 tags:
   - session
 source_sessions:
   - 26
 ---
+
+**Date:** 20/10/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-025|Session 25 - A Deal with Gruumsh (And Other Bad Ideas)]], [[sessions/session-027|Session 27 - Reflections of the Mind]]
 

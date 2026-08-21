@@ -2,11 +2,14 @@
 title: Session 24 - Ninjas in the Dark
 type: session
 session: 24
+date: 2025-10-06
 tags:
   - session
 source_sessions:
   - 24
 ---
+
+**Date:** 06/10/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-023|Session 23 - Secrets in the Stone]], [[sessions/session-025|Session 25 - A Deal with Gruumsh (And Other Bad Ideas)]]
 

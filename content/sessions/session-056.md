@@ -2,11 +2,14 @@
 title: Session 56 - Nine Gryphons from the Sky
 type: session
 session: 56
+date: 2026-07-06
 tags:
   - session
 source_sessions:
   - 56
 ---
+
+**Date:** 06/07/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-055|Session 55 - Ambush at the Counting House]]
 

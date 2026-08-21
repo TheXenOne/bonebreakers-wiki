@@ -2,11 +2,14 @@
 title: Session 10 - Pentagrams and Pitfalls
 type: session
 session: 10
+date: 2025-04-14
 tags:
   - session
 source_sessions:
   - 10
 ---
+
+**Date:** 14/04/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-009|Session 9 - Tarantella's Tune]]
 

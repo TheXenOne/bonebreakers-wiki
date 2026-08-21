@@ -2,11 +2,14 @@
 title: Session 15 - The Golden Asclepeion
 type: session
 session: 15
+date: 2025-07-28
 tags:
   - session
 source_sessions:
   - 15
 ---
+
+**Date:** 28/07/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-014|Session 14 - Voyage to Fos Imeras]], [[sessions/session-016|Session 16 - Sebastaeia]]
 

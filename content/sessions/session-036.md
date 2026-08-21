@@ -2,11 +2,14 @@
 title: Session 36 - Threads of the Web
 type: session
 session: 36
+date: 2026-01-12
 tags:
   - session
 source_sessions:
   - 36
 ---
+
+**Date:** 12/01/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-035|Session 35 - Flames on the Frontier]], [[sessions/session-037|Session 37 - Drums Beneath the Hills]]
 

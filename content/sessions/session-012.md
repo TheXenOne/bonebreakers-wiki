@@ -2,11 +2,14 @@
 title: Session 12 - A Queen’s Death
 type: session
 session: 12
+date: 2025-05-05
 tags:
   - session
 source_sessions:
   - 12
 ---
+
+**Date:** 05/05/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-011|Session 11 - The Price of Curiosity]], [[sessions/session-013|Session 13 - Road to Ikiria]]
 

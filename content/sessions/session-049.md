@@ -2,11 +2,14 @@
 title: Session 49 - Rot and Wraith
 type: session
 session: 49
+date: 2026-05-18
 tags:
   - session
 source_sessions:
   - 49
 ---
+
+**Date:** 18/05/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-048|Session 48 - The Burning of Belenus]]
 

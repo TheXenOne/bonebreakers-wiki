@@ -2,11 +2,14 @@
 title: Session 13 - Road to Ikiria
 type: session
 session: 13
+date: 2025-05-12
 tags:
   - session
 source_sessions:
   - 13
 ---
+
+**Date:** 12/05/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-012|Session 12 - A Queen’s Death]], [[sessions/session-014|Session 14 - Voyage to Fos Imeras]]
 

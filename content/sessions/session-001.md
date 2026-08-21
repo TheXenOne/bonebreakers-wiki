@@ -2,11 +2,14 @@
 title: Session 1 - Into the Barrow
 type: session
 session: 1
+date: 2025-01-13
 tags:
   - session
 source_sessions:
   - 1
 ---
+
+**Date:** 13/01/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-002|Session 2 - Bones, Fairy Deals, and Fallen Friends]]
 

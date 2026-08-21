@@ -2,11 +2,14 @@
 title: Session 16 - Sebastaeia
 type: session
 session: 16
+date: 2025-08-04
 tags:
   - session
 source_sessions:
   - 16
 ---
+
+**Date:** 04/08/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-015|Session 15 - The Golden Asclepeion]], [[sessions/session-017|Session 17 - Beneath the Surface, Above Suspicion]]
 

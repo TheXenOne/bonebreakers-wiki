@@ -2,11 +2,14 @@
 title: Session 22 - Frank's Gambit and the Finger of Death
 type: session
 session: 22
+date: 2025-09-22
 tags:
   - session
 source_sessions:
   - 22
 ---
+
+**Date:** 22/09/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-021|Session 21 - Soup for the Abbott]], [[sessions/session-023|Session 23 - Secrets in the Stone]]
 

@@ -2,11 +2,14 @@
 title: Session 51 - Barnys All the Way Down
 type: session
 session: 51
+date: 2026-06-01
 tags:
   - session
 source_sessions:
   - 51
 ---
+
+**Date:** 01/06/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-050|Session 50 - Coins from a Dead Empire]]
 

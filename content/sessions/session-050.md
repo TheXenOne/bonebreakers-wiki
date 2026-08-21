@@ -2,11 +2,14 @@
 title: Session 50 - Coins from a Dead Empire
 type: session
 session: 50
+date: 2026-05-25
 tags:
   - session
 source_sessions:
   - 50
 ---
+
+**Date:** 25/05/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-049|Session 49 - Rot and Wraith]]
 

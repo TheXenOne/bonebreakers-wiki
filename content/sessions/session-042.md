@@ -2,12 +2,15 @@
 title: Session 42 - Echoes Beneath the Empire
 type: session
 session: 42
+date: 2026-03-16
 tags:
   - session
 source_sessions:
   - 42
   - 43
 ---
+
+**Date:** 16/03/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-041|Session 41 - Into the Necropolis]], [[sessions/session-043|Session 43 - Echoes Beneath the Empire]]
 

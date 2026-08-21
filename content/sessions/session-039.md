@@ -2,11 +2,14 @@
 title: Session 39 - Ashes of the Siege
 type: session
 session: 39
+date: 2026-02-02
 tags:
   - session
 source_sessions:
   - 39
 ---
+
+**Date:** 02/02/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-038|Session 38 - The Siege Yet to Come]], [[sessions/session-040|Session 40 - Rescue at the End of the Marsh]]
 

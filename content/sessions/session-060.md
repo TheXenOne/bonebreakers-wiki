@@ -2,11 +2,14 @@
 title: Session 60 - The Secret We Sold
 type: session
 session: 60
+date: 2026-08-03
 tags:
   - session
 source_sessions:
   - 60
 ---
+
+**Date:** 03/08/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-059|Session 59 - Questions for the Dead]]
 

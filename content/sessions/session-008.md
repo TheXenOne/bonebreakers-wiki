@@ -2,11 +2,14 @@
 title: Session 8 - The Jeweller’s Sanctum
 type: session
 session: 8
+date: 2025-03-31
 tags:
   - session
 source_sessions:
   - 8
 ---
+
+**Date:** 31/03/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-007|Session 7 - The Price of Greed]], [[sessions/session-009|Session 9 - Tarantella's Tune]]
 

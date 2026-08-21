@@ -2,11 +2,14 @@
 title: Session 28 - From Stars to Blood
 type: session
 session: 28
+date: 2025-11-03
 tags:
   - session
 source_sessions:
   - 28
 ---
+
+**Date:** 03/11/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-027|Session 27 - Reflections of the Mind]], [[sessions/session-029|Session 29 - The Blood Moon Rises]]
 

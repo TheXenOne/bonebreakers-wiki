@@ -2,11 +2,14 @@
 title: Session 27 - Reflections of the Mind
 type: session
 session: 27
+date: 2025-10-27
 tags:
   - session
 source_sessions:
   - 27
 ---
+
+**Date:** 27/10/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-026|Session 26 - The Day the Steel Spoke]], [[sessions/session-028|Session 28 - From Stars to Blood]]
 

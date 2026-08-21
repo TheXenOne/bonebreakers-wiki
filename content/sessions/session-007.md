@@ -2,11 +2,14 @@
 title: Session 7 - The Price of Greed
 type: session
 session: 7
+date: 2025-03-24
 tags:
   - session
 source_sessions:
   - 7
 ---
+
+**Date:** 24/03/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-006|Session 6 - The Dragon's Deception]], [[sessions/session-008|Session 8 - The Jeweller’s Sanctum]]
 

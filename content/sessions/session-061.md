@@ -2,11 +2,14 @@
 title: Session 61 - Through the Fire and Flames
 type: session
 session: 61
+date: 2026-08-10
 tags:
   - session
 source_sessions:
   - 61
 ---
+
+**Date:** 10/08/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-060|Session 60 - The Secret We Sold]]
 

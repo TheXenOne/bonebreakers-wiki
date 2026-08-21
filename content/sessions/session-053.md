@@ -2,11 +2,14 @@
 title: Session 53 - Orcs Above, Dead Below
 type: session
 session: 53
+date: 2026-06-15
 tags:
   - session
 source_sessions:
   - 53
 ---
+
+**Date:** 15/06/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-052|Session 52 - The Bloated One]]
 

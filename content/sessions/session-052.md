@@ -2,11 +2,14 @@
 title: Session 52 - The Bloated One
 type: session
 session: 52
+date: 2026-06-08
 tags:
   - session
 source_sessions:
   - 52
 ---
+
+**Date:** 08/06/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-051|Session 51 - Barnys All the Way Down]]
 

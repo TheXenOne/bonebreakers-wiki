@@ -2,11 +2,14 @@
 title: Session 2 - Bones, Fairy Deals, and Fallen Friends
 type: session
 session: 2
+date: 2025-01-20
 tags:
   - session
 source_sessions:
   - 2
 ---
+
+**Date:** 20/01/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-001|Session 1 - Into the Barrow]], [[sessions/session-003|Session 3 - Barrow Blitz]]
 

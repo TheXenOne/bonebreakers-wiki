@@ -2,11 +2,14 @@
 title: Session 19 - The Bell Tolls
 type: session
 session: 19
+date: 2025-08-25
 tags:
   - session
 source_sessions:
   - 19
 ---
+
+**Date:** 25/08/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-018|Session 18 - New Beginnings]], [[sessions/session-020|Session 20 - The Burned and the Bound]]
 

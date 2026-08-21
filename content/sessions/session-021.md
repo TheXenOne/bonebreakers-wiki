@@ -2,11 +2,14 @@
 title: Session 21 - Soup for the Abbott
 type: session
 session: 21
+date: 2025-09-15
 tags:
   - session
 source_sessions:
   - 21
 ---
+
+**Date:** 15/09/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-020|Session 20 - The Burned and the Bound]], [[sessions/session-022|Session 22 - Frank's Gambit and the Finger of Death]]
 

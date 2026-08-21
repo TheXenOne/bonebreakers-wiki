@@ -2,11 +2,14 @@
 title: Session 34 - When the Trap Is Yours
 type: session
 session: 34
+date: 2025-12-29
 tags:
   - session
 source_sessions:
   - 34
 ---
+
+**Date:** 29/12/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-033|Session 33 - The Taking of Tobold Took]], [[sessions/session-035|Session 35 - Flames on the Frontier]]
 

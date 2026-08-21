@@ -2,11 +2,14 @@
 title: Session 9 - Tarantella's Tune
 type: session
 session: 9
+date: 2025-04-07
 tags:
   - session
 source_sessions:
   - 9
 ---
+
+**Date:** 07/04/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-008|Session 8 - The Jeweller’s Sanctum]], [[sessions/session-010|Session 10 - Pentagrams and Pitfalls]]
 

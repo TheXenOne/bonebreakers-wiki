@@ -2,11 +2,14 @@
 title: Session 45 - The Syndicate's Silence
 type: session
 session: 45
+date: 2026-04-13
 tags:
   - session
 source_sessions:
   - 45
 ---
+
+**Date:** 13/04/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-044|Session 44 - Gold Beneath the Beast, Blood Above the Crown]], [[sessions/session-046|Session 46 - The Grey Khan's Game]]
 

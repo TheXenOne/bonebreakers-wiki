@@ -2,11 +2,14 @@
 title: Session 20 - The Burned and the Bound
 type: session
 session: 20
+date: 2025-09-02
 tags:
   - session
 source_sessions:
   - 20
 ---
+
+**Date:** 02/09/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-019|Session 19 - The Bell Tolls]]
 

@@ -2,11 +2,14 @@
 title: Session 29 - The Blood Moon Rises
 type: session
 session: 29
+date: 2025-11-10
 tags:
   - session
 source_sessions:
   - 29
 ---
+
+**Date:** 10/11/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-028|Session 28 - From Stars to Blood]], [[sessions/session-030|Session 30 - A Toast to the Damned]]
 

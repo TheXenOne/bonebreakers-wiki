@@ -2,11 +2,14 @@
 title: Session 38 - The Siege Yet to Come
 type: session
 session: 38
+date: 2026-01-26
 tags:
   - session
 source_sessions:
   - 38
 ---
+
+**Date:** 26/01/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-037|Session 37 - Drums Beneath the Hills]], [[sessions/session-039|Session 39 - Ashes of the Siege]]
 

@@ -2,11 +2,14 @@
 title: Session 62 - Heroes of Westfort
 type: session
 session: 62
+date: 2026-08-17
 tags:
   - session
 source_sessions:
   - 62
 ---
+
+**Date:** 17/08/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-061|Session 61 - Through the Fire and Flames]]
 

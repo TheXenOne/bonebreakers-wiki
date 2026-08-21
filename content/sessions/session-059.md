@@ -2,11 +2,14 @@
 title: Session 59 - Questions for the Dead
 type: session
 session: 59
+date: 2026-07-27
 tags:
   - session
 source_sessions:
   - 59
 ---
+
+**Date:** 27/07/26
 
 See also: [[sessions/index|Sessions]], [[sessions/session-058|Session 58 - Luthien’s Last Journey]]
 

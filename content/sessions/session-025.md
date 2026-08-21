@@ -2,11 +2,14 @@
 title: Session 25 - A Deal with Gruumsh (And Other Bad Ideas)
 type: session
 session: 25
+date: 2025-10-13
 tags:
   - session
 source_sessions:
   - 25
 ---
+
+**Date:** 13/10/25
 
 See also: [[sessions/index|Sessions]], [[sessions/session-024|Session 24 - Ninjas in the Dark]], [[sessions/session-026|Session 26 - The Day the Steel Spoke]]
 
