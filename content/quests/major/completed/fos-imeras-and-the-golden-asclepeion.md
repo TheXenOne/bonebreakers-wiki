@@ -97,4 +97,4 @@ The party returns to Ikiria with proof of what happened on Fos Imeras, the rescu
 
 - The disappearance of Callea is not clearly resolved.
 - The exact identity of the golden dragon seen at sea remains unknown.
-- The origin and full nature of the purified remain unresolved. See [[quests/minor/active/the-purified-of-fos-imeras|The Purified of Fos Imeras]].
+- The origin and full nature of the purified remain unknown, although their immediate threat ended with Sebastaeia's death. See [[quests/minor/completed/the-purified-of-fos-imeras|The Purified of Fos Imeras]].

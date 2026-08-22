@@ -1,14 +1,14 @@
 ---
 title: Prince Arthur and the Grey Khan
 type: campaign-thread
-status: active
+status: completed
 importance: major
 tags:
   - campaign-thread
   - politics
   - grey-syndicate
 started_session: 44
-completed_session:
+completed_session: 47
 related_sessions:
   - 44
   - 45
@@ -35,7 +35,7 @@ source_sessions:
 
 ## Overview
 
-This thread begins when the party intercepts [[npcs/agria/prince-arthur|Prince Arthur]] and learns he is seeking help from the Grey Khan in order to become king. It turns an already dangerous conspiracy into a direct threat against [[npcs/agria/princess-agatha|Princess Agatha]].
+This thread began when the party intercepted [[npcs/agria/prince-arthur|Prince Arthur]] and learned he was seeking help from the Grey Khan in order to become king. His conspiracy created a direct threat against [[npcs/agria/princess-agatha|Princess Agatha]], but that threat ended with Arthur's arrest in [[sessions/session-047|Session 47]].
 
 ## How it began
 
@@ -49,15 +49,17 @@ In [[sessions/session-044|Session 44]], the party meets Arthur on the road, char
 - In [[sessions/session-046|Session 46]], Ash offers a large payment for Arthur's secretary and claims she herself is the Grey Khan.
 - In [[sessions/session-047|Session 47]], the exchange turns out to be a decoy, Wendell testifies, and Smith orders Arthur arrested.
 
-## Current status
+## Resolution
 
-Arthur is under arrest in Ikiria and still politically dangerous. The exchange plan is over, but the Grey Khan question and Agatha's position remain unresolved.
+In [[sessions/session-047|Session 47]], Wendell testified against Arthur and the Bonebreakers presented documentary evidence of his dealings with the Grey Syndicate. Commander Smith then ordered Arthur's arrest, ending Arthur's immediate threat to Princess Agatha and the Crown.
+
+The consequences of the conspiracy and arrest for Princess Agatha and the Crown remain unknown.
 
 ## Consequences
 
-- The party now holds evidence of royal treachery.
-- Agatha's position is under more explicit threat than before.
-- Arthur's arrest moves the thread from covert leverage into formal state action.
+- The evidence of royal treachery was delivered to Commander Smith.
+- Arthur's arrest removed the immediate threat posed by his plot.
+- The wider political consequences for Princess Agatha and the Crown remain unknown.
 
 ## Related characters and NPCs
 
@@ -87,4 +89,4 @@ Arthur is under arrest in Ikiria and still politically dangerous. The exchange p
 
 - Arthur's final fate is unresolved.
 - Ash's claim to be the Grey Khan still needs confirmation.
-- Princess Agatha's absence from Ikiria leaves the political endgame unsettled.
+- The consequences for Princess Agatha and the Crown remain unknown.

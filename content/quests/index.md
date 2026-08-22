@@ -14,7 +14,6 @@ Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still s
 
 - [[quests/major/active/princess-agathas-secret-patronage|Princess Agatha's Secret Patronage]]
 - [[quests/major/active/grey-syndicate-conspiracy|Grey Syndicate Conspiracy]]
-- [[quests/major/active/prince-arthur-and-the-grey-khan|Prince Arthur and the Grey Khan]]
 - [[quests/major/active/necropolis-beneath-the-mercy|Necropolis Beneath the Mercy]]
 - [[quests/major/active/valedictus-and-his-phylacteries|Valedictus and His Phylacteries]]
 
@@ -31,6 +30,7 @@ Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still s
 - [[quests/major/completed/westfort-invasion-and-child-rescue|Westfort Invasion and Child Rescue]]
 - [[quests/major/completed/the-fate-of-tobold-took|The Fate of Tobold Took]]
 - [[quests/major/completed/renewed-siege-of-westfort|Renewed Siege of Westfort]]
+- [[quests/major/completed/prince-arthur-and-the-grey-khan|Prince Arthur and the Grey Khan]]
 
 ## Minor Campaign Threads
 
@@ -42,10 +42,10 @@ Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still s
 - [[quests/minor/active/ulrichs-search-for-the-one-true-god|Ulrich's Search for the One True God]]
 - [[quests/minor/active/ehecats-vow-against-the-ramen-empire|Ehecat's Vow Against the Ramen Empire]]
 - [[quests/minor/active/grazka-and-the-gnolls-of-westmarsh|Grazka and the Gnolls of Westmarsh]]
-- [[quests/minor/active/the-purified-of-fos-imeras|The Purified of Fos Imeras]]
 - [[quests/minor/active/gryphon-mounts|Gryphon Mounts]]
 
 ### Completed Threads
 
 - [[quests/minor/completed/the-mercys-poisoned-well|The Mercy's Poisoned Well]]
 - [[quests/minor/completed/plague-in-ikiria|Plague in Ikiria]]
+- [[quests/minor/completed/the-purified-of-fos-imeras|The Purified of Fos Imeras]]

@@ -1,14 +1,14 @@
 ---
 title: The Purified of Fos Imeras
 type: campaign-thread
-status: needs-review
+status: completed
 importance: minor
 tags:
   - campaign-thread
   - fos-imeras
   - mystery
 started_session: 16
-completed_session:
+completed_session: 16
 related_sessions:
   - 16
 related_locations:
@@ -24,7 +24,7 @@ source_sessions:
 
 ## Overview
 
-Deep inside the [[locations/world/fos-imeras/golden-asclepeion|Golden Asclepeion]], the party encounters faceless beings called the purified and a larger fused mass made from them. Their origin and exact nature are still unclear.
+Deep inside the [[locations/world/fos-imeras/golden-asclepeion|Golden Asclepeion]], the party encountered faceless beings called the purified and a larger fused mass made from them. The active threat ended when the Bonebreakers killed [[npcs/fos-imeras/sebastaeia|Sebastaeia]] in [[sessions/session-016|Session 16]], although the origin and exact nature of the purified remain unclear.
 
 ## How it began
 
@@ -36,9 +36,9 @@ In [[sessions/session-016|Session 16]], the party pushes beyond [[npcs/fos-imera
 - Entering their chamber causes severe ringing and bleeding before the creatures attack.
 - More purified wait below a marked trapdoor, suggesting the problem was larger than one room.
 
-## Current status
+## Resolution
 
-Needs review. The Fos Imeras expedition ends, but it never becomes clear what the purified were or how widespread they became.
+The Bonebreakers killed Sebastaeia in [[sessions/session-016|Session 16]], ending her campaign of warped purification. The party later completed its expedition and left Fos Imeras, bringing the immediate threat to an end.
 
 ## Related characters and NPCs
 
@@ -56,4 +56,4 @@ Needs review. The Fos Imeras expedition ends, but it never becomes clear what th
 ## Loose ends
 
 - Whether the purified were victims, creations, or some later stage of Sebastaeia's work is not established.
-- It is unclear whether all remaining purified were destroyed.
+- The ultimate fate of any purified left within the Asclepeion is unknown.
