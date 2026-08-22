@@ -60,6 +60,8 @@ Lord Varrick adds a possible connection to Valedictus, but only as informed spec
 
 ## Start here
 
+- [[campaign-summary|Campaign Summary]]
+- [[campaign-arcs|Campaign Arcs]]
 - [[sessions/index|Sessions]]
 - [[characters/index|Characters]]
 - [[locations/index|Locations]]
