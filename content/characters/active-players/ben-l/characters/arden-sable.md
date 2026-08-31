@@ -59,6 +59,7 @@ source_sessions:
   - 60
   - 61
   - 62
+  - 63
 ---
 
 ## Overview
@@ -136,6 +137,7 @@ Cleric of Belenus and Bishop of the Mercy.
 - In [[sessions/session-060|Session 60]], Arden buys Wistor's document, leads the party through the gas-filled route beneath the ruin, opens the blocked stone slab with a crowbar, survives paralysis and then cures Selvar, and leads the exchange with [[npcs/necropolis/lord-varrick|Lord Varrick]]. His questions uncover [[npcs/necropolis/valedictus|Valedictus's]] three phylacteries and [[items/the-stylus|the Stylus]]; a rust monster destroys his magical mace completely.
 - In [[sessions/session-061|Session 61]], Arden commissions [[npcs/barrowshire/barrow-spa-locals/michelangelo|Michelangelo]] to make a stone memorial statue of Bran and a provisionally wooden statue of Luthien. During the Westfort relief operation, he blinds a giant crab and casts Silence on the invisible Micaelis so he can lay the oil lines and sabotage a catapult undetected.
 - In [[sessions/session-062|Session 62]], Arden paralyses the two surviving siege ogres with Hold Person. After the battle, he distributes gold among Westfort's people in Belenus's name and leads burial rites for the fallen defenders.
+- In [[sessions/session-063|Session 63]], Arden visits the family of a girl Ulrich cured during Ikiria's plague and recruits her sister, [[npcs/ikiria/elizabeth|Elizabeth]], into the Belenite faith. He trains and employs her as a non-combatant acolyte responsible for healing local people and running the rebuilt Temple of Merciful Life. After reaching Harrow, he loudly announces himself as a cleric of Belenus and tells the Anchor & Chain that the party is seeking work.
 
 ## Relationships
 
@@ -199,3 +201,4 @@ Active. Arden remains Bishop of the Mercy and continues with the party in later 
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-062|Session 62]]
+- [[sessions/session-063|Session 63]]

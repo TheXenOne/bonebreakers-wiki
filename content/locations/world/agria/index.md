@@ -13,6 +13,7 @@ source_sessions:
   - 44
   - 45
   - 46
+  - 63
 ---
 
 ## Overview
@@ -23,6 +24,7 @@ Agria is a feudal monarchy ruled by Queen Audrey II. It has no standing army or 
 
 - [[locations/world/agria/southlands|The Duchy of Southlands]] is the main campaign region so far and is governed by Princess Agatha.
 - [[locations/world/agria/northlands|The Duchy of Northlands]] is governed by Prince Arthur and remains mostly unexplored.
+- Kingsport, Agria's capital, lies in the Northlands; [[locations/world/agria/northlands/harrow|Harrow]] is a northern port in the County of Harrowmere.
 - [[locations/world/agria/southlands/barrowshire|The Barony of Barrowshire]] sits within the Southlands and includes [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]].
 - [[locations/world/agria/west-fort|Westfort]] guards a major frontier crossing on the [[locations/world/agria/west-flow-river|West Flow River]] into [[locations/world/westmarsh|Westmarsh]].
 
@@ -36,6 +38,7 @@ Agria is a feudal monarchy ruled by Queen Audrey II. It has no standing army or 
 
 - Agria's political structure becomes much clearer after the party returns from [[locations/world/fos-imeras|Fos Imeras]] in [[sessions/session-018|Session 18]].
 - In [[sessions/session-044|Session 44]] and [[sessions/session-045|Session 45]], the Bonebreakers gather evidence linking Prince Arthur to the Grey Syndicate.
+- In [[sessions/session-063|Session 63]], reports that Agatha and Commander Smith are missing, combined with Queen Audrey II's apparent illness, deepen the kingdom's succession crisis and draw the party to Harrow.
 
 ## Related sessions
 
@@ -43,6 +46,7 @@ Agria is a feudal monarchy ruled by Queen Audrey II. It has no standing army or 
 - [[sessions/session-044|Session 44]]
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-063|Session 63]]
 
 ## Unresolved threads or mysteries
 

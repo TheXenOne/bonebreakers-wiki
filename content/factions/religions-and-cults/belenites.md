@@ -14,6 +14,7 @@ notable_members:
   - Arden Sable
   - Sir Cedric Dawnmere
   - Francis "Frank" Spencer Gray
+  - Elizabeth
 related_locations:
   - The Mercy
   - The Temple of Merciful Life
@@ -27,6 +28,7 @@ source_sessions:
   - 26
   - 48
   - 53
+  - 63
 ---
 
 ## Overview
@@ -49,6 +51,7 @@ The faith is associated with healing, public charity, and resistance to undead c
 - [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]]
 - [[characters/active-players/ben-l/characters/sir-cedric-dawnmere|Sir Cedric Dawnmere]]
 - [[characters/active-players/deri/characters/francis-spencer-gray|Francis "Frank" Spencer Gray]]
+- [[npcs/ikiria/elizabeth|Elizabeth]], the non-combatant acolyte responsible for the rebuilt Temple of Merciful Life.
 
 ## Associated locations
 
@@ -71,10 +74,11 @@ The faith is associated with healing, public charity, and resistance to undead c
 - In [[sessions/session-026|Session 26]], Frank establishes the [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|Temple of Merciful Life]] in Ikiria.
 - In [[sessions/session-048|Session 48]], the party finds [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|the Temple of Merciful Life]] in Ikiria burned by civilian inquisitors, while Arden and Frank continue public healing and charity in the district.
 - In [[sessions/session-053|Session 53]], Grey Syndicate-linked orcs briefly seize the Mercy and imprison its inhabitants before the Bonebreakers retake the nave.
+- In [[sessions/session-063|Session 63]], the party finds the Temple of Merciful Life rebuilt. Arden trains and employs Elizabeth to run it, gather followers, and provide local healing.
 
 ## Current status
 
-Active, but under pressure in both Ikiria and at the Mercy. The faith still holds the Mercy after the Session 53 counterattack, but its known Ikirian temple-front has been burned, and the Belenites remain visibly associated with relief efforts during the plague.
+Active at both the Mercy and the rebuilt Temple of Merciful Life. Elizabeth now gives the faith a permanent non-combatant acolyte in Ikiria, while Arden and the Bonebreakers travel north.
 
 ## Related sessions
 
@@ -85,9 +89,10 @@ Active, but under pressure in both Ikiria and at the Mercy. The faith still hold
 - [[sessions/session-022|Session 22]]
 - [[sessions/session-026|Session 26]]
 - [[sessions/session-053|Session 53]]
+- [[sessions/session-063|Session 63]]
 
 ## Unresolved threads
 
 - The exact doctrine and wider institutional reach of the Belenites in Agria remain unclear.
 - How stable Belenite control of [[locations/world/agria/southlands/mercy|the Mercy]] remains is still unsettled.
-- Whether the Belenites can restore their Ikirian base during the current crisis remains unresolved.
+- How the rebuilt Ikirian temple develops under Elizabeth remains unresolved.

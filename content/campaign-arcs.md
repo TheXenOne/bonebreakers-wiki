@@ -252,7 +252,7 @@ The Siege of Westfort is broken, and the townspeople who had begun to resent the
 
 Yet even in victory, Barny has plans of his own.
 
-Amid the battlefield, he secretly raises Kargaz as a zombie, turns the dead king invisible and orders him to make his way back to the Barrow.
+Amid the battlefield, he secretly raises Kargaz as a zombie and turns the dead king invisible.
 
 The Grey Syndicate has lost its army.
 
@@ -261,3 +261,13 @@ Valedictus remains somewhere within the Necropolis.
 One of his phylacteries is missing.
 
 And the Bonebreakers themselves have become powerful enough that what they choose to do next may matter as much as whatever their enemies are planning.
+
+# The Fog over Harrow Arc
+
+After Westfort's victory, Barny questions the reanimated Kargaz. The dead king confirms that the Grey Syndicate supported his war and promised him control of Westfort, turning a suspected connection into direct testimony without revealing the organisation's purpose.
+
+The Bonebreakers travel east to a recovering Ikiria. The Temple of Merciful Life has been rebuilt, but the city's royal leadership remains unstable: Princess Agatha is still missing, Commander Smith has also disappeared, and Queen Audrey II is reportedly unwell.
+
+An East Agria Company secretary insists that Agatha is safe and delivers a letter apparently written by her. It summons the party to Harrow, a northern port reached through the fjords and canals of the Narrows. Captain Winston carries them there aboard *Agatha's Favour*, but cannot tell them where Agatha is.
+
+At Harrow, Rickart the Reeve extracts 7,500 gold pieces merely to let the ship enter. The Bonebreakers land among pirates and crowded docks, announce themselves at the Anchor & Chain, and begin searching for Agatha without knowing whether the summons was genuine.

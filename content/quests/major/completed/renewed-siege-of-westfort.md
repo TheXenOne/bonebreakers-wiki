@@ -69,7 +69,7 @@ In [[sessions/session-047|Session 47]], a captured Grey Syndicate recruiter warn
 - In [[sessions/session-062|Session 62]], the Bonebreakers eliminate all three ogres and the hobgoblin archers while Westfort's defenders advance across the bridge. Rose kills a blinded ogre with the enemy ballista, and Wistor kills Kargaz with Lightning Bolt.
 - Hobgoblin attacks inflict heavy losses on Westfort's remaining archers and soldiers, but the surviving soldiers, militia, archers, and Bonebreakers destroy the final enemy troops.
 - The Bonebreakers return to public acclaim. Commander Valerius presents them with a key to the city, Frank gives 1,000 gold pieces toward rebuilding and relief, and Arden leads burial rites for the fallen defenders.
-- Barny secretly raises Kargaz as a zombie, turns him invisible, and orders him to hide before travelling to the Barrow.
+- Barny secretly raises Kargaz as a zombie and turns him invisible.
 
 ## Current status
 
@@ -119,4 +119,4 @@ Completed in Session 62. The renewed siege army is destroyed and Westfort surviv
 - Kargaz is confirmed as the broken-crowned king, but whether his army belonged to a broader alliance or command structure remains unknown.
 - Whether any surviving hobgoblin force will retaliate for the defeat remains unclear.
 - Westfort's exact losses and the course of its rebuilding need review.
-- Whether Kargaz reached the Barrow and what Barny intends for the zombified king remain unresolved.
+- What Barny intends for the zombified Kargaz remains unresolved.

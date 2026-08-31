@@ -26,6 +26,7 @@ source_sessions:
   - 45
   - 47
   - 51
+  - 63
 ---
 
 ## Overview
@@ -41,12 +42,14 @@ The Company combines trade power, political influence, and private operational r
 - [[npcs/agria/princess-agatha|Princess Agatha]] is Governor of the Company.
 - [[npcs/agria/east-agria-company/commander-smith|Commander Smith]] serves as head of security and field liaison.
 - [[npcs/agria/east-agria-company/admiral-nelson|Admiral Nelson]] commands its maritime arm.
+- [[npcs/agria/east-agria-company/captain-winston|Captain Winston]] commands *Agatha's Favour* on the voyage to Harrow.
 
 ## Notable members
 
 - [[npcs/agria/princess-agatha|Princess Agatha]]
 - [[npcs/agria/east-agria-company/commander-smith|Commander Smith]]
 - [[npcs/agria/east-agria-company/admiral-nelson|Admiral Nelson]]
+- [[npcs/agria/east-agria-company/captain-winston|Captain Winston]]
 
 ## Associated locations
 
@@ -54,6 +57,7 @@ The Company combines trade power, political influence, and private operational r
 - [[locations/world/agria/southlands/ikiria|Ikiria]]
 - [[locations/world/fos-imeras|Fos Imeras]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
+- [[locations/world/agria/northlands/harrow|Harrow]]
 
 ## Allies and enemies
 
@@ -69,10 +73,11 @@ The Company combines trade power, political influence, and private operational r
 - In [[sessions/session-045|Session 45]], Pell is sent to Smith with warning about Prince Arthur.
 - In [[sessions/session-047|Session 47]], Smith receives the evidence against Arthur at Company headquarters and orders his arrest.
 - In [[sessions/session-051|Session 51]], [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] agrees to ask the Company to lift or ease the quarantine because overcrowding is worsening disease in the Plats.
+- In [[sessions/session-063|Session 63]], a Company secretary gives the Bonebreakers an apparent letter from Agatha summoning them to Harrow, and the Company charters *Agatha's Favour* to transport them there.
 
 ## Current status
 
-Active and politically important, but now operating inside a locked-down Ikiria without Agatha present. Its response to Vaessa's quarantine petition has not yet been shown.
+Active and politically important. Agatha and Smith are both missing from the Bonebreakers' view, but the Company continues operating and has sent the party to Harrow under an uncertain summons.
 
 ## Related sessions
 
@@ -83,8 +88,9 @@ Active and politically important, but now operating inside a locked-down Ikiria 
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-051|Session 51]]
+- [[sessions/session-063|Session 63]]
 
 ## Unresolved threads
 
 - The Company's full size and internal structure remain only partly described.
-- Agatha's absence during Ikiria's lockdown leaves the Company's next political move uncertain.
+- Whether Agatha truly authorised the summons to Harrow remains unresolved.

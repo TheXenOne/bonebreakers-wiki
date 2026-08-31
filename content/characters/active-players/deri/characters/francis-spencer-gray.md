@@ -37,6 +37,7 @@ source_sessions:
   - 58
   - 59
   - 62
+  - 63
 ---
 
 ## Overview
@@ -89,6 +90,7 @@ Thief.
 - In [[sessions/session-058|Session 58]], Frank scouts a domed chamber in the [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]] using Luthien's recovered cloak and boots, examines a soul-bound chest secured by three locks, and helps work on it while the party fights its skeletal guards and a disenchanter, heavily wounding one. The chest remains unresolved.
 - In [[sessions/session-059|Session 59]], Frank scouts the command quarter, finds its centurion's insignia, backstabs a minotaur, and helps recover 4,000 electrum pieces; takes corroded lockpicks from a prison cell, reads a warning about the vault and an untrustworthy halfling, and identifies a pressure plate beyond the portcullis that likely requires several people to trigger; then promises to lay [[npcs/necropolis/captain-varro|Captain Varro]] to rest, prompting Varro to leave the imperial armoury unlocked, where Frank opens its chest and recovers 800 gold pieces and a document before the party triggers the poison-gas trap.
 - In [[sessions/session-062|Session 62]], Frank infiltrates the hobgoblin siege engines with Nila, badly wounds an ogre with a backstab and Kargaz with a crossbow shot, and helps eliminate the remaining archers. After the victory, he contributes 1,000 gold pieces to Westfort's rebuilding and asks Arden to lead burial rites for the fallen defenders.
+- In [[sessions/session-063|Session 63]], Frank gives [[npcs/ikiria/gilly|Gilly]] enough money to rent an upper-city apartment and dress for high society, asking her to gather information about eligible widows he might pursue. Her report that Agatha remains missing and Commander Smith has also disappeared helps prompt the party's investigation.
 
 ## Relationships
 
@@ -127,3 +129,4 @@ Active.
 - [[sessions/session-058|Session 58]]
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-062|Session 62]]
+- [[sessions/session-063|Session 63]]

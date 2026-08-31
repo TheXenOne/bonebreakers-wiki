@@ -30,6 +30,9 @@ tags:
 - [[locations/world/agria/southlands/barrowshire/kelfrek-marsh|Kelfrek Marsh]]
 - [[locations/world/agria/west-fort|Westfort]]
 - [[locations/world/agria/west-flow-river|West Flow River]]
+- [[locations/world/agria/northlands/harrow|Harrow]]
+- [[locations/world/agria/northlands/narrows|The Narrows]]
+- [[locations/world/agria/northlands/harrow/anchor-and-chain|The Anchor & Chain]]
 
 ## Institutions
 

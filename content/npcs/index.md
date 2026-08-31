@@ -13,6 +13,7 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 - [[npcs/agria/prince-arthur|Prince Arthur]]
 - [[npcs/agria/prince-arthurs-retinue/index|Prince Arthur's Retinue]]
 - [[npcs/agria/east-agria-company/index|East Agria Company]]
+- [[npcs/agria/east-agria-company/captain-winston|Captain Winston]]
 
 ## Ikiria
 
@@ -21,6 +22,8 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 - [[npcs/ikiria/maren-sollow|Maren Sollow]]
 - [[npcs/ikiria/arkeus-whizkeyrd|Arkeus Whizkeyrd]]
 - [[npcs/ikiria/helvian|Helvian]]
+- [[npcs/ikiria/elizabeth|Elizabeth]]
+- [[npcs/ikiria/gilly|Gilly]]
 - [[npcs/ikiria/halls-of-the-blood-king/index|Halls of the Blood King]]
 
 ## Flux Academy
@@ -74,6 +77,11 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 - [[npcs/westmarsh/grey-syndicate/index|Grey Syndicate]]
 - [[npcs/westmarsh/king-of-ghouls|King of Ghouls]]
 - [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]]
+
+## Harrow
+
+- [[npcs/harrow/rickart-the-reeve|Rickart the Reeve]]
+- [[npcs/harrow/fen-blackwater|Fen Blackwater]]
 
 ## Necropolis and Fos Imeras
 

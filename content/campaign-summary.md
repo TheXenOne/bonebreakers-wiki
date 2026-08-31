@@ -18,8 +18,10 @@ At the same time, the party found an impossible staircase beneath the Mercy lead
 
 As plague and undead outbreaks spread through Ikiria, the Bonebreakers learned that the Necropolis is tied to **High Priest Valedictus**, an ancient necromancer who once sought dominion across the continent. Valedictus possesses multiple phylacteries, and the party may already have unknowingly released one of them.
 
-Meanwhile, the surviving hobgoblin commander **Kargaz the Disciplined** rebuilt the shattered invasion force and laid siege to Westfort. The Bonebreakers eventually broke the siege, destroyed his army, and killed Kargaz—but the larger struggle remains unresolved.
+Meanwhile, the surviving hobgoblin commander **Kargaz the Disciplined** rebuilt the shattered invasion force and laid siege to Westfort. The Bonebreakers broke the siege, destroyed his army, and killed Kargaz. After Barny secretly reanimated him, Kargaz confirmed that the Grey Syndicate had supported the war and promised him control of Westfort.
 
-The Grey Syndicate still operates in the shadows. Valedictus remains somewhere within the Necropolis. One of his phylacteries is missing.
+The victory leads the party back through a recovering Ikiria, where Princess Agatha and Commander Smith are both missing and Queen Audrey II is reportedly unwell. A letter apparently from Agatha draws the Bonebreakers north by sea to Harrow, but its authenticity is uncertain and even their Company captain does not know where she is.
+
+The Grey Syndicate still operates in the shadows. Valedictus remains somewhere within the Necropolis. One of his phylacteries is missing. The Bonebreakers are now searching a corrupt, fogbound northern port for the royal patron whose favour helped make them powerful.
 
 And the Bonebreakers are no longer simply adventurers stumbling into danger. They have become wealthy, politically connected, and powerful enough that their own ambitions may now shape the fate of Agria.

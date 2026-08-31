@@ -62,6 +62,7 @@ source_sessions:
   - 60
   - 61
   - 62
+  - 63
 ---
 
 ## Overview
@@ -142,7 +143,8 @@ Magic-user.
 - In [[sessions/session-059|Session 59]], Barny sits with [[npcs/necropolis/captain-varro|Captain Varro]] and says the Bonebreakers came from Barrow Spa, then answers Varro's questions while exaggerating Agria's military strength. Varro leaves an imperial map unguarded. Barny later uses the [[items/party-inventory/nightmare-revealing-telescope|Nightmare-Revealing Telescope]] on the [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]], seeing its twenty-four wight guardians dream of missing reliquaries and one sarcophagus occupant dream of power and wealth, and kills the last two skeletons in the chamber.
 - In [[sessions/session-060|Session 60]], Barny pries up a loose flagstone and climbs into a hidden pay room. He experiments with the funeral carvings, discovering that their eyes follow the nearest flame while the other lights dim, then uses the telescope on an incorporeal spirit and sees a glowing skull in lizardfolk hands, strengthening the party's belief that [[items/glowing-skull|the skull]] is one of [[npcs/necropolis/valedictus|Valedictus]]'s phylacteries. He consumes a Potion of Control Undead, takes command of a wight and six skeletons in the Arch I drill yard, and orders them to perform handstands and dance.
 - In [[sessions/session-061|Session 61]], Barny clarifies that the lizardfolk figure in the nightmare was a shaman from an unidentified clan studying the skull closely. He scries on Westfort, blinds a bugbear during the party's approach, then uses Fly and blinds one of the ogres operating the siege engines during the relief attack.
-- In [[sessions/session-062|Session 62]], Barny incapacitates hobgoblin archers with Sleep and unsuccessfully tries to charm their king, [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]]. After Wistor kills Kargaz, Barny secretly raises the king as a zombie, turns him invisible, and orders him to hide before travelling to the Barrow.
+- In [[sessions/session-062|Session 62]], Barny incapacitates hobgoblin archers with Sleep and unsuccessfully tries to charm their king, [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]]. After Wistor kills Kargaz, Barny secretly raises the king as a zombie and turns him invisible.
+- In [[sessions/session-063|Session 63]], Barny questions the reanimated Kargaz and learns that the Grey Syndicate supported the hobgoblin war and promised Kargaz control of Westfort. During the party's week in Ikiria, Barny secretly researches magic intended to command and temporarily possess undead after attacking them. In Harrow, he asks the Anchor & Chain's landlady where contraband can be sold.
 
 ## Relationships
 
@@ -207,3 +209,4 @@ Active.
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-062|Session 62]]
+- [[sessions/session-063|Session 63]]

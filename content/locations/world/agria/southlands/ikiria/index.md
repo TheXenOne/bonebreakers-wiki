@@ -21,11 +21,12 @@ source_sessions:
   - 49
   - 50
   - 51
+  - 63
 ---
 
 ## Overview
 
-Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks below. Originally elven, later abandoned, and then reworked by gnomes, it is known for magical lifts, constructs, trade, scholarship, and a civic culture of intense optimism. Its recent plague crisis in the Plats has been brought under control: the well poison was purified, the corpse-pit undead were destroyed, and the necromantic energies in the pit and cemetery are gone, though the quarantine has not yet been lifted.
+Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks below. Originally elven, later abandoned, and then reworked by gnomes, it is known for magical lifts, constructs, trade, scholarship, and a civic culture of intense optimism. Its recent plague crisis in the Plats has been brought under control: the city is functional again and the Temple of Merciful Life has been rebuilt, though Princess Agatha and Commander Smith remain missing from the Bonebreakers' view.
 
 ## Geography and layout
 
@@ -66,6 +67,7 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - In [[sessions/session-050|Session 50]], the party finds parts of the southern docks abandoned, purifies [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]], recovers planted pre-imperial coinage from it, and hears open public complaints that [[npcs/agria/princess-agatha|Princess Agatha]] has fled the city.
 - By [[sessions/session-051|Session 51]], the immediate crisis in the Plats has been resolved: the plague is confirmed to have begun as poison, the well is purified, the undead have been killed, and Arden confirms that the necromantic energies are gone from the pit and cemetery.
 - In the same session, [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] accepts testimony against the civilian inquisitors, agrees to raise the quarantine problem with the [[factions/guilds-and-companies/east-agria-company|East Agria Company]], and says the city will pay to rebuild [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|the Temple of Merciful Life]].
+- In [[sessions/session-063|Session 63]], the party returns to find Ikiria functional and the temple rebuilt. Reports that Agatha and Commander Smith are both missing lead them to investigate an apparent summons to Harrow.
 
 ## Related sessions
 
@@ -81,10 +83,11 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - [[sessions/session-049|Session 49]]
 - [[sessions/session-050|Session 50]]
 - [[sessions/session-051|Session 51]]
+- [[sessions/session-063|Session 63]]
 
 ## Unresolved threads or mysteries
 
 - The immediate plague and undead danger in the Plats is over, but the quarantine, planted evidence, missing bodies, and wider unrest remain consequential.
 - The civilian inquisitors active in the Plats have no clear leadership on-page yet, though Vaessa now intends to move against them.
-- Public rumour now treats Princess Agatha's absence as possible flight, regardless of what her own allies say privately.
+- Gilly reports that Princess Agatha remains missing and Commander Smith has also disappeared, while a Company secretary insists Agatha is safe and provides an apparent summons from her. The conflict remains unresolved.
 - Arkeus survives long enough to be freed but disappears into an astral disturbance.

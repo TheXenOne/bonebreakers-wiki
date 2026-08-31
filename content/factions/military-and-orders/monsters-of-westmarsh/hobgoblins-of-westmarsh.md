@@ -72,7 +72,7 @@ They function as the main military organisers of the western invasion effort rat
 - In [[sessions/session-054|Session 54]], news from Westfort says the renewed siege still includes hobgoblins, along with goblins, ogres, and siege engines.
 - In [[sessions/session-057|Session 57]], hobgoblin envoys demand the Bonebreakers in exchange for a one-year truce. Goblin raiders working through southern mountain paths attack food shipments until the party blocks one route.
 - In [[sessions/session-061|Session 61]], the broken-crowned commander remains in charge of approximately ninety hobgoblins, including thirty archers and thirty melee troops. Three ogres operate two catapults and one ballista. The Bonebreakers ignite the northern of two prepared oil lines behind the army, sabotage one catapult, and draw fire from ten archers as a relief attack begins. The southern oil line remains unlit.
-- In [[sessions/session-062|Session 62]], Kargaz is identified as the broken-crowned king. The Bonebreakers and Westfort's defenders kill the army's remaining archers, ogres, and soldiers, while Wistor kills Kargaz with Lightning Bolt. Barny later raises the king as a zombie and secretly sends him toward the Barrow.
+- In [[sessions/session-062|Session 62]], Kargaz is identified as the broken-crowned king. The Bonebreakers and Westfort's defenders kill the army's remaining archers, ogres, and soldiers, while Wistor kills Kargaz with Lightning Bolt. Barny later raises the king as a zombie and turns him invisible.
 
 ## Current status
 

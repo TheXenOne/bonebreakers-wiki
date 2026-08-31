@@ -9,7 +9,8 @@ status: active
 primary_location: Agria
 affiliations:
   - Crown of Agria
-source_sessions: []
+source_sessions:
+  - 63
 ---
 
 ## Overview
@@ -49,15 +50,17 @@ Needs review.
 ## Campaign events
 
 - Queen Audrey II anchors the political stakes around Agatha and Arthur, though she has not yet appeared directly.
+- In [[sessions/session-063|Session 63]], Gilly reports that the queen appears to be unwell while both Agatha and Commander Smith are missing.
 
 ## Current status
 
-Still reigning.
+Still reigning, but reportedly unwell. The nature and seriousness of her condition: Needs review.
 
 ## Related sessions
 
-- Needs review.
+- [[sessions/session-063|Session 63]]
 
 ## Unresolved threads
 
 - How much Queen Audrey II knows about Arthur's conspiracy is unknown. Needs review.
+- The cause and seriousness of her reported illness remain unclear. Needs review.

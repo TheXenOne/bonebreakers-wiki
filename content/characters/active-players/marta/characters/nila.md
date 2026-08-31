@@ -10,6 +10,7 @@ source_sessions:
   - 60
   - 61
   - 62
+  - 63
 ---
 
 ## Overview
@@ -31,6 +32,7 @@ Thief.
 - In [[sessions/session-062|Session 62]], Nila follows Frank behind the siege engines and sneaks into position, then kills one of the remaining hobgoblin archers.
 - After the siege is broken, Nila tries and fails to pick Frank's pocket. The resulting commotion inadvertently helps conceal Barny's reanimation of [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]].
 - During the subsequent downtime, Nila commissions several daggers.
+- In [[sessions/session-063|Session 63]], Nila constructs an improved set of thieves' tools and lockpicks during the party's week in Ikiria.
 
 ## Current status
 
@@ -41,3 +43,4 @@ Active and travelling with the Bonebreakers. She has been supernaturally aged by
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-062|Session 62]]
+- [[sessions/session-063|Session 63]]

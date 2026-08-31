@@ -18,11 +18,12 @@ source_sessions:
   - 26
   - 45
   - 47
+  - 63
 ---
 
 ## Overview
 
-Commander Smith is head of security for the East Agria Company and one of [[npcs/agria/princess-agatha|Princess Agatha]]'s main covert agents. He is directly managing the Arthur crisis in Ikiria after accepting Wendell's testimony and the written evidence against [[npcs/agria/prince-arthur|Prince Arthur]].
+Commander Smith is head of security for the East Agria Company and one of [[npcs/agria/princess-agatha|Princess Agatha]]'s main covert agents. After accepting the case against [[npcs/agria/prince-arthur|Prince Arthur]] and ordering his arrest, Smith disappears around the time Arthur is returned. His whereabouts are now unknown to the Bonebreakers.
 
 ## Appearance
 
@@ -61,10 +62,11 @@ Efficient, discreet, and easily irritated by public loose ends.
 - In [[sessions/session-026|Session 26]], he reacts badly to Frank's bard-driven publicity.
 - In [[sessions/session-045|Session 45]], Pell is sent to him with the news of Arthur's conspiracy.
 - In [[sessions/session-047|Session 47]], he accepts Wendell's testimony and the party's documents, then orders Arthur arrested.
+- In [[sessions/session-063|Session 63]], Gilly reports that Smith disappeared shortly after Arthur was returned, or around the same time.
 
 ## Current status
 
-Directly managing the Arthur crisis in Ikiria.
+Missing from the Bonebreakers' view after ordering Arthur's arrest.
 
 ## Related sessions
 
@@ -75,8 +77,8 @@ Directly managing the Arthur crisis in Ikiria.
 - [[sessions/session-026|Session 26]]
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-047|Session 47]]
+- [[sessions/session-063|Session 63]]
 
 ## Unresolved threads
 
-- Princess Agatha's whereabouts during Ikiria's lockdown are unknown even to Smith.
-- Smith's next political move after Arthur's arrest remains unresolved.
+- Whether Smith's disappearance is connected to Agatha, Arthur, or the Grey Syndicate remains unresolved.

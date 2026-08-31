@@ -22,16 +22,19 @@ related_sessions:
   - 47
   - 48
   - 50
+  - 63
 related_locations:
   - Fos Imeras
   - Ikiria
   - East Agria Company Headquarters
   - The Mercy
+  - Harrow
 related_npcs:
   - Princess Agatha
   - Commander Smith
   - Admiral Nelson
   - Prince Arthur
+  - Captain Winston
 related_factions:
   - East Agria Company
   - Bonebreakers
@@ -48,6 +51,7 @@ source_sessions:
   - 47
   - 48
   - 50
+  - 63
 ---
 
 ## Overview
@@ -66,10 +70,11 @@ The party first meets Agatha as a stranded noble on [[locations/world/fos-imeras
 - In [[sessions/session-047|Session 47]], the party delivers Arthur's evidence to Smith, but also learns that Agatha is absent from locked-down Ikiria.
 - In [[sessions/session-048|Session 48]], the party is told that Agatha's concealed whereabouts are standard procedure rather than evidence that she is missing.
 - In [[sessions/session-050|Session 50]], the party overhears ordinary citizens in the Plats claiming that Agatha is missing or has fled while the city suffers.
+- In [[sessions/session-063|Session 63]], Gilly says Agatha remains missing and Commander Smith has also disappeared. A Company secretary insists Agatha is safe and gives the Bonebreakers a letter apparently from her summoning them to [[locations/world/agria/northlands/harrow|Harrow]], but Captain Winston does not know where she is.
 
 ## Current status
 
-Agatha remains an active secret patron, but she is absent from public view in Ikiria while her agents handle Arthur's arrest and the city's wider crisis. By [[sessions/session-050|Session 50]], that secrecy is feeding open public rumours that she has fled.
+The patronage has become an active search for Agatha. Conflicting reports say that she is either safe but indisposed or genuinely missing, while an apparent letter from her has drawn the Bonebreakers to Harrow. Smith's simultaneous disappearance removes the party's usual reliable contact.
 
 ## Consequences
 
@@ -82,12 +87,14 @@ Agatha remains an active secret patron, but she is absent from public view in Ik
 - [[npcs/agria/east-agria-company/commander-smith|Commander Smith]]
 - [[npcs/agria/east-agria-company/admiral-nelson|Admiral Nelson]]
 - [[npcs/agria/prince-arthur|Prince Arthur]]
+- [[npcs/agria/east-agria-company/captain-winston|Captain Winston]]
 
 ## Related locations
 
 - [[locations/world/fos-imeras|Fos Imeras]]
 - [[locations/world/agria/southlands/ikiria/east-agria-company-headquarters|East Agria Company Headquarters]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
+- [[locations/world/agria/northlands/harrow|Harrow]]
 
 ## Related factions
 
@@ -105,10 +112,12 @@ Agatha remains an active secret patron, but she is absent from public view in Ik
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-048|Session 48]]
 - [[sessions/session-050|Session 50]]
+- [[sessions/session-063|Session 63]]
 
 ## Loose ends
 
 - How many missions Agatha still intends to give the party is unknown.
 - Arthur's conspiracy makes Agatha's long-term position unstable.
-- Agatha's current whereabouts remain unresolved even though her secrecy is described as standard procedure.
-- Whether she must reappear publicly to steady Ikiria's politics and morale is now an active question.
+- Agatha's current whereabouts and the authenticity of the Harrow letter remain unresolved.
+- Commander Smith's disappearance may be connected, but the available evidence does not establish how.
+- Queen Audrey II is reportedly unwell, increasing the consequences of Agatha's absence. The queen's condition: Needs review.

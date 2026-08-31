@@ -13,6 +13,7 @@ affiliations:
   - Flux Academy
 source_sessions:
   - 18
+  - 63
 ---
 
 ## Overview
@@ -48,6 +49,7 @@ Helpful, unassuming, and focused on history.
 ## Campaign events
 
 - In [[sessions/session-018|Session 18]], the party gives him the encoded transcription from the temple and the encoded gnomish book obtained from Jessum.
+- In [[sessions/session-063|Session 63]], he sorts the party's coin collection into old and very old Imperial currency and much more valuable pre-Imperial coins. The Flux Academy buys the Imperial coins at 110 percent of face value and the pre-Imperial coins at twice their normal gold value.
 
 ## Current status
 
@@ -56,6 +58,7 @@ At Flux Academy.
 ## Related sessions
 
 - [[sessions/session-018|Session 18]]
+- [[sessions/session-063|Session 63]]
 
 ## Unresolved threads
 

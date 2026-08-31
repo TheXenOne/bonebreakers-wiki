@@ -16,17 +16,19 @@ source_sessions:
   - 22
   - 26
   - 45
+  - 63
 ---
 
 ## Overview
 
-This page groups the most important named East Agria Company figures. Commander Smith remains politically important in Ikiria, while Admiral Nelson remains an established Company leader off-page in later arcs.
+This page groups the most important named East Agria Company figures. Princess Agatha and Commander Smith are both missing from the Bonebreakers' view, while Company personnel have sent the party north aboard *Agatha's Favour* to find Agatha in Harrow.
 
 ## Key figures
 
 - [[npcs/agria/princess-agatha|Princess Agatha]]: Governor of the East Agria Company, rescued from Fos Imeras by the Bonebreakers and later their secret patron.
 - [[npcs/agria/east-agria-company/commander-smith|Commander Smith]]: Head of security for the East Agria Company. He becomes Princess Agatha's main operative and liaison to the party during the Mercy arc and later political fallout.
 - [[npcs/agria/east-agria-company/admiral-nelson|Admiral Nelson]]: Formerly Captain Nelson, later elevated to admiral after the [[locations/world/fos-imeras/index|Fos Imeras]] expedition.
+- [[npcs/agria/east-agria-company/captain-winston|Captain Winston]]: Former navigator on the Fos Imeras expedition and later captain of *Agatha's Favour*.
 
 ## Appearance
 
@@ -66,11 +68,11 @@ This page groups the most important named East Agria Company figures. Commander 
 - Smith directs and supports the party through [[sessions/session-019|Session 19]] to [[sessions/session-022|Session 22]].
 - In [[sessions/session-026|Session 26]], Smith becomes entangled in the fallout from Frank's publicity campaign.
 - In [[sessions/session-045|Session 45]], Pell is sent to Smith with warning about Prince Arthur.
+- In [[sessions/session-063|Session 63]], a Company secretary says Agatha is safe but gives the Bonebreakers a letter apparently from her summoning them to Harrow. Captain Winston carries them there aboard *Agatha's Favour*, although he does not know where Agatha is.
 
 ## Current status
 
-- Commander Smith remains politically important.
-- Admiral Nelson remains an established Company leader, though he is off-page in later arcs.
+- Agatha's and Smith's whereabouts are unknown to the party. The Company remains operational and has sent the Bonebreakers to Harrow, but the authenticity and purpose of Agatha's apparent summons remain uncertain.
 
 ## Related sessions
 
@@ -79,7 +81,8 @@ This page groups the most important named East Agria Company figures. Commander 
 - [[sessions/session-022|Session 22]]
 - [[sessions/session-026|Session 26]]
 - [[sessions/session-045|Session 45]]
+- [[sessions/session-063|Session 63]]
 
 ## Unresolved threads
 
-- Smith's full response to Arthur's conspiracy has not yet been shown.
+- Why both Agatha and Smith are absent, and whether the Harrow letter is genuine, remain unresolved.

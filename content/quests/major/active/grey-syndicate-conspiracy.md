@@ -21,6 +21,7 @@ related_sessions:
   - 53
   - 54
   - 60
+  - 63
 related_locations:
   - Westfort
   - Spider Market
@@ -49,6 +50,7 @@ source_sessions:
   - 53
   - 54
   - 60
+  - 63
 ---
 
 ## Overview
@@ -67,12 +69,13 @@ The thread becomes visible when the party exposes Vex's sabotage cell in [[sessi
 - In [[sessions/session-044|Session 44]] to [[sessions/session-046|Session 46]], the Syndicate is tied directly to [[npcs/agria/prince-arthur|Prince Arthur]] and the struggle against Princess Agatha.
 - In [[sessions/session-047|Session 47]], the Bonebreakers rob a decoy market cell of 20,000 gold, learn the Syndicate is dispersed rather than centralised, and hear of renewed invasion plans at a hobgoblin fort. Needs review.
 - In [[sessions/session-053|Session 53]], captured orcs in the Mercy say they came from Westmarsh, were ordered to delay the Bonebreakers, and that the first priest kidnapping from the Mercy was also Syndicate work.
-- In [[sessions/session-054|Session 54]], news confirms that the renewed invasion of Westfort has become a siege. Whether the Syndicate directs the siege remains unresolved.
+- In [[sessions/session-054|Session 54]], news confirms that the renewed invasion of Westfort has become a siege. Kargaz later confirms the Syndicate supported his campaign.
 - In [[sessions/session-060|Session 60]], [[npcs/necropolis/lord-varrick|Lord Varrick]] suggests that the Syndicate may be seeking Valedictus's necromantic power or may instead intend to destroy him. This is informed speculation rather than proof of the Syndicate's objective.
+- In [[sessions/session-063|Session 63]], the reanimated [[npcs/westmarsh/kargaz-the-disciplined|Kargaz]] confirms that the Syndicate supported his war and promised him control of Westfort if he captured it. He says he knew little of its larger plans.
 
 ## Current status
 
-The Syndicate is still active. It loses money and Arthur as an ally in Session 47, but Ash remains at large and the network is still broad enough to threaten both Westmarsh and the Southlands. Session 53 shows the Syndicate or its allies can still strike at the Mercy and use orc forces to delay the party. Lord Varrick's speculation adds Valedictus as a possible Necropolis objective, but whether the Syndicate wants his power or his destruction remains unknown. The renewed siege of Westfort may be connected to the same network, but that link remains unproven.
+The Syndicate remains active despite losing Arthur as an ally and Kargaz's army. Kargaz's testimony now confirms that the network supported the renewed war for Westfort and intended to place him in control of the settlement. Ash remains at large, the organisation can strike across Westmarsh and the Southlands, and its objective in the Necropolis remains unknown. Agatha and Commander Smith are both missing and Queen Audrey II is reportedly unwell, but no evidence yet proves Syndicate involvement in any of those three developments.
 
 ## Consequences
 
@@ -112,11 +115,13 @@ The Syndicate is still active. It loses money and Arthur as an ally in Session 4
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-063|Session 63]]
 
 ## Loose ends
 
 - Whether Ash really is the Grey Khan remains unresolved.
 - The Syndicate's next move after losing 20,000 gold and Arthur's protection is unresolved.
 - Whether the Session 53 delay order targeted Westfort, the Necropolis, or another objective remains unresolved.
-- Whether the renewed Westfort siege is under Syndicate direction remains unresolved.
+- The Syndicate supported Kargaz's war, but what support it provided and why it wanted him to control Westfort remain unresolved.
 - Whether the Syndicate seeks Valedictus's necromantic power or intends to destroy him remains unresolved.
+- Whether the disappearances of Agatha and Commander Smith are connected to the Syndicate remains unresolved.
