@@ -22,6 +22,7 @@ related_sessions:
   - 54
   - 60
   - 63
+  - 64
 related_locations:
   - Westfort
   - Spider Market
@@ -51,6 +52,7 @@ source_sessions:
   - 54
   - 60
   - 63
+  - 64
 ---
 
 ## Overview
@@ -72,10 +74,11 @@ The thread becomes visible when the party exposes Vex's sabotage cell in [[sessi
 - In [[sessions/session-054|Session 54]], news confirms that the renewed invasion of Westfort has become a siege. Kargaz later confirms the Syndicate supported his campaign.
 - In [[sessions/session-060|Session 60]], [[npcs/necropolis/lord-varrick|Lord Varrick]] suggests that the Syndicate may be seeking Valedictus's necromantic power or may instead intend to destroy him. This is informed speculation rather than proof of the Syndicate's objective.
 - In [[sessions/session-063|Session 63]], the reanimated [[npcs/westmarsh/kargaz-the-disciplined|Kargaz]] confirms that the Syndicate supported his war and promised him control of Westfort if he captured it. He says he knew little of its larger plans.
+- In [[sessions/session-064|Session 64]], Agatha says she suspects a force beyond even the Syndicate and doubts Arthur could have organised the unrest alone. The party follows a lead through Count Ven and Brother Sedge into Arthur's Palace, without yet identifying a wider mastermind.
 
 ## Current status
 
-The Syndicate remains active despite losing Arthur as an ally and Kargaz's army. Kargaz's testimony now confirms that the network supported the renewed war for Westfort and intended to place him in control of the settlement. Ash remains at large, the organisation can strike across Westmarsh and the Southlands, and its objective in the Necropolis remains unknown. Agatha and Commander Smith are both missing and Queen Audrey II is reportedly unwell, but no evidence yet proves Syndicate involvement in any of those three developments.
+Active. Kargaz's testimony confirms Syndicate support for his defeated war; Ash remains at large and the network's larger purpose remains unknown. Agatha and Smith are alive in hiding. Agatha suspects the Northlands unrest involves something beyond the Syndicate, but this is unconfirmed. The Bonebreakers are investigating Arthur's supporters from inside his palace in Kingsport.
 
 ## Consequences
 
@@ -98,6 +101,8 @@ The Syndicate remains active despite losing Arthur as an ally and Kargaz's army.
 - [[locations/world/westmarsh/spiders-market|Spider Market]]
 - [[locations/world/westmarsh/invasion-fort|Invasion Fort]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
+- [[locations/world/agria/northlands/veluria/kingsport|Kingsport]]
+- [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]]
 
 ## Related factions
 
@@ -116,6 +121,7 @@ The Syndicate remains active despite losing Arthur as an ally and Kargaz's army.
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-063|Session 63]]
+- [[sessions/session-064|Session 64]]
 
 ## Loose ends
 
@@ -124,4 +130,5 @@ The Syndicate remains active despite losing Arthur as an ally and Kargaz's army.
 - Whether the Session 53 delay order targeted Westfort, the Necropolis, or another objective remains unresolved.
 - The Syndicate supported Kargaz's war, but what support it provided and why it wanted him to control Westfort remain unresolved.
 - Whether the Syndicate seeks Valedictus's necromantic power or intends to destroy him remains unresolved.
-- Whether the disappearances of Agatha and Commander Smith are connected to the Syndicate remains unresolved.
+- Agatha and Smith have been found alive in hiding. The wider threat to Agatha, and any force beyond the Syndicate, remain unidentified.
+- Whether Arthur's Palace contains evidence of the larger conspiracy remains unresolved.

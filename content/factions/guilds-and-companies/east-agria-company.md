@@ -27,6 +27,7 @@ source_sessions:
   - 47
   - 51
   - 63
+  - 64
 ---
 
 ## Overview
@@ -57,7 +58,7 @@ The Company combines trade power, political influence, and private operational r
 - [[locations/world/agria/southlands/ikiria|Ikiria]]
 - [[locations/world/fos-imeras|Fos Imeras]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
-- [[locations/world/agria/northlands/harrow|Harrow]]
+- [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]
 
 ## Allies and enemies
 
@@ -74,10 +75,11 @@ The Company combines trade power, political influence, and private operational r
 - In [[sessions/session-047|Session 47]], Smith receives the evidence against Arthur at Company headquarters and orders his arrest.
 - In [[sessions/session-051|Session 51]], [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] agrees to ask the Company to lift or ease the quarantine because overcrowding is worsening disease in the Plats.
 - In [[sessions/session-063|Session 63]], a Company secretary gives the Bonebreakers an apparent letter from Agatha summoning them to Harrow, and the Company charters *Agatha's Favour* to transport them there.
+- In [[sessions/session-064|Session 64]], Agatha, Smith, and Nelson meet the Bonebreakers covertly in Harrow and renew the party’s confidential work for Agatha.
 
 ## Current status
 
-Active and politically important. Agatha and Smith are both missing from the Bonebreakers' view, but the Company continues operating and has sent the party to Harrow under an uncertain summons.
+Active and politically important. Agatha and Smith are alive and operating covertly alongside Nelson; Agatha has sent the Bonebreakers to investigate the threat to her through Arthur’s supporters.
 
 ## Related sessions
 
@@ -89,6 +91,7 @@ Active and politically important. Agatha and Smith are both missing from the Bon
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-051|Session 51]]
 - [[sessions/session-063|Session 63]]
+- [[sessions/session-064|Session 64]]
 
 ## Unresolved threads
 

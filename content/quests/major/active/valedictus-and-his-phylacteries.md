@@ -15,6 +15,7 @@ related_sessions:
   - 59
   - 60
   - 61
+  - 64
 related_locations:
   - The Necropolis
   - Arch III
@@ -32,6 +33,7 @@ source_sessions:
   - 59
   - 60
   - 61
+  - 64
 ---
 
 ## Overview
@@ -59,6 +61,8 @@ The Bonebreakers first find Valedictus's necromantic treatise in [[sessions/sess
 
 Active. The Bonebreakers know that Valedictus is tied to Arch III and possesses three phylacteries, but they do not know his present form or the locations of all three. One probable phylactery has passed out of their hands and is now being studied by an unidentified lizardfolk shaman. The Stylus is a separate lead of uncertain importance.
 
+Agatha's covert investigation now takes priority over a return below, following her commission in [[sessions/session-064|Session 64]]. The Necropolis objectives remain active but temporarily deprioritised.
+
 ## Related characters and NPCs
 
 - [[npcs/necropolis/valedictus|Valedictus]]
@@ -85,6 +89,7 @@ Active. The Bonebreakers know that Valedictus is tied to Arch III and possesses 
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-061|Session 61]]
+- [[sessions/session-064|Session 64]]
 
 ## Loose ends
 

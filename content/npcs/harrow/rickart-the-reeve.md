@@ -16,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Rickart is a local official in the County of Harrowmere who intercepts incoming ships near [[locations/world/agria/northlands/harrow|Harrow]]. The Bonebreakers know him as an apparently corrupt gatekeeper who demands an enormous payment from *Agatha's Favour* before allowing the ship to enter.
+Rickart is a local official in the County of Harrowmere who intercepts incoming ships near [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. The Bonebreakers know him as an apparently corrupt gatekeeper who demands an enormous payment from *Agatha's Favour* before allowing the ship to enter.
 
 ## Appearance
 

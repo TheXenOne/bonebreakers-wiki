@@ -12,35 +12,47 @@ source_sessions:
   - 44
   - 45
   - 63
+  - 64
 ---
 
 ## Overview
 
-The Northlands are the northern duchy of Agria. Prince Arthur holds the title Duke of the Northlands, and the Bonebreakers enter the region directly when an apparent summons from Princess Agatha draws them to the fogbound port of [[locations/world/agria/northlands/harrow|Harrow]]. Agria's capital, Kingsport, also lies in the Northlands.
+The Northlands are the northern duchy of Agria. Prince Arthur holds the title Duke of the Northlands, and the Bonebreakers enter the region directly when an apparent summons from Princess Agatha draws them to the fogbound port of [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. Agria's capital, [[locations/world/agria/northlands/veluria/kingsport|Kingsport]], lies in western Veluria and is the focus of their investigation into Arthur's supporters.
 
 ## Geography or layout
 
 - The Northlands lie north of [[locations/world/agria/southlands|the Southlands]].
 - Kingsport, the capital of Agria, lies northwest of Ikiria and almost directly north of Barrow Spa.
-- [[locations/world/agria/northlands/harrow|Harrow]] is a port in the County of Harrowmere, reached from Ikiria through [[locations/world/agria/northlands/narrows|the Narrows]].
+- [[locations/world/agria/northlands/harrowmere/harrow|Harrow]] is a port in the County of Harrowmere, reached from Ikiria through [[locations/world/agria/northlands/harrowmere/narrows|the Narrows]].
+- Harrowmere lies in the east; central Grainholm is agricultural and was not directly visited by the party.
+- The northern Salt Coast depends heavily on fishing. Veluria lies in the west and contains Kingsport.
+
+## Counties
+
+- [[locations/world/agria/northlands/harrowmere|Harrowmere]] — eastern county, ruled by Count Drago Ven and containing Harrow.
+- [[locations/world/agria/northlands/grainholm|Grainholm]] — central inland county dominated by farmland; not directly visited by the party.
+- [[locations/world/agria/northlands/salt-coast|The Salt Coast]] — northern fishing county, passed on the voyage to Kingsport.
+- [[locations/world/agria/northlands/veluria|Veluria]] — western county containing Kingsport, the capital.
 
 ## Associated people and groups
 
 - Prince Arthur is Duke of the Northlands.
-- The region enters the campaign mainly through Arthur's political role rather than direct travel.
+- Agatha has commissioned the Bonebreakers to investigate a suspected wider conspiracy across the region.
 
 ## Campaign events
 
 - In [[sessions/session-044|Session 44]], the party encounters Arthur on the road and uncovers his Grey Syndicate connection.
 - In [[sessions/session-045|Session 45]], evidence gathered from Arthur and his secretary deepens the political stakes around his title and ambitions.
 - In [[sessions/session-063|Session 63]], the party sails into the Northlands through the Narrows and begins searching Harrow for Princess Agatha.
+- In [[sessions/session-064|Session 64]], the Bonebreakers accept Agatha’s investigation and sail from Harrow past fishing villages to Kingsport in Veluria.
 
 ## Related sessions
 
 - [[sessions/session-044|Session 44]]
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-063|Session 63]]
+- [[sessions/session-064|Session 64]]
 
 ## Unresolved threads or mysteries
 
-- Most of the Northlands outside Harrow remain unexplored.
+- The extent and leadership of the conspiracy Agatha suspects across the Northlands remain unknown.

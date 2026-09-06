@@ -17,11 +17,12 @@ source_sessions:
   - 48
   - 50
   - 63
+  - 64
 ---
 
 ## Overview
 
-Princess Agatha is heir to the throne of [[locations/world/agria/index|Agria]], Duchess of Southlands, Mayor of [[locations/world/agria/southlands/ikiria/index|Ikiria]], and head of the East Agria Company. The Bonebreakers rescue her from [[locations/world/fos-imeras/index|Fos Imeras]], after which she becomes their secret patron. She is now missing from the party's view: a Company secretary insists she is safe and delivers an apparent summons from her to [[locations/world/agria/northlands/harrow|Harrow]], but neither Captain Winston nor the Bonebreakers knows where she is.
+Princess Agatha is heir to the throne of [[locations/world/agria/index|Agria]], Duchess of Southlands, Mayor of [[locations/world/agria/southlands/ikiria/index|Ikiria]], and head of the East Agria Company. The Bonebreakers rescue her from [[locations/world/fos-imeras/index|Fos Imeras]], after which she becomes their secret patron. She remains in hiding because of a continuing threat to her life, relying on the Bonebreakers to investigate unrest that she suspects reaches beyond Arthur and the Grey Syndicate.
 
 ## Appearance
 
@@ -50,7 +51,7 @@ Pragmatic, politically dangerous, and willing to reward useful service.
 - [[locations/world/agria/southlands/ikiria/index|Ikiria]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
 - [[locations/world/fos-imeras/index|Fos Imeras]]
-- [[locations/world/agria/northlands/harrow|Harrow]]
+- [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]
 
 ## Relationships
 
@@ -67,10 +68,11 @@ Pragmatic, politically dangerous, and willing to reward useful service.
 - In [[sessions/session-048|Session 48]], the party is told that Smith not knowing her whereabouts is standard procedure and does not mean she is missing.
 - In [[sessions/session-050|Session 50]], the party overhears citizens in the Plats claiming that she is missing or has fled while nobles escape the city's suffering.
 - In [[sessions/session-063|Session 63]], Gilly reports that Agatha remains missing. A Company secretary says she is safe but indisposed and gives the party a letter apparently from Agatha summoning them to Harrow. The letter's authenticity is not established.
+- In [[sessions/session-064|Session 64]], she meets the party secretly in Harrow with Smith and Nelson, confirms she must remain hidden, and directs an investigation beginning with Count Ven.
 
 ## Current status
 
-Her whereabouts remain unknown to the party. Conflicting reports place her status between routine concealment and a genuine disappearance, while an apparent letter from her has drawn the Bonebreakers to Harrow.
+Alive and in hiding, last met covertly in Harrow with Smith and Nelson. She has renewed the Bonebreakers' commission to investigate the Northlands conspiracy, giving it priority over the Necropolis.
 
 ## Related sessions
 
@@ -82,8 +84,10 @@ Her whereabouts remain unknown to the party. Conflicting reports place her statu
 - [[sessions/session-048|Session 48]]
 - [[sessions/session-050|Session 50]]
 - [[sessions/session-063|Session 63]]
+- [[sessions/session-064|Session 64]]
 
 ## Unresolved threads
 
-- Whether Agatha authored the Harrow letter and why the Company sent the party there remain unresolved.
-- Commander Smith's simultaneous disappearance may be connected, but no relationship has been established.
+- Who is orchestrating the wider threat to her life remains unknown; her suspicion of a force beyond the Syndicate is unconfirmed.
+- Arthur would be the only surviving heir if she died, despite the proceedings against him.
+- The precise authorship of the Harrow letter was not explicitly confirmed, although the party successfully found Agatha there.

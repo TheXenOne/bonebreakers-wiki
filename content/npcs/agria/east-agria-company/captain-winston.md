@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Captain Winston is a navigator and shipmaster known to the Bonebreakers through their voyage to [[locations/world/fos-imeras|Fos Imeras]]. He now commands *Agatha's Favour* and has carried the party to [[locations/world/agria/northlands/harrow|Harrow]] under an [[factions/guilds-and-companies/east-agria-company|East Agria Company]] charter.
+Captain Winston is a navigator and shipmaster known to the Bonebreakers through their voyage to [[locations/world/fos-imeras|Fos Imeras]]. He now commands *Agatha's Favour* and has carried the party to [[locations/world/agria/northlands/harrowmere/harrow|Harrow]] under an [[factions/guilds-and-companies/east-agria-company|East Agria Company]] charter.
 
 ## Appearance
 
@@ -41,8 +41,8 @@ Professional and practical. He keeps the Bonebreakers out of sight during a tens
 
 - [[locations/world/fos-imeras|Fos Imeras]]
 - [[locations/world/agria/southlands/ikiria|Ikiria]]
-- [[locations/world/agria/northlands/harrow|Harrow]]
-- [[locations/world/agria/northlands/narrows|The Narrows]]
+- [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]
+- [[locations/world/agria/northlands/harrowmere/narrows|The Narrows]]
 
 ## Campaign events
 

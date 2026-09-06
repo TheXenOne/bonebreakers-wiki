@@ -28,6 +28,7 @@ related_sessions:
   - 59
   - 60
   - 62
+  - 64
 related_locations:
   - The Mercy
   - Necropolis
@@ -72,6 +73,7 @@ source_sessions:
   - 59
   - 60
   - 62
+  - 64
 ---
 
 ## Overview
@@ -133,9 +135,11 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 
 ## Current status
 
-Active as the current major arc. The Bonebreakers have escaped the command quarter through Arch I and returned to the Mercy. Wistor's Knock spell proves the lower trapdoor can be reopened from the Nexus side, although the party has closed and spiked it again. They now possess eleven Potions of Water Breathing, allowing them to resume exploration of the flooded Sunken Market routes.
+Active, with exploration temporarily deferred. The Bonebreakers have escaped the command quarter through Arch I and returned to the Mercy. Wistor's Knock spell proves the lower trapdoor can be reopened from the Nexus side, although the party has closed and spiked it again. They now possess eleven Potions of Water Breathing, allowing them to resume exploration of the flooded Sunken Market routes.
 
 The delve has produced a new central threat: Valedictus remains in power, possesses three phylacteries, and is connected to the unknown Stylus. The glowing skull that Steve traded away is strongly implicated as one phylactery, while the three-locked soul-bound chest may hold another. The larger unresolved questions also include Captain Varro's release, the sealed Eighth Wing, the guarded Imperial Family Tomb, House Varrick, the Tribune, the restoration works, the Sunken Market, the dark druids, and the possible link between the Necropolis and the Crimson Bishop.
+
+Agatha's covert investigation now takes priority over a return below, following her commission in [[sessions/session-064|Session 64]]. The Necropolis objectives remain active but temporarily deprioritised.
 
 ## Consequences
 
@@ -209,6 +213,7 @@ The delve has produced a new central threat: Valedictus remains in power, posses
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-062|Session 62]]
+- [[sessions/session-064|Session 64]]
 
 ## Loose ends
 

@@ -23,6 +23,7 @@ related_sessions:
   - 48
   - 50
   - 63
+  - 64
 related_locations:
   - Fos Imeras
   - Ikiria
@@ -52,6 +53,7 @@ source_sessions:
   - 48
   - 50
   - 63
+  - 64
 ---
 
 ## Overview
@@ -70,16 +72,18 @@ The party first meets Agatha as a stranded noble on [[locations/world/fos-imeras
 - In [[sessions/session-047|Session 47]], the party delivers Arthur's evidence to Smith, but also learns that Agatha is absent from locked-down Ikiria.
 - In [[sessions/session-048|Session 48]], the party is told that Agatha's concealed whereabouts are standard procedure rather than evidence that she is missing.
 - In [[sessions/session-050|Session 50]], the party overhears ordinary citizens in the Plats claiming that Agatha is missing or has fled while the city suffers.
-- In [[sessions/session-063|Session 63]], Gilly says Agatha remains missing and Commander Smith has also disappeared. A Company secretary insists Agatha is safe and gives the Bonebreakers a letter apparently from her summoning them to [[locations/world/agria/northlands/harrow|Harrow]], but Captain Winston does not know where she is.
+- In [[sessions/session-063|Session 63]], Gilly says Agatha remains missing and Commander Smith has also disappeared. A Company secretary insists Agatha is safe and gives the Bonebreakers a letter apparently from her summoning them to [[locations/world/agria/northlands/harrowmere/harrow|Harrow]], but Captain Winston does not know where she is.
+- In [[sessions/session-064|Session 64]], Agatha meets the party with Smith and Nelson in Harrow. She asks them to investigate a wider Northlands threat, prioritising it over the Necropolis. Count Ven's referral leads them to Sedge and Arthur's Palace.
 
 ## Current status
 
-The patronage has become an active search for Agatha. Conflicting reports say that she is either safe but indisposed or genuinely missing, while an apparent letter from her has drawn the Bonebreakers to Harrow. Smith's simultaneous disappearance removes the party's usual reliable contact.
+Active. Agatha and Smith have been found alive; Agatha remains in hiding and has renewed her covert commission. The Bonebreakers are inside [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]] in Kingsport, posing as his supporters to investigate the forces behind the threat to her life.
 
 ## Consequences
 
 - The Bonebreakers now operate inside high-level Agrian politics.
 - Their victories increasingly affect succession, regional stability, and Agatha's power base in [[locations/world/agria/southlands/ikiria|Ikiria]].
+- The search for the missing patron is resolved, but investigating the threat to her now takes priority over the Necropolis. Arthur would be the only surviving heir if she died.
 
 ## Related characters and NPCs
 
@@ -94,7 +98,9 @@ The patronage has become an active search for Agatha. Conflicting reports say th
 - [[locations/world/fos-imeras|Fos Imeras]]
 - [[locations/world/agria/southlands/ikiria/east-agria-company-headquarters|East Agria Company Headquarters]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
-- [[locations/world/agria/northlands/harrow|Harrow]]
+- [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]
+- [[locations/world/agria/northlands/veluria/kingsport|Kingsport]]
+- [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]]
 
 ## Related factions
 
@@ -113,11 +119,12 @@ The patronage has become an active search for Agatha. Conflicting reports say th
 - [[sessions/session-048|Session 48]]
 - [[sessions/session-050|Session 50]]
 - [[sessions/session-063|Session 63]]
+- [[sessions/session-064|Session 64]]
 
 ## Loose ends
 
-- How many missions Agatha still intends to give the party is unknown.
-- Arthur's conspiracy makes Agatha's long-term position unstable.
-- Agatha's current whereabouts and the authenticity of the Harrow letter remain unresolved.
-- Commander Smith's disappearance may be connected, but the available evidence does not establish how.
-- Queen Audrey II is reportedly unwell, increasing the consequences of Agatha's absence. The queen's condition: Needs review.
+- Who is orchestrating the Northlands unrest, and whether anyone beyond the Grey Syndicate is involved, remain unknown.
+- The party must protect Agatha's secrecy and conceal Count Ven's referral.
+- Sedge has admitted them to the palace, but Arthur's supporters inside have not yet been identified.
+- Queen Audrey II's reported illness remains unexplained: **Needs review**.
+- Agatha's personal authorship of the letter was not explicitly confirmed, although the summons led to her.

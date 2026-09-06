@@ -69,3 +69,4 @@ Published session pages:
 - [[sessions/session-061|Session 61 - Through the Fire and Flames]]
 - [[sessions/session-062|Session 62 - Heroes of Westfort]]
 - [[sessions/session-063|Session 63 - The Fog over Harrow]]
+- [[sessions/session-064|Session 64 - A Most Unconvincing Pilgrimage]]

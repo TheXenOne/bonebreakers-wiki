@@ -15,6 +15,7 @@ source_sessions:
   - 45
   - 46
   - 47
+  - 64
 ---
 
 ## Overview
@@ -63,10 +64,11 @@ Ambitious and compromised. Further detail: Needs review.
 - In [[sessions/session-045|Session 45]], his ledger becomes evidence, and the party tries to turn his capture into leverage.
 - In [[sessions/session-046|Session 46]], Arthur is brought into the Spider Market under disguise while the party negotiates with Ash.
 - In [[sessions/session-047|Session 47]], Wendell and the seized papers are delivered to Smith, and Arthur is arrested in Ikiria.
+- In [[sessions/session-064|Session 64]], Agatha doubts he organised the wider unrest alone. The Bonebreakers pose as his supporters and enter [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|his palace]] through Brother Sedge to investigate his political circle.
 
 ## Current status
 
-Under arrest in Ikiria and still politically dangerous as of [[sessions/session-047|Session 47]].
+Under arrest and facing trial. Agatha says he would remain the only surviving heir if she died. The precise stage of the proceedings: **Needs review**.
 
 ## Related sessions
 
@@ -74,6 +76,7 @@ Under arrest in Ikiria and still politically dangerous as of [[sessions/session-
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-047|Session 47]]
+- [[sessions/session-064|Session 64]]
 
 ## Unresolved threads
 

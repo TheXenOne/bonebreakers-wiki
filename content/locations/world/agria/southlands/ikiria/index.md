@@ -22,11 +22,12 @@ source_sessions:
   - 50
   - 51
   - 63
+  - 64
 ---
 
 ## Overview
 
-Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks below. Originally elven, later abandoned, and then reworked by gnomes, it is known for magical lifts, constructs, trade, scholarship, and a civic culture of intense optimism. Its recent plague crisis in the Plats has been brought under control: the city is functional again and the Temple of Merciful Life has been rebuilt, though Princess Agatha and Commander Smith remain missing from the Bonebreakers' view.
+Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks below. Originally elven, later abandoned, and then reworked by gnomes, it is known for magical lifts, constructs, trade, scholarship, and a civic culture of intense optimism. Its recent plague crisis in the Plats has been brought under control: the city is functional again and the Temple of Merciful Life has been rebuilt, while Agatha directs covert work from hiding outside the city.
 
 ## Geography and layout
 
@@ -84,10 +85,11 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - [[sessions/session-050|Session 50]]
 - [[sessions/session-051|Session 51]]
 - [[sessions/session-063|Session 63]]
+- [[sessions/session-064|Session 64]]
 
 ## Unresolved threads or mysteries
 
 - The immediate plague and undead danger in the Plats is over, but the quarantine, planted evidence, missing bodies, and wider unrest remain consequential.
 - The civilian inquisitors active in the Plats have no clear leadership on-page yet, though Vaessa now intends to move against them.
-- Gilly reports that Princess Agatha remains missing and Commander Smith has also disappeared, while a Company secretary insists Agatha is safe and provides an apparent summons from her. The conflict remains unresolved.
+- Agatha and Smith have been found alive in Harrow, but the threat keeping Agatha in hiding remains unresolved.
 - Arkeus survives long enough to be freed but disappears into an astral disturbance.

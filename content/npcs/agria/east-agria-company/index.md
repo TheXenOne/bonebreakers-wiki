@@ -17,11 +17,12 @@ source_sessions:
   - 26
   - 45
   - 63
+  - 64
 ---
 
 ## Overview
 
-This page groups the most important named East Agria Company figures. Princess Agatha and Commander Smith are both missing from the Bonebreakers' view, while Company personnel have sent the party north aboard *Agatha's Favour* to find Agatha in Harrow.
+The East Agria Company's leadership combines Agatha's political authority, Smith's covert security work, and Nelson's maritime command. They are trusted allies and employers of the Bonebreakers, supporting confidential missions that protect Agatha and Agria.
 
 ## Key figures
 
@@ -69,10 +70,11 @@ This page groups the most important named East Agria Company figures. Princess A
 - In [[sessions/session-026|Session 26]], Smith becomes entangled in the fallout from Frank's publicity campaign.
 - In [[sessions/session-045|Session 45]], Pell is sent to Smith with warning about Prince Arthur.
 - In [[sessions/session-063|Session 63]], a Company secretary says Agatha is safe but gives the Bonebreakers a letter apparently from her summoning them to Harrow. Captain Winston carries them there aboard *Agatha's Favour*, although he does not know where Agatha is.
+- In [[sessions/session-064|Session 64]], Agatha, Smith, and Nelson reveal themselves at the Anchor & Chain and renew the Bonebreakers’ covert commission.
 
 ## Current status
 
-- Agatha's and Smith's whereabouts are unknown to the party. The Company remains operational and has sent the Bonebreakers to Harrow, but the authenticity and purpose of Agatha's apparent summons remain uncertain.
+Agatha, Smith, and Nelson are operating covertly and have met the Bonebreakers in Harrow. Agatha remains in hiding from a continuing threat and has commissioned an investigation into Arthur's supporters in Kingsport.
 
 ## Related sessions
 
@@ -82,7 +84,8 @@ This page groups the most important named East Agria Company figures. Princess A
 - [[sessions/session-026|Session 26]]
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-063|Session 63]]
+- [[sessions/session-064|Session 64]]
 
 ## Unresolved threads
 
-- Why both Agatha and Smith are absent, and whether the Harrow letter is genuine, remain unresolved.
+- The wider threat keeping Agatha in hiding remains unidentified.

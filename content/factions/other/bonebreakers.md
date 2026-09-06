@@ -25,6 +25,7 @@ source_sessions:
   - 60
   - 61
   - 62
+  - 64
 ---
 
 ## Overview
@@ -62,10 +63,13 @@ Leadership is shared and situational rather than strictly formal.
 - In [[sessions/session-060|Session 60]], [[characters/active-players/marta/characters/nila|Nila]] and [[characters/active-players/jaykob/characters/wistor|Wistor]] join the company during its escape from the Necropolis command quarter. The party learns that Valedictus has three phylacteries, returns to the Mercy through Arch I, and begins preparations for Luthien's funeral.
 - In [[sessions/session-061|Session 61]], the company returns to Westfort despite public resentment, coordinates a relief plan with Commander Valerius, circles behind the siege army through Westmarsh, and begins an attack using fire and sabotage against the enemy siege engines.
 - In [[sessions/session-062|Session 62]], the company and Westfort's defenders destroy Kargaz's siege army. Commander Valerius presents the Bonebreakers with a key to the city, and local resentment gives way to public gratitude despite the garrison's heavy losses.
+- In [[sessions/session-064|Session 64]], the party accepts Agatha’s renewed covert commission, hires Drakford as protection, and enters Arthur’s Palace in Kingsport while posing as the prince’s supporters.
 
 ## Current status
 
 Active and increasingly influential. The company is publicly honoured as a defender of Westfort and holds a key to the city.
+
+The party also remains Agatha's covert agent, investigating Arthur's supporters while protecting her concealment.
 
 ## Related sessions
 
@@ -79,6 +83,7 @@ Active and increasingly influential. The company is publicly honoured as a defen
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-062|Session 62]]
+- [[sessions/session-064|Session 64]]
 
 ## Unresolved threads
 

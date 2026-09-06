@@ -20,6 +20,13 @@ tags:
 - [[locations/world/agria/northlands|The Duchy of Northlands]]
 - [[locations/world/agria/southlands/barrowshire|The Barony of Barrowshire]]
 
+## Counties of the Northlands
+
+- [[locations/world/agria/northlands/harrowmere|Harrowmere]]
+- [[locations/world/agria/northlands/grainholm|Grainholm]]
+- [[locations/world/agria/northlands/salt-coast|The Salt Coast]]
+- [[locations/world/agria/northlands/veluria|Veluria]]
+
 ## Cities, settlements, and landscapes
 
 - [[locations/world/agria/southlands/ikiria|Ikiria]]
@@ -30,9 +37,9 @@ tags:
 - [[locations/world/agria/southlands/barrowshire/kelfrek-marsh|Kelfrek Marsh]]
 - [[locations/world/agria/west-fort|Westfort]]
 - [[locations/world/agria/west-flow-river|West Flow River]]
-- [[locations/world/agria/northlands/harrow|Harrow]]
-- [[locations/world/agria/northlands/narrows|The Narrows]]
-- [[locations/world/agria/northlands/harrow/anchor-and-chain|The Anchor & Chain]]
+- [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]
+- [[locations/world/agria/northlands/harrowmere/narrows|The Narrows]]
+- [[locations/world/agria/northlands/harrowmere/harrow/anchor-and-chain|The Anchor & Chain]]
 
 ## Institutions
 
@@ -58,3 +65,10 @@ tags:
 - [[locations/world/westmarsh/necropolis/imperial-family-tomb|The Imperial Family Tomb]]
 - [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]]
 - [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|The Sunken Market]]
+
+## Kingsport
+
+- [[locations/world/agria/northlands/veluria/kingsport|Kingsport]]
+- [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]]
+
+- [[locations/world/agria/northlands/veluria/kingsport/guardhouse|Kingsport Guardhouse]]

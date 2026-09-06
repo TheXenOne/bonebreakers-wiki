@@ -15,11 +15,12 @@ source_sessions:
   - 15
   - 17
   - 18
+  - 64
 ---
 
 ## Overview
 
-Admiral Nelson is the East Agria Company naval figure elevated from captaincy after the [[locations/world/fos-imeras/index|Fos Imeras]] expedition.
+Admiral Nelson commands the East Agria Company's maritime arm and belongs to [[npcs/agria/princess-agatha|Agatha]]'s trusted circle. The Bonebreakers know him from the Fos Imeras expedition, after which he was elevated from captaincy. He supports Agatha's covert work alongside Commander Smith and accompanies her while she is in hiding.
 
 ## Appearance
 
@@ -51,10 +52,11 @@ Needs review.
 
 - He appears first as Captain Nelson during the Fos Imeras expedition in [[sessions/session-014|Session 14]] and [[sessions/session-015|Session 15]].
 - By [[sessions/session-018|Session 18]], Agatha introduces him as Admiral Nelson.
+- In [[sessions/session-064|Session 64]], he joins Agatha and Smith for the concealed meeting with the Bonebreakers at the Anchor & Chain.
 
 ## Current status
 
-In East Agria Company service.
+In Company service and last encountered beside Agatha and Smith at their concealed meeting in Harrow.
 
 ## Related sessions
 
@@ -62,7 +64,8 @@ In East Agria Company service.
 - [[sessions/session-015|Session 15]]
 - [[sessions/session-017|Session 17]]
 - [[sessions/session-018|Session 18]]
+- [[sessions/session-064|Session 64]]
 
 ## Unresolved threads
 
-- Nelson's later role remains limited after the expedition arc.
+- His further role in protecting Agatha and the Northlands investigation remains unclear.

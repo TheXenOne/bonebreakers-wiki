@@ -271,3 +271,7 @@ The Bonebreakers travel east to a recovering Ikiria. The Temple of Merciful Life
 An East Agria Company secretary insists that Agatha is safe and delivers a letter apparently written by her. It summons the party to Harrow, a northern port reached through the fjords and canals of the Narrows. Captain Winston carries them there aboard *Agatha's Favour*, but cannot tell them where Agatha is.
 
 At Harrow, Rickart the Reeve extracts 7,500 gold pieces merely to let the ship enter. The Bonebreakers land among pirates and crowded docks, announce themselves at the Anchor & Chain, and begin searching for Agatha without knowing whether the summons was genuine.
+
+In [[sessions/session-064|Session 64]], Fen brings the party to Agatha, Smith, and Nelson in a private room. Agatha is hiding from a continuing threat and suspects a force beyond Arthur and perhaps the Grey Syndicate. She asks the Bonebreakers to investigate, taking priority over the Necropolis.
+
+The party's pilgrimage cover fails to convince Lord Elron, but he directs them to Count Ven. Posing as Arthur's sympathisers, they obtain a discreet referral to Brother Sedge in Kingsport. After three days at sea, Tess impersonates Wendell Prye to persuade Sedge to admit them to Arthur's Palace. The Bonebreakers are left alone inside, with access to Arthur's political circle but no wider mastermind yet identified.

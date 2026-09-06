@@ -6,14 +6,14 @@ tags:
   - waterway
 aliases:
   - Narrows
-parent_location: "[[locations/world/agria/northlands|The Duchy of Northlands]]"
+parent_location: "[[locations/world/agria/northlands/harrowmere|Harrowmere]]"
 source_sessions:
   - 63
 ---
 
 ## Overview
 
-The Narrows are a confined coastal route leading north toward [[locations/world/agria/northlands/harrow|Harrow]]. The Bonebreakers first pass through them aboard *Agatha's Favour* while answering an apparent summons from Princess Agatha.
+The Narrows are a confined coastal route leading north toward [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. The Bonebreakers first pass through them aboard *Agatha's Favour* while answering an apparent summons from Princess Agatha.
 
 ## Geography or layout
 

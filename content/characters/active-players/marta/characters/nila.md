@@ -11,6 +11,7 @@ source_sessions:
   - 61
   - 62
   - 63
+  - 64
 ---
 
 ## Overview
@@ -33,6 +34,7 @@ Thief.
 - After the siege is broken, Nila tries and fails to pick Frank's pocket. The resulting commotion inadvertently helps conceal Barny's reanimation of [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]].
 - During the subsequent downtime, Nila commissions several daggers.
 - In [[sessions/session-063|Session 63]], Nila constructs an improved set of thieves' tools and lockpicks during the party's week in Ikiria.
+- In [[sessions/session-064|Session 64]], she enters [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]] with the party under its false claim of support for Arthur and secretly takes the palace key from Brother Sedge. She also steals the key to the [[locations/world/agria/northlands/veluria/kingsport/guardhouse|guardhouse safe]] holding Ulrich’s confiscated mace; the weapon remains inside.
 
 ## Current status
 
@@ -44,3 +46,4 @@ Active and travelling with the Bonebreakers. She has been supernaturally aged by
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-062|Session 62]]
 - [[sessions/session-063|Session 63]]
+- [[sessions/session-064|Session 64]]

@@ -99,3 +99,10 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 - [[npcs/fos-imeras/chairis|Chairis]]
 - [[npcs/fos-imeras/sailor|Sailor]]
 - [[npcs/fos-imeras/imperial-survivors|Imperial Survivors]]
+
+## Kingsport and Harrow contacts
+
+- [[npcs/harrow/count-drago-ven|Count Drago Ven]]
+- [[npcs/harrow/lord-elron|Lord Elron]]
+- [[npcs/harrow/drakford|Drakford]]
+- [[npcs/kingsport/brother-sedge|Brother Sedge]]

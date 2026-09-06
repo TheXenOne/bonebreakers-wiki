@@ -19,11 +19,12 @@ source_sessions:
   - 45
   - 47
   - 63
+  - 64
 ---
 
 ## Overview
 
-Commander Smith is head of security for the East Agria Company and one of [[npcs/agria/princess-agatha|Princess Agatha]]'s main covert agents. After accepting the case against [[npcs/agria/prince-arthur|Prince Arthur]] and ordering his arrest, Smith disappears around the time Arthur is returned. His whereabouts are now unknown to the Bonebreakers.
+Commander Smith is head of security for the East Agria Company and one of [[npcs/agria/princess-agatha|Princess Agatha]]'s main covert agents. He accepts the party's case against [[npcs/agria/prince-arthur|Prince Arthur]] and orders his arrest. Discreet and accustomed to disguise, he remains beside Agatha during her concealment and the renewed covert investigation.
 
 ## Appearance
 
@@ -63,10 +64,11 @@ Efficient, discreet, and easily irritated by public loose ends.
 - In [[sessions/session-045|Session 45]], Pell is sent to him with the news of Arthur's conspiracy.
 - In [[sessions/session-047|Session 47]], he accepts Wendell's testimony and the party's documents, then orders Arthur arrested.
 - In [[sessions/session-063|Session 63]], Gilly reports that Smith disappeared shortly after Arthur was returned, or around the same time.
+- In [[sessions/session-064|Session 64]], he is revealed beside Agatha and Nelson at the secret meeting in Harrow, resolving the party’s uncertainty about his whereabouts.
 
 ## Current status
 
-Missing from the Bonebreakers' view after ordering Arthur's arrest.
+Alive and accompanying Agatha in hiding; the Bonebreakers have met him at the Anchor & Chain in Harrow.
 
 ## Related sessions
 
@@ -78,7 +80,8 @@ Missing from the Bonebreakers' view after ordering Arthur's arrest.
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-063|Session 63]]
+- [[sessions/session-064|Session 64]]
 
 ## Unresolved threads
 
-- Whether Smith's disappearance is connected to Agatha, Arthur, or the Grey Syndicate remains unresolved.
+- The wider threat that keeps Agatha and her agents in hiding remains unidentified.

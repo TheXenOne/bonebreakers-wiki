@@ -25,6 +25,7 @@ source_sessions:
   - 44
   - 45
   - 46
+  - 64
 ---
 
 ## Overview
@@ -67,6 +68,7 @@ Agria is home to the Bonebreakers and the setting for many of the kingdom's most
 - The kingdom's structure becomes much clearer after the return from [[sessions/session-018|Session 18]].
 - In [[sessions/session-044|Session 44]] and [[sessions/session-045|Session 45]], the Bonebreakers uncover direct evidence that Prince Arthur is working with the Grey Syndicate.
 - By [[sessions/session-046|Session 46]], Arthur's conspiracy has become a major political lever, though its outcome is still unresolved.
+- In [[sessions/session-064|Session 64]], Agatha remains in hiding and warns that her death would leave Arthur the only surviving heir despite his trial. The Bonebreakers investigate his supporters in the capital.
 
 ## Current status
 
@@ -78,6 +80,7 @@ Active, but politically unstable because of Arthur's exposed conspiracy and the 
 - [[sessions/session-044|Session 44]]
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-046|Session 46]]
+- [[sessions/session-064|Session 64]]
 
 ## Unresolved threads
 
