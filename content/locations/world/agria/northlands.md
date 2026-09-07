@@ -29,7 +29,7 @@ The Northlands are the northern duchy of Agria. Prince Arthur holds the title Du
 
 ## Counties
 
-- [[locations/world/agria/northlands/harrowmere|Harrowmere]] — eastern county, ruled by Count Drago Ven and containing Harrow.
+- [[locations/world/agria/northlands/harrowmere|Harrowmere]] — eastern county, ruled by Count Drago Venn and containing Harrow.
 - [[locations/world/agria/northlands/grainholm|Grainholm]] — central inland county dominated by farmland; not directly visited by the party.
 - [[locations/world/agria/northlands/salt-coast|The Salt Coast]] — northern fishing county, passed on the voyage to Kingsport.
 - [[locations/world/agria/northlands/veluria|Veluria]] — western county containing Kingsport, the capital.

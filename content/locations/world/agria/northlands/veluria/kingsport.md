@@ -10,7 +10,7 @@ source_sessions:
 
 ## Overview
 
-Kingsport is Agria's capital, in [[locations/world/agria/northlands/veluria|Veluria]] in the western [[locations/world/agria/northlands|Northlands]]. Compact and conspicuously wealthy, it overlooks the nearby Tyne and is dominated by the Queen's Palace and [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]]. The Bonebreakers reach it by sea from Harrow to investigate Arthur's supporters for Agatha.
+Kingsport is Agria's capital, in [[locations/world/agria/northlands/veluria|Veluria]] in the western [[locations/world/agria/northlands|Northlands]]. Compact and conspicuously wealthy, it overlooks the nearby Tide and is dominated by the Queen's Palace and [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]]. The Bonebreakers reach it by sea from Harrow to investigate Arthur's supporters for Agatha.
 
 ## Geography and appearance
 

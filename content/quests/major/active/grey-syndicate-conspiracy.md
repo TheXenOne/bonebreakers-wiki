@@ -74,7 +74,7 @@ The thread becomes visible when the party exposes Vex's sabotage cell in [[sessi
 - In [[sessions/session-054|Session 54]], news confirms that the renewed invasion of Westfort has become a siege. Kargaz later confirms the Syndicate supported his campaign.
 - In [[sessions/session-060|Session 60]], [[npcs/necropolis/lord-varrick|Lord Varrick]] suggests that the Syndicate may be seeking Valedictus's necromantic power or may instead intend to destroy him. This is informed speculation rather than proof of the Syndicate's objective.
 - In [[sessions/session-063|Session 63]], the reanimated [[npcs/westmarsh/kargaz-the-disciplined|Kargaz]] confirms that the Syndicate supported his war and promised him control of Westfort if he captured it. He says he knew little of its larger plans.
-- In [[sessions/session-064|Session 64]], Agatha says she suspects a force beyond even the Syndicate and doubts Arthur could have organised the unrest alone. The party follows a lead through Count Ven and Brother Sedge into Arthur's Palace, without yet identifying a wider mastermind.
+- In [[sessions/session-064|Session 64]], Agatha says she suspects a force beyond even the Syndicate and doubts Arthur could have organised the unrest alone. The party follows a lead through Count Venn and Brother Sedge into Arthur's Palace, without yet identifying a wider mastermind.
 
 ## Current status
 

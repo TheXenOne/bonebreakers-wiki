@@ -39,4 +39,4 @@ The Anchor & Chain is the only inn on [[locations/world/agria/northlands/harrowm
 
 ## Unresolved threads or mysteries
 
-- Why Count Ven prefers meeting here rather than in the upper city remains unclear.
+- Why Count Venn prefers meeting here rather than in the upper city remains unclear.

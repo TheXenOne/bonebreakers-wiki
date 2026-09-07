@@ -35,7 +35,7 @@ Harrow is a fogbound port in the county of [[locations/world/agria/northlands/ha
 ## Campaign events
 
 - In [[sessions/session-063|Session 63]], the Bonebreakers enter Harrow while trying to locate Princess Agatha. They make themselves conspicuous at the Anchor & Chain but do not yet find her.
-- In [[sessions/session-064|Session 64]], the party meets Agatha in hiding, hires Drakford, and follows introductions through Elron and Count Ven to Brother Sedge in Kingsport.
+- In [[sessions/session-064|Session 64]], the party meets Agatha in hiding, hires Drakford, and follows introductions through Elron and Count Venn to Brother Sedge in Kingsport.
 
 ## Related sessions
 

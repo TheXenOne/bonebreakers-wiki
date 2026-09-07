@@ -17,7 +17,7 @@ Elron is composed and sociable, receiving clients at a wealthy inn and a seclude
 
 ## Relationship with the Bonebreakers
 
-The party first claims to need help against rival pilgrims, then admits it wants an introduction to the Count. Elron tells them Ven is already waiting at the docks and remains cordial despite their deception.
+The party first claims to need help against rival pilgrims, then admits it wants an introduction to the Count. Elron tells them Venn is already waiting at the docks and remains cordial despite their deception.
 
 ## Current status
 

@@ -9,7 +9,7 @@ source_sessions:
 
 ## Overview
 
-Count Drago Ven is Count of Harrowmere and a powerful figure in [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. He gives the Bonebreakers a discreet route to Arthur's supporters through [[npcs/kingsport/brother-sedge|Brother Sedge]], on condition that they conceal his involvement. Agatha considers him selfish but insufficiently ambitious to attempt her overthrow; this is her judgement, not proof of his loyalties.
+Count Drago Venn is Count of Harrowmere and a powerful figure in [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. He gives the Bonebreakers a discreet route to Arthur's supporters through [[npcs/kingsport/brother-sedge|Brother Sedge]], on condition that they conceal his involvement. Agatha considers him selfish but insufficiently ambitious to attempt her overthrow; this is her judgement, not proof of his loyalties.
 
 ## Personality and relationships
 
@@ -17,7 +17,7 @@ Ven is jovial and openly flirts with [[npcs/harrow/fen-blackwater|Fen Blackwater
 
 ## Known dealings
 
-The Bonebreakers approach him posing as sympathisers of [[npcs/agria/prince-arthur|Prince Arthur]]. Ven refers them to Sedge, who formerly worked in Arthur's Palace in Kingsport. He asks for secrecy rather than money.
+The Bonebreakers approach him posing as sympathisers of [[npcs/agria/prince-arthur|Prince Arthur]]. Venn refers them to Sedge, who formerly worked in Arthur's Palace in Kingsport. He asks for secrecy rather than money.
 
 ## Current status
 
