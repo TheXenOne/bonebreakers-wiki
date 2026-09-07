@@ -68,7 +68,7 @@ tags:
 
 ## Kingsport
 
-- [[locations/world/agria/northlands/velluria/kingsport|Kingsport]]
-- [[locations/world/agria/northlands/velluria/kingsport/arthurs-palace|Arthur's Palace]]
+- [[locations/world/agria/northlands/kingsport|Kingsport]]
+- [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]
 
-- [[locations/world/agria/northlands/velluria/kingsport/guardhouse|Kingsport Guardhouse]]
+- [[locations/world/agria/northlands/kingsport/guardhouse|Kingsport Guardhouse]]

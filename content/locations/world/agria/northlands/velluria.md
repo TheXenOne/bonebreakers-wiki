@@ -11,11 +11,11 @@ source_sessions:
 
 ## Overview
 
-Velluria is the western county of the [[locations/world/agria/northlands|Northlands]] and contains [[locations/world/agria/northlands/velluria/kingsport|Kingsport]], Agria's capital. The Bonebreakers travel here to investigate Prince Arthur's supporters on Agatha's behalf.
+Velluria is the western county of the [[locations/world/agria/northlands|Northlands]]. Agria's capital, [[locations/world/agria/northlands/kingsport|Kingsport]], lies outside the county.
 
 ## Geography and the Bonebreakers
 
-Kingsport is compact and wealthy, with ornate buildings, extensive gardens, and a busy harbour. The Queen's Palace and [[locations/world/agria/northlands/velluria/kingsport/arthurs-palace|Arthur's Palace]] dominate the city; the county beyond the capital remains largely unexplored by the party.
+The county remains largely unexplored by the Bonebreakers.
 
 ## Related sessions
 

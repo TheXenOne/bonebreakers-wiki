@@ -17,7 +17,7 @@ source_sessions:
 
 ## Overview
 
-The Northlands are the northern duchy of Agria. Prince Arthur holds the title Duke of the Northlands, and the Bonebreakers enter the region directly when an apparent summons from Princess Agatha draws them to the fogbound port of [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. Agria's capital, [[locations/world/agria/northlands/velluria/kingsport|Kingsport]], lies in western Velluria and is the focus of their investigation into Arthur's supporters.
+The Northlands are the northern duchy of Agria. Prince Arthur holds the title Duke of the Northlands, and the Bonebreakers enter the region directly when an apparent summons from Princess Agatha draws them to the fogbound port of [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. Agria's capital, [[locations/world/agria/northlands/kingsport|Kingsport]], lies at the duchy's western edge, outside Velluria, and is the focus of their investigation into Arthur's supporters.
 
 ## Geography or layout
 
@@ -25,14 +25,18 @@ The Northlands are the northern duchy of Agria. Prince Arthur holds the title Du
 - Kingsport, the capital of Agria, lies northwest of Ikiria and almost directly north of Barrow Spa.
 - [[locations/world/agria/northlands/harrowmere/harrow|Harrow]] is a port in the County of Harrowmere, reached from Ikiria through [[locations/world/agria/northlands/harrowmere/narrows|the Narrows]].
 - Harrowmere lies in the east; central Grainholm is agricultural and was not directly visited by the party.
-- The northern Salt Coast depends heavily on fishing. Velluria lies in the west and contains Kingsport.
+- The northern Salt Coast depends heavily on fishing. Velluria lies in the west; Kingsport is administratively separate from it.
 
 ## Counties
 
 - [[locations/world/agria/northlands/harrowmere|Harrowmere]] — eastern county, ruled by Count Drago Venn and containing Harrow.
 - [[locations/world/agria/northlands/grainholm|Grainholm]] — central inland county dominated by farmland; not directly visited by the party.
 - [[locations/world/agria/northlands/salt-coast|The Salt Coast]] — northern fishing county, passed on the voyage to Kingsport.
-- [[locations/world/agria/northlands/velluria|Velluria]] — western county containing Kingsport, the capital.
+- [[locations/world/agria/northlands/velluria|Velluria]] — western county bordering the separately administered capital.
+
+## Capital
+
+[[locations/world/agria/northlands/kingsport|Kingsport]] is Agria's capital and seat of royal power. It is not part of Velluria.
 
 ## Associated people and groups
 
@@ -44,7 +48,7 @@ The Northlands are the northern duchy of Agria. Prince Arthur holds the title Du
 - In [[sessions/session-044|Session 44]], the party encounters Arthur on the road and uncovers his Grey Syndicate connection.
 - In [[sessions/session-045|Session 45]], evidence gathered from Arthur and his secretary deepens the political stakes around his title and ambitions.
 - In [[sessions/session-063|Session 63]], the party sails into the Northlands through the Narrows and begins searching Harrow for Princess Agatha.
-- In [[sessions/session-064|Session 64]], the Bonebreakers accept Agatha’s investigation and sail from Harrow past fishing villages to Kingsport in Velluria.
+- In [[sessions/session-064|Session 64]], the Bonebreakers accept Agatha’s investigation and sail from Harrow past fishing villages to Kingsport.
 
 ## Related sessions
 
