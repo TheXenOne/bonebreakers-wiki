@@ -96,4 +96,4 @@ The consequences of the conspiracy and arrest for Princess Agatha and the Crown 
 
 ## Continuing consequences
 
-Arthur's arrest remains complete, but his trial and supporters still matter. In [[sessions/session-064|Session 64]], Agatha warns that her death would leave him the only surviving heir. The Bonebreakers enter [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]] under a false claim of support as part of the [[quests/major/active/grey-syndicate-conspiracy|continuing conspiracy investigation]].
+Arthur's arrest remains complete, but his trial and supporters still matter. In [[sessions/session-064|Session 64]], Agatha warns that her death would leave him the only surviving heir. The Bonebreakers enter [[locations/world/agria/northlands/velluria/kingsport/arthurs-palace|Arthur's Palace]] under a false claim of support as part of the [[quests/major/active/grey-syndicate-conspiracy|continuing conspiracy investigation]].

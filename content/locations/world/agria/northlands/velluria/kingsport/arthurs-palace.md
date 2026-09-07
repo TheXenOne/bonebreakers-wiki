@@ -3,14 +3,14 @@ title: Arthur's Palace
 type: location
 tags:
   - location
-parent_location: "[[locations/world/agria/northlands/veluria/kingsport]]"
+parent_location: "[[locations/world/agria/northlands/velluria/kingsport]]"
 source_sessions:
   - 64
 ---
 
 ## Overview
 
-Arthur's Palace is one of the two gleaming palaces dominating [[locations/world/agria/northlands/veluria/kingsport|Kingsport]]. Associated with [[npcs/agria/prince-arthur|Prince Arthur]] and his household, it is the Bonebreakers' first destination in their covert investigation of his supporters. Count Venn says few people remain there; the party has entered but has not yet explored it.
+Arthur's Palace is one of the two gleaming palaces dominating [[locations/world/agria/northlands/velluria/kingsport|Kingsport]]. Associated with [[npcs/agria/prince-arthur|Prince Arthur]] and his household, it is the Bonebreakers' first destination in their covert investigation of his supporters. Count Venn says few people remain there; the party has entered but has not yet explored it.
 
 ## Access
 

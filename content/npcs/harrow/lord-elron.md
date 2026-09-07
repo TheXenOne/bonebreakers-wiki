@@ -9,7 +9,7 @@ source_sessions:
 
 ## Overview
 
-Lord Elron is an influential information broker in [[locations/world/agria/northlands/harrowmere/harrow|Harrow]] who calls himself the lord of the town and claims to know everything that happens there. His gambling table provides a way to buy information through deliberately lost wagers. He exposes the Bonebreakers' invented rivals but still directs them to [[npcs/harrow/count-drago-ven|Count Drago Ven]] and expects further contact.
+Lord Elron is an influential information broker in [[locations/world/agria/northlands/harrowmere/harrow|Harrow]] who calls himself the lord of the town and claims to know everything that happens there. His gambling table provides a way to buy information through deliberately lost wagers. He exposes the Bonebreakers' invented rivals but still directs them to [[npcs/harrow/count-drago-venn|Count Drago Venn]] and expects further contact.
 
 ## Methods and personality
 

@@ -12,7 +12,7 @@ source_sessions:
 
 ## Overview
 
-Harrowmere is the eastern county of the [[locations/world/agria/northlands|Northlands]], containing the port of [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. [[npcs/harrow/count-drago-ven|Count Drago Ven]] holds the county's title. The Bonebreakers enter through Harrow while seeking Agatha, then obtain Ven's discreet referral to Brother Sedge in Kingsport.
+Harrowmere is the eastern county of the [[locations/world/agria/northlands|Northlands]], containing the port of [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. [[npcs/harrow/count-drago-venn|Count Drago Venn]] holds the county's title. The Bonebreakers enter through Harrow while seeking Agatha, then obtain Venn's discreet referral to Brother Sedge in Kingsport.
 
 ## Geography and the Bonebreakers
 

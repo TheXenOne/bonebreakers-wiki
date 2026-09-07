@@ -1,5 +1,5 @@
 ---
-title: Count Drago Ven
+title: Count Drago Venn
 type: npc
 tags:
   - npc
@@ -13,7 +13,7 @@ Count Drago Venn is Count of Harrowmere and a powerful figure in [[locations/wor
 
 ## Personality and relationships
 
-Ven is jovial and openly flirts with [[npcs/harrow/fen-blackwater|Fen Blackwater]], who brushes him off. He favours meetings at [[locations/world/agria/northlands/harrowmere/harrow/anchor-and-chain|the Anchor & Chain]] despite the upper city's greater luxury.
+Venn is jovial and openly flirts with [[npcs/harrow/fen-blackwater|Fen Blackwater]], who brushes him off. He favours meetings at [[locations/world/agria/northlands/harrowmere/harrow/anchor-and-chain|the Anchor & Chain]] despite the upper city's greater luxury.
 
 ## Known dealings
 

@@ -102,7 +102,7 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 
 ## Kingsport and Harrow contacts
 
-- [[npcs/harrow/count-drago-ven|Count Drago Ven]]
+- [[npcs/harrow/count-drago-venn|Count Drago Venn]]
 - [[npcs/harrow/lord-elron|Lord Elron]]
 - [[npcs/harrow/drakford|Drakford]]
 - [[npcs/kingsport/brother-sedge|Brother Sedge]]

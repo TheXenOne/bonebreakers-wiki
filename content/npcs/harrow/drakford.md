@@ -9,7 +9,7 @@ source_sessions:
 
 ## Overview
 
-Drakford is a dwarf hired by the Bonebreakers as muscle in [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. He tries to enforce justice amid the disorder of an upper-city inn and strongly objects to Lord Elron's cheating. He is sceptical of the party's pilgrimage story but accompanies it to [[locations/world/agria/northlands/veluria/kingsport|Kingsport]].
+Drakford is a dwarf hired by the Bonebreakers as muscle in [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. He tries to enforce justice amid the disorder of an upper-city inn and strongly objects to Lord Elron's cheating. He is sceptical of the party's pilgrimage story but accompanies it to [[locations/world/agria/northlands/velluria/kingsport|Kingsport]].
 
 ## Relationship with the Bonebreakers
 
@@ -17,7 +17,7 @@ Drakford is a dwarf hired by the Bonebreakers as muscle in [[locations/world/agr
 
 ## Current status
 
-Travelling with the Bonebreakers as hired protection, including their entry into [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]].
+Travelling with the Bonebreakers as hired protection, including their entry into [[locations/world/agria/northlands/velluria/kingsport/arthurs-palace|Arthur's Palace]].
 
 ## Related sessions
 

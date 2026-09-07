@@ -73,11 +73,11 @@ The party first meets Agatha as a stranded noble on [[locations/world/fos-imeras
 - In [[sessions/session-048|Session 48]], the party is told that Agatha's concealed whereabouts are standard procedure rather than evidence that she is missing.
 - In [[sessions/session-050|Session 50]], the party overhears ordinary citizens in the Plats claiming that Agatha is missing or has fled while the city suffers.
 - In [[sessions/session-063|Session 63]], Gilly says Agatha remains missing and Commander Smith has also disappeared. A Company secretary insists Agatha is safe and gives the Bonebreakers a letter apparently from her summoning them to [[locations/world/agria/northlands/harrowmere/harrow|Harrow]], but Captain Winston does not know where she is.
-- In [[sessions/session-064|Session 64]], Agatha meets the party with Smith and Nelson in Harrow. She asks them to investigate a wider Northlands threat, prioritising it over the Necropolis. Count Ven's referral leads them to Sedge and Arthur's Palace.
+- In [[sessions/session-064|Session 64]], Agatha meets the party with Smith and Nelson in Harrow. She asks them to investigate a wider Northlands threat, prioritising it over the Necropolis. Count Venn's referral leads them to Sedge and Arthur's Palace.
 
 ## Current status
 
-Active. Agatha and Smith have been found alive; Agatha remains in hiding and has renewed her covert commission. The Bonebreakers are inside [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]] in Kingsport, posing as his supporters to investigate the forces behind the threat to her life.
+Active. Agatha and Smith have been found alive; Agatha remains in hiding and has renewed her covert commission. The Bonebreakers are inside [[locations/world/agria/northlands/velluria/kingsport/arthurs-palace|Arthur's Palace]] in Kingsport, posing as his supporters to investigate the forces behind the threat to her life.
 
 ## Consequences
 
@@ -99,8 +99,8 @@ Active. Agatha and Smith have been found alive; Agatha remains in hiding and has
 - [[locations/world/agria/southlands/ikiria/east-agria-company-headquarters|East Agria Company Headquarters]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
 - [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]
-- [[locations/world/agria/northlands/veluria/kingsport|Kingsport]]
-- [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]]
+- [[locations/world/agria/northlands/velluria/kingsport|Kingsport]]
+- [[locations/world/agria/northlands/velluria/kingsport/arthurs-palace|Arthur's Palace]]
 
 ## Related factions
 
@@ -124,7 +124,7 @@ Active. Agatha and Smith have been found alive; Agatha remains in hiding and has
 ## Loose ends
 
 - Who is orchestrating the Northlands unrest, and whether anyone beyond the Grey Syndicate is involved, remain unknown.
-- The party must protect Agatha's secrecy and conceal Count Ven's referral.
+- The party must protect Agatha's secrecy and conceal Count Venn's referral.
 - Sedge has admitted them to the palace, but Arthur's supporters inside have not yet been identified.
 - Queen Audrey II's reported illness remains unexplained: **Needs review**.
 - Agatha's personal authorship of the letter was not explicitly confirmed, although the summons led to her.

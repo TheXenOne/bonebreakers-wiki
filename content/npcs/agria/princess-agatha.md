@@ -68,7 +68,7 @@ Pragmatic, politically dangerous, and willing to reward useful service.
 - In [[sessions/session-048|Session 48]], the party is told that Smith not knowing her whereabouts is standard procedure and does not mean she is missing.
 - In [[sessions/session-050|Session 50]], the party overhears citizens in the Plats claiming that she is missing or has fled while nobles escape the city's suffering.
 - In [[sessions/session-063|Session 63]], Gilly reports that Agatha remains missing. A Company secretary says she is safe but indisposed and gives the party a letter apparently from Agatha summoning them to Harrow. The letter's authenticity is not established.
-- In [[sessions/session-064|Session 64]], she meets the party secretly in Harrow with Smith and Nelson, confirms she must remain hidden, and directs an investigation beginning with Count Ven.
+- In [[sessions/session-064|Session 64]], she meets the party secretly in Harrow with Smith and Nelson, confirms she must remain hidden, and directs an investigation beginning with Count Venn.
 
 ## Current status
 

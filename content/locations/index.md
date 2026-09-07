@@ -25,7 +25,7 @@ tags:
 - [[locations/world/agria/northlands/harrowmere|Harrowmere]]
 - [[locations/world/agria/northlands/grainholm|Grainholm]]
 - [[locations/world/agria/northlands/salt-coast|The Salt Coast]]
-- [[locations/world/agria/northlands/veluria|Veluria]]
+- [[locations/world/agria/northlands/velluria|Velluria]]
 
 ## Cities, settlements, and landscapes
 
@@ -68,7 +68,7 @@ tags:
 
 ## Kingsport
 
-- [[locations/world/agria/northlands/veluria/kingsport|Kingsport]]
-- [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]]
+- [[locations/world/agria/northlands/velluria/kingsport|Kingsport]]
+- [[locations/world/agria/northlands/velluria/kingsport/arthurs-palace|Arthur's Palace]]
 
-- [[locations/world/agria/northlands/veluria/kingsport/guardhouse|Kingsport Guardhouse]]
+- [[locations/world/agria/northlands/velluria/kingsport/guardhouse|Kingsport Guardhouse]]
