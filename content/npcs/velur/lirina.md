@@ -9,11 +9,11 @@ source_sessions:
 
 ## Overview
 
-Lirina is Countess of [[locations/world/agria/northlands/veluria|Veluria]], with a palace in [[locations/world/agria/northlands/veluria/velur|Velur]]. [[npcs/kingsport/hugh-malory|Hugh Malory]] describes her as exceptionally charming and charismatic; her portrait depicts an elegant, beautiful woman in fine clothing. [[npcs/agria/prince-arthur|Arthur]]'s love letters and portraits of her establish a personal connection that makes her a lead in the Bonebreakers' investigation of the threat to [[npcs/agria/princess-agatha|Agatha]]. The party has not met her, and her political role remains uncertain.
+Lirina is Countess of [[locations/world/agria/northlands/velluria|Velluria]], with a palace in [[locations/world/agria/northlands/velluria/velur|Velur]]. [[npcs/kingsport/hugh-malory|Hugh Malory]] describes her as exceptionally charming and charismatic; her portrait depicts an elegant, beautiful woman in fine clothing. [[npcs/agria/prince-arthur|Arthur]]'s love letters and portraits of her establish a personal connection that makes her a lead in the Bonebreakers' investigation of the threat to [[npcs/agria/princess-agatha|Agatha]]. The party has not met her, and her political role remains uncertain.
 
 ## Relationship with Arthur
 
-Arthur repeatedly visited Veluria, with his journeys increasing shortly before the Bonebreakers first intercepted him. The Bonebreakers find love letters addressed to Lirina in his bedroom alongside her warning: “Do nothing rash. Commit nothing to paper.” Hugh suspects her involvement in Arthur's predicament; rumours that she abandoned him after his arrest are unconfirmed.
+Arthur repeatedly visited Velluria, with his journeys increasing shortly before the Bonebreakers first intercepted him. The Bonebreakers find love letters addressed to Lirina in his bedroom alongside her warning: “Do nothing rash. Commit nothing to paper.” Hugh suspects her involvement in Arthur's predicament; rumours that she abandoned him after his arrest are unconfirmed.
 
 ## Current status
 

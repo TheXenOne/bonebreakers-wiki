@@ -31,12 +31,12 @@ Harrow is a fogbound port in the county of [[locations/world/agria/northlands/ha
 - [[npcs/harrow/rickart-the-reeve|Rickart the Reeve]] collects entry payments for the County of Harrowmere and demands 10,000 gold pieces from *Agatha's Favour* before accepting 7,500.
 - [[npcs/harrow/fen-blackwater|Fen Blackwater]], the landlady of the Anchor & Chain, is missing two fingers and agrees to spread word that the Bonebreakers are seeking work.
 - [[npcs/agria/east-agria-company/captain-winston|Captain Winston]] brings the party to Harrow under an East Agria Company charter.
-- [[npcs/harrow/count-drago-ven|Count Drago Ven]] is Count of Harrowmere; [[npcs/harrow/lord-elron|Lord Elron]] claims broad knowledge of the town and brokers information.
+- [[npcs/harrow/count-drago-venn|Count Drago Venn]] is Count of Harrowmere; [[npcs/harrow/lord-elron|Lord Elron]] claims broad knowledge of the town and brokers information.
 
 ## Campaign events
 
 - In [[sessions/session-063|Session 63]], the Bonebreakers enter Harrow while trying to locate Princess Agatha. They make themselves conspicuous at the Anchor & Chain but do not yet find her.
-- In [[sessions/session-064|Session 64]], the party meets Agatha in hiding, hires Drakford, and follows introductions through Elron and Count Ven to Brother Sedge in Kingsport.
+- In [[sessions/session-064|Session 64]], the party meets Agatha in hiding, hires Drakford, and follows introductions through Elron and Count Venn to Brother Sedge in Kingsport.
 - In [[sessions/session-065|Session 65]], financial records found in [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] include a payment for discretion in Harrow. Its recipient and purpose remain unknown; the party does not revisit Harrow.
 
 ## Related sessions
@@ -47,6 +47,6 @@ Harrow is a fogbound port in the county of [[locations/world/agria/northlands/ha
 
 ## Unresolved threads or mysteries
 
-- The extent of Elron's influence and Ven's wider loyalties remain unclear.
+- The extent of Elron's influence and Venn's wider loyalties remain unclear.
 - The extent of Rickart's authority and whether his entry demand is lawful remain unclear.
 - The payment for discretion in Arthur's financial records remains unexplained.

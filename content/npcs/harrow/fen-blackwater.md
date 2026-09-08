@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Fen Blackwater is the landlady of [[locations/world/agria/northlands/harrowmere/harrow/anchor-and-chain|the Anchor & Chain]], the only inn on Harrow's docks. Unfazed by its rough clientele, she connects the Bonebreakers with local opportunities and provides the private room where they meet Agatha and Count Ven separately.
+Fen Blackwater is the landlady of [[locations/world/agria/northlands/harrowmere/harrow/anchor-and-chain|the Anchor & Chain]], the only inn on Harrow's docks. Unfazed by its rough clientele, she connects the Bonebreakers with local opportunities and provides the private room where they meet Agatha and Count Venn separately.
 
 ## Appearance
 
@@ -33,7 +33,7 @@ Unfazed by her rough customers and willing to connect newcomers with Harrow's op
 ## Campaign events
 
 - In [[sessions/session-063|Session 63]], Arden publicly introduces the Bonebreakers at the Anchor & Chain. Fen agrees to notify people that they are looking for work and answers Barny's question about selling contraband.
-- In [[sessions/session-064|Session 64]], she hosts the hidden meeting with Agatha, Smith, and Nelson, then admits the party to Count Ven in the same room. She brushes off the Count’s advances.
+- In [[sessions/session-064|Session 64]], she hosts the hidden meeting with Agatha, Smith, and Nelson, then admits the party to Count Venn in the same room. She brushes off the Count’s advances.
 
 ## Current status
 

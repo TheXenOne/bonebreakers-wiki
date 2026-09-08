@@ -272,8 +272,8 @@ The Necropolis must wait.
 
 Agatha sends the Bonebreakers to investigate. Posing as pilgrims and Arthur's sympathisers, they follow Harrow's political contacts to Kingsport, where Tess impersonates Wendell Prye to gain entry to [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]].
 
-Behind the sealed cabinets and covered furniture, the party finds jealousy, ambition, and a trail leading to **[[npcs/velur/lirina|Lirina]], Countess of Veluria**. Arthur's letters and repeated visits suggest a close relationship. Her own warning is brief: “Do nothing rash. Commit nothing to paper.”
+Behind the sealed cabinets and covered furniture, the party finds jealousy, ambition, and a trail leading to **[[npcs/velur/lirina|Lirina]], Countess of Velluria**. Arthur's letters and repeated visits suggest a close relationship. Her own warning is brief: “Do nothing rash. Commit nothing to paper.”
 
 The investigation also becomes a robbery. Small thefts grow into the stripping of palace valuables, culminating in Arthur's jewellery and expensive clothes. The Bonebreakers blame **[[npcs/kingsport/corvin-dace|Corvin Dace]]**, a supposed official whose lies and flight make them doubt his identity. With planted jewels and a charmed housekeeper's support, they secure his arrest and the Queen's Guard's gratitude.
 
-Corvin's true purpose remains unknown. Lirina's role is still uncertain. Her masquerade in [[locations/world/agria/northlands/veluria/velur|Velur]] offers the Bonebreakers their next way into Arthur's circle.
+Corvin's true purpose remains unknown. Lirina's role is still uncertain. Her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]] offers the Bonebreakers their next way into Arthur's circle.

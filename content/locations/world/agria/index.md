@@ -31,11 +31,13 @@ The Southlands are the duchy of [[npcs/agria/princess-agatha|Princess Agatha]], 
 The Northlands lie north of the Southlands. [[npcs/agria/prince-arthur|Prince Arthur]], Agatha's younger brother, holds the ducal title, although he is under arrest and awaiting trial for plotting against her. The region's known political divisions are:
 
 - **[[locations/world/agria/northlands/kingsport|Kingsport]]:** Agria's wealthy capital and a city-state in its own right, dominated by the Queen's Palace and Arthur's Palace. It lies northwest of Ikiria and almost directly north of Barrow Spa.
-- **[[locations/world/agria/northlands/veluria|Veluria]]:** the western county, ruled by [[npcs/velur/lirina|Lirina]], Countess of Veluria. It contains [[locations/world/agria/northlands/veluria/velur|Velur]], where she has a palace, about one day's travel from Kingsport. Kingsport itself is outside the county.
+- **[[locations/world/agria/northlands/velluria|Velluria]]:** the western county, ruled by [[npcs/velur/lirina|Lirina]], Countess of Velluria. It contains [[locations/world/agria/northlands/velluria/velur|Velur]], where she has a palace, about one day's travel from Kingsport. Kingsport itself is outside the county.
 - **[[locations/world/agria/northlands/grainholm|Grainholm]]:** the central inland county, largely agricultural. The Bonebreakers have not visited it.
-- **[[locations/world/agria/northlands/harrowmere|Harrowmere]]:** the eastern county, ruled by [[npcs/harrow/count-drago-ven|Count Drago Ven]]. Its port, [[locations/world/agria/northlands/harrowmere/harrow|Harrow]], handles exotic and illicit imports and provides the party's first foothold in the Northlands.
+- **[[locations/world/agria/northlands/harrowmere|Harrowmere]]:** the eastern county, ruled by [[npcs/harrow/count-drago-venn|Count Drago Venn]]. Its port, [[locations/world/agria/northlands/harrowmere/harrow|Harrow]], handles exotic and illicit imports and provides the party's first foothold in the Northlands.
 
-Fishing settlements line the northern [[locations/world/agria/northlands/salt-coast|Salt Coast]]. The sea approach to Harrow passes through [[locations/world/agria/northlands/harrowmere/narrows|the Narrows]], a confined route of fjords, waterways, and artificial canals. The Bonebreakers reach Kingsport from Harrow after three days sailing along the coast; Veluria remains a destination they have yet to explore.
+- **[[locations/world/agria/northlands/salt-coast|The Salt Coast]]:** the northern fishing county, passed on the voyage to Kingsport.
+
+Fishing settlements line the northern [[locations/world/agria/northlands/salt-coast|Salt Coast]]. The sea approach to Harrow passes through [[locations/world/agria/northlands/harrowmere/narrows|the Narrows]], a confined route of fjords, waterways, and artificial canals. The Bonebreakers reach Kingsport from Harrow after three days sailing along the coast; Velluria remains a destination they have yet to explore.
 
 ## The succession and the Bonebreakers
 
@@ -56,7 +58,7 @@ Agatha has asked the Bonebreakers to investigate the wider Northlands conspiracy
 - In [[sessions/session-063|Session 63]], reports that Agatha and Commander Smith are missing, combined with Queen Audrey II's apparent illness, deepen the kingdom's succession crisis and draw the party to Harrow.
 
 - In [[sessions/session-064|Session 64]], the party finds Agatha alive in hiding, accepts her commission, and follows northern political contacts from Harrow to Kingsport.
-- In [[sessions/session-065|Session 65]], evidence from Arthur’s Palace points toward Lirina and Veluria, but the wider threat to Agatha remains unidentified.
+- In [[sessions/session-065|Session 65]], evidence from Arthur’s Palace points toward Lirina and Velluria, but the wider threat to Agatha remains unidentified.
 
 ## Related sessions
 

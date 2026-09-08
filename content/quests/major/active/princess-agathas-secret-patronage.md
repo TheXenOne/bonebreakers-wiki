@@ -33,7 +33,7 @@ related_locations:
   - Harrow
   - Kingsport
   - Arthur's Palace
-  - Veluria
+  - Velluria
   - Velur
 related_npcs:
   - Princess Agatha
@@ -82,12 +82,12 @@ The party first meets Agatha as a stranded noble on [[locations/world/fos-imeras
 - In [[sessions/session-048|Session 48]], the party is told that Agatha's concealed whereabouts are standard procedure rather than evidence that she is missing.
 - In [[sessions/session-050|Session 50]], the party overhears ordinary citizens in the Plats claiming that Agatha is missing or has fled while the city suffers.
 - In [[sessions/session-063|Session 63]], Gilly says Agatha remains missing and Commander Smith has also disappeared. A Company secretary insists Agatha is safe and gives the Bonebreakers a letter apparently from her summoning them to [[locations/world/agria/northlands/harrowmere/harrow|Harrow]], but Captain Winston does not know where she is.
-- In [[sessions/session-064|Session 64]], Agatha meets the party with Smith and Nelson in Harrow. She asks them to investigate a wider Northlands threat, prioritising it over the Necropolis. Count Ven's referral leads them to Sedge and Arthur's Palace.
-- In [[sessions/session-065|Session 65]], the palace search identifies [[npcs/velur/lirina|Lirina]], Countess of Veluria, as a lead through love letters, portraits, repeated journeys, and her warning against rash action and written commitments. Hugh Malory points to her masquerade in [[locations/world/agria/northlands/veluria/velur|Velur]]. Corvin takes letters and lies about his previous visits. His suspicious palace activity and flight after returning to the Royal Chamberlain's building lead the party to suspect he is not who he claims to be. The Bonebreakers frame him for their own jewellery theft and secure his arrest.
+- In [[sessions/session-064|Session 64]], Agatha meets the party with Smith and Nelson in Harrow. She asks them to investigate a wider Northlands threat, prioritising it over the Necropolis. Count Venn's referral leads them to Sedge and Arthur's Palace.
+- In [[sessions/session-065|Session 65]], the palace search identifies [[npcs/velur/lirina|Lirina]], Countess of Velluria, as a lead through love letters, portraits, repeated journeys, and her warning against rash action and written commitments. Hugh Malory points to her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]]. Corvin takes letters and lies about his previous visits. His suspicious palace activity and flight after returning to the Royal Chamberlain's building lead the party to suspect he is not who he claims to be. The Bonebreakers frame him for their own jewellery theft and secure his arrest.
 
 ## Current status
 
-Active. Agatha remains in hiding and her commission takes priority over the Necropolis. The Bonebreakers have searched [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] and left with evidence of Arthur's ties to [[npcs/velur/lirina|Lirina]]. Her masquerade in [[locations/world/agria/northlands/veluria/velur|Velur]] offers a lead, but the party has not yet visited or reported back to Agatha.
+Active. Agatha remains in hiding and her commission takes priority over the Necropolis. The Bonebreakers have searched [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] and left with evidence of Arthur's ties to [[npcs/velur/lirina|Lirina]]. Her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]] offers a lead, but the party has not yet visited or reported back to Agatha.
 
 ## Consequences
 
@@ -116,8 +116,8 @@ Active. Agatha remains in hiding and her commission takes priority over the Necr
 - [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]
 - [[locations/world/agria/northlands/kingsport|Kingsport]]
 - [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]
-- [[locations/world/agria/northlands/veluria|Veluria]]
-- [[locations/world/agria/northlands/veluria/velur|Velur]]
+- [[locations/world/agria/northlands/velluria|Velluria]]
+- [[locations/world/agria/northlands/velluria/velur|Velur]]
 
 ## Related factions
 
@@ -142,7 +142,7 @@ Active. Agatha remains in hiding and her commission takes priority over the Necr
 ## Loose ends
 
 - Who is orchestrating the Northlands unrest, and whether anyone beyond the Grey Syndicate is involved, remain unknown.
-- The party must protect Agatha's secrecy and conceal Count Ven's referral.
+- The party must protect Agatha's secrecy and conceal Count Venn's referral.
 - Hugh Malory identifies Lirina as a lead; her involvement and the masquerade's admission arrangements remain unresolved.
 - Elspeth supports the party while charmed. The consequences of Corvin's false arrest and the fate of the letters he took remain unresolved.
 - What “Smith already knows” means, including which Smith is meant, remains unclear.

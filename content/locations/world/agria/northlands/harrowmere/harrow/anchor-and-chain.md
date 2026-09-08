@@ -14,7 +14,7 @@ source_sessions:
 
 ## Overview
 
-The Anchor & Chain is the only inn on [[locations/world/agria/northlands/harrowmere/harrow|Harrow's]] cramped docks. Its noisy common room attracts pirates and rough travellers, while Fen Blackwater's private back room offers a place for discreet meetings. The Bonebreakers use it to meet both their hidden patron Agatha and Count Drago Ven.
+The Anchor & Chain is the only inn on [[locations/world/agria/northlands/harrowmere/harrow|Harrow's]] cramped docks. Its noisy common room attracts pirates and rough travellers, while Fen Blackwater's private back room offers a place for discreet meetings. The Bonebreakers use it to meet both their hidden patron Agatha and Count Drago Venn.
 
 ## Geography or layout
 
@@ -30,7 +30,7 @@ The Anchor & Chain is the only inn on [[locations/world/agria/northlands/harrowm
 ## Campaign events
 
 - In [[sessions/session-063|Session 63]], Arden announces that the Bonebreakers are adventurers seeking work. Fen agrees to spread the word, while Barny asks where contraband can be sold.
-- In [[sessions/session-064|Session 64]], Fen admits the party to separate meetings with Agatha’s concealed circle and Count Ven.
+- In [[sessions/session-064|Session 64]], Fen admits the party to separate meetings with Agatha’s concealed circle and Count Venn.
 
 ## Related sessions
 
@@ -39,4 +39,4 @@ The Anchor & Chain is the only inn on [[locations/world/agria/northlands/harrowm
 
 ## Unresolved threads or mysteries
 
-- Why Count Ven prefers meeting here rather than in the upper city remains unclear.
+- Why Count Venn prefers meeting here rather than in the upper city remains unclear.

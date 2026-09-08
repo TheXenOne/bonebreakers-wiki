@@ -778,18 +778,18 @@ source_sessions:
 <text x="336" y="16800" fill="#f3f4f6" font-size="24" font-weight="700">Agatha&apos;s covert commission</text>
 <text x="336" y="16828" fill="#f3f4f6" font-size="24" font-weight="700">leads into Arthur&apos;s Palace</text>
 <text x="336" y="16872" fill="#d6dee8" font-size="15">Agatha and Smith are found alive; a wider conspiracy is suspected.</text>
-<text x="336" y="16894" fill="#d6dee8" font-size="15">Ven&apos;s referral leads to Kingsport, where Tess impersonates Wendell.</text>
+<text x="336" y="16894" fill="#d6dee8" font-size="15">Venn&apos;s referral leads to Kingsport, where Tess impersonates Wendell.</text>
 <text x="336" y="16916" fill="#d6dee8" font-size="15">Sedge admits the party to the palace. The Necropolis must wait.</text>
 </a>
 <a href="./sessions/session-065">
 <text x="198" y="17090" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S65</text>
-<text x="198" y="17116" text-anchor="end" fill="#94a3b8" font-size="14">Veluria lead</text>
+<text x="198" y="17116" text-anchor="end" fill="#94a3b8" font-size="14">Velluria lead</text>
 <circle cx="260" cy="17098" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
 <circle cx="260" cy="17098" r="6" fill="#cbd5e1"/>
 <rect x="304" y="17006" rx="26" ry="26" width="620" height="206" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
 <text x="336" y="17040" fill="#f3f4f6" font-size="24" font-weight="700">Palace evidence points to Lirina;</text>
 <text x="336" y="17068" fill="#f3f4f6" font-size="24" font-weight="700">Corvin is framed and arrested</text>
-<text x="336" y="17112" fill="#d6dee8" font-size="15">Letters and journeys link Arthur to the Countess of Veluria.</text>
+<text x="336" y="17112" fill="#d6dee8" font-size="15">Letters and journeys link Arthur to the Countess of Velluria.</text>
 <text x="336" y="17134" fill="#d6dee8" font-size="15">Her masquerade offers a lead; her political role remains uncertain.</text>
 <text x="336" y="17156" fill="#d6dee8" font-size="15">Planted jewels secure Corvin&apos;s arrest and the guards&apos; gratitude.</text>
 </a>

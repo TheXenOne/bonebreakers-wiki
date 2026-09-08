@@ -67,7 +67,7 @@ Ambitious, jealous of Agatha, and politically compromised. His correspondence sh
 - In [[sessions/session-046|Session 46]], Arthur is brought into the Spider Market under disguise while the party negotiates with Ash.
 - In [[sessions/session-047|Session 47]], Wendell and the seized papers are delivered to Smith, and Arthur is arrested in Ikiria.
 - In [[sessions/session-064|Session 64]], Agatha doubts he organised the wider unrest alone. The Bonebreakers pose as his supporters and enter [[locations/world/agria/northlands/kingsport/arthurs-palace|his palace]] through Brother Sedge to investigate his political circle.
-- In [[sessions/session-065|Session 65]], the search of [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] reveals love letters to [[npcs/velur/lirina|Lirina]], increasingly cautious political drafts, repeated trips to Veluria, and a payment for discretion in Harrow. Lirina's note warns against rash action and committing anything to paper. Servants repeat unconfirmed rumours that she abandoned him and that the Queen intends to close his palace.
+- In [[sessions/session-065|Session 65]], the search of [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] reveals love letters to [[npcs/velur/lirina|Lirina]], increasingly cautious political drafts, repeated trips to Velluria, and a payment for discretion in Harrow. Lirina's note warns against rash action and committing anything to paper. Servants repeat unconfirmed rumours that she abandoned him and that the Queen intends to close his palace.
 
 ## Current status
 
@@ -86,5 +86,5 @@ Under arrest and facing trial. Agatha says he would remain the only surviving he
 
 - Arthur's final fate is unresolved.
 - It is still unclear how far knowledge of his conspiracy has spread beyond Smith, the party, and the immediate witnesses.
-- Lirina's role in his political plans, the purpose of his repeated visits to Veluria, and whether she has abandoned him remain unresolved.
+- Lirina's role in his political plans, the purpose of his repeated visits to Velluria, and whether she has abandoned him remain unresolved.
 - Rumours that the Queen intends to close his palace are unconfirmed.

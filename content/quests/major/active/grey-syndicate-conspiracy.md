@@ -32,7 +32,7 @@ related_locations:
   - The Mercy
   - Kingsport
   - Arthur's Palace
-  - Veluria
+  - Velluria
   - Velur
 related_npcs:
   - Ash
@@ -83,12 +83,12 @@ The thread becomes visible when the party exposes Vex's sabotage cell in [[sessi
 - In [[sessions/session-054|Session 54]], news confirms that the renewed invasion of Westfort has become a siege. Kargaz later confirms the Syndicate supported his campaign.
 - In [[sessions/session-060|Session 60]], [[npcs/necropolis/lord-varrick|Lord Varrick]] suggests that the Syndicate may be seeking Valedictus's necromantic power or may instead intend to destroy him. This is informed speculation rather than proof of the Syndicate's objective.
 - In [[sessions/session-063|Session 63]], the reanimated [[npcs/westmarsh/kargaz-the-disciplined|Kargaz]] confirms that the Syndicate supported his war and promised him control of Westfort if he captured it. He says he knew little of its larger plans.
-- In [[sessions/session-064|Session 64]], Agatha says she suspects a force beyond even the Syndicate and doubts Arthur could have organised the unrest alone. The party follows a lead through Count Ven and Brother Sedge into Arthur's Palace, without yet identifying a wider mastermind.
-- In [[sessions/session-065|Session 65]], the palace search identifies [[npcs/velur/lirina|Lirina]], Countess of Veluria, as a lead through love letters, portraits, repeated journeys, and her warning against rash action and written commitments. Hugh Malory points to her masquerade in [[locations/world/agria/northlands/veluria/velur|Velur]]. Corvin takes letters and lies about his previous visits. His suspicious palace activity and flight after returning to the Royal Chamberlain's building lead the party to suspect he is not who he claims to be. The Bonebreakers frame him for their own jewellery theft and secure his arrest.
+- In [[sessions/session-064|Session 64]], Agatha says she suspects a force beyond even the Syndicate and doubts Arthur could have organised the unrest alone. The party follows a lead through Count Venn and Brother Sedge into Arthur's Palace, without yet identifying a wider mastermind.
+- In [[sessions/session-065|Session 65]], the palace search identifies [[npcs/velur/lirina|Lirina]], Countess of Velluria, as a lead through love letters, portraits, repeated journeys, and her warning against rash action and written commitments. Hugh Malory points to her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]]. Corvin takes letters and lies about his previous visits. His suspicious palace activity and flight after returning to the Royal Chamberlain's building lead the party to suspect he is not who he claims to be. The Bonebreakers frame him for their own jewellery theft and secure his arrest.
 
 ## Current status
 
-Active, with the palace investigation partially resolved. Kargaz's testimony confirms Syndicate support for his defeated war, but Ash remains at large and the network's purpose is unknown. Agatha and Smith are alive in hiding. The Bonebreakers have left Arthur's Palace with evidence pointing toward [[npcs/velur/lirina|Lirina]] and her masquerade in [[locations/world/agria/northlands/veluria/velur|Velur]].
+Active, with the palace investigation partially resolved. Kargaz's testimony confirms Syndicate support for his defeated war, but Ash remains at large and the network's purpose is unknown. Agatha and Smith are alive in hiding. The Bonebreakers have left Arthur's Palace with evidence pointing toward [[npcs/velur/lirina|Lirina]] and her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]].
 
 ## Consequences
 
@@ -118,8 +118,8 @@ Active, with the palace investigation partially resolved. Kargaz's testimony con
 - [[locations/world/agria/southlands/mercy|The Mercy]]
 - [[locations/world/agria/northlands/kingsport|Kingsport]]
 - [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]
-- [[locations/world/agria/northlands/veluria|Veluria]]
-- [[locations/world/agria/northlands/veluria/velur|Velur]]
+- [[locations/world/agria/northlands/velluria|Velluria]]
+- [[locations/world/agria/northlands/velluria/velur|Velur]]
 
 ## Related factions
 

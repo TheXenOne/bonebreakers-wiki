@@ -11,7 +11,7 @@ source_sessions:
 
 ## Overview
 
-Kingsport is an independent city-state within the [[locations/world/agria/northlands|Northlands]] and the capital of Agria. Separate from neighbouring [[locations/world/agria/northlands/veluria|Veluria]], it is compact and conspicuously wealthy, overlooks the nearby Tyne, and is dominated by the Queen's Palace and [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]. The Bonebreakers reach it by sea from Harrow to investigate Arthur's supporters for Agatha.
+Kingsport is an independent city-state within the [[locations/world/agria/northlands|Northlands]] and the capital of Agria. At the duchy's western edge and separate from neighbouring [[locations/world/agria/northlands/velluria|Velluria]], it is compact and conspicuously wealthy, overlooks the nearby Tide, and is dominated by the Queen's Palace and [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]. The Bonebreakers reach it by sea from Harrow to investigate Arthur's supporters for Agatha.
 
 ## Geography and appearance
 
@@ -30,7 +30,7 @@ After [[npcs/kingsport/corvin-dace|Corvin Dace]]'s arrest on evidence planted by
 
 In [[sessions/session-064|Session 64]], the Bonebreakers arrive after three days of sailing from Harrow. Tess impersonates Wendell Prye to secure Sedge's help entering Arthur's Palace.
 
-In [[sessions/session-065|Session 65]], the palace search reveals Arthur's ties to Lirina and Veluria. Steve tracks Corvin to the entrance of the Royal Chamberlain's building, catches him when he runs, and returns him to the palace. Micaelis plants stolen jewellery on him, and Elspeth's support persuades [[npcs/kingsport/sir-aldric-hale|Sir Aldric Hale]] to arrest him.
+In [[sessions/session-065|Session 65]], the palace search reveals Arthur's ties to Lirina and Velluria. Steve tracks Corvin to the entrance of the Royal Chamberlain's building, catches him when he runs, and returns him to the palace. Micaelis plants stolen jewellery on him, and Elspeth's support persuades [[npcs/kingsport/sir-aldric-hale|Sir Aldric Hale]] to arrest him.
 
 ## Related sessions
 

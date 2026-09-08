@@ -11,7 +11,7 @@ source_sessions:
 
 ## Overview
 
-Arthur's Palace is one of the two gleaming palaces dominating [[locations/world/agria/northlands/kingsport|Kingsport]]. It is the lavish household of [[npcs/agria/prince-arthur|Prince Arthur]], now sparsely occupied and partly sealed for investigation following his arrest. Its servants, correspondence, and archives give the Bonebreakers evidence of Arthur's ties to [[npcs/velur/lirina|Lirina]] and a lead toward Veluria.
+Arthur's Palace is one of the two gleaming palaces dominating [[locations/world/agria/northlands/kingsport|Kingsport]]. It is the lavish household of [[npcs/agria/prince-arthur|Prince Arthur]], now sparsely occupied and partly sealed for investigation following his arrest. Its servants, correspondence, and archives give the Bonebreakers evidence of Arthur's ties to [[npcs/velur/lirina|Lirina]] and a lead toward Velluria.
 
 ## Access
 

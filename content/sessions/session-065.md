@@ -27,7 +27,7 @@ The private salon is comfortable and empty. In an ashtray, the party finds a nea
 
 The gallery contains royal portraits, including an informal painting of Arthur as a boy with the slightly older, tomboyish Agatha and [[npcs/agria/queen-audrey-ii|Audrey]]. Beside a more recent formal portrait of Arthur, Ulrich confirms that another picture has been removed comparatively recently. An anxious, hand-wringing butler enters. Caught off guard by Ulrich's question, he says the missing portrait was taken for the investigation. The claim that Wendell sent the party reassures him: rumours say the secretary has turned against Arthur.
 
-The butler introduces himself as [[npcs/kingsport/hugh-malory|Hugh Malory]] but initially avoids naming the portrait's subject. [[characters/active-players/alessandro/characters/selvar|Selvar]] secretly casts ESP behind him, learning that Hugh values Arthur's position and the security of his employment more than the prince personally. Hugh checks the corridor and locks the gallery door before confiding that he suspects [[npcs/velur/lirina|Lirina]], the portrait's subject, is connected to Arthur's predicament. He describes her as exceptionally charming and charismatic: she is Countess of [[locations/world/agria/northlands/veluria|Veluria]], and rumours surround her relationship with Arthur. With the social season beginning, she will be hosting a masquerade at her palace in [[locations/world/agria/northlands/veluria/velur|Velur]], about a day's travel from Kingsport.
+The butler introduces himself as [[npcs/kingsport/hugh-malory|Hugh Malory]] but initially avoids naming the portrait's subject. [[characters/active-players/alessandro/characters/selvar|Selvar]] secretly casts ESP behind him, learning that Hugh values Arthur's position and the security of his employment more than the prince personally. Hugh checks the corridor and locks the gallery door before confiding that he suspects [[npcs/velur/lirina|Lirina]], the portrait's subject, is connected to Arthur's predicament. He describes her as exceptionally charming and charismatic: she is Countess of [[locations/world/agria/northlands/velluria|Velluria]], and rumours surround her relationship with Arthur. With the social season beginning, she will be hosting a masquerade at her palace in [[locations/world/agria/northlands/velluria/velur|Velur]], about a day's travel from Kingsport.
 
 After Hugh leaves, Tess notices that the gallery has no portrait of the old king consort, who died before or around the births of Agatha and Arthur. The precise timing of his death remains unclear.
 
@@ -37,7 +37,7 @@ Other correspondence spans years of Arthur's jealousy toward Agatha. Older lette
 
 The party turns to the wax-sealed cabinets. Selvar is beginning to lift a royal seal when Elspeth catches him. Steve uses his sword to cast Charm Person on Elspeth, then claims Selvar was repairing damage caused by Corvin. She remains suspicious and asks for written authority, saying the servants' accounts do not match the visitors' stories. Crucially, she reveals that Corvin has visited several times: his claim of a first visit was false. Steve persuades her to leave.
 
-Using a knife warmed over a candle, Steve carefully removes the seal. The household archives contain letters to and from Arthur and records of repeated journeys to Veluria. Those trips increased markedly shortly before the Bonebreakers first encountered Arthur on the road. Financial records cover transport and hospitality, including a payment for discretion in [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. A letter from Agatha tells her brother to take his responsibilities seriously.
+Using a knife warmed over a candle, Steve carefully removes the seal. The household archives contain letters to and from Arthur and records of repeated journeys to Velluria. Those trips increased markedly shortly before the Bonebreakers first encountered Arthur on the road. Financial records cover transport and hospitality, including a payment for discretion in [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. A letter from Agatha tells her brother to take his responsibilities seriously.
 
 The missing portrait is also inside. Unwrapping it reveals Lirina as an elegant, beautiful woman in fine clothing, giving the party a face to recognise. They take the financial records and Agatha's letters, return the portrait to the cabinet, then warm and replace the wax to conceal their search.
 
@@ -51,13 +51,13 @@ The Bonebreakers leave the palace. Steve follows Corvin through [[locations/worl
 
 The party drags Corvin back to Elspeth, where the jewels fall from his pockets. She takes this as proof of his guilt and summons [[npcs/kingsport/sir-aldric-hale|Sir Aldric Hale]], Captain of the Queen's Guard. Steve maintains the lie, supported by Elspeth while she remains charmed. The guards arrest Corvin despite his muffled protests that he has been framed. His lies about his palace visits, suspicious activity there, and flight after returning to the Royal Chamberlain's building lead the Bonebreakers to suspect that he is not who he claims to be. His true identity and purpose remain unconfirmed. The jewellery accusation is the Bonebreakers' fabrication.
 
-Thanking the party for its supposed service, the guards take the Bonebreakers back to the [[locations/world/agria/northlands/kingsport/guardhouse|guardhouse at the docks]] to collect their weapons. The guard responsible for the key fumbles about, confused that he cannot find it. The party drops the stolen key behind him and tells him he dropped it. Still puzzled, he shrugs and returns their weapons, allowing them to keep them until their departure the following morning. The guards then pay for the Bonebreakers to stay at an inn. The party has left the palace with evidence pointing toward Lirina and Veluria, while Corvin is in custody for the theft it committed.
+Thanking the party for its supposed service, the guards take the Bonebreakers back to the [[locations/world/agria/northlands/kingsport/guardhouse|guardhouse at the docks]] to collect their weapons. The guard responsible for the key fumbles about, confused that he cannot find it. The party drops the stolen key behind him and tells him he dropped it. Still puzzled, he shrugs and returns their weapons, allowing them to keep them until their departure the following morning. The guards then pay for the Bonebreakers to stay at an inn. The party has left the palace with evidence pointing toward Lirina and Velluria, while Corvin is in custody for the theft it committed.
 
 ## Important events
 
 - The party maintains its claim to be acting for Wendell while searching Arthur's household for Agatha.
-- Hugh identifies Lirina as Countess of Veluria and provides the lead to her masquerade in Velur.
-- Letters and travel records connect Arthur to Lirina, increasing visits to Veluria, and a payment for discretion in Harrow.
+- Hugh identifies Lirina as Countess of Velluria and provides the lead to her masquerade in Velur.
+- Letters and travel records connect Arthur to Lirina, increasing visits to Velluria, and a payment for discretion in Harrow.
 - Elspeth exposes Corvin's false claim that he is inspecting the palace for the first time.
 - The Bonebreakers charm Elspeth, steal from the palace, and plant jewels on Corvin, securing his arrest and the guards' gratitude.
 
@@ -66,7 +66,7 @@ Thanking the party for its supposed service, the guards take the Bonebreakers ba
 - [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]: servants' entrance, kitchen, private salon, gallery, writing room, ballroom, music room, and Arthur's bedroom.
 - [[locations/world/agria/northlands/kingsport|Kingsport's streets]] and the entrance to the Royal Chamberlain's building, followed by a return to the palace.
 - The [[locations/world/agria/northlands/kingsport/guardhouse|guardhouse at the docks]], then an unnamed inn paid for by the guards.
-- Veluria and Velur are leads, not visited destinations.
+- Velluria and Velur are leads, not visited destinations.
 
 ## NPCs and characters involved
 
