@@ -12,7 +12,7 @@ Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still s
 
 ### Active Threads
 
-- [[quests/major/active/princess-agathas-secret-patronage|Princess Agatha's Secret Patronage]] — Agatha is found alive; her covert investigation leads into Arthur’s Palace.
+- [[quests/major/active/princess-agathas-secret-patronage|Princess Agatha's Secret Patronage]] — Agatha remains in hiding; palace evidence points toward Lirina and her masquerade in Velur.
 - [[quests/major/active/grey-syndicate-conspiracy|Grey Syndicate Conspiracy]] — Investigating Arthur’s supporters and Agatha’s suspicion of a wider threat.
 - [[quests/major/active/necropolis-beneath-the-mercy|Necropolis Beneath the Mercy]]
 - [[quests/major/active/valedictus-and-his-phylacteries|Valedictus and His Phylacteries]]

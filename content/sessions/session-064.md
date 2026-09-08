@@ -37,9 +37,9 @@ Three days of clear sailing carry them north along the coast past fishing villag
 
 As their ship approaches Kingsport, the Bonebreakers see a compact, opulent city-state overlooking the nearby Tyne. The Queen's Palace and [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] dominate a city of ornate royal architecture and elaborate gardens, with no obviously dilapidated buildings. Domestic ships fill the harbour, but the party sees no naval fleet. Their merchant vessel stands out. After they disembark, dock workers and three friendly guards in gleaming armour approach and explain that visitors must register.
 
-Sir Alric Hale, Captain of the Queen's Guard, takes them to [[locations/world/agria/northlands/kingsport/guardhouse|a nearby guardhouse]], where they are asked to surrender their weapons. Tess is still invisible from the voyage and Nila is sneaking, leaving only [[characters/active-players/ben/characters/ulrich|Ulrich]] and Drakford subject to the demand. Drakford refuses. Ulrich persuades the guards to recognise him as his bodyguard, allowing the dwarf to remain armed; Ulrich's mace is confiscated. Nila secretly steals the key to the safe holding it. Sir Alric registers Ulrich's purpose as pilgrimage and directs him to Brother Sedge across the city.
+Sir Aldric Hale, Captain of the Queen's Guard, takes them to [[locations/world/agria/northlands/kingsport/guardhouse|a nearby guardhouse]], where they are asked to surrender their weapons. Tess is still invisible from the voyage and Nila is sneaking, leaving only [[characters/active-players/ben/characters/ulrich|Ulrich]] and Drakford subject to the demand. Drakford refuses. Ulrich persuades the guards to recognise him as his bodyguard, allowing the dwarf to remain armed; Ulrich's mace is confiscated. Nila secretly steals the key to the safe holding it. Sir Aldric registers Ulrich's purpose as pilgrimage and directs him to Brother Sedge across the city.
 
-The party follows Sir Alric's directions across the city to Sedge's simple home. Tess becomes visible before they enter. Wearing plain monastic robes, Sedge cautiously describes himself as a monk of the Furrow and denies personal political involvement. He says he can connect them with Arthur's supporters, while claiming to know nothing himself. Tess casts Glamour and takes the exact appearance of [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]], Arthur's secretary. Sedge's eyes widen. Speaking as Wendell, Tess demands immediate entry to Arthur's Palace to find supporters and help with the prince's trial. Sedge agrees. Tess resumes her own appearance but maintains the impersonation by claiming to be operating secretly.
+The party follows Sir Aldric's directions across the city to Sedge's simple home. Tess becomes visible before they enter. Wearing plain monastic robes, Sedge cautiously describes himself as a monk of the Furrow and denies personal political involvement. He says he can connect them with Arthur's supporters, while claiming to know nothing himself. Tess casts Glamour and takes the exact appearance of [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]], Arthur's secretary. Sedge's eyes widen. Speaking as Wendell, Tess demands immediate entry to Arthur's Palace to find supporters and help with the prince's trial. Sedge agrees. Tess resumes her own appearance but maintains the impersonation by claiming to be operating secretly.
 
 Sedge escorts the Bonebreakers to the palace and unlocks its door with a key from an enormous ring. Nila secretly pockets the palace key. Sedge then leaves, and the Bonebreakers are alone inside Arthur's Palace, with access secured but its occupants and evidence still to be investigated.
 
@@ -65,7 +65,7 @@ Sedge escorts the Bonebreakers to the palace and unlocks its door with a key fro
 - [[characters/active-players/ben-l/characters/tess-tattercloak|Tess Tattercloak]], [[characters/active-players/marta/characters/nila|Nila]], and [[characters/active-players/ben/characters/ulrich|Ulrich]].
 - [[npcs/agria/princess-agatha|Princess Agatha]], [[npcs/agria/east-agria-company/commander-smith|Commander Smith]], and [[npcs/agria/east-agria-company/admiral-nelson|Admiral Nelson]].
 - [[npcs/harrow/fen-blackwater|Fen Blackwater]], [[npcs/harrow/drakford|Drakford]], [[npcs/harrow/lord-elron|Lord Elron]], and [[npcs/harrow/count-drago-ven|Count Drago Ven]].
-- Sir Alric Hale, Captain of the Queen's Guard, and [[npcs/kingsport/brother-sedge|Brother Sedge]].
+- Sir Aldric Hale, Captain of the Queen's Guard, and [[npcs/kingsport/brother-sedge|Brother Sedge]].
 - [[npcs/agria/prince-arthur|Prince Arthur]] is the subject of the party's false claim of support; [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]] is impersonated, not present.
 
 ## Items, magic, and discoveries
@@ -79,7 +79,7 @@ Sedge escorts the Bonebreakers to the palace and unlocks its door with a key fro
 
 ## Threads raised this session
 
-- Ulrich's mace remains in the [[locations/world/agria/northlands/kingsport/guardhouse|guardhouse safe]], and Nila has secretly taken its key. Recovering the weapon remains unfinished. Status: Still unresolved.
+- Ulrich's mace remains in the [[locations/world/agria/northlands/kingsport/guardhouse|guardhouse safe]], and Nila has secretly taken its key. The guards return the party’s weapons after Corvin’s arrest in [[sessions/session-065|Session 65]]. Status: Resolved in Session 65.
 - [[quests/major/active/princess-agathas-secret-patronage|Agatha's secret patronage]]: the search for Agatha and Smith is resolved; the threat forcing Agatha into hiding remains. Status: Partially resolved, patronage active.
 - [[quests/major/active/grey-syndicate-conspiracy|The wider conspiracy]]: Agatha suspects Arthur and the Syndicate do not explain everything. Ven's referral and Tess's deception open a route into Arthur's circle. Status: Still unresolved, active.
 - Arthur's trial and succession: his fate remains undecided, and Agatha says her death would leave him the only surviving heir. The precise stage of the proceedings: **Needs review**. Status: Still unresolved.
@@ -89,3 +89,4 @@ Sedge escorts the Bonebreakers to the palace and unlocks its door with a key fro
 ## Related sessions
 
 - Previous: [[sessions/session-063|Session 63 - The Fog over Harrow]]
+- Next: [[sessions/session-065|Session 65]]

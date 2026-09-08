@@ -41,6 +41,7 @@ tags:
 - [[locations/world/agria/northlands/harrowmere/narrows|The Narrows]]
 - [[locations/world/agria/northlands/harrowmere/harrow/anchor-and-chain|The Anchor & Chain]]
 - [[locations/world/agria/northlands/salt-coast|The Salt Coast]]
+- [[locations/world/agria/northlands/veluria/velur|Velur]]
 
 ## Institutions
 

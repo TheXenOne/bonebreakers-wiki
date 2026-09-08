@@ -10,6 +10,7 @@ parent_location: "[[locations/world/agria/northlands/harrowmere|Harrowmere]]"
 source_sessions:
   - 63
   - 64
+  - 65
 ---
 
 ## Overview
@@ -36,13 +37,16 @@ Harrow is a fogbound port in the county of [[locations/world/agria/northlands/ha
 
 - In [[sessions/session-063|Session 63]], the Bonebreakers enter Harrow while trying to locate Princess Agatha. They make themselves conspicuous at the Anchor & Chain but do not yet find her.
 - In [[sessions/session-064|Session 64]], the party meets Agatha in hiding, hires Drakford, and follows introductions through Elron and Count Ven to Brother Sedge in Kingsport.
+- In [[sessions/session-065|Session 65]], financial records found in [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] include a payment for discretion in Harrow. Its recipient and purpose remain unknown; the party does not revisit Harrow.
 
 ## Related sessions
 
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-065|Session 65]]
 
 ## Unresolved threads or mysteries
 
 - The extent of Elron's influence and Ven's wider loyalties remain unclear.
 - The extent of Rickart's authority and whether his entry demand is lawful remain unclear.
+- The payment for discretion in Arthur's financial records remains unexplained.

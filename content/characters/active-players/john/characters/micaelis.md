@@ -21,6 +21,7 @@ source_sessions:
   - 59
   - 61
   - 62
+  - 65
 ---
 
 ## Overview
@@ -56,6 +57,7 @@ Needs review.
 - In [[sessions/session-059|Session 59]], he turns the imperial eagle north, bringing two minotaurs down that passage, then approaches twelve skeletons as a fellow guard; they attack immediately. He also examines the [[items/imperial-command-quarter-map|Imperial Command-Quarter Map]] while [[npcs/necropolis/captain-varro|Captain Varro]] is away from the mess hall. The map marks the concealed Necropolis entrance, looping routes, secret passages, and hidden prison treasure, and later helps the party identify the route back to Arch I.
 - In [[sessions/session-061|Session 61]], [[characters/active-players/laura/characters/rose|Rose]] passes him a ring that grants fire resistance. After the wind changes in favour of the plan, Micaelis carries two oil barrels behind the hobgoblin siege line under Invisibility and Arden's Silence, pouring one long line around the army's rear and a second line southward with a narrow gap between them. He ignites only the northern line—the fire advances about ten feet every three rounds—then reaches the first catapult while still invisible and silenced and sabotages it. The nearest ogre cannot see or hear him, although a farther ogre notices that something is wrong.
 - In [[sessions/session-062|Session 62]], as the oil fire spreads and the hobgoblins begin crossing the bridge, he leaps onto another ogre and repeatedly stabs it. Rose turns the enemy ballista on one blinded ogre, Wistor kills Kargaz with Lightning Bolt, and the Bonebreakers and Westfort's defenders ultimately destroy the siege army.
+- In [[sessions/session-065|Session 65]], he plants some of Arthur's stolen jewels on [[npcs/kingsport/corvin-dace|Corvin Dace]] while Steve restrains him. The fabricated evidence, backed by the charmed Elspeth's testimony, secures Corvin's arrest by the Queen's Guard.
 
 ## Relationships
 
@@ -63,7 +65,7 @@ Needs review.
 
 ## Current status
 
-Active. He has acquired a springy spear and a ring of fire resistance, while whether his ancient imperial armour is cursed remains unresolved. He helped break the renewed siege of Westfort, and the party is entering downtime before returning to the Necropolis.
+Active with the Bonebreakers in Agatha's covert investigation. His planted evidence has helped secure Corvin's arrest for the party's theft. Whether his ancient imperial armour is cursed remains unresolved.
 
 ## Related sessions
 
@@ -78,3 +80,4 @@ Active. He has acquired a springy spear and a ring of fire resistance, while whe
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-062|Session 62]]
+- [[sessions/session-065|Session 65]]

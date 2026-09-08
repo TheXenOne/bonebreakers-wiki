@@ -20,6 +20,7 @@ source_sessions:
   - 47
   - 63
   - 64
+  - 65
 ---
 
 ## Overview
@@ -65,6 +66,7 @@ Efficient, discreet, and easily irritated by public loose ends.
 - In [[sessions/session-047|Session 47]], he accepts Wendell's testimony and the party's documents, then orders Arthur arrested.
 - In [[sessions/session-063|Session 63]], Gilly reports that Smith disappeared shortly after Arthur was returned, or around the same time.
 - In [[sessions/session-064|Session 64]], he is revealed beside Agatha and Nelson at the secret meeting in Harrow, resolving the party’s uncertainty about his whereabouts.
+- In [[sessions/session-065|Session 65]], the party finds a burned letter in Arthur's private salon preserving only “Smith already knows.” Whether it refers to the Commander, and what the writer believed Smith knew, are **Needs review**.
 
 ## Current status
 
@@ -81,6 +83,7 @@ Alive and accompanying Agatha in hiding; the Bonebreakers have met him at the An
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-065|Session 65]]
 
 ## Unresolved threads
 

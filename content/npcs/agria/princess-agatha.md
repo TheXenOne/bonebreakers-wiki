@@ -18,6 +18,7 @@ source_sessions:
   - 50
   - 63
   - 64
+  - 65
 ---
 
 ## Overview
@@ -69,6 +70,7 @@ Pragmatic, politically dangerous, and willing to reward useful service.
 - In [[sessions/session-050|Session 50]], the party overhears citizens in the Plats claiming that she is missing or has fled while nobles escape the city's suffering.
 - In [[sessions/session-063|Session 63]], Gilly reports that Agatha remains missing. A Company secretary says she is safe but indisposed and gives the party a letter apparently from Agatha summoning them to Harrow. The letter's authenticity is not established.
 - In [[sessions/session-064|Session 64]], she meets the party secretly in Harrow with Smith and Nelson, confirms she must remain hidden, and directs an investigation beginning with Count Ven.
+- In [[sessions/session-065|Session 65]], Arthur's palace yields jealous correspondence, an incomplete letter anticipating her disgrace and a duke fit to be king, and her own letter urging Arthur to take his responsibilities seriously. The discoveries point toward Lirina, but the Bonebreakers have not yet reported back to Agatha.
 
 ## Current status
 
@@ -85,6 +87,7 @@ Alive and in hiding, last met covertly in Harrow with Smith and Nelson. She has 
 - [[sessions/session-050|Session 50]]
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-065|Session 65]]
 
 ## Unresolved threads
 

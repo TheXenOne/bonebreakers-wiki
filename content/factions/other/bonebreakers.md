@@ -26,6 +26,7 @@ source_sessions:
   - 61
   - 62
   - 64
+  - 65
 ---
 
 ## Overview
@@ -64,6 +65,7 @@ Leadership is shared and situational rather than strictly formal.
 - In [[sessions/session-061|Session 61]], the company returns to Westfort despite public resentment, coordinates a relief plan with Commander Valerius, circles behind the siege army through Westmarsh, and begins an attack using fire and sabotage against the enemy siege engines.
 - In [[sessions/session-062|Session 62]], the company and Westfort's defenders destroy Kargaz's siege army. Commander Valerius presents the Bonebreakers with a key to the city, and local resentment gives way to public gratitude despite the garrison's heavy losses.
 - In [[sessions/session-064|Session 64]], the party accepts Agatha’s renewed covert commission, hires Drakford as protection, and enters Arthur’s Palace in Kingsport while posing as the prince’s supporters.
+- In [[sessions/session-065|Session 65]], the party uncovers evidence of Arthur’s ties to [[npcs/velur/lirina|Lirina]], then frames [[npcs/kingsport/corvin-dace|Corvin Dace]] for its own palace theft. The Queen’s Guard accepts the accusation, returns the party’s weapons at the dockside guardhouse, temporarily permits it to carry them, and pays for an inn stay.
 
 ## Current status
 
@@ -84,6 +86,7 @@ The party also remains Agatha's covert agent, investigating Arthur's supporters 
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-062|Session 62]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-065|Session 65]]
 
 ## Unresolved threads
 

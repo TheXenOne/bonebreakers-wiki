@@ -35,6 +35,7 @@ source_sessions:
   - 56
   - 59
   - 60
+  - 65
 ---
 
 ## Overview
@@ -85,10 +86,12 @@ Barbarian.
 - In [[sessions/session-056|Session 56]], he buys a [[items/party-inventory/massive-crossbow|massive crossbow]] that hits hard but is slow to use. During the journey toward Westfort, nine gryphons kill the party's horses, leaving the Bonebreakers to capture two of the creatures as possible mounts.
 - In [[sessions/session-059|Session 59]], Steve tries and fails to lift the immovable soul-bound chest, forces open the barracks doors, and uses his strength to help kill both minotaurs after Micaelis turns the imperial eagle toward them; he also tests the prison portcullis without triggering its pressure plate, opens a hidden trapdoor by pulling a wall sconce, and asks Captain Varro for access to the imperial armoury.
 - Steve takes the [[items/glowing-skull|glowing skull]] from Arch VII's Foundation Chamber in [[sessions/session-041|Session 41]] and trades it for masks at the Broken Crown in [[sessions/session-046|Session 46]]. He later gives the skull to a lizardfolk in the Sunken Market; in [[sessions/session-060|Session 60]], the party strongly suspects it is one of Valedictus's phylacteries.
+- In [[sessions/session-065|Session 65]], he uses his sword to cast Charm Person on [[npcs/kingsport/elspeth-crane|Mistress Elspeth Crane]] after she catches Selvar at a royal seal, then opens and reseals the archive cabinet. He blames [[npcs/kingsport/corvin-dace|Corvin Dace]] for the party's jewellery theft, tracks and captures him, and secures his arrest with Elspeth's support and Micaelis's planted evidence.
 
 ## Relationships
 
 - Appears with the later Westmarsh roster and fellow late additions such as Rose and Cyder.
+- [[npcs/kingsport/elspeth-crane|Mistress Elspeth Crane]] supports his accusation against Corvin under the Charm Person spell he casts through his sword, unaware that Steve and the party committed the theft.
 
 ## Current status
 
@@ -119,3 +122,4 @@ Active. No longer infected by the Bloated One's rotting disease, stronger after 
 - [[sessions/session-056|Session 56]]
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-065|Session 65]]

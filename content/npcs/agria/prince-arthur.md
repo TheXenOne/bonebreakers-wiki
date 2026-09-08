@@ -16,6 +16,7 @@ source_sessions:
   - 46
   - 47
   - 64
+  - 65
 ---
 
 ## Overview
@@ -28,7 +29,7 @@ Needs review.
 
 ## Personality
 
-Ambitious and compromised. Further detail: Needs review.
+Ambitious, jealous of Agatha, and politically compromised. His correspondence shifts over time from informal resentment toward disciplined, cautious political language; his household records suggest he often entertained guests before his arrest.
 
 ## Role in the campaign
 
@@ -57,6 +58,7 @@ Ambitious and compromised. Further detail: Needs review.
 - Travels with [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]], [[npcs/agria/prince-arthurs-retinue/pell|Pell]], [[npcs/agria/prince-arthurs-retinue/tomas-wren|Tomas Wren]], and the rest of [[npcs/agria/prince-arthurs-retinue/index|his retinue]].
 - [[npcs/agria/prince-arthurs-retinue/captain-hassock|Captain Hassock]] remains outwardly loyal to Arthur but ultimately carries out his arrest on Smith's orders.
 - Seeks guidance from the Grey Khan, later tied to [[npcs/westmarsh/grey-syndicate/ash|Ash]].
+- Love letters and portraits connect him personally to [[npcs/velur/lirina|Lirina]]. Rumours that she abandoned him after his arrest remain unconfirmed.
 
 ## Campaign events
 
@@ -65,6 +67,7 @@ Ambitious and compromised. Further detail: Needs review.
 - In [[sessions/session-046|Session 46]], Arthur is brought into the Spider Market under disguise while the party negotiates with Ash.
 - In [[sessions/session-047|Session 47]], Wendell and the seized papers are delivered to Smith, and Arthur is arrested in Ikiria.
 - In [[sessions/session-064|Session 64]], Agatha doubts he organised the wider unrest alone. The Bonebreakers pose as his supporters and enter [[locations/world/agria/northlands/kingsport/arthurs-palace|his palace]] through Brother Sedge to investigate his political circle.
+- In [[sessions/session-065|Session 65]], the search of [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] reveals love letters to [[npcs/velur/lirina|Lirina]], increasingly cautious political drafts, repeated trips to Veluria, and a payment for discretion in Harrow. Lirina's note warns against rash action and committing anything to paper. Servants repeat unconfirmed rumours that she abandoned him and that the Queen intends to close his palace.
 
 ## Current status
 
@@ -77,8 +80,11 @@ Under arrest and facing trial. Agatha says he would remain the only surviving he
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-065|Session 65]]
 
 ## Unresolved threads
 
 - Arthur's final fate is unresolved.
 - It is still unclear how far knowledge of his conspiracy has spread beyond Smith, the party, and the immediate witnesses.
+- Lirina's role in his political plans, the purpose of his repeated visits to Veluria, and whether she has abandoned him remain unresolved.
+- Rumours that the Queen intends to close his palace are unconfirmed.

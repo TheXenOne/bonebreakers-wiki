@@ -51,6 +51,7 @@ source_sessions:
   - 61
   - 62
   - 64
+  - 65
 ---
 
 ## Overview
@@ -118,6 +119,7 @@ Cleric of none.
 - In [[sessions/session-061|Session 61]], he casts Sticks to Snakes during a bugbear ambush, turning fifteen sticks into snakes that poison and wound the attackers. Before the party enters the spreading fire behind the hobgoblin army, he casts Fire Resistance on himself and Selvar so they can operate in the blaze.
 - In [[sessions/session-062|Session 62]], he fights through the burning battlefield during the relief of [[locations/world/agria/west-fort|Westfort]], helping finish the hobgoblin archers while the party brings down the siege army. During the following downtime, he begins researching a Skeleton's Key spell.
 - In [[sessions/session-064|Session 64]], he registers as a pilgrim in [[locations/world/agria/northlands/kingsport|Kingsport]] and persuades the Queen's Guard to let Drakford stay armed as his bodyguard. The party follows the resulting referral to Brother Sedge and gains entry to Arthur's Palace. Ulrich’s mace remains in the [[locations/world/agria/northlands/kingsport/guardhouse|guardhouse safe]], whose key Nila has secretly stolen.
+- In [[sessions/session-065|Session 65]], he confirms a portrait was recently removed from Arthur's gallery and questions Hugh Malory, who identifies Lirina and her masquerade as a lead. He considers Speak with Plants in the salon but does not cast it. The guards return the party's confiscated weapons after Corvin's arrest.
 
 ## Relationships
 
@@ -171,3 +173,4 @@ Active.
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-062|Session 62]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-065|Session 65]]

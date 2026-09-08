@@ -6,22 +6,24 @@ tags:
 parent_location: "[[locations/world/agria/northlands/kingsport|Kingsport]]"
 source_sessions:
   - 64
+  - 65
 ---
 
 ## Overview
 
-This guardhouse near [[locations/world/agria/northlands/kingsport|Kingsport's harbour]] is where Sir Alric Hale, Captain of the Queen's Guard, registers the Bonebreakers on their arrival. The guards require visitors to surrender weapons, and [[characters/active-players/ben/characters/ulrich|Ulrich]]'s confiscated mace remains in a safe here. [[characters/active-players/marta/characters/nila|Nila]] secretly takes the safe's key, giving the party a possible means of recovering it.
+This guardhouse near [[locations/world/agria/northlands/kingsport|Kingsport's harbour]] is where [[npcs/kingsport/sir-aldric-hale|Sir Aldric Hale]], Captain of the Queen's Guard, registers the Bonebreakers on arrival. It enforces the city's requirement that visitors surrender weapons and temporarily holds Ulrich's mace during the party's investigation of Arthur's household.
 
 ## Registration and weapons
 
 Ulrich registers his purpose as pilgrimage. Drakford refuses to surrender his weapons, but Ulrich persuades the guards to recognise the dwarf as his bodyguard and let him remain armed. Tess is invisible and Nila is sneaking, so neither is required to hand over weapons.
 
-Sir Alric directs Ulrich to [[npcs/kingsport/brother-sedge|Brother Sedge]] across the city, giving the party a route onward to Arthur's supporters.
+Sir Aldric directs Ulrich to [[npcs/kingsport/brother-sedge|Brother Sedge]] across the city, giving the party a route onward to Arthur's supporters.
 
 ## The safe
 
-The guards store Ulrich's mace in a locked safe. Nila has stolen its key, but the Bonebreakers leave for Sedge's home without retrieving the weapon. The safe's other contents and any further security measures remain unknown.
+The guards store Ulrich's confiscated mace in a locked safe on arrival. Nila secretly takes the key. After Corvin's arrest, the guards bring the party back to collect its weapons. The guard responsible for the key fumbles about looking for it. The Bonebreakers drop the stolen key behind him and say he dropped it; confused, he shrugs and returns their weapons. They may remain armed until their departure the following morning, and the guards then pay for an inn stay. The safe's other contents and further security measures remain unknown.
 
 ## Related sessions
 
 - [[sessions/session-064|Session 64 - A Most Unconvincing Pilgrimage]]
+- [[sessions/session-065|Session 65]]

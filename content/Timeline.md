@@ -68,10 +68,11 @@ source_sessions:
     62,
     63,
     64,
+    65,
   ]
 ---
 
-<svg viewBox="0 0 1000 17060" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
+<svg viewBox="0 0 1000 17300" width="100%" style="display:block;max-width:100%;height:auto" role="img" aria-label="Campaign timeline for the Bonebreakers">
 <defs>
 <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
 <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.22" />
@@ -81,10 +82,10 @@ source_sessions:
 <stop offset="100%" stop-color="#4b5563" stop-opacity="0.7" />
 </linearGradient>
 </defs>
-<rect x="0" y="0" width="1000" height="17060" fill="transparent" />
+<rect x="0" y="0" width="1000" height="17300" fill="transparent" />
 <text x="170" y="86" fill="#f3f4f6" font-size="46" font-weight="800" font-family="ui-sans-serif, system-ui, sans-serif">CAMPAIGN TIMELINE</text>
-<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 64</text>
-<line x1="260" y1="160" x2="260" y2="16980" stroke="url(#spine)" stroke-width="2" />
+<text x="170" y="124" fill="#94a3b8" font-size="18" font-weight="500" font-family="ui-sans-serif, system-ui, sans-serif">The Bonebreakers through Session 65</text>
+<line x1="260" y1="160" x2="260" y2="17220" stroke="url(#spine)" stroke-width="2" />
 <g font-family="ui-sans-serif, system-ui, sans-serif">
 <text x="198" y="304" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S1</text>
 <text x="198" y="330" text-anchor="end" fill="#94a3b8" font-size="14">Undead</text>
@@ -779,6 +780,18 @@ source_sessions:
 <text x="336" y="16872" fill="#d6dee8" font-size="15">Agatha and Smith are found alive; a wider conspiracy is suspected.</text>
 <text x="336" y="16894" fill="#d6dee8" font-size="15">Ven&apos;s referral leads to Kingsport, where Tess impersonates Wendell.</text>
 <text x="336" y="16916" fill="#d6dee8" font-size="15">Sedge admits the party to the palace. The Necropolis must wait.</text>
+</a>
+<a href="./sessions/session-065">
+<text x="198" y="17090" text-anchor="end" fill="#e5e7eb" font-size="32" font-weight="800">S65</text>
+<text x="198" y="17116" text-anchor="end" fill="#94a3b8" font-size="14">Veluria lead</text>
+<circle cx="260" cy="17098" r="14" fill="#111827" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="260" cy="17098" r="6" fill="#cbd5e1"/>
+<rect x="304" y="17006" rx="26" ry="26" width="620" height="206" fill="#1d222b" stroke="#5c6a7d" filter="url(#soft-shadow)"/>
+<text x="336" y="17040" fill="#f3f4f6" font-size="24" font-weight="700">Palace evidence points to Lirina;</text>
+<text x="336" y="17068" fill="#f3f4f6" font-size="24" font-weight="700">Corvin is framed and arrested</text>
+<text x="336" y="17112" fill="#d6dee8" font-size="15">Letters and journeys link Arthur to the Countess of Veluria.</text>
+<text x="336" y="17134" fill="#d6dee8" font-size="15">Her masquerade offers a lead; her political role remains uncertain.</text>
+<text x="336" y="17156" fill="#d6dee8" font-size="15">Planted jewels secure Corvin&apos;s arrest and the guards&apos; gratitude.</text>
 </a>
 </g>
 </svg>

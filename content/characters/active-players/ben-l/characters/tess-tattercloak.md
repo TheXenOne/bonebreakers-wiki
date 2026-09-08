@@ -21,6 +21,7 @@ source_sessions:
   - 34
   - 40
   - 64
+  - 65
 ---
 
 ## Overview
@@ -56,6 +57,7 @@ Illusionist.
 - In [[sessions/session-034|Session 34]], Tess volunteers to act as bait with Alison, posing as a traveller beside the party's cart. Nine gnolls ambush them first, killing Tess in the opening volley; [[characters/active-players/ben-l/characters/sir-cedric-dawnmere|Sir Cedric]] arranges for her body to be taken to [[locations/world/agria/southlands/barrowshire/barrow-spa/index|Barrow Spa]] for resurrection.
 - In [[sessions/session-040|Session 40]], the Bonebreakers recover Tess from [[locations/world/agria/southlands/barrowshire/barrow-spa/index|Barrow Spa]] after her resurrection, and she rejoins the party.
 - In [[sessions/session-064|Session 64]], she secures entry to [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] by using Glamour to impersonate Wendell Prye and persuading Brother Sedge that she is secretly working to help Arthur's defence.
+- In [[sessions/session-065|Session 65]], she maintains the claim that Wendell sent the party, discovers and pockets the hidden political letter, and examines the correspondence connecting Arthur to Lirina. She shows other letters to Corvin, who takes them, and later carries the party's stolen valuables under Invisibility while Steve blames him for the theft.
 
 ## Relationships
 
@@ -78,3 +80,4 @@ Active. After her death in Session 34, Tess is resurrected at Barrow Spa and rej
 - [[sessions/session-034|Session 34]]
 - [[sessions/session-040|Session 40]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-065|Session 65]]

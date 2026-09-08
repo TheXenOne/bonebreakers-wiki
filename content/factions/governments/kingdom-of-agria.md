@@ -26,6 +26,7 @@ source_sessions:
   - 45
   - 46
   - 64
+  - 65
 ---
 
 ## Overview
@@ -69,6 +70,7 @@ Agria is home to the Bonebreakers and the setting for many of the kingdom's most
 - In [[sessions/session-044|Session 44]] and [[sessions/session-045|Session 45]], the Bonebreakers uncover direct evidence that Prince Arthur is working with the Grey Syndicate.
 - By [[sessions/session-046|Session 46]], Arthur's conspiracy has become a major political lever, though its outcome is still unresolved.
 - In [[sessions/session-064|Session 64]], Agatha remains in hiding and warns that her death would leave Arthur the only surviving heir despite his trial. The Bonebreakers investigate his supporters in the capital.
+- In [[sessions/session-065|Session 65]], Arthur’s household yields an incomplete letter anticipating Agatha’s disgrace and a duke fit to be king. Servants repeat an unconfirmed rumour of permanent palace closure. The Queen’s Guard arrests [[npcs/kingsport/corvin-dace|Corvin Dace]] on evidence secretly planted by the Bonebreakers.
 
 ## Current status
 
@@ -81,6 +83,7 @@ Active, but politically unstable because of Arthur's exposed conspiracy and the 
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-065|Session 65]]
 
 ## Unresolved threads
 

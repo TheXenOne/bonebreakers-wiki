@@ -50,6 +50,7 @@ source_sessions:
   - 60
   - 61
   - 62
+  - 65
 ---
 
 ## Overview
@@ -113,6 +114,7 @@ Needs review.
 - In [[sessions/session-060|Session 60]], gas from a broken jar temporarily paralyses Selvar until Arden removes the effect with healing magic.
 - In [[sessions/session-061|Session 61]], Selvar puts three of eleven attacking bugbears to sleep. During the Westfort relief attack, Ulrich protects him with Fire Resistance, but a missed shot alerts ten hobgoblin archers and his Mirror Image makes him their most conspicuous target.
 - In [[sessions/session-062|Session 62]], he puts thirteen hobgoblin archers to sleep, then puts half of another archer group to sleep and fires on the survivors as the siege of Westfort is broken.
+- In [[sessions/session-065|Session 65]], he uses ESP to discover that Hugh Malory's loyalty rests on job security and Arthur's position. Elspeth catches him trying to lift a royal seal, prompting Steve to charm her and preserve the party's access to the archives.
 
 ## Relationships
 
@@ -164,3 +166,4 @@ Active. Selvar is affected by cursed ancient imperial armour, has gained strengt
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-062|Session 62]]
+- [[sessions/session-065|Session 65]]

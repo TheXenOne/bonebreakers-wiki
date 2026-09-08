@@ -15,6 +15,7 @@ source_sessions:
   - 46
   - 47
   - 64
+  - 65
 ---
 
 ## Overview
@@ -57,6 +58,7 @@ Deeply frightened by the end of his appearances.
 - In [[sessions/session-046|Session 46]], an assassin wearing Tobold's face reveals he was sent to kill the secretary, and Ash later offers gold in exchange for him.
 - In [[sessions/session-047|Session 47]], Wendell is persuaded to testify to Commander Smith, helping trigger Arthur's arrest.
 - In [[sessions/session-064|Session 64]], [[characters/active-players/ben-l/characters/tess-tattercloak|Tess]] impersonates him with Glamour to persuade Brother Sedge to admit the Bonebreakers to Arthur's Palace. Wendell himself is not present.
+- In [[sessions/session-065|Session 65]], the Bonebreakers claim he sent them while searching Arthur's Palace. Hugh Malory has heard rumours that Wendell turned against Arthur and welcomes the apparent reassurance; Elspeth and Corvin remain sceptical of the visitors' authority. Wendell is not present.
 
 ## Current status
 
@@ -68,6 +70,7 @@ Alive and now a direct witness against Arthur as of [[sessions/session-047|Sessi
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-065|Session 65]]
 
 ## Unresolved threads
 

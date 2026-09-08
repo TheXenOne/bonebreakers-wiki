@@ -13,11 +13,12 @@ source_sessions:
   - 45
   - 63
   - 64
+  - 65
 ---
 
 ## Overview
 
-The Northlands are the northern duchy of Agria. Prince Arthur holds the title Duke of the Northlands, and the Bonebreakers enter the region directly when an apparent summons from Princess Agatha draws them to the fogbound port of [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. Agria's capital, [[locations/world/agria/northlands/kingsport|Kingsport]], is its own city-state, separate from Veluria, and is the focus of their investigation into Arthur's supporters.
+The Northlands are the northern duchy of Agria. Prince Arthur holds the title Duke of the Northlands, and the Bonebreakers enter the region directly when an apparent summons from Princess Agatha draws them to the fogbound port of [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. Agria's capital, [[locations/world/agria/northlands/kingsport|Kingsport]], is its own city-state, separate from Veluria, where the Bonebreakers uncover evidence pointing toward Lirina, Countess of Veluria, and her masquerade in Velur.
 
 ## Geography or layout
 
@@ -33,7 +34,7 @@ The Northlands are the northern duchy of Agria. Prince Arthur holds the title Du
 - [[locations/world/agria/northlands/kingsport|Kingsport]] — independent city-state and capital of Agria.
 - [[locations/world/agria/northlands/harrowmere|Harrowmere]] — eastern county, ruled by Count Drago Ven and containing Harrow.
 - [[locations/world/agria/northlands/grainholm|Grainholm]] — central inland county dominated by farmland; not directly visited by the party.
-- [[locations/world/agria/northlands/veluria|Veluria]] — western county, separate from Kingsport.
+- [[locations/world/agria/northlands/veluria|Veluria]] — western county ruled by [[npcs/velur/lirina|Lirina]], containing [[locations/world/agria/northlands/veluria/velur|Velur]] and separate from Kingsport.
 
 ## Associated people and groups
 
@@ -46,6 +47,7 @@ The Northlands are the northern duchy of Agria. Prince Arthur holds the title Du
 - In [[sessions/session-045|Session 45]], evidence gathered from Arthur and his secretary deepens the political stakes around his title and ambitions.
 - In [[sessions/session-063|Session 63]], the party sails into the Northlands through the Narrows and begins searching Harrow for Princess Agatha.
 - In [[sessions/session-064|Session 64]], the Bonebreakers accept Agatha’s investigation and sail from Harrow past fishing villages on the Salt Coast to the city-state of Kingsport.
+- In [[sessions/session-065|Session 65]], the search of Arthur’s Palace links him to [[npcs/velur/lirina|Lirina]] through correspondence and increasingly frequent journeys to Veluria. Her masquerade in Velur offers a lead, while rumours of permanent palace closure remain unconfirmed.
 
 ## Related sessions
 
@@ -53,6 +55,7 @@ The Northlands are the northern duchy of Agria. Prince Arthur holds the title Du
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-065|Session 65]]
 
 ## Unresolved threads or mysteries
 

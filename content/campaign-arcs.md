@@ -264,14 +264,16 @@ And the Bonebreakers themselves have become powerful enough that what they choos
 
 # The Fog over Harrow Arc
 
-After Westfort's victory, Barny questions the reanimated Kargaz. The dead king confirms that the Grey Syndicate supported his war and promised him control of Westfort, turning a suspected connection into direct testimony without revealing the organisation's purpose.
+Victory at Westfort leaves the Bonebreakers with confirmation that the **Grey Syndicate** supported Kargaz's war, but no explanation of its larger purpose. Returning to Ikiria, they find another crisis: Agatha and Commander Smith are missing, and the Queen is reportedly unwell.
 
-The Bonebreakers travel east to a recovering Ikiria. The Temple of Merciful Life has been rebuilt, but the city's royal leadership remains unstable: Princess Agatha is still missing, Commander Smith has also disappeared, and Queen Audrey II is reportedly unwell.
+An uncertain summons draws them north to [[locations/world/agria/northlands/harrowmere/harrow|Harrow]], a fogbound port crowded with pirates. There they find **Princess Agatha** alive and in hiding with Smith and Admiral Nelson. She believes Arthur could not have organised the unrest alone and fears a wider threat to her life. If she dies, her disgraced brother would be the only surviving heir.
 
-An East Agria Company secretary insists that Agatha is safe and delivers a letter apparently written by her. It summons the party to Harrow, a northern port reached through the fjords and canals of the Narrows. Captain Winston carries them there aboard *Agatha's Favour*, but cannot tell them where Agatha is.
+The Necropolis must wait.
 
-At Harrow, Rickart the Reeve extracts 7,500 gold pieces merely to let the ship enter. The Bonebreakers land among pirates and crowded docks, announce themselves at the Anchor & Chain, and begin searching for Agatha without knowing whether the summons was genuine.
+Agatha sends the Bonebreakers to investigate. Posing as pilgrims and Arthur's sympathisers, they follow Harrow's political contacts to Kingsport, where Tess impersonates Wendell Prye to gain entry to [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]].
 
-In [[sessions/session-064|Session 64]], Fen brings the party to Agatha, Smith, and Nelson in a private room. Agatha is hiding from a continuing threat and suspects a force beyond Arthur and perhaps the Grey Syndicate. She asks the Bonebreakers to investigate, taking priority over the Necropolis.
+Behind the sealed cabinets and covered furniture, the party finds jealousy, ambition, and a trail leading to **[[npcs/velur/lirina|Lirina]], Countess of Veluria**. Arthur's letters and repeated visits suggest a close relationship. Her own warning is brief: “Do nothing rash. Commit nothing to paper.”
 
-The party's pilgrimage cover fails to convince Lord Elron, but he directs them to Count Ven. Posing as Arthur's sympathisers, they obtain a discreet referral to Brother Sedge in Kingsport. After three days at sea, Tess impersonates Wendell Prye to persuade Sedge to admit them to Arthur's Palace. The Bonebreakers are left alone inside, with access to Arthur's political circle but no wider mastermind yet identified.
+The investigation also becomes a robbery. Small thefts grow into the stripping of palace valuables, culminating in Arthur's jewellery and expensive clothes. The Bonebreakers blame **[[npcs/kingsport/corvin-dace|Corvin Dace]]**, a supposed official whose lies and flight make them doubt his identity. With planted jewels and a charmed housekeeper's support, they secure his arrest and the Queen's Guard's gratitude.
+
+Corvin's true purpose remains unknown. Lirina's role is still uncertain. Her masquerade in [[locations/world/agria/northlands/veluria/velur|Velur]] offers the Bonebreakers their next way into Arthur's circle.
