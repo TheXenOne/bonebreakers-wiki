@@ -11,11 +11,11 @@ source_sessions:
 
 ## Overview
 
-Veluria is the western county of the [[locations/world/agria/northlands|Northlands]] and contains [[locations/world/agria/northlands/veluria/kingsport|Kingsport]], Agria's capital. The Bonebreakers travel here to investigate Prince Arthur's supporters on Agatha's behalf.
+Veluria is the western county of the [[locations/world/agria/northlands|Northlands]]. It is separate from the neighbouring city-state of [[locations/world/agria/northlands/kingsport|Kingsport]], Agria's capital.
 
 ## Geography and the Bonebreakers
 
-Kingsport is compact and wealthy, with ornate buildings, extensive gardens, and a busy harbour. The Queen's Palace and [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]] dominate the city; the county beyond the capital remains largely unexplored by the party.
+Veluria remains largely unexplored by the Bonebreakers. Their journey through the Northlands instead takes them by sea to the separate city-state of Kingsport, where they investigate Prince Arthur's supporters on Agatha's behalf.
 
 ## Related sessions
 

@@ -101,8 +101,8 @@ Active. Kargaz's testimony confirms Syndicate support for his defeated war; Ash 
 - [[locations/world/westmarsh/spiders-market|Spider Market]]
 - [[locations/world/westmarsh/invasion-fort|Invasion Fort]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
-- [[locations/world/agria/northlands/veluria/kingsport|Kingsport]]
-- [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]]
+- [[locations/world/agria/northlands/kingsport|Kingsport]]
+- [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]
 
 ## Related factions
 

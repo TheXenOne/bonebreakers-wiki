@@ -20,12 +20,12 @@ tags:
 - [[locations/world/agria/northlands|The Duchy of Northlands]]
 - [[locations/world/agria/southlands/barrowshire|The Barony of Barrowshire]]
 
-## Counties of the Northlands
+## Political divisions of the Northlands
 
-- [[locations/world/agria/northlands/harrowmere|Harrowmere]]
-- [[locations/world/agria/northlands/grainholm|Grainholm]]
-- [[locations/world/agria/northlands/salt-coast|The Salt Coast]]
+- [[locations/world/agria/northlands/kingsport|Kingsport]]
 - [[locations/world/agria/northlands/veluria|Veluria]]
+- [[locations/world/agria/northlands/grainholm|Grainholm]]
+- [[locations/world/agria/northlands/harrowmere|Harrowmere]]
 
 ## Cities, settlements, and landscapes
 
@@ -40,6 +40,7 @@ tags:
 - [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]
 - [[locations/world/agria/northlands/harrowmere/narrows|The Narrows]]
 - [[locations/world/agria/northlands/harrowmere/harrow/anchor-and-chain|The Anchor & Chain]]
+- [[locations/world/agria/northlands/salt-coast|The Salt Coast]]
 
 ## Institutions
 
@@ -68,7 +69,7 @@ tags:
 
 ## Kingsport
 
-- [[locations/world/agria/northlands/veluria/kingsport|Kingsport]]
-- [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]]
+- [[locations/world/agria/northlands/kingsport|Kingsport]]
+- [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]
 
-- [[locations/world/agria/northlands/veluria/kingsport/guardhouse|Kingsport Guardhouse]]
+- [[locations/world/agria/northlands/kingsport/guardhouse|Kingsport Guardhouse]]

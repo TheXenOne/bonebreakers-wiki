@@ -9,7 +9,7 @@ source_sessions:
 
 ## Overview
 
-Brother Sedge is a monk of the Furrow in [[locations/world/agria/northlands/veluria/kingsport|Kingsport]] who formerly worked in [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]]. He wears plain monastic robes and lives in a simple building. Cautious about politics, he denies personal involvement while offering to connect the Bonebreakers with [[npcs/agria/prince-arthur|Arthur]]'s supporters.
+Brother Sedge is a monk of the Furrow in [[locations/world/agria/northlands/kingsport|Kingsport]] who formerly worked in [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]. He wears plain monastic robes and lives in a simple building. Cautious about politics, he denies personal involvement while offering to connect the Bonebreakers with [[npcs/agria/prince-arthur|Arthur]]'s supporters.
 
 ## Relationship with the Bonebreakers
 

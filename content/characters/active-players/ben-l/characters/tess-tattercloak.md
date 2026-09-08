@@ -55,7 +55,7 @@ Illusionist.
 - In [[sessions/session-033|Session 33]], Tess is disturbed by Akal's killing of a lone rider and drags the body into the bushes. At [[locations/world/agria/west-fort|Westfort]], she explains the Bonebreakers' mission to [[npcs/west-fort/sergeant-dara|Sergeant Dara]], uses invisibility to overhear rumours at [[locations/world/agria/west-fort/cracked-shield|the Cracked Shield]], and unsuccessfully tries to steal the party's map payment back.
 - In [[sessions/session-034|Session 34]], Tess volunteers to act as bait with Alison, posing as a traveller beside the party's cart. Nine gnolls ambush them first, killing Tess in the opening volley; [[characters/active-players/ben-l/characters/sir-cedric-dawnmere|Sir Cedric]] arranges for her body to be taken to [[locations/world/agria/southlands/barrowshire/barrow-spa/index|Barrow Spa]] for resurrection.
 - In [[sessions/session-040|Session 40]], the Bonebreakers recover Tess from [[locations/world/agria/southlands/barrowshire/barrow-spa/index|Barrow Spa]] after her resurrection, and she rejoins the party.
-- In [[sessions/session-064|Session 64]], she secures entry to [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]] by using Glamour to impersonate Wendell Prye and persuading Brother Sedge that she is secretly working to help Arthur's defence.
+- In [[sessions/session-064|Session 64]], she secures entry to [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] by using Glamour to impersonate Wendell Prye and persuading Brother Sedge that she is secretly working to help Arthur's defence.
 
 ## Relationships
 

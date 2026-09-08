@@ -3,7 +3,7 @@ title: The Salt Coast
 type: location
 tags:
   - location
-  - county
+  - region
 parent_location: "[[locations/world/agria/northlands|The Duchy of Northlands]]"
 source_sessions:
   - 64
@@ -11,7 +11,7 @@ source_sessions:
 
 ## Overview
 
-The Salt Coast is the northern county of the [[locations/world/agria/northlands|Northlands]], with an economy heavily dependent on fishing. The Bonebreakers sail along its coast past fishing villages on their journey from Harrow to Kingsport.
+The Salt Coast runs along the north of the [[locations/world/agria/northlands|Northlands]]. Its settlements depend heavily on fishing. The Bonebreakers sail along it past fishing villages on their journey from Harrow to Kingsport.
 
 ## Geography and the Bonebreakers
 

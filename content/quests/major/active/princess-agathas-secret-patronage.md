@@ -77,7 +77,7 @@ The party first meets Agatha as a stranded noble on [[locations/world/fos-imeras
 
 ## Current status
 
-Active. Agatha and Smith have been found alive; Agatha remains in hiding and has renewed her covert commission. The Bonebreakers are inside [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]] in Kingsport, posing as his supporters to investigate the forces behind the threat to her life.
+Active. Agatha and Smith have been found alive; Agatha remains in hiding and has renewed her covert commission. The Bonebreakers are inside [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] in Kingsport, posing as his supporters to investigate the forces behind the threat to her life.
 
 ## Consequences
 
@@ -99,8 +99,8 @@ Active. Agatha and Smith have been found alive; Agatha remains in hiding and has
 - [[locations/world/agria/southlands/ikiria/east-agria-company-headquarters|East Agria Company Headquarters]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
 - [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]
-- [[locations/world/agria/northlands/veluria/kingsport|Kingsport]]
-- [[locations/world/agria/northlands/veluria/kingsport/arthurs-palace|Arthur's Palace]]
+- [[locations/world/agria/northlands/kingsport|Kingsport]]
+- [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]
 
 ## Related factions
 
