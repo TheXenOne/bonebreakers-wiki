@@ -14,11 +14,12 @@ source_sessions:
   - 63
   - 64
   - 65
+  - 66
 ---
 
 ## Overview
 
-The Northlands are the northern duchy of Agria. Prince Arthur holds the title Duke of the Northlands, and the Bonebreakers enter the region directly when an apparent summons from Princess Agatha draws them to the fogbound port of [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]. Agria's capital, [[locations/world/agria/northlands/kingsport|Kingsport]], lies at the duchy's western edge, outside Velluria, and is the focus of their investigation into Arthur's supporters. In Kingsport, the Bonebreakers uncover evidence pointing toward [[npcs/velur/lirina|Lirina]], Countess of Velluria, and her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]].
+The Northlands are the northern duchy of Agria, where Prince Arthur holds the ducal title despite his arrest. The Bonebreakers are investigating a threat to Princess Agatha through the region's political and social circles. Their route leads from the fogbound port of [[locations/world/agria/northlands/harrowmere/harrow|Harrow]] to [[locations/world/agria/northlands/kingsport|Kingsport]], Agria's capital at the duchy's western edge, and then to [[npcs/velur/lirina|Lirina]]'s circle in fashionable [[locations/world/agria/northlands/velluria/velur|Velur]]. Kingsport is administratively separate from the surrounding counties, including Velluria.
 
 ## Geography or layout
 
@@ -52,6 +53,7 @@ The Northlands are the northern duchy of Agria. Prince Arthur holds the title Du
 - In [[sessions/session-063|Session 63]], the party sails into the Northlands through the Narrows and begins searching Harrow for Princess Agatha.
 - In [[sessions/session-064|Session 64]], the Bonebreakers accept Agatha’s investigation and sail from Harrow past fishing villages on the Salt Coast to the city-state of Kingsport.
 - In [[sessions/session-065|Session 65]], the search of Arthur’s Palace links him to [[npcs/velur/lirina|Lirina]] through correspondence and increasingly frequent journeys to Velluria. Her masquerade in Velur offers a lead, while rumours of permanent palace closure remain unconfirmed.
+- In [[sessions/session-066|Session 66 - Masquerade]], the party enters Lirina's gathering at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]. Nila hears rumours that Lirina wants Arthur's place and takes a letter from a noblewoman with royal connections. The countess's role in the wider threat remains unproven.
 
 ## Related sessions
 
@@ -60,6 +62,7 @@ The Northlands are the northern duchy of Agria. Prince Arthur holds the title Du
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
+- [[sessions/session-066|Session 66 - Masquerade]]
 
 ## Unresolved threads or mysteries
 

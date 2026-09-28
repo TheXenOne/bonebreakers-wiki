@@ -25,6 +25,7 @@ related_sessions:
   - 63
   - 64
   - 65
+  - 66
 related_locations:
   - Fos Imeras
   - Ikiria
@@ -35,6 +36,7 @@ related_locations:
   - Arthur's Palace
   - Velluria
   - Velur
+  - Gilt Palace
 related_npcs:
   - Princess Agatha
   - Commander Smith
@@ -63,6 +65,7 @@ source_sessions:
   - 63
   - 64
   - 65
+  - 66
 ---
 
 ## Overview
@@ -84,10 +87,11 @@ The party first meets Agatha as a stranded noble on [[locations/world/fos-imeras
 - In [[sessions/session-063|Session 63]], Gilly says Agatha remains missing and Commander Smith has also disappeared. A Company secretary insists Agatha is safe and gives the Bonebreakers a letter apparently from her summoning them to [[locations/world/agria/northlands/harrowmere/harrow|Harrow]], but Captain Winston does not know where she is.
 - In [[sessions/session-064|Session 64]], Agatha meets the party with Smith and Nelson in Harrow. She asks them to investigate a wider Northlands threat, prioritising it over the Necropolis. Count Venn's referral leads them to Sedge and Arthur's Palace.
 - In [[sessions/session-065|Session 65]], the palace search identifies [[npcs/velur/lirina|Lirina]], Countess of Velluria, as a lead through love letters, portraits, repeated journeys, and her warning against rash action and written commitments. Hugh Malory points to her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]]. Corvin takes letters and lies about his previous visits. His suspicious palace activity and flight after returning to the Royal Chamberlain's building lead the party to suspect he is not who he claims to be. The Bonebreakers frame him for their own jewellery theft and secure his arrest.
+- In [[sessions/session-066|Session 66 - Masquerade]], Winston introduces Frank to a forger and the Bonebreakers gain entry to Lirina's masquerade at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]. Nila enters as a server, Rose and Barny as entertainers, and the others as guests with companions. Lirina appears to recognise them. Nila steals a letter from a noblewoman with royal connections and hears rumours that the countess wants Arthur's place. Barny publicly reveals another noble's nightmare of Audrey's murder; the noble denies it.
 
 ## Current status
 
-Active. Agatha remains in hiding and her commission takes priority over the Necropolis. The Bonebreakers have searched [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] and left with evidence of Arthur's ties to [[npcs/velur/lirina|Lirina]]. Her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]] offers a lead, but the party has not yet visited or reported back to Agatha.
+Active. The Bonebreakers have entered Lirina's masquerade. Agatha remains in hiding and her commission takes priority over the Necropolis. The Bonebreakers are inside the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]], pursuing Arthur's connection to Lirina. Nila holds a new letter, but its contents and Lirina's political role remain unknown. The party has not yet reported back to Agatha.
 
 ## Consequences
 
@@ -96,6 +100,8 @@ Active. Agatha remains in hiding and her commission takes priority over the Necr
 - The search for the missing patron is resolved, but investigating the threat to her now takes priority over the Necropolis. Arthur would be the only surviving heir if she died.
 - Corvin is in custody on fabricated theft evidence. Elspeth remains charmed when she supports the party; exposure of the frame-up could compromise its position with the Queen’s Guard.
 - The party holds new documentary evidence, but has not yet reported it to Agatha. Lirina’s role and any wider mastermind remain unproven.
+- Lirina appears to recognise the Bonebreakers despite their disguises. They do not know whether she is aware of their investigation.
+- Barny publicly reveals a noble's nightmare of Audrey's murder, prompting the noble to deny it. His subsequent dismemberment and reassembly of his undead assistant horrify the guests.
 
 ## Related characters and NPCs
 
@@ -118,6 +124,7 @@ Active. Agatha remains in hiding and her commission takes priority over the Necr
 - [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]
 - [[locations/world/agria/northlands/velluria|Velluria]]
 - [[locations/world/agria/northlands/velluria/velur|Velur]]
+- [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]
 
 ## Related factions
 
@@ -138,12 +145,15 @@ Active. Agatha remains in hiding and her commission takes priority over the Necr
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
+- [[sessions/session-066|Session 66 - Masquerade]]
 
 ## Loose ends
 
 - Who is orchestrating the Northlands unrest, and whether anyone beyond the Grey Syndicate is involved, remain unknown.
 - The party must protect Agatha's secrecy and conceal Count Venn's referral.
-- Hugh Malory identifies Lirina as a lead; her involvement and the masquerade's admission arrangements remain unresolved.
+- Entry to Lirina's masquerade is resolved. Her involvement in the threat to Agatha, her apparent recognition of the party, and the rumour that she wants Arthur's place remain unexplained.
+- The contents of the letter Nila stole and the noblewoman's name: **Needs review**.
+- The noble's nightmare of Audrey's murder has no confirmed connection to a plot. The meaning of the dream and the consequences of Barny's public revelation remain unresolved.
 - Elspeth supports the party while charmed. The consequences of Corvin's false arrest and the fate of the letters he took remain unresolved.
 - What “Smith already knows” means, including which Smith is meant, remains unclear.
 - Queen Audrey II's reported illness remains unexplained: **Needs review**.

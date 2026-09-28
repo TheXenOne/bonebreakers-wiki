@@ -276,4 +276,8 @@ Behind the sealed cabinets and covered furniture, the party finds jealousy, ambi
 
 The investigation also becomes a robbery. Small thefts grow into the stripping of palace valuables, culminating in Arthur's jewellery and expensive clothes. The Bonebreakers blame **[[npcs/kingsport/corvin-dace|Corvin Dace]]**, a supposed official whose lies and flight make them doubt his identity. With planted jewels and a charmed housekeeper's support, they secure his arrest and the Queen's Guard's gratitude.
 
-Corvin's true purpose remains unknown. Lirina's role is still uncertain. Her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]] offers the Bonebreakers their next way into Arthur's circle.
+Corvin's true purpose remains unknown. The Bonebreakers travel to [[locations/world/agria/northlands/velluria/velur|Velur]] to attend Lirina's masquerade. Winston introduces Frank to a forger, who supplies two invitations. Nila, Rose, and Barny enter the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] as a server and entertainers. Frank and Steve arrive as a Ramen noble and his bodyguard, while Arden and Ulrich attend as clerics.
+
+The countess speaks about Agria's political uncertainty beside an empty ducal chair. Her gaze pauses on each Bonebreaker, suggesting that she recognises them. Nila hears rumours that Lirina wants Arthur's place and steals a letter from a noblewoman with royal connections. During his performance, Barny's telescope reveals another noble's nightmare of Audrey being murdered. Barny brings the dream into his act, prompting the noble to deny it. His subsequent dismemberment and reassembly of his undead assistant horrify the guests.
+
+Lirina's intentions and any connection to the wider threat against Agatha remain unknown. The Bonebreakers are still at the masquerade and have not reported their findings to their patron.

@@ -86,7 +86,7 @@ Thanking the party for its supposed service, the guards take the Bonebreakers ba
 ## Threads raised this session
 
 - [[quests/major/active/grey-syndicate-conspiracy|The wider conspiracy]]: the palace yields evidence of Arthur's political ambitions and ties to Lirina, but does not establish her role or identify a mastermind. Status: Partially resolved; investigation active.
-- Lirina's masquerade offers a lead in Velur. Her involvement, the report that she abandoned Arthur, and the meaning of her warning remain unresolved. Status: Still unresolved.
+- Lirina's masquerade offers a lead in Velur. Status: Partially resolved. The Bonebreakers gain entry in [[sessions/session-066|Session 66]], but her involvement, the report that she abandoned Arthur, and the meaning of her warning remain unresolved.
 - Corvin is arrested on planted evidence. His actual purpose, repeated visits, and the fate of the letters he took remain unknown. The false accusation could have continuing consequences. Status: Still unresolved.
 - [[quests/major/active/princess-agathas-secret-patronage|Agatha's commission]] continues; the party has not yet reported its discoveries to her. Status: Active.
 - The meaning of “Smith already knows” remains unknown. Status: Still unresolved.
@@ -96,3 +96,4 @@ Thanking the party for its supposed service, the guards take the Bonebreakers ba
 ## Related sessions
 
 - Previous: [[sessions/session-064|Session 64]]
+- Next: [[sessions/session-066|Session 66 - Masquerade]]

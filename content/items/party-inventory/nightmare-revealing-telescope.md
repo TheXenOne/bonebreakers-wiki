@@ -9,6 +9,7 @@ source_sessions:
   - 58
   - 59
   - 60
+  - 66
 ---
 
 ## Overview
@@ -27,6 +28,7 @@ The Nightmare-Revealing Telescope is one of the strangest treasures taken from t
 - In [[sessions/session-058|Session 58]], Barny aims it at disenchanters in an imperial ruin and sees that they dream of a soul contained within a codex.
 - In [[sessions/session-059|Session 59]], Barny aims it at the twenty-four wights guarding the [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]] and sees them dreaming of reliquaries they no longer wear. One sarcophagus occupant dreams of power and wealth.
 - In [[sessions/session-060|Session 60]], Barny aims it at a blinded incorporeal spirit and sees a [[items/glowing-skull|glowing skull]] in lizardfolk hands, strengthening the party's conclusion that the skull is one of Valedictus's phylacteries.
+- In [[sessions/session-066|Session 66 - Masquerade]], Barny uses the telescope during his act at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]. It reveals a noble's nightmare of [[npcs/agria/queen-audrey-ii|Queen Audrey II]] being murdered in the streets. Barny brings the dream into his performance, and the noble vehemently denies it. The vision establishes neither an actual attack nor the noble's intentions.
 
 ## Current status
 
@@ -38,3 +40,4 @@ Barny is the last clearly known bearer.
 - [[sessions/session-058|Session 58]]
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-066|Session 66 - Masquerade]]

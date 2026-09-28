@@ -27,6 +27,7 @@ source_sessions:
   - 62
   - 64
   - 65
+  - 66
 ---
 
 ## Overview
@@ -66,6 +67,7 @@ Leadership is shared and situational rather than strictly formal.
 - In [[sessions/session-062|Session 62]], the company and Westfort's defenders destroy Kargaz's siege army. Commander Valerius presents the Bonebreakers with a key to the city, and local resentment gives way to public gratitude despite the garrison's heavy losses.
 - In [[sessions/session-064|Session 64]], the party accepts Agatha’s renewed covert commission, hires Drakford as protection, and enters Arthur’s Palace in Kingsport while posing as the prince’s supporters.
 - In [[sessions/session-065|Session 65]], the party uncovers evidence of Arthur’s ties to [[npcs/velur/lirina|Lirina]], then frames [[npcs/kingsport/corvin-dace|Corvin Dace]] for its own palace theft. The Queen’s Guard accepts the accusation, returns the party’s weapons at the dockside guardhouse, temporarily permits it to carry them, and pays for an inn stay.
+- In [[sessions/session-066|Session 66 - Masquerade]], the company enters Lirina's masquerade at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] as guests, entertainers, and a server. Lirina appears to recognise them. Nila steals a letter from a noblewoman with royal connections, while Barny reveals another noble's nightmare of Audrey's murder during his act.
 
 ## Current status
 
@@ -87,6 +89,7 @@ The party also remains Agatha's covert agent, investigating Arthur's supporters 
 - [[sessions/session-062|Session 62]]
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
+- [[sessions/session-066|Session 66 - Masquerade]]
 
 ## Unresolved threads
 

@@ -12,6 +12,7 @@ affiliations:
 source_sessions:
   - 63
   - 65
+  - 66
 ---
 
 ## Overview
@@ -53,6 +54,7 @@ Needs review.
 - Queen Audrey II anchors the political stakes around Agatha and Arthur, though she has not yet appeared directly.
 - In [[sessions/session-063|Session 63]], Gilly reports that the queen appears to be unwell while both Agatha and Commander Smith are missing.
 - In [[sessions/session-065|Session 65]], Hugh Malory repeats a rumour that she intends to close Arthur's Palace permanently. No closure order is confirmed.
+- In [[sessions/session-066|Session 66 - Masquerade]], Barny uses the [[items/party-inventory/nightmare-revealing-telescope|Nightmare-Revealing Telescope]] on a noble at Lirina's masquerade and sees a nightmare of Audrey being murdered in the streets. The noble denies the dream when Barny incorporates it into his act. No actual attack is established.
 
 ## Current status
 
@@ -62,8 +64,10 @@ Still reigning, but reportedly unwell. The nature and seriousness of her conditi
 
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-065|Session 65]]
+- [[sessions/session-066|Session 66 - Masquerade]]
 
 ## Unresolved threads
 
 - How much Queen Audrey II knows about Arthur's conspiracy is unknown. Needs review.
 - The cause and seriousness of her reported illness remain unclear. Needs review.
+- The noble's nightmare of her murder has no confirmed connection to an actual threat or to her reported illness.

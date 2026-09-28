@@ -70,4 +70,5 @@ Published session pages:
 - [[sessions/session-062|Session 62 - Heroes of Westfort]]
 - [[sessions/session-063|Session 63 - The Fog over Harrow]]
 - [[sessions/session-064|Session 64 - A Most Unconvincing Pilgrimage]]
-- [[sessions/session-065|Session 65]]
+- [[sessions/session-065|Session 65 - Evidence, What Evidence?]]
+- [[sessions/session-066|Session 66 - Masquerade]]

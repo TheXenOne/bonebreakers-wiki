@@ -16,6 +16,7 @@ source_sessions:
   - 63
   - 64
   - 65
+  - 66
 ---
 
 ## Overview
@@ -37,13 +38,13 @@ The Northlands lie north of the Southlands. [[npcs/agria/prince-arthur|Prince Ar
 
 - **[[locations/world/agria/northlands/salt-coast|The Salt Coast]]:** the northern fishing county, passed on the voyage to Kingsport.
 
-Fishing settlements line the northern [[locations/world/agria/northlands/salt-coast|Salt Coast]]. The sea approach to Harrow passes through [[locations/world/agria/northlands/harrowmere/narrows|the Narrows]], a confined route of fjords, waterways, and artificial canals. The Bonebreakers reach Kingsport from Harrow after three days sailing along the coast; Velluria remains a destination they have yet to explore.
+Fishing settlements line the northern [[locations/world/agria/northlands/salt-coast|Salt Coast]]. The sea approach to Harrow passes through [[locations/world/agria/northlands/harrowmere/narrows|the Narrows]], a confined route of fjords, waterways, and artificial canals. The Bonebreakers reach Kingsport from Harrow after three days sailing along the coast, then follow Arthur's connections inland to Velur in Velluria.
 
 ## The succession and the Bonebreakers
 
 Queen Audrey is reportedly unwell. Agatha remains the recognised heir and Duchess of the Southlands, but is hiding from a continuing threat to her life. Arthur's arrest has exposed his dealings with the Grey Syndicate without resolving the succession crisis: Agatha warns that her death would leave him the only surviving heir despite the proceedings against him.
 
-Agatha has asked the Bonebreakers to investigate the wider Northlands conspiracy. They find her secretly in Harrow, follow contacts to Kingsport, and uncover evidence of Arthur's close connection to Lirina. The Countess's upcoming masquerade in Velur offers their next lead, but her political involvement remains uncertain. Rumours that the Queen intends to close Arthur's Palace permanently are also unconfirmed.
+Agatha has asked the Bonebreakers to investigate the wider Northlands conspiracy. They find her secretly in Harrow, follow contacts to Kingsport, and uncover evidence of Arthur's close connection to Lirina. At the countess's masquerade in Velur, Nila hears rumours that Lirina wants Arthur's place and steals a letter from a noblewoman with royal connections. Barny's telescope reveals another noble's nightmare of Audrey's murder; no actual attack or plan is established. Lirina's political involvement and the letter's significance remain uncertain. Rumours that the Queen intends to close Arthur's Palace permanently are also unconfirmed.
 
 ## Associated people and groups
 
@@ -59,6 +60,7 @@ Agatha has asked the Bonebreakers to investigate the wider Northlands conspiracy
 
 - In [[sessions/session-064|Session 64]], the party finds Agatha alive in hiding, accepts her commission, and follows northern political contacts from Harrow to Kingsport.
 - In [[sessions/session-065|Session 65]], evidence from Arthur’s Palace points toward Lirina and Velluria, but the wider threat to Agatha remains unidentified.
+- In [[sessions/session-066|Session 66 - Masquerade]], the party enters Lirina's masquerade at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]. She appears to recognise the Bonebreakers. Nila hears rumours that the countess wants Arthur's place, but no change to his position is confirmed.
 
 ## Related sessions
 
@@ -69,6 +71,7 @@ Agatha has asked the Bonebreakers to investigate the wider Northlands conspiracy
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
+- [[sessions/session-066|Session 66 - Masquerade]]
 
 ## Unresolved threads or mysteries
 

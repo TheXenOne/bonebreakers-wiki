@@ -17,6 +17,7 @@ source_sessions:
   - 47
   - 64
   - 65
+  - 66
 ---
 
 ## Overview
@@ -68,6 +69,7 @@ Ambitious, jealous of Agatha, and politically compromised. His correspondence sh
 - In [[sessions/session-047|Session 47]], Wendell and the seized papers are delivered to Smith, and Arthur is arrested in Ikiria.
 - In [[sessions/session-064|Session 64]], Agatha doubts he organised the wider unrest alone. The Bonebreakers pose as his supporters and enter [[locations/world/agria/northlands/kingsport/arthurs-palace|his palace]] through Brother Sedge to investigate his political circle.
 - In [[sessions/session-065|Session 65]], the search of [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] reveals love letters to [[npcs/velur/lirina|Lirina]], increasingly cautious political drafts, repeated trips to Velluria, and a payment for discretion in Harrow. Lirina's note warns against rash action and committing anything to paper. Servants repeat unconfirmed rumours that she abandoned him and that the Queen intends to close his palace.
+- In [[sessions/session-066|Session 66 - Masquerade]], Nila hears rumours at Lirina's masquerade that the countess is trying to take Arthur's place. Lirina speaks about Agria's political uncertainty beside an empty ducal chair, but her intentions and any change to Arthur's position remain unconfirmed.
 
 ## Current status
 
@@ -81,6 +83,7 @@ Under arrest and facing trial. Agatha says he would remain the only surviving he
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
+- [[sessions/session-066|Session 66 - Masquerade]]
 
 ## Unresolved threads
 
@@ -88,3 +91,4 @@ Under arrest and facing trial. Agatha says he would remain the only surviving he
 - It is still unclear how far knowledge of his conspiracy has spread beyond Smith, the party, and the immediate witnesses.
 - Lirina's role in his political plans, the purpose of his repeated visits to Velluria, and whether she has abandoned him remain unresolved.
 - Rumours that the Queen intends to close his palace are unconfirmed.
+- The rumour that Lirina wants his place is unconfirmed; the party has not established precisely what position she might seek.

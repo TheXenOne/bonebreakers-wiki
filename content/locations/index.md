@@ -42,6 +42,7 @@ tags:
 - [[locations/world/agria/northlands/harrowmere/narrows|The Narrows]]
 - [[locations/world/agria/northlands/harrowmere/harrow/anchor-and-chain|The Anchor & Chain]]
 - [[locations/world/agria/northlands/velluria/velur|Velur]]
+- [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]
 
 ## Institutions
 

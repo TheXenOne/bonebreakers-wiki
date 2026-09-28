@@ -36,6 +36,7 @@ source_sessions:
   - 59
   - 60
   - 65
+  - 66
 ---
 
 ## Overview
@@ -87,6 +88,7 @@ Barbarian.
 - In [[sessions/session-059|Session 59]], Steve tries and fails to lift the immovable soul-bound chest, forces open the barracks doors, and uses his strength to help kill both minotaurs after Micaelis turns the imperial eagle toward them; he also tests the prison portcullis without triggering its pressure plate, opens a hidden trapdoor by pulling a wall sconce, and asks Captain Varro for access to the imperial armoury.
 - Steve takes the [[items/glowing-skull|glowing skull]] from Arch VII's Foundation Chamber in [[sessions/session-041|Session 41]] and trades it for masks at the Broken Crown in [[sessions/session-046|Session 46]]. He later gives the skull to a lizardfolk in the Sunken Market; in [[sessions/session-060|Session 60]], the party strongly suspects it is one of Valedictus's phylacteries.
 - In [[sessions/session-065|Session 65]], he uses his sword to cast Charm Person on [[npcs/kingsport/elspeth-crane|Mistress Elspeth Crane]] after she catches Selvar at a royal seal, then opens and reseals the archive cabinet. He blames [[npcs/kingsport/corvin-dace|Corvin Dace]] for the party's jewellery theft, tracks and captures him, and secures his arrest with Elspeth's support and Micaelis's planted evidence.
+- In [[sessions/session-066|Session 66 - Masquerade]], Steve poses as Frank's Ramen bodyguard at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] masquerade. Frank presents a forged invitation and Steve's gift of bear hide and leatherwork before the pair enter the palace.
 
 ## Relationships
 
@@ -123,3 +125,4 @@ Active. No longer infected by the Bloated One's rotting disease, stronger after 
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-065|Session 65]]
+- [[sessions/session-066|Session 66 - Masquerade]]

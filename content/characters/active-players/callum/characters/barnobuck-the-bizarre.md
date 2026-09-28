@@ -63,6 +63,7 @@ source_sessions:
   - 61
   - 62
   - 63
+  - 66
 ---
 
 ## Overview
@@ -145,6 +146,7 @@ Magic-user.
 - In [[sessions/session-061|Session 61]], Barny clarifies that the lizardfolk figure in the nightmare was a shaman from an unidentified clan studying the skull closely. He scries on Westfort, blinds a bugbear during the party's approach, then uses Fly and blinds one of the ogres operating the siege engines during the relief attack.
 - In [[sessions/session-062|Session 62]], Barny incapacitates hobgoblin archers with Sleep and unsuccessfully tries to charm their king, [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]]. After Wistor kills Kargaz, Barny secretly raises the king as a zombie and turns him invisible.
 - In [[sessions/session-063|Session 63]], Barny questions the reanimated Kargaz and learns that the Grey Syndicate supported the hobgoblin war and promised Kargaz control of Westfort. During the party's week in Ikiria, Barny secretly researches magic intended to command and temporarily possess undead after attacking them. In Harrow, he asks the Anchor & Chain's landlady where contraband can be sold.
+- In [[sessions/session-066|Session 66 - Masquerade]], Barny gains entry to the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] as a replacement magician, having raised a minor undead to serve as his assistant. His [[items/party-inventory/nightmare-revealing-telescope|telescope]] reveals a noble's nightmare of Queen Audrey's murder; Barny brings it into his performance, and the noble vehemently denies it. He then cuts apart and reassembles his assistant, horrifying the audience.
 
 ## Relationships
 
@@ -210,3 +212,4 @@ Active.
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-062|Session 62]]
 - [[sessions/session-063|Session 63]]
+- [[sessions/session-066|Session 66 - Masquerade]]

@@ -9,6 +9,7 @@ status: active
 aliases:
   - characters/laura/characters/rose
   - characters/rose
+  - The Crimson Lotus
 source_sessions:
   - 31
   - 32
@@ -32,6 +33,7 @@ source_sessions:
   - 60
   - 61
   - 62
+  - 66
 ---
 
 ## Overview
@@ -83,6 +85,7 @@ Needs review.
 - In [[sessions/session-060|Session 60]], Rose tries to feed an unfamiliar armadillo-like creature before it proves to be a rust monster and eats her spear. A later incorporeal spirit overwhelms her with supernatural terror and ages her by ten years.
 - In [[sessions/session-061|Session 61]], Wistor gives Rose a ring of fire resistance, which she passes to [[characters/active-players/john/characters/micaelis|Micaelis]]. Her opening arrow then deals minor damage to one of the ogres operating the Westfort siege engines as the relief attack begins.
 - In [[sessions/session-062|Session 62]], Rose makes a vaulting attack that heavily wounds the northern ogre, then fires the enemy ballista and kills a blinded ogre standing in front of it.
+- In [[sessions/session-066|Session 66 - Masquerade]], Rose infiltrates Lirina's masquerade as an acrobat called “The Crimson Lotus”, persuading the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] organisers to accept her as the opening act. She performs on suspended silks, falls to the floor, and manages to play off the accident.
 
 ## Relationships
 
@@ -117,3 +120,4 @@ Active. She has been supernaturally aged by ten years and now has dragon-scale a
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-062|Session 62]]
+- [[sessions/session-066|Session 66 - Masquerade]]
