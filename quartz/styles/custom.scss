@@ -1,3 +1,115 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
+@media all and ($tablet) {
+  .page > #quartz-body {
+    grid-template-columns: #{$sidePanelWidth} minmax(0, 1fr);
+  }
+}
+
+@media all and not ($desktop) {
+  // Let the graph and backlinks shrink after a screen rotation.
+  .page > #quartz-body .sidebar.right > * {
+    min-width: 0;
+  }
+}
+
+@media all and ($mobile) {
+  html {
+    scroll-padding-top: 6rem;
+  }
+
+  .page > #quartz-body {
+    // The header's minimum content width must not widen the entire page.
+    grid-template-columns: minmax(0, 1fr);
+
+    > * {
+      min-width: 0;
+    }
+
+    > .center,
+    > footer {
+      width: 100%;
+    }
+
+    .sidebar.left {
+      .page-title {
+        flex: 1;
+        min-width: 0;
+        font-size: clamp(1.1rem, 4.8vw, 1.4rem);
+      }
+
+      > .spacer {
+        display: none;
+      }
+
+      > .flex-component {
+        flex-shrink: 0;
+      }
+
+      .search > .search-button {
+        width: 2rem;
+        padding: 0;
+
+        > p {
+          display: none;
+        }
+
+        svg {
+          margin: auto;
+        }
+      }
+
+      // The drawer is viewport-wide; account for the page's side padding.
+      .explorer-content {
+        left: -1rem;
+        padding-inline: 1rem;
+      }
+    }
+  }
+}
+
+.campaign-timeline {
+  > p a {
+    white-space: nowrap;
+  }
+
+  > ul {
+    list-style: none;
+    border-left: 2px solid var(--lightgray);
+    margin: 1rem 0 2rem 0.4rem;
+    padding: 0 0 0 1.25rem;
+
+    > li {
+      position: relative;
+      margin-bottom: 1rem;
+      padding: 1rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 0.75rem;
+      background-color: var(--highlight);
+
+      &::before {
+        content: "";
+        position: absolute;
+        top: 1.3rem;
+        left: calc(-1.25rem - 8px);
+        width: 10px;
+        height: 10px;
+        border: 2px solid var(--light);
+        border-radius: 50%;
+        background-color: var(--secondary);
+      }
+
+      > p:first-child {
+        font-size: 0.9rem;
+      }
+
+      > p:nth-child(2) {
+        margin: 0.5rem 0;
+        font-family: var(--headerFont);
+        font-size: 1.12rem;
+        line-height: 1.45;
+      }
+    }
+  }
+}
