@@ -34,6 +34,7 @@ source_sessions:
   - 61
   - 62
   - 66
+  - 67
 ---
 
 ## Overview
@@ -86,6 +87,7 @@ Needs review.
 - In [[sessions/session-061|Session 61]], Wistor gives Rose a ring of fire resistance, which she passes to [[characters/active-players/john/characters/micaelis|Micaelis]]. Her opening arrow then deals minor damage to one of the ogres operating the Westfort siege engines as the relief attack begins.
 - In [[sessions/session-062|Session 62]], Rose makes a vaulting attack that heavily wounds the northern ogre, then fires the enemy ballista and kills a blinded ogre standing in front of it.
 - In [[sessions/session-066|Session 66 - Masquerade]], Rose infiltrates Lirina's masquerade as an acrobat called “The Crimson Lotus”, persuading the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] organisers to accept her as the opening act. She performs on suspended silks, falls to the floor, and manages to play off the accident.
+- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Rose helps capture [[npcs/velur/lirina|Lirina]] in the servants' quarters and gags her, then swaps clothes with the countess and impersonates her. The disguise satisfies two servants who witnessed the capture and, from the top of the staircase, the whole household. She charms the Master of Revels, [[npcs/velur/lord-petrand-kush|Lord Petrand Kush]], with Steve's sword, and he accepts her as the countess.
 
 ## Relationships
 
@@ -94,7 +96,7 @@ Needs review.
 
 ## Current status
 
-Active. She has been supernaturally aged by ten years and now has dragon-scale armour; the `+3` imperial spear she claimed was later eaten by a rust monster.
+Active. She has been supernaturally aged by ten years and now has dragon-scale armour; the `+3` imperial spear she claimed was later eaten by a rust monster. She is currently impersonating Countess Lirina at the Gilt Palace while the real countess is held captive.
 
 ## Related sessions
 
@@ -121,3 +123,4 @@ Active. She has been supernaturally aged by ten years and now has dragon-scale a
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-062|Session 62]]
 - [[sessions/session-066|Session 66 - Masquerade]]
+- [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]

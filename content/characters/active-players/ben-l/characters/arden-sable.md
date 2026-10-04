@@ -61,6 +61,7 @@ source_sessions:
   - 62
   - 63
   - 66
+  - 67
 ---
 
 ## Overview
@@ -140,6 +141,7 @@ Cleric of Belenus and Bishop of the Mercy.
 - In [[sessions/session-062|Session 62]], Arden paralyses the two surviving siege ogres with Hold Person. After the battle, he distributes gold among Westfort's people in Belenus's name and leads burial rites for the fallen defenders.
 - In [[sessions/session-063|Session 63]], Arden visits the family of a girl Ulrich cured during Ikiria's plague and recruits her sister, [[npcs/ikiria/elizabeth|Elizabeth]], into the Belenite faith. He trains and employs her as a non-combatant acolyte responsible for healing local people and running the rebuilt Temple of Merciful Life. After reaching Harrow, he loudly announces himself as a cleric of Belenus and tells the Anchor & Chain that the party is seeking work.
 - In [[sessions/session-066|Session 66 - Masquerade]], Arden attends Lirina's masquerade openly as a Belenite bishop, blessing the spectators before entering the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] with Ulrich. He tries to promote Belenite healing to a physician, who withdraws in alarm when Arden says a companion is almost capable of resurrecting the dead.
+- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Arden helps calm the darkened ballroom of the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] by revealing his shining holy symbol and casting Bless over the frightened guests. Searching Lirina's bedroom afterwards, he finds the false back in her wardrobe and the covert clothing hidden behind it.
 
 ## Relationships
 
@@ -205,3 +207,4 @@ Active. Arden remains Bishop of the Mercy and continues with the party in later 
 - [[sessions/session-062|Session 62]]
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-066|Session 66 - Masquerade]]
+- [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]

@@ -72,12 +72,13 @@ source_sessions:
     64,
     65,
     66,
+    67,
   ]
 ---
 
-The Bonebreakers through [[sessions/session-066|Session 66]]. [[#Sessions 61–66|Jump to the latest events]].
+The Bonebreakers through [[sessions/session-067|Session 67]]. [[#Sessions 61–67|Jump to the latest events]].
 
-Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sessions 21–30|21–30]] · [[#Sessions 31–40|31–40]] · [[#Sessions 41–50|41–50]] · [[#Sessions 51–60|51–60]] · [[#Sessions 61–66|61–66]]
+Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sessions 21–30|21–30]] · [[#Sessions 31–40|31–40]] · [[#Sessions 41–50|41–50]] · [[#Sessions 51–60|51–60]] · [[#Sessions 61–67|61–67]]
 
 ## Sessions 1–10
 
@@ -445,7 +446,7 @@ Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sess
 
   [[npcs/necropolis/lord-varrick|Lord Varrick]] warns that Agria's undead crisis will worsen while Valedictus remains in power and recommends finding [[items/the-stylus|the Stylus]], while the party suspects the skull Steve traded away is a phylactery.
 
-## Sessions 61–66
+## Sessions 61–67
 
 - [[sessions/session-061|Session 61]]
 
@@ -482,3 +483,9 @@ Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sess
   **The Bonebreakers infiltrate Lirina's masquerade, but she appears to recognise them**
 
   At [[locations/world/agria/northlands/velluria/velur/gilt-palace|the Gilt Palace]], Nila steals a letter and hears rumours that Lirina wants Arthur's place, while [[items/party-inventory/nightmare-revealing-telescope|Barny's telescope]] reveals a noble's nightmare of Queen Audrey's murder; Lirina's involvement remains unproven.
+
+- [[sessions/session-067|Session 67]]
+
+  **The Bonebreakers capture Lirina, who knows the Grey Khan's identity**
+
+  Seized as she flees a blackout at her own masquerade and replaced by Rose in disguise, [[npcs/velur/lirina|the countess]] is revealed by ESP and her hidden armoury as an aspiring duchess and likely assassin whose coded message to the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] warns that the party is coming.

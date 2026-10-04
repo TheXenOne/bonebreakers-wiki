@@ -53,6 +53,7 @@ source_sessions:
   - 64
   - 65
   - 66
+  - 67
 ---
 
 ## Overview
@@ -122,6 +123,7 @@ Cleric of none.
 - In [[sessions/session-064|Session 64]], he registers as a pilgrim in [[locations/world/agria/northlands/kingsport|Kingsport]] and persuades the Queen's Guard to let Drakford stay armed as his bodyguard. The party follows the resulting referral to Brother Sedge and gains entry to Arthur's Palace. Ulrich’s mace remains in the [[locations/world/agria/northlands/kingsport/guardhouse|guardhouse safe]], whose key Nila has secretly stolen.
 - In [[sessions/session-065|Session 65]], he confirms a portrait was recently removed from Arthur's gallery and questions Hugh Malory, who identifies Lirina and her masquerade as a lead. He considers Speak with Plants in the salon but does not cast it. The guards return the party's confiscated weapons after Corvin's arrest.
 - In [[sessions/session-066|Session 66 - Masquerade]], Ulrich accompanies Arden as a fellow cleric to the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] masquerade. He casts Continual Light on the symbol atop Arden's hat and on the gem they present as a gift.
+- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Ulrich restores light to the darkened ballroom with light stones and organises the orderly evacuation of Lirina's guests. In her study he recognises a poetry book as the cipher for her encoded letters, and he opens her hidden armoury with Skeleton Key. During her interrogation he bluffs her with a fake cipher page assembled from the book's burned fragments; her panic lets Selvar read that one message is a warning to the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] about the Bonebreakers.
 
 ## Relationships
 
@@ -177,3 +179,4 @@ Active.
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-066|Session 66 - Masquerade]]
+- [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]

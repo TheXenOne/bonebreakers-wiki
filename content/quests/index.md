@@ -12,8 +12,8 @@ Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still s
 
 ### Active Threads
 
-- [[quests/major/active/princess-agathas-secret-patronage|Princess Agatha's Secret Patronage]] — Agatha remains in hiding; the party has entered Lirina's masquerade and Nila holds an unexplained letter.
-- [[quests/major/active/grey-syndicate-conspiracy|Grey Syndicate Conspiracy]] — Investigating Arthur’s supporters and Agatha’s suspicion of a wider threat.
+- [[quests/major/active/princess-agathas-secret-patronage|Princess Agatha's Secret Patronage]] — Agatha remains in hiding; the party holds Lirina captive in her own palace and has confirmed her ambition for Arthur's ducal seat.
+- [[quests/major/active/grey-syndicate-conspiracy|Grey Syndicate Conspiracy]] — Lirina knows who the Grey Khan is; the party does not.
 - [[quests/major/active/necropolis-beneath-the-mercy|Necropolis Beneath the Mercy]]
 - [[quests/major/active/valedictus-and-his-phylacteries|Valedictus and His Phylacteries]]
 

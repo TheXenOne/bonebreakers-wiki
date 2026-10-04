@@ -9,6 +9,7 @@ source_sessions:
   - 64
   - 65
   - 66
+  - 67
 ---
 
 ## Overview
@@ -19,7 +20,7 @@ Velluria is the western county of the [[locations/world/agria/northlands|Northla
 
 [[locations/world/agria/northlands/velluria/velur|Velur]] is a landlocked city within the county, about one day's travel from Kingsport. Its estates, gardens, and entertainment venues attract wealthy residents and celebrities. Lirina's [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] is a centre of that social life.
 
-Arthur's letters and travel records lead the Bonebreakers to Velur, where they enter Lirina's masquerade. Rumours there suggest she is trying to take Arthur's place, though the party has not established her intentions.
+Arthur's letters and travel records lead the Bonebreakers to Velur, where they enter Lirina's masquerade. Lirina intends at least to become Duchess in Arthur's absence.
 
 Arthur's household archives record repeated journeys to Velluria, increasing markedly shortly before the party first encountered him on the road. The purpose of those visits remains unclear.
 
@@ -28,3 +29,4 @@ Arthur's household archives record repeated journeys to Velluria, increasing mar
 - [[sessions/session-064|Session 64 - A Most Unconvincing Pilgrimage]]
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-066|Session 66 - Masquerade]]
+- [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]

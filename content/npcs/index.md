@@ -115,3 +115,5 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 ## Velur
 
 - [[npcs/velur/lirina|Lirina]]
+- [[npcs/velur/lady-miranda|Lady Miranda]]
+- [[npcs/velur/lord-petrand-kush|Lord Petrand Kush]]

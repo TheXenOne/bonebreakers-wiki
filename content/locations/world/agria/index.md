@@ -17,6 +17,7 @@ source_sessions:
   - 64
   - 65
   - 66
+  - 67
 ---
 
 ## Overview
@@ -44,7 +45,7 @@ Fishing settlements line the northern [[locations/world/agria/northlands/salt-co
 
 Queen Audrey is reportedly unwell. Agatha remains the recognised heir and Duchess of the Southlands, but is hiding from a continuing threat to her life. Arthur's arrest has exposed his dealings with the Grey Syndicate without resolving the succession crisis: Agatha warns that her death would leave him the only surviving heir despite the proceedings against him.
 
-Agatha has asked the Bonebreakers to investigate the wider Northlands conspiracy. They find her secretly in Harrow, follow contacts to Kingsport, and uncover evidence of Arthur's close connection to Lirina. At the countess's masquerade in Velur, Nila hears rumours that Lirina wants Arthur's place and steals a letter from a noblewoman with royal connections. Barny's telescope reveals another noble's nightmare of Audrey's murder; no actual attack or plan is established. Lirina's political involvement and the letter's significance remain uncertain. Rumours that the Queen intends to close Arthur's Palace permanently are also unconfirmed.
+Agatha has asked the Bonebreakers to investigate the wider Northlands conspiracy. They find her secretly in Harrow, follow contacts to Kingsport, and uncover evidence of Arthur's close connection to Lirina. At the countess's masquerade in Velur, the party captures Lirina and confirms that she means at least to become Duchess in Arthur's absence. Her rooms hold an assassin's equipment and the encoded letters of her spy network, one of them a warning meant for the Grey Khan. A letter stolen from [[npcs/velur/lady-miranda|Lady Miranda]], a royal cousin, urges her to meet Wendell Prye before he gives evidence. Barny's telescope reveals another noble's nightmare of Audrey's murder; no actual attack or plan is established. Rumours that the Queen intends to close Arthur's Palace permanently are also unconfirmed.
 
 ## Associated people and groups
 
@@ -72,6 +73,7 @@ Agatha has asked the Bonebreakers to investigate the wider Northlands conspiracy
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-066|Session 66 - Masquerade]]
+- [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 
 ## Unresolved threads or mysteries
 

@@ -22,6 +22,7 @@ source_sessions:
   - 61
   - 62
   - 65
+  - 67
 ---
 
 ## Overview
@@ -58,6 +59,7 @@ Needs review.
 - In [[sessions/session-061|Session 61]], [[characters/active-players/laura/characters/rose|Rose]] passes him a ring that grants fire resistance. After the wind changes in favour of the plan, Micaelis carries two oil barrels behind the hobgoblin siege line under Invisibility and Arden's Silence, pouring one long line around the army's rear and a second line southward with a narrow gap between them. He ignites only the northern line—the fire advances about ten feet every three rounds—then reaches the first catapult while still invisible and silenced and sabotages it. The nearest ogre cannot see or hear him, although a farther ogre notices that something is wrong.
 - In [[sessions/session-062|Session 62]], as the oil fire spreads and the hobgoblins begin crossing the bridge, he leaps onto another ogre and repeatedly stabs it. Rose turns the enemy ballista on one blinded ogre, Wistor kills Kargaz with Lightning Bolt, and the Bonebreakers and Westfort's defenders ultimately destroy the siege army.
 - In [[sessions/session-065|Session 65]], he plants some of Arthur's stolen jewels on [[npcs/kingsport/corvin-dace|Corvin Dace]] while Steve restrains him. The fabricated evidence, backed by the charmed Elspeth's testimony, secures Corvin's arrest by the Queen's Guard.
+- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Micaelis guards the doors to the servants' quarters of the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] while the others capture and hide [[npcs/velur/lirina|Lirina]], letting nobody in or out. During her interrogation he asks whether she is the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]; her smile and her thoughts show that she knows who the Khan is but is not the Khan herself.
 
 ## Relationships
 
@@ -81,3 +83,4 @@ Active with the Bonebreakers in Agatha's covert investigation. His planted evide
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-062|Session 62]]
 - [[sessions/session-065|Session 65]]
+- [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]

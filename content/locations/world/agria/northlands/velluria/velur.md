@@ -7,6 +7,7 @@ parent_location: "[[locations/world/agria/northlands/velluria|Velluria]]"
 source_sessions:
   - 65
   - 66
+  - 67
 ---
 
 ## Overview
@@ -19,11 +20,12 @@ Estates, entertainment venues, and elaborate gardens fill the city. The Gilt Pal
 
 ## The masquerade
 
-The Bonebreakers enter Lirina's masquerade at the Gilt Palace. Nila works as a server, Rose and Barny perform, Frank poses as a Ramen noble with Steve as his bodyguard, and Arden and Ulrich attend as clerics. Lirina appears to recognise them despite their cover stories. Nila hears rumours that the countess wants Arthur's place, but her intentions remain unproven.
+The Bonebreakers enter Lirina's masquerade at the Gilt Palace. Nila works as a server, Rose and Barny perform, Frank poses as a Ramen noble with Steve as his bodyguard, and Arden and Ulrich attend as clerics. Lirina appears to recognise them despite their cover stories, and Nila hears rumours that the countess wants Arthur's place.
 
-The gathering is still underway. See [[locations/world/agria/northlands/velluria/velur/gilt-palace|the Gilt Palace]] for the party's encounters inside.
+See [[locations/world/agria/northlands/velluria/velur/gilt-palace|the Gilt Palace]] for the palace itself and [[sessions/session-067|Session 67]] for how the masquerade ends.
 
 ## Related sessions
 
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-066|Session 66 - Masquerade]]
+- [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]

@@ -92,5 +92,6 @@ Alive and in hiding, last met covertly in Harrow with Smith and Nelson. She has 
 ## Unresolved threads
 
 - Who is orchestrating the wider threat to her life remains unknown; her suspicion of a force beyond the Syndicate is unconfirmed.
+- The Bonebreakers have captured [[npcs/velur/lirina|Lirina]] and linked her to the Grey Khan, but have not yet reported to Agatha.
 - Arthur would be the only surviving heir if she died, despite the proceedings against him.
 - The precise authorship of the Harrow letter was not explicitly confirmed, although the party successfully found Agatha there.

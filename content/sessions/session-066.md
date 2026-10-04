@@ -67,7 +67,7 @@ Appearing as Barnobuck the Bizarre, Barny performs grotesque tricks involving kn
 
 - Two forged invitations help the party gain admission. Frank presents Steve's bear-hide and leatherwork gift; Arden presents Ulrich's illuminated gem.
 - Ulrich uses Continual Light on Arden's hat and the gift gem. Arden's remark about resurrection describes a capability a party member is approaching, not a spell cast at the gathering.
-- Nila takes a letter from the noblewoman Frank approaches. Its contents and the woman's name: **Needs review**.
+- Nila takes a letter from the noblewoman Frank approaches. Its contents remain unread. The woman is later identified as [[npcs/velur/lady-miranda|Lady Miranda]].
 - The Nightmare-Revealing Telescope shows the noble dreaming of Audrey's murder. This does not establish an actual attack, a plan, or the noble's intentions.
 - Lirina addresses the guests beside an empty ducal chair. Nila hears rumours that she wants Arthur's place, but the party has not established what she intends.
 
@@ -75,11 +75,12 @@ Appearing as Barnobuck the Bizarre, Barny performs grotesque tricks involving kn
 
 - Access to Lirina's masquerade: **Resolved in Session 66.** All seven Bonebreakers gain entry through their chosen roles.
 - [[quests/major/active/princess-agathas-secret-patronage|Agatha's commission]]: **Partially resolved; investigation active.** The party reaches Lirina's gathering and gains another letter, but has not established her role or reported back to Agatha.
-- Lirina's awareness of the party: **Still unresolved.** Her gaze suggests recognition; how much she knows and what she intends remain unclear.
-- The stolen letter: **Needs review.** Nila has it, but its contents and significance remain unknown.
-- The nightmare of Audrey's murder: **Still unresolved.** Its meaning and any connection to the succession crisis are unconfirmed; the noble denies having the dream.
-- The reception of Barny's act: **Still unresolved.** The audience is horrified, but any lasting social or political consequences remain unknown.
+- Lirina's awareness of the party: **Resolved in Session 67.** Her spy network has gathered intelligence on the Bonebreakers and expects them at the masquerade.
+- The stolen letter: **Partially resolved.** In [[sessions/session-067|Session 67]], Nila reads it: an unidentified friend of Arthur urges the noblewoman, [[npcs/velur/lady-miranda|Lady Miranda]], to meet Wendell Prye before he gives his evidence. Its author and purpose remain unknown.
+- The nightmare of Audrey's murder: **Still unresolved.** Its meaning and any connection to the succession crisis are unconfirmed; the noble denies having the dream in public, and later says he does not know why he has such a dream.
+- The reception of Barny's act: **Partially resolved.** The act ends in darkness and an assassination scare in [[sessions/session-067|Session 67]], and most guests leave the palace. Lasting social or political consequences remain unknown.
 
 ## Related sessions
 
 - Previous: [[sessions/session-065|Session 65 - Evidence, What Evidence?]]
+- Next: [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]

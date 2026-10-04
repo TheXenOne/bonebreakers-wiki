@@ -14,6 +14,7 @@ source_sessions:
   - 64
   - 65
   - 66
+  - 67
 ---
 
 ## Overview
@@ -38,6 +39,7 @@ Thief.
 - In [[sessions/session-063|Session 63]], Nila constructs an improved set of thieves' tools and lockpicks during the party's week in Ikiria.
 - In [[sessions/session-064|Session 64]], she enters [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] with the party under its false claim of support for Arthur and secretly takes the palace key from Brother Sedge. She also steals the key to the [[locations/world/agria/northlands/kingsport/guardhouse|guardhouse safe]] holding Ulrich’s confiscated mace; the weapon remains inside when the party leaves. In [[sessions/session-065|Session 65]], the Bonebreakers return the key by dropping it behind the guard and claiming he dropped it, allowing him to retrieve their weapons.
 - In [[sessions/session-066|Session 66 - Masquerade]], Nila infiltrates the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] as a server and hears rumours that Lirina is trying to take Arthur's place. She learns that the noblewoman Frank approaches has royal family connections and steals a letter from her. The letter's contents remain unknown.
+- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Nila helps capture [[npcs/velur/lirina|Lirina]] and binds her, then chases down two servant witnesses and convinces them that the bound woman is an impostor by showing them Rose in the countess's clothes. She reads the letter stolen from [[npcs/velur/lady-miranda|Lady Miranda]], which urges Miranda to meet Wendell Prye before he gives his evidence, and gathers the servants' conflicting rumours about the night's supposed assassins.
 
 ## Current status
 
@@ -52,3 +54,4 @@ Active and travelling with the Bonebreakers. She has been supernaturally aged by
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-066|Session 66 - Masquerade]]
+- [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]

@@ -280,4 +280,10 @@ Corvin's true purpose remains unknown. The Bonebreakers travel to [[locations/wo
 
 The countess speaks about Agria's political uncertainty beside an empty ducal chair. Her gaze pauses on each Bonebreaker, suggesting that she recognises them. Nila hears rumours that Lirina wants Arthur's place and steals a letter from a noblewoman with royal connections. During his performance, Barny's telescope reveals another noble's nightmare of Audrey being murdered. Barny brings the dream into his act, prompting the noble to deny it. His subsequent dismemberment and reassembly of his undead assistant horrify the guests.
 
-Lirina's intentions and any connection to the wider threat against Agatha remain unknown. The Bonebreakers are still at the masquerade and have not reported their findings to their patron.
+Then Barny's candle puts out every light in the ballroom. Lirina cries “Assassins!” and runs for the servants' quarters, straight into Steve, Selvar, Rose, and Nila. Bound, gagged, and read by ESP, she proves to be playing for power: at the very least, she means to become Duchess while Arthur is gone. Rose takes her clothes and her place, convincing the servants and charming **[[npcs/velur/lord-petrand-kush|Lord Petrand Kush]]**, the Master of Revels, while Ulrich and Arden calm the guests and see them out.
+
+Upstairs, the party searches the countess's rooms. A poetry book serves as the cipher for a stack of encoded letters. A false wardrobe hides clothes for night work, a secret door opens onto a back alley, and a locked closet holds daggers, poisons, and a disguise kit. A letter stolen from **[[npcs/velur/lady-miranda|Lady Miranda]]**, a royal cousin, urges her to meet Wendell Prye before he gives his evidence against Arthur.
+
+Under interrogation, her thoughts give more away. She has aliases. The letters belong to her spy network. She is not the **[[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]**, but she knows who is, and one of her messages is written to warn the Khan that the Bonebreakers are in the Northlands and expected at her masquerade.
+
+The Bonebreakers hold a countess captive in her own palace. Her letters are still undeciphered, the Khan is still unidentified, and Agatha has not yet heard their report.

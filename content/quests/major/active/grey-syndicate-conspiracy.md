@@ -24,6 +24,7 @@ related_sessions:
   - 63
   - 64
   - 65
+  - 67
 related_locations:
   - Westfort
   - Spider Market
@@ -34,6 +35,7 @@ related_locations:
   - Arthur's Palace
   - Velluria
   - Velur
+  - Gilt Palace
 related_npcs:
   - Ash
   - Jeremy
@@ -62,6 +64,7 @@ source_sessions:
   - 63
   - 64
   - 65
+  - 67
 ---
 
 ## Overview
@@ -85,10 +88,11 @@ The thread becomes visible when the party exposes Vex's sabotage cell in [[sessi
 - In [[sessions/session-063|Session 63]], the reanimated [[npcs/westmarsh/kargaz-the-disciplined|Kargaz]] confirms that the Syndicate supported his war and promised him control of Westfort if he captured it. He says he knew little of its larger plans.
 - In [[sessions/session-064|Session 64]], Agatha says she suspects a force beyond even the Syndicate and doubts Arthur could have organised the unrest alone. The party follows a lead through Count Venn and Brother Sedge into Arthur's Palace, without yet identifying a wider mastermind.
 - In [[sessions/session-065|Session 65]], the palace search identifies [[npcs/velur/lirina|Lirina]], Countess of Velluria, as a lead through love letters, portraits, repeated journeys, and her warning against rash action and written commitments. Hugh Malory points to her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]]. Corvin takes letters and lies about his previous visits. His suspicious palace activity and flight after returning to the Royal Chamberlain's building lead the party to suspect he is not who he claims to be. The Bonebreakers frame him for their own jewellery theft and secure his arrest.
+- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], the Bonebreakers capture Lirina at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] and find encoded letters, a cipher book, and an assassin's armoury in her rooms. Her thoughts reveal that the letters belong to her spy network, that she knows who the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] is without being the Khan, and that one message is meant to warn the Khan that the Bonebreakers are active in the Northlands and expected at her masquerade.
 
 ## Current status
 
-Active, with the palace investigation partially resolved. Kargaz's testimony confirms Syndicate support for his defeated war, but Ash remains at large and the network's purpose is unknown. Agatha and Smith are alive in hiding. The Bonebreakers have left Arthur's Palace with evidence pointing toward [[npcs/velur/lirina|Lirina]] and her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]].
+Active. Kargaz's testimony confirms Syndicate support for his defeated war, but Ash remains at large and the network's purpose is unknown. Agatha and Smith are alive in hiding. The captive [[npcs/velur/lirina|Lirina]] knows who the Grey Khan is, and one of her encoded messages is meant to warn the Khan about the Bonebreakers. The Khan's identity and the contents of her other letters remain unknown.
 
 ## Consequences
 
@@ -97,7 +101,8 @@ Active, with the palace investigation partially resolved. Kargaz's testimony con
 - Arthur's arrest turns part of the conspiracy from hidden leverage into open political evidence.
 - The priest kidnapping once attributed to Gruumsh's warband now appears to have been connected to the Syndicate, though the exact arrangement remains unclear.
 - Corvin is in custody on fabricated theft evidence. Elspeth remains charmed when she supports the party; exposure of the frame-up could compromise its position with the Queen’s Guard.
-- The party holds new documentary evidence, but has not yet reported it to Agatha. Lirina’s role and any wider mastermind remain unproven.
+- The party holds new documentary evidence, but has not yet reported it to Agatha. Any wider mastermind remains unproven.
+- One of Lirina's encoded messages is meant to warn the Grey Khan that the Bonebreakers are operating in the Northlands.
 
 ## Related characters and NPCs
 
@@ -120,6 +125,7 @@ Active, with the palace investigation partially resolved. Kargaz's testimony con
 - [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]
 - [[locations/world/agria/northlands/velluria|Velluria]]
 - [[locations/world/agria/northlands/velluria/velur|Velur]]
+- [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]
 
 ## Related factions
 
@@ -140,16 +146,18 @@ Active, with the palace investigation partially resolved. Kargaz's testimony con
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
+- [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 
 ## Loose ends
 
-- Whether Ash really is the Grey Khan remains unresolved.
+- Whether Ash really is the Grey Khan remains unresolved. Lirina knows the Khan's identity, but the party has not yet learned it from her.
 - The Syndicate's next move after losing 20,000 gold and Arthur's protection is unresolved.
 - Whether the Session 53 delay order targeted Westfort, the Necropolis, or another objective remains unresolved.
 - The Syndicate supported Kargaz's war, but what support it provided and why it wanted him to control Westfort remain unresolved.
 - Whether the Syndicate seeks Valedictus's necromantic power or intends to destroy him remains unresolved.
 - Agatha and Smith have been found alive in hiding. The wider threat to Agatha, and any force beyond the Syndicate, remain unidentified.
-- The palace search yields evidence of Arthur's ambitions and connections, but Lirina's part in his plans remains unresolved.
+- Lirina wants the ducal seat, but her part in Arthur's plans remains unresolved.
+- Her encoded letters are undeciphered; the party holds the cipher book but not the key to using it.
 - The burned message “Smith already knows,” the payment for discretion in Harrow, and Corvin's repeated visits need explanation.
 - The hidden letter's author, recipient, and unclear reference to “con”: **Needs review**.
 - Corvin's arrest does not establish his actual role; the fate of the letters he took is **Needs review**.

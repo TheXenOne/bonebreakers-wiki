@@ -32,6 +32,7 @@ source_sessions:
   - 60
   - 63
   - 64
+  - 67
 ---
 
 ## Overview
@@ -80,10 +81,11 @@ The Syndicate is the main hidden enemy behind the Westfort sabotage arc and late
 - In [[sessions/session-060|Session 60]], [[npcs/necropolis/lord-varrick|Lord Varrick]] suggests that the Syndicate may be seeking [[npcs/necropolis/valedictus|Valedictus's]] necromantic power or may intend to destroy him. The party has no proof of either motive.
 - In [[sessions/session-063|Session 63]], Kargaz confirms Syndicate support for his war and its promise to give him Westfort if he captured it.
 - In [[sessions/session-064|Session 64]], Agatha suspects the threat extends beyond the Syndicate and sends the party to investigate Arthur's supporters in Kingsport. No wider mastermind has been identified.
+- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], the captured [[npcs/velur/lirina|Lirina]], Countess of Velluria, proves to know who the Grey Khan is. One of her encoded messages is meant for the Khan, warning that the Bonebreakers are operating in the Northlands and are expected at her masquerade.
 
 ## Current status
 
-Active despite the loss of Arthur's freedom and Kargaz's army. Kargaz confirms that the Syndicate supported his war and promised him Westfort; the organisation's larger objective remains unknown. Agatha suspects a wider force behind the Northlands unrest, but has not established one. Its possible interest in Valedictus remains Varrick's speculation.
+Active despite the loss of Arthur's freedom and Kargaz's army. Kargaz confirms that the Syndicate supported his war and promised him Westfort; the organisation's larger objective remains unknown. Agatha suspects a wider force behind the Northlands unrest, but has not established one. Its possible interest in Valedictus remains Varrick's speculation. [[npcs/velur/lirina|Lirina]], Countess of Velluria, knows who the Grey Khan is.
 
 ## Related sessions
 
@@ -99,6 +101,7 @@ Active despite the loss of Arthur's freedom and Kargaz's army. Kargaz confirms t
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 
 ## Unresolved threads
 
@@ -107,4 +110,5 @@ Active despite the loss of Arthur's freedom and Kargaz's army. Kargaz confirms t
 - Whether the orc delay order was meant to keep the Bonebreakers away from Westfort, the Necropolis, or something else remains unresolved.
 - Why the Syndicate supported Kargaz and wanted him to control Westfort remains unresolved.
 - Whether a force beyond the Syndicate is involved in the Northlands unrest remains unknown.
+- The contents of Lirina's encoded letters remain unknown.
 - Whether the Syndicate wants Valedictus's power or his destruction remains unresolved.
