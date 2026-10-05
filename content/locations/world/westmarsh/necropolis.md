@@ -27,6 +27,7 @@ source_sessions:
   - 58
   - 59
   - 60
+  - 68
 ---
 
 ## Overview
@@ -122,6 +123,7 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - [[sessions/session-058|Session 58]]
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]
 
 ## Unresolved threads or mysteries
 
@@ -141,9 +143,9 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - The dark druids of the Deep One are active inside Arch IV, but their origin and purpose remain unknown.
 - The identity of the prominent family in the Imperial Family Tomb and the purpose of its guardians' missing reliquaries remain unknown.
 - The prison warning against trusting a halfling, the reworked halfling funerary carvings, and the threat to the vault remain unexplained.
-- Valedictus remains in power according to Lord Varrick, but his present form and connection to the soul-bound vault remain unclear.
+- Valedictus remains in power according to Lord Varrick, but his precise connection to the soul-bound vault remains unclear.
 - Captain Varro remains undead, and the Bonebreakers have promised to lay him to rest.
-- [[npcs/necropolis/valedictus|Valedictus]] is the high priest in Arch III's temple district and is said to “see all,” but his present condition remains unknown.
+- [[npcs/necropolis/valedictus|Valedictus]] is the high priest in Arch III's temple district and is said to “see all”; the party has not met him directly.
 - The command quarter reached through the Imperial Hill Temple connects to the Nexus through Arch I.
 - Varro says the Imperial Family Tomb belongs to a separate district from his command quarter; why secret passages connect the two remains unknown.
 - The party escaped the poisonous-gas trap, but the permanently blinded incorporeal spirit remains active in the command quarter.

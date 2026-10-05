@@ -10,6 +10,7 @@ source_sessions:
   - 59
   - 60
   - 66
+  - 68
 ---
 
 ## Overview
@@ -29,6 +30,7 @@ The Nightmare-Revealing Telescope is one of the strangest treasures taken from t
 - In [[sessions/session-059|Session 59]], Barny aims it at the twenty-four wights guarding the [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]] and sees them dreaming of reliquaries they no longer wear. One sarcophagus occupant dreams of power and wealth.
 - In [[sessions/session-060|Session 60]], Barny aims it at a blinded incorporeal spirit and sees a [[items/glowing-skull|glowing skull]] in lizardfolk hands, strengthening the party's conclusion that the skull is one of Valedictus's phylacteries.
 - In [[sessions/session-066|Session 66 - Masquerade]], Barny uses the telescope during his act at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]. It reveals a noble's nightmare of [[npcs/agria/queen-audrey-ii|Queen Audrey II]] being murdered in the streets. Barny brings the dream into his performance, and the noble vehemently denies it. The vision establishes neither an actual attack nor the noble's intentions.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], Barny examines the captive [[npcs/velur/lirina|Lirina]] at the Mercy and sees a nightmare of plague devastating Agria. The vision suggests she genuinely fears the disaster and wants to avert it; it establishes neither a future outbreak nor its cause.
 
 ## Current status
 
@@ -41,3 +43,4 @@ Barny is the last clearly known bearer.
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-066|Session 66 - Masquerade]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]

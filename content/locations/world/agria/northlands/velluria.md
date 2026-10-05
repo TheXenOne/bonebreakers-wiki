@@ -10,6 +10,7 @@ source_sessions:
   - 65
   - 66
   - 67
+  - 68
 ---
 
 ## Overview
@@ -30,3 +31,4 @@ Arthur's household archives record repeated journeys to Velluria, increasing mar
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]

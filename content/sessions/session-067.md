@@ -85,11 +85,11 @@ By Day 193 the Bonebreakers hold the Countess of Velluria captive in her own pal
 
 - Lirina's awareness of the party: **Resolved in Session 67.** Her spy network has gathered intelligence on the Bonebreakers and expects them at the masquerade.
 - Lirina's ambitions: **Partially resolved.** Her thoughts confirm a bid for power, at minimum the ducal seat in Arthur's absence. How she means to achieve it, and her part in the threat to [[npcs/agria/princess-agatha|Agatha]], remain unestablished.
-- Lirina as an assassin: **Still unresolved.** The armoury, covert clothing, and aliases strongly suggest it, but her other identities and any killings are unknown.
-- [[quests/major/active/grey-syndicate-conspiracy|The Grey Khan connection]]: **Still unresolved.** Lirina knows who the Grey Khan is, but the party has not learned the Khan's identity.
+- Lirina as an assassin: **Partially resolved in Session 68.** The party identifies her as Ash and the Grey Khan. How she concealed her identity as Ash and the extent of her personal role in individual killings remain unclear.
+- [[quests/major/active/grey-syndicate-conspiracy|The Grey Khan connection]]: **Resolved in Session 68.** Further ESP questioning identifies Lirina as Ash and links Ash to the Khan. Her mental separation of the identities explains the apparent denial here.
 - The encoded letters: **Still unresolved.** The party holds the letters and the cipher book but has not decoded them.
 - Miranda's letter: **Still unresolved.** Its author, and what Miranda is meant to learn from Wendell before he gives evidence, are unknown.
-- The captive countess: **Still unresolved.** The party holds Lirina bound in her own palace while Rose impersonates her. Petrand is charmed and two servants have been talked round, but how long the deception can last is uncertain.
+- The captive countess: **Partially resolved in Session 68.** [[npcs/velur/opal|Opal]] exposes Rose's impersonation and the Watch attempts an arrest. The Bonebreakers escape with Lirina and take her to the Mercy, where her fate and proposed alliance remain undecided.
 - The assassination scare: **Still unresolved.** The guests have left believing a range of rumours, some blaming the acrobat or the magician. Miranda expects serious political consequences.
 - The nightmare of Audrey's murder: **Still unresolved.** The noble says he does not know why he has such a dream.
 - [[quests/major/active/princess-agathas-secret-patronage|Agatha's commission]]: **Partially resolved; investigation active.** The party has strong evidence of Lirina's ambitions and her link to the Grey Khan, but has not yet reported to Agatha.
@@ -97,3 +97,4 @@ By Day 193 the Bonebreakers hold the Countess of Velluria captive in her own pal
 ## Related sessions
 
 - Previous: [[sessions/session-066|Session 66 - Masquerade]]
+- Next: [[sessions/session-068|Session 68 - Ashes to Ashes]]

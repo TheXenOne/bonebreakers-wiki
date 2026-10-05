@@ -33,11 +33,12 @@ source_sessions:
   - 63
   - 64
   - 67
+  - 68
 ---
 
 ## Overview
 
-The Grey Syndicate is a covert organisation active across [[locations/world/westmarsh|Westmarsh]] and the frontier around [[locations/world/agria/west-fort|Westfort]]. It links sabotage, kidnapping, smuggling, political manipulation, and delayed-action raids into a single conspiracy. By [[sessions/session-053|Session 53]], captured orcs also tie the Syndicate to earlier attacks on [[locations/world/agria/southlands/mercy|the Mercy]].
+The Grey Syndicate is a covert organisation active across [[locations/world/westmarsh|Westmarsh]] and the frontier around [[locations/world/agria/west-fort|Westfort]]. It links sabotage, kidnapping, smuggling, political manipulation, and delayed-action raids into a single conspiracy. Captured orcs also tie the Syndicate to attacks on [[locations/world/agria/southlands/mercy|the Mercy]]. Its leader, identified by the Bonebreakers as [[npcs/velur/lirina|Lirina]] under the identities of Ash and the Grey Khan, is their prisoner, but the dispersed organisation remains a threat.
 
 ## Purpose or role
 
@@ -45,10 +46,10 @@ The Syndicate is the main hidden enemy behind the Westfort sabotage arc and late
 
 ## Leadership
 
-- [[npcs/westmarsh/grey-syndicate/ash|Ash]] acts as a handler, negotiator, and apparent field leader.
+- [[npcs/velur/lirina|Lirina]], Countess of Velluria, is identified as [[npcs/westmarsh/grey-syndicate/ash|Ash]], the party's recurring handler and negotiator, and as the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]. Her thoughts support her claim to answer to nobody.
 - [[npcs/westmarsh/grey-syndicate/jeremy|Jeremy]] serves as a middleman and courier.
 - [[npcs/west-fort/grey-syndicate/vex|Vex]] operates a local embedded cell in Westfort.
-- [[npcs/westmarsh/grey-syndicate/the-grey-khan|The Grey Khan]] is presented as the group's supposed top leader, though Ash later claims that title herself.
+- Lirina mentally distinguishes her identities; linking her to Ash and Ash to the Khan convinces the party that it has found the network's leader.
 
 ## Notable members
 
@@ -69,6 +70,7 @@ The Syndicate is the main hidden enemy behind the Westfort sabotage arc and late
 - The Syndicate works with or through compromised local agents such as Vex and Borak.
 - It becomes directly linked to [[npcs/agria/prince-arthur|Prince Arthur]].
 - It is opposed by the [[factions/military-and-orders/west-fort-garrison|Westfort Garrison]], Princess Agatha's bloc, and the [[factions/other/bonebreakers|Bonebreakers]].
+- Lirina regards [[npcs/necropolis/valedictus|Valedictus]] as an arch-enemy. Her proposed alliance with the Bonebreakers has not been accepted.
 
 ## Campaign involvement
 
@@ -82,10 +84,11 @@ The Syndicate is the main hidden enemy behind the Westfort sabotage arc and late
 - In [[sessions/session-063|Session 63]], Kargaz confirms Syndicate support for his war and its promise to give him Westfort if he captured it.
 - In [[sessions/session-064|Session 64]], Agatha suspects the threat extends beyond the Syndicate and sends the party to investigate Arthur's supporters in Kingsport. No wider mastermind has been identified.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], the captured [[npcs/velur/lirina|Lirina]], Countess of Velluria, proves to know who the Grey Khan is. One of her encoded messages is meant for the Khan, warning that the Bonebreakers are operating in the Northlands and are expected at her masquerade.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], at the Mercy, Selvar's ESP identifies Lirina as Ash. Her thoughts distinguish Lirina from the Grey Khan, but she affirms that Ash is the Khan; the Bonebreakers conclude that they have captured the Syndicate's leader. She admits using Arthur, justifies replacing Westfort's defenders with her army, and says her plans will continue without her. Her genuine hatred of Valedictus opens the possibility of an alliance, which the Bonebreakers have not accepted.
 
 ## Current status
 
-Active despite the loss of Arthur's freedom and Kargaz's army. Kargaz confirms that the Syndicate supported his war and promised him Westfort; the organisation's larger objective remains unknown. Agatha suspects a wider force behind the Northlands unrest, but has not established one. Its possible interest in Valedictus remains Varrick's speculation. [[npcs/velur/lirina|Lirina]], Countess of Velluria, knows who the Grey Khan is.
+Active despite Arthur's arrest, the defeat of Kargaz's army, and the capture of Lirina/Ash. Lirina says her plans will continue without her personal direction. She genuinely wants Valedictus destroyed and offers cooperation with the Bonebreakers, but the party has made no agreement. Her justification for the invasion is that her army would have defended Westfort better; her claim to serve Agria's stability does not erase the network's crimes.
 
 ## Related sessions
 
@@ -102,13 +105,14 @@ Active despite the loss of Arthur's freedom and Kargaz's army. Kargaz confirms t
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]
 
 ## Unresolved threads
 
-- Whether Ash truly is the Grey Khan remains unresolved.
+- The leader's identity is resolved from the party's perspective, but the network's actions during her captivity remain unknown.
 - The Syndicate's full leadership, reach, and long-term goals are still only partly known.
 - Whether the orc delay order was meant to keep the Bonebreakers away from Westfort, the Necropolis, or something else remains unresolved.
-- Why the Syndicate supported Kargaz and wanted him to control Westfort remains unresolved.
+- Lirina justifies the invasion as a way to garrison Westfort with her own army; how this fits the promise of control to Kargaz remains unclear.
 - Whether a force beyond the Syndicate is involved in the Northlands unrest remains unknown.
 - The contents of Lirina's encoded letters remain unknown.
-- Whether the Syndicate wants Valedictus's power or his destruction remains unresolved.
+- Lirina wants Valedictus destroyed, but the terms and consequences of cooperating with her remain unresolved.

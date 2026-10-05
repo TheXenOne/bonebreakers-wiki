@@ -12,11 +12,12 @@ source_sessions:
   - 59
   - 60
   - 61
+  - 68
 ---
 
 ## Overview
 
-Valedictus is an ancient imperial high priest and necromancer connected to the deepest mysteries of [[locations/world/westmarsh/necropolis|the Necropolis]]. The Bonebreakers first know him as the author of an iron-bound treatise on souls, binding, compulsion, and necrotic arts. [[npcs/necropolis/captain-varro|Captain Varro]] later places him in the temple district beyond [[locations/world/westmarsh/necropolis/arch-iii|Arch III]], saying that Valedictus “sees all.” [[npcs/necropolis/lord-varrick|Lord Varrick]] describes him as an expansionist who sought continental dominion, remains in power, and possesses three phylacteries.
+Valedictus is an ancient imperial high priest and necromancer who sought dominion across the continent and remains a threat within [[locations/world/westmarsh/necropolis|the Necropolis]]. He is the author of the treatise on souls, binding, compulsion, and necrotic arts recovered by the Bonebreakers. [[npcs/necropolis/captain-varro|Captain Varro]] places him in the temple district beyond [[locations/world/westmarsh/necropolis/arch-iii|Arch III]] and warns that he “sees all.” [[npcs/necropolis/lord-varrick|Lord Varrick]] says he remains in power and possesses three phylacteries.
 
 ## Known history
 
@@ -29,10 +30,11 @@ Valedictus is an ancient imperial high priest and necromancer connected to the d
 - Varrick warns that Agria's undead problem will worsen while Valedictus remains in power, reveals that Valedictus has three phylacteries, and advises the party to find [[items/the-stylus|the Stylus]].
 - The party strongly suspects that [[items/glowing-skull|the glowing skull]] found in Arch VII and later traded away is one of those phylacteries. They suspect the three-locked soul-bound chest beneath the Imperial Hill Temple may hold another, but have no proof.
 - In [[sessions/session-061|Session 61]], Barny clarifies that the probable skull phylactery is being studied closely by a lizardfolk shaman from an unidentified clan.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], Lirina names Valedictus as an arch-enemy she wants destroyed. Selvar's ESP confirms her hatred. Her offer to help the Bonebreakers combat the Necropolis's evil remains undecided.
 
 ## Current status
 
-Still in power according to Lord Varrick, though the Bonebreakers have not entered the temple district or seen Valedictus directly. His present form remains unknown. The party now has new leads involving [[quests/major/active/valedictus-and-his-phylacteries|his phylacteries]] and the Stylus, but does not yet know how either can be used against him.
+Still in power according to Lord Varrick, though the Bonebreakers have not entered the temple district or seen Valedictus directly. The party now has new leads involving [[quests/major/active/valedictus-and-his-phylacteries|his phylacteries]] and the Stylus, but does not yet know how either can be used against him.
 
 ## Related locations
 
@@ -47,6 +49,7 @@ Still in power according to Lord Varrick, though the Bonebreakers have not enter
 - [[sessions/session-059|Session 59]]
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-061|Session 61]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]
 
 ## Open questions
 

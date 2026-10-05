@@ -38,6 +38,7 @@ source_sessions:
   - 65
   - 66
   - 67
+  - 68
 ---
 
 ## Overview
@@ -91,6 +92,7 @@ Barbarian.
 - In [[sessions/session-065|Session 65]], he uses his sword to cast Charm Person on [[npcs/kingsport/elspeth-crane|Mistress Elspeth Crane]] after she catches Selvar at a royal seal, then opens and reseals the archive cabinet. He blames [[npcs/kingsport/corvin-dace|Corvin Dace]] for the party's jewellery theft, tracks and captures him, and secures his arrest with Elspeth's support and Micaelis's planted evidence.
 - In [[sessions/session-066|Session 66 - Masquerade]], Steve poses as Frank's Ramen bodyguard at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] masquerade. Frank presents a forged invitation and Steve's gift of bear hide and leatherwork before the pair enter the palace.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Steve slips into the servants' quarters during the blackout and physically restrains [[npcs/velur/lirina|Lirina]] when she runs into the party, then takes her diamond necklace. Rose uses his sword to charm Lord Petrand Kush. During Lirina's interrogation he begins preparing to torture her, and the rest of the party stops him.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], Steve carries Lirina off the palace balcony and hides with her in the gardens, then charms a checkpoint guard to secure the escape. At the Mercy his questioning, alongside Selvar's ESP, connects Lirina to Ash and Ash to the Grey Khan.
 
 ## Relationships
 
@@ -129,3 +131,4 @@ Active. No longer infected by the Bloated One's rotting disease, stronger after 
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]

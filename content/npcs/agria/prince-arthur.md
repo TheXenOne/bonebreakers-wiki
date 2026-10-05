@@ -19,6 +19,7 @@ source_sessions:
   - 65
   - 66
   - 67
+  - 68
 ---
 
 ## Overview
@@ -61,6 +62,7 @@ Ambitious, jealous of Agatha, and politically compromised. His correspondence sh
 - [[npcs/agria/prince-arthurs-retinue/captain-hassock|Captain Hassock]] remains outwardly loyal to Arthur but ultimately carries out his arrest on Smith's orders.
 - Seeks guidance from the Grey Khan, later tied to [[npcs/westmarsh/grey-syndicate/ash|Ash]].
 - Love letters and portraits connect him personally to [[npcs/velur/lirina|Lirina]]. Rumours that she abandoned him after his arrest remain unconfirmed.
+- Lirina, identified as Ash and the Grey Khan, says Arthur adored her and that she treated him as a useful tool. She insists his mistakes were his own; her exact influence over his decisions remains unclear.
 
 ## Campaign events
 
@@ -72,6 +74,7 @@ Ambitious, jealous of Agatha, and politically compromised. His correspondence sh
 - In [[sessions/session-065|Session 65]], the search of [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] reveals love letters to [[npcs/velur/lirina|Lirina]], increasingly cautious political drafts, repeated trips to Velluria, and a payment for discretion in Harrow. Lirina's note warns against rash action and committing anything to paper. Servants repeat unconfirmed rumours that she abandoned him and that the Queen intends to close his palace.
 - In [[sessions/session-066|Session 66 - Masquerade]], Nila hears rumours at Lirina's masquerade that the countess is trying to take Arthur's place. Lirina speaks about Agria's political uncertainty beside an empty ducal chair, but her intentions and any change to Arthur's position remain unconfirmed.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], [[npcs/velur/lirina|Lirina]]'s thoughts confirm that she intends at least to become Duchess during his absence. A letter stolen from [[npcs/velur/lady-miranda|Lady Miranda]] shows that an unidentified writer claiming to be Arthur's friend wants her to speak to [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]] before he gives evidence.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], Lirina is identified as Ash and the Grey Khan. She describes Arthur as a useful tool who adored her and resented Agatha, while denying responsibility for his mistakes. Her offer to the party links greater rewards to her becoming Duchess, without any change to Arthur's title or arrested status.
 
 ## Current status
 
@@ -87,12 +90,13 @@ Under arrest and facing trial. Agatha says he would remain the only surviving he
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]
 
 ## Unresolved threads
 
 - Arthur's final fate is unresolved.
 - It is still unclear how far knowledge of his conspiracy has spread beyond Smith, the party, and the immediate witnesses.
-- Lirina's role in his political plans, the purpose of his repeated visits to Velluria, and whether she has abandoned him remain unresolved.
+- Lirina admits using him, but the extent of her direction of his plans, the purpose of each visit to Velluria, and whether she has abandoned him remain unresolved.
 - Rumours that the Queen intends to close his palace are unconfirmed.
 - Lirina means at least to take his ducal seat while he is absent. Whether she helped bring about his fall is not established.
 - Who the self-described friend writing to Lady Miranda is, and what they hope Wendell will tell her, remain unknown.

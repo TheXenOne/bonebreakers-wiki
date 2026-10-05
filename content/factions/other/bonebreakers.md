@@ -29,6 +29,7 @@ source_sessions:
   - 65
   - 66
   - 67
+  - 68
 ---
 
 ## Overview
@@ -70,12 +71,15 @@ Leadership is shared and situational rather than strictly formal.
 - In [[sessions/session-065|Session 65]], the party uncovers evidence of Arthur’s ties to [[npcs/velur/lirina|Lirina]], then frames [[npcs/kingsport/corvin-dace|Corvin Dace]] for its own palace theft. The Queen’s Guard accepts the accusation, returns the party’s weapons at the dockside guardhouse, temporarily permits it to carry them, and pays for an inn stay.
 - In [[sessions/session-066|Session 66 - Masquerade]], the company enters Lirina's masquerade at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] as guests, entertainers, and a server. Lirina appears to recognise them. Nila steals a letter from a noblewoman with royal connections, while Barny reveals another noble's nightmare of Audrey's murder during his act.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], the company captures [[npcs/velur/lirina|Lirina]] during an assassination scare at her own masquerade and holds her prisoner in the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] while Rose impersonates her. Her thoughts and private rooms reveal her ambition for the ducal seat, a spy network, an assassin's armoury, and a warning written for the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] that the Bonebreakers are expected.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], the party escapes the Vellurian Watch with the captive countess, identifies Lirina as Ash and the Grey Khan at the Mercy, and debates her alliance offer against Valedictus without reaching a decision.
 
 ## Current status
 
 Active and increasingly influential. The company is publicly honoured as a defender of Westfort and holds a key to the city.
 
 The party also remains Agatha's covert agent, investigating Arthur's supporters while protecting her concealment.
+
+The company holds Lirina, identified as Ash and the Grey Khan, at the Mercy after resisting arrest and escaping Velur. It is divided almost evenly over her proposal to cooperate against Valedictus. No alliance has been agreed, and Agatha has not yet received the investigation's findings.
 
 ## Related sessions
 
@@ -93,9 +97,11 @@ The party also remains Agatha's covert agent, investigating Arthur's supporters 
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]
 
 ## Unresolved threads
 
 - The company's long-term formal structure, if any, remains loose.
 - Its future relationship with Agatha, Arthur, and the Mercy's growing political weight remains unresolved.
 - Whether its captured gryphons can be safely trained and bred as mounts remains unresolved.
+- Whether to cooperate with Lirina despite the Syndicate's crimes, and how the Vellurian Watch will respond to the party's escape, remain unresolved.

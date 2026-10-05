@@ -59,6 +59,7 @@ Appearing as Barnobuck the Bizarre, Barny performs grotesque tricks involving kn
 - Arden Sable, Ulrich, Francis “Frank” Spencer Gray, Steve “Ligma” Smith, Rose, Barnobuck “Barny” the Bizarre, and Nila.
 - [[npcs/agria/east-agria-company/captain-winston|Captain Winston]] and the unnamed forger he introduces to Frank.
 - [[npcs/velur/lirina|Lirina]], the master of ceremonies, and the palace organisers and attendants.
+- [[npcs/velur/opal|Lirina's attendant]], seen attending the countess during the masquerade.
 - The unnamed noblewoman with royal connections, the physician approached by Arden, and the noble whose nightmare Barny reveals.
 - Barny's newly raised undead assistant.
 - Arthur, Agatha, and Audrey are discussed or appear in the nightmare; they are not encountered at the gathering.

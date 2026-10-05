@@ -92,12 +92,12 @@ The final move is into locked-down [[locations/world/agria/southlands/ikiria|Iki
 
 ## Threads raised this session
 
-- The attempt to capture Ash inside the Spider Market hits a decoy, leaving Ash at large while costing the Syndicate 20,000 gold. Status: Partially resolved.
+- The attempt to capture Ash hits a decoy and costs the Syndicate 20,000 gold. **Resolved in Sessions 67–68:** the party later captures Lirina and identifies her as Ash at the Mercy.
 - Wendell finally gives evidence against Arthur, leading directly to Arthur's arrest in Ikiria. Status: Partially resolved.
 - Princess Agatha is absent from locked-down Ikiria, and Smith does not know where she is. Status: Still unresolved.
 - Ikiria's sickness and unrest have escalated into a sealed, divided city. Status: Still unresolved.
 - Renewed but reduced invasion preparations are seen again at [[locations/world/westmarsh/invasion-fort|the Invasion Fort]]. Status: Still unresolved.
-- Ash's claim to be the Grey Khan is still not independently confirmed. Status: Still unresolved.
+- Ash's claim to be the Grey Khan: **Resolved in Session 68.** ESP and linked questions connect Lirina, Ash, and the Khan, convincing the party it has captured the Syndicate's leader.
 
 ## Related sessions
 

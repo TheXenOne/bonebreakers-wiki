@@ -65,6 +65,7 @@ source_sessions:
   - 63
   - 66
   - 67
+  - 68
 ---
 
 ## Overview
@@ -149,6 +150,7 @@ Magic-user.
 - In [[sessions/session-063|Session 63]], Barny questions the reanimated Kargaz and learns that the Grey Syndicate supported the hobgoblin war and promised Kargaz control of Westfort. During the party's week in Ikiria, Barny secretly researches magic intended to command and temporarily possess undead after attacking them. In Harrow, he asks the Anchor & Chain's landlady where contraband can be sold.
 - In [[sessions/session-066|Session 66 - Masquerade]], Barny gains entry to the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] as a replacement magician, having raised a minor undead to serve as his assistant. His [[items/party-inventory/nightmare-revealing-telescope|telescope]] reveals a noble's nightmare of Queen Audrey's murder; Barny brings it into his performance, and the noble vehemently denies it. He then cuts apart and reassembles his assistant, horrifying the audience.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Barny ends his act by producing his magical candle, putting out every light in the ballroom and setting off the panic in which Lirina flees and is captured. He flies to the noble whose nightmare he has revealed, who says he does not know why he has such a dream of Audrey's murder and thanks Barny for his discretion. While the others search Lirina's rooms, Barny steals jewellery and artwork. His threats during her interrogation make no impression on her.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], Barny uses Dame Silka Voss's alarm whistle from the opposite side of the palace to divert reinforcements and enable the escape. At the Mercy his telescope shows Lirina's nightmare of plague devastating Agria. He challenges her claim to seek stability by asking why she orchestrated the invasion of Westfort.
 
 ## Relationships
 
@@ -216,3 +218,4 @@ Active.
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]

@@ -16,6 +16,7 @@ source_sessions:
   - 45
   - 46
   - 47
+  - 68
 ---
 
 ## Overview
@@ -48,8 +49,4 @@ The Spider Market is a neutral monster market in [[locations/world/westmarsh|Wes
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-047|Session 47]]
-
-## Unresolved threads or mysteries
-
-- Ash remains at large despite the failed exchange and decoy raid.
-- Ash's claim to be the Grey Khan has not been independently confirmed.
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]

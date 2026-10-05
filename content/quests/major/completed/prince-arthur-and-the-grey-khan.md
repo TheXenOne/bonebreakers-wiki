@@ -16,6 +16,7 @@ related_sessions:
   - 47
   - 64
   - 65
+  - 68
 related_locations:
   - Road toward Ikiria
   - The Mercy
@@ -35,6 +36,7 @@ source_sessions:
   - 47
   - 64
   - 65
+  - 68
 ---
 
 ## Overview
@@ -90,11 +92,12 @@ The consequences of the conspiracy and arrest for Princess Agatha and the Crown 
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]
 
 ## Loose ends
 
 - Arthur's final fate is unresolved.
-- Ash's claim to be the Grey Khan still needs confirmation.
+- Ash's claim is accepted after Lirina's interrogation in [[sessions/session-068|Session 68 - Ashes to Ashes]]. The wider network and proposed alliance remain part of the [[quests/major/active/grey-syndicate-conspiracy|active Syndicate investigation]].
 - The consequences for Princess Agatha and the Crown remain unknown.
 
 ## Continuing consequences
@@ -102,3 +105,5 @@ The consequences of the conspiracy and arrest for Princess Agatha and the Crown 
 Arthur's arrest remains complete, but his trial and supporters still matter. In [[sessions/session-064|Session 64]], Agatha warns that her death would leave him the only surviving heir. The Bonebreakers enter [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] under a false claim of support as part of the [[quests/major/active/grey-syndicate-conspiracy|continuing conspiracy investigation]].
 
 In [[sessions/session-065|Session 65]], correspondence and travel records point toward [[npcs/velur/lirina|Lirina]] and Velluria, while an incomplete letter anticipates Agatha’s disgrace. These discoveries advance the wider investigation without changing Arthur’s arrested status or resolving his trial. Corvin’s arrest is based on jewels planted by the party and does not prove his involvement in Arthur’s conspiracy.
+
+In [[sessions/session-068|Session 68 - Ashes to Ashes]], the party identifies Lirina as Ash and the Grey Khan. She admits treating Arthur as a useful tool but insists his mistakes were his own. His arrest and completed exposure remain unchanged; the unresolved alliance belongs to the wider Syndicate investigation.

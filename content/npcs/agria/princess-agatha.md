@@ -19,6 +19,7 @@ source_sessions:
   - 63
   - 64
   - 65
+  - 68
 ---
 
 ## Overview
@@ -71,10 +72,13 @@ Pragmatic, politically dangerous, and willing to reward useful service.
 - In [[sessions/session-063|Session 63]], Gilly reports that Agatha remains missing. A Company secretary says she is safe but indisposed and gives the party a letter apparently from Agatha summoning them to Harrow. The letter's authenticity is not established.
 - In [[sessions/session-064|Session 64]], she meets the party secretly in Harrow with Smith and Nelson, confirms she must remain hidden, and directs an investigation beginning with Count Venn.
 - In [[sessions/session-065|Session 65]], Arthur's palace yields jealous correspondence, an incomplete letter anticipating her disgrace and a duke fit to be king, and her own letter urging Arthur to take his responsibilities seriously. The discoveries point toward Lirina, but the Bonebreakers have not yet reported back to Agatha.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], Micaelis reveals to the captive Lirina that the party has been in contact with Agatha, but refuses to disclose her location. Lirina says a contract could be made to cooperate with the princess, without making a commitment. No agreement or report to Agatha follows.
 
 ## Current status
 
 Alive and in hiding, last met covertly in Harrow with Smith and Nelson. She has renewed the Bonebreakers' commission to investigate the Northlands conspiracy, giving it priority over the Necropolis.
+
+Lirina now knows the Bonebreakers can contact her, but Micaelis has withheld her whereabouts. The party's findings and Lirina's proposed cooperation have not been brought to her.
 
 ## Related sessions
 
@@ -88,10 +92,11 @@ Alive and in hiding, last met covertly in Harrow with Smith and Nelson. She has 
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]
 
 ## Unresolved threads
 
 - Who is orchestrating the wider threat to her life remains unknown; her suspicion of a force beyond the Syndicate is unconfirmed.
-- The Bonebreakers have captured [[npcs/velur/lirina|Lirina]] and linked her to the Grey Khan, but have not yet reported to Agatha.
+- The Bonebreakers hold [[npcs/velur/lirina|Lirina]], identified as Ash and the Grey Khan, at the Mercy but have not yet reported to Agatha. Lirina knows the party can contact the princess without knowing her whereabouts.
 - Arthur would be the only surviving heir if she died, despite the proceedings against him.
 - The precise authorship of the Harrow letter was not explicitly confirmed, although the party successfully found Agatha there.

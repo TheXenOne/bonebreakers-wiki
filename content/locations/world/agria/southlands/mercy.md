@@ -25,6 +25,7 @@ source_sessions:
   - 53
   - 54
   - 60
+  - 68
 ---
 
 ## Overview
@@ -89,6 +90,7 @@ The cathedral later became the Church of the Crimson Flame and fell into corrupt
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-060|Session 60]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]
 
 ## Unresolved threads or mysteries
 

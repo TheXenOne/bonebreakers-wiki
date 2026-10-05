@@ -93,7 +93,7 @@ The party allows Ash to end the meeting, then considers killing her guards quiet
 ## Threads raised this session
 
 - Tobold's fate is finally confirmed. Status: Resolved in Session 46.
-- Ash's claim that she is the Grey Khan changes the Syndicate's shape, but the truth of that claim is not yet proven. Status: Partially resolved.
+- Ash's claim to be the Grey Khan: **Resolved in Session 68.** ESP identifies the captive Lirina as Ash, and linked questions establish that Ash is the Khan from the party's perspective.
 - The planned exchange for the secretary has not happened yet. Status: Still unresolved.
 - The Bonebreakers' plan to strike inside the Spider Market remains untested and highly dangerous. Status: Still unresolved.
 - The western necropolis entrance may connect to the route beneath the Mercy, but this is not confirmed here. Status: Still unresolved.

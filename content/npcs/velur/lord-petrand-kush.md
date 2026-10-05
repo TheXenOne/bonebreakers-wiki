@@ -13,7 +13,7 @@ source_sessions:
 
 ## Overview
 
-Lord Petrand Kush is the Master of Revels at [[npcs/velur/lirina|Lirina]]'s [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] in [[locations/world/agria/northlands/velluria/velur|Velur]]. [[characters/active-players/laura/characters/rose|Rose]], disguised as the countess, charms him, and he now believes she is Lirina.
+Lord Petrand Kush is the Master of Revels at [[npcs/velur/lirina|Lirina]]'s [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] in [[locations/world/agria/northlands/velluria/velur|Velur]]. [[characters/active-players/laura/characters/rose|Rose]], disguised as the countess, charms him into accepting her as Lirina, helping the party conceal its capture of the real countess.
 
 ## Relationship with the Bonebreakers
 
@@ -25,7 +25,7 @@ Charmed, and treating Rose as the countess. He does not know that the real Lirin
 
 ## Open questions
 
-- How long the charm and the impersonation will hold.
+- How long Rose's charm will last.
 - Whether he is the master of ceremonies who introduced Lirina at the start of the masquerade: **Needs review**.
 
 ## Related sessions

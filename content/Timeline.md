@@ -73,12 +73,13 @@ source_sessions:
     65,
     66,
     67,
+    68,
   ]
 ---
 
-The Bonebreakers through [[sessions/session-067|Session 67]]. [[#Sessions 61–67|Jump to the latest events]].
+The Bonebreakers through [[sessions/session-068|Session 68]]. [[#Sessions 61–68|Jump to the latest events]].
 
-Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sessions 21–30|21–30]] · [[#Sessions 31–40|31–40]] · [[#Sessions 41–50|41–50]] · [[#Sessions 51–60|51–60]] · [[#Sessions 61–67|61–67]]
+Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sessions 21–30|21–30]] · [[#Sessions 31–40|31–40]] · [[#Sessions 41–50|41–50]] · [[#Sessions 51–60|51–60]] · [[#Sessions 61–68|61–68]]
 
 ## Sessions 1–10
 
@@ -446,7 +447,7 @@ Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sess
 
   [[npcs/necropolis/lord-varrick|Lord Varrick]] warns that Agria's undead crisis will worsen while Valedictus remains in power and recommends finding [[items/the-stylus|the Stylus]], while the party suspects the skull Steve traded away is a phylactery.
 
-## Sessions 61–67
+## Sessions 61–68
 
 - [[sessions/session-061|Session 61]]
 
@@ -489,3 +490,9 @@ Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sess
   **The Bonebreakers capture Lirina, who knows the Grey Khan's identity**
 
   Seized as she flees a blackout at her own masquerade and replaced by Rose in disguise, [[npcs/velur/lirina|the countess]] is revealed by ESP and her hidden armoury as an aspiring duchess and likely assassin whose coded message to the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] warns that the party is coming.
+
+- [[sessions/session-068|Session 68]]
+
+  **Lirina is identified as Ash and the Grey Khan; her alliance offer divides the party**
+
+  Escaping arrest by the Vellurian Watch, the Bonebreakers bring the countess to the Mercy, where ESP links her identities. She genuinely wants Valedictus destroyed and offers cooperation, but no agreement is reached; she says her plans can continue without her, and Agatha has yet to receive the findings.

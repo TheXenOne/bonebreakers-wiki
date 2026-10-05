@@ -16,6 +16,7 @@ related_sessions:
   - 60
   - 61
   - 64
+  - 68
 related_locations:
   - The Necropolis
   - Arch III
@@ -24,6 +25,7 @@ related_locations:
 related_npcs:
   - Valedictus
   - Lord Varrick
+  - Lirina
 related_factions:
   - House Varrick
   - Grey Syndicate
@@ -34,6 +36,7 @@ source_sessions:
   - 60
   - 61
   - 64
+  - 68
 ---
 
 ## Overview
@@ -55,19 +58,21 @@ The Bonebreakers first find Valedictus's necromantic treatise in [[sessions/sess
 - In [[sessions/session-061|Session 61]], Barny clarifies that a lizardfolk shaman from an unidentified clan is studying the probable skull phylactery closely.
 - The party suspects the three-locked soul-bound chest beneath the Imperial Hill Temple may hold another, but has no proof.
 - Varrick advises the party to find the Stylus, but does not explain what it is or why it matters.
-- Lord Varrick suggests the Grey Syndicate may be seeking Valedictus's power or trying to destroy him. Their actual aim remains unknown.
+- Lord Varrick suggests the Grey Syndicate may be seeking Valedictus's power or trying to destroy him. Lirina's later testimony supports the latter possibility.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], the captive [[npcs/velur/lirina|Lirina]] names Valedictus as an arch-enemy. Selvar's ESP confirms her genuine hatred. Barny's telescope shows a nightmare of Agria devastated by plague, suggesting that she fears such a disaster without proving its cause. She proposes an alliance, but the Bonebreakers remain divided.
 
 ## Current status
 
-Active. The Bonebreakers know that Valedictus is tied to Arch III and possesses three phylacteries, but they do not know his present form or the locations of all three. One probable phylactery has passed out of their hands and is now being studied by an unidentified lizardfolk shaman. The Stylus is a separate lead of uncertain importance.
+Active. The Bonebreakers know that Valedictus is tied to Arch III and possesses three phylacteries. The phylacteries remain unsecured. One probable phylactery has passed out of their hands and is now being studied by an unidentified lizardfolk shaman. The Stylus is a separate lead of uncertain importance.
 
-Agatha's covert investigation now takes priority over a return below, following her commission in [[sessions/session-064|Session 64]]. The Necropolis objectives remain active but temporarily deprioritised.
+The investigation for Agatha has brought the Bonebreakers back to the Mercy with Lirina, identified as Ash and the Grey Khan, as their prisoner. She offers cooperation against the Necropolis's evil and all treasure the party finds there. Her hatred of Valedictus is real, but cooperation means working with the enemy responsible for a companion's death, child kidnappings, arson, and invasions. The party is divided over whether defeating the lich can justify that alliance and has agreed to nothing. Exploration has not resumed.
 
 ## Related characters and NPCs
 
 - [[npcs/necropolis/valedictus|Valedictus]]
 - [[npcs/necropolis/lord-varrick|Lord Varrick]]
 - [[npcs/necropolis/captain-varro|Captain Varro]]
+- [[npcs/velur/lirina|Lirina]]
 
 ## Related locations
 
@@ -90,12 +95,14 @@ Agatha's covert investigation now takes priority over a return below, following 
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]
 
 ## Loose ends
 
-- Valedictus's present form, location within the temple district, and immediate intentions remain unknown.
+- Valedictus's precise location within the temple district and immediate intentions remain unknown.
 - The locations of Valedictus's three phylacteries remain unknown.
 - The glowing skull's route from the Broken Crown to the lizardfolk shaman remains unexplained, as do the shaman's identity, clan, location, and purpose.
 - Whether the three-locked chest contains a phylactery remains only a suspicion.
 - The nature, location, function, and importance of the Stylus remain unknown.
-- Whether the Grey Syndicate seeks Valedictus's power or his destruction remains unresolved.
+- Lirina genuinely wants Valedictus destroyed, but whether the Bonebreakers will accept her help remains unresolved.
+- The cause and likelihood of the kingdom-wide plague in Lirina's nightmare, and any connection to Valedictus, remain unclear.

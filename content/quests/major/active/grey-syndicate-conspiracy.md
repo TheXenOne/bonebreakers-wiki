@@ -25,6 +25,7 @@ related_sessions:
   - 64
   - 65
   - 67
+  - 68
 related_locations:
   - Westfort
   - Spider Market
@@ -65,6 +66,7 @@ source_sessions:
   - 64
   - 65
   - 67
+  - 68
 ---
 
 ## Overview
@@ -89,10 +91,13 @@ The thread becomes visible when the party exposes Vex's sabotage cell in [[sessi
 - In [[sessions/session-064|Session 64]], Agatha says she suspects a force beyond even the Syndicate and doubts Arthur could have organised the unrest alone. The party follows a lead through Count Venn and Brother Sedge into Arthur's Palace, without yet identifying a wider mastermind.
 - In [[sessions/session-065|Session 65]], the palace search identifies [[npcs/velur/lirina|Lirina]], Countess of Velluria, as a lead through love letters, portraits, repeated journeys, and her warning against rash action and written commitments. Hugh Malory points to her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]]. Corvin takes letters and lies about his previous visits. His suspicious palace activity and flight after returning to the Royal Chamberlain's building lead the party to suspect he is not who he claims to be. The Bonebreakers frame him for their own jewellery theft and secure his arrest.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], the Bonebreakers capture Lirina at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] and find encoded letters, a cipher book, and an assassin's armoury in her rooms. Her thoughts reveal that the letters belong to her spy network, that she knows who the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] is without being the Khan, and that one message is meant to warn the Khan that the Bonebreakers are active in the Northlands and expected at her masquerade.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], at the Mercy, Selvar's ESP identifies Lirina as Ash. Her thoughts distinguish Lirina from the Grey Khan, but she affirms that Ash is the Khan; the Bonebreakers conclude that they have captured the Syndicate's leader. Lirina says her plans will continue without her and justifies the invasion as an attempt to replace Westfort's weak defenders with her own army. Her hatred of Valedictus is genuine, and a nightmare of plague ravaging Agria suggests fear of disaster. She offers an alliance, but the party cannot agree whether to accept.
 
 ## Current status
 
-Active. Kargaz's testimony confirms Syndicate support for his defeated war, but Ash remains at large and the network's purpose is unknown. Agatha and Smith are alive in hiding. The captive [[npcs/velur/lirina|Lirina]] knows who the Grey Khan is, and one of her encoded messages is meant to warn the Khan about the Bonebreakers. The Khan's identity and the contents of her other letters remain unknown.
+Active, with the leadership mystery resolved from the Bonebreakers' perspective. The party has escaped Velur and holds [[npcs/velur/lirina|Lirina]], identified as Ash and the Grey Khan, at the Mercy. Her thoughts support her claim to answer to no superior, and confirm that she genuinely wants Valedictus destroyed. She says her plans will continue without her; the network has not been dismantled.
+
+Lirina offers an alliance against the Necropolis's evil, claiming that she seeks Agria's stability. The Bonebreakers know her responsibility for a companion's death, child kidnappings, arson, and invasions. They remain divided over whether her help against Valedictus can justify cooperating with her, and have made no agreement. Agatha has not received its findings, and Lirina's other encoded letters remain undeciphered.
 
 ## Consequences
 
@@ -101,8 +106,12 @@ Active. Kargaz's testimony confirms Syndicate support for his defeated war, but 
 - Arthur's arrest turns part of the conspiracy from hidden leverage into open political evidence.
 - The priest kidnapping once attributed to Gruumsh's warband now appears to have been connected to the Syndicate, though the exact arrangement remains unclear.
 - Corvin is in custody on fabricated theft evidence. Elspeth remains charmed when she supports the party; exposure of the frame-up could compromise its position with the Queen’s Guard.
-- The party holds new documentary evidence, but has not yet reported it to Agatha. Any wider mastermind remains unproven.
+- The party has identified the Syndicate leader and holds new documentary evidence, but has not yet reported to Agatha. Lirina's thoughts support her claim to answer to nobody; this does not establish the extent of every force involved in the unrest.
 - One of Lirina's encoded messages is meant to warn the Grey Khan that the Bonebreakers are operating in the Northlands.
+- Capturing the Khan removes her freedom without establishing that the dispersed network has stopped operating.
+- The proposed alliance brings the Syndicate investigation directly into the campaign against Valedictus. No bargain or reconciliation has been reached.
+- Lirina knows the Bonebreakers have contact with Agatha, but not where the princess is hidden.
+- The party has resisted arrest by the Vellurian Watch and removed a reigning countess from her palace; the political response remains unknown.
 
 ## Related characters and NPCs
 
@@ -147,16 +156,17 @@ Active. Kargaz's testimony confirms Syndicate support for his defeated war, but 
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]
 
 ## Loose ends
 
-- Whether Ash really is the Grey Khan remains unresolved. Lirina knows the Khan's identity, but the party has not yet learned it from her.
-- The Syndicate's next move after losing 20,000 gold and Arthur's protection is unresolved.
+- Lirina is identified as Ash and the Grey Khan. How she concealed her identity as Ash: **Needs review**.
+- The Syndicate's next move after losing Arthur's protection, Kargaz's army, and its leader's freedom remains unknown.
 - Whether the Session 53 delay order targeted Westfort, the Necropolis, or another objective remains unresolved.
-- The Syndicate supported Kargaz's war, but what support it provided and why it wanted him to control Westfort remain unresolved.
-- Whether the Syndicate seeks Valedictus's necromantic power or intends to destroy him remains unresolved.
+- Lirina says the invasion was meant to put her own army in Westfort; how that aim fits Kargaz's promised control and the network's other operations remains unclear.
+- Lirina genuinely wants Valedictus destroyed. Whether the party will cooperate, and what her wider plans entail, remain unresolved.
 - Agatha and Smith have been found alive in hiding. The wider threat to Agatha, and any force beyond the Syndicate, remain unidentified.
-- Lirina wants the ducal seat, but her part in Arthur's plans remains unresolved.
+- Lirina admits treating Arthur as a useful tool but blames him for his own mistakes. Her precise influence over his decisions and the means of her intended rise to Duchess remain unclear.
 - Her encoded letters are undeciphered; the party holds the cipher book but not the key to using it.
 - The burned message “Smith already knows,” the payment for discretion in Harrow, and Corvin's repeated visits need explanation.
 - The hidden letter's author, recipient, and unclear reference to “con”: **Needs review**.

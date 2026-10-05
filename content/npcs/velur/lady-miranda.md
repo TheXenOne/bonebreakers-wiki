@@ -9,6 +9,7 @@ aliases:
 source_sessions:
   - 66
   - 67
+  - 68
 ---
 
 ## Overview
@@ -25,7 +26,7 @@ The letter Nila takes from her urges Miranda to meet [[npcs/agria/prince-arthurs
 
 ## Current status
 
-Staying overnight at the Gilt Palace, unaware that the Bonebreakers hold Lirina captive and that Rose is impersonating the countess.
+Last known to have chosen to stay overnight at the Gilt Palace, unaware of the capture and impersonation at that point. Her whereabouts and knowledge after the Watch intervenes and the Bonebreakers escape are unknown.
 
 ## Open questions
 
@@ -36,3 +37,4 @@ Staying overnight at the Gilt Palace, unaware that the Bonebreakers hold Lirina 
 
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]

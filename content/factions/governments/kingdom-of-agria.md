@@ -27,6 +27,7 @@ source_sessions:
   - 46
   - 64
   - 65
+  - 68
 ---
 
 ## Overview
@@ -71,10 +72,13 @@ Agria is home to the Bonebreakers and the setting for many of the kingdom's most
 - By [[sessions/session-046|Session 46]], Arthur's conspiracy has become a major political lever, though its outcome is still unresolved.
 - In [[sessions/session-064|Session 64]], Agatha remains in hiding and warns that her death would leave Arthur the only surviving heir despite his trial. The Bonebreakers investigate his supporters in the capital.
 - In [[sessions/session-065|Session 65]], Arthur’s household yields an incomplete letter anticipating Agatha’s disgrace and a duke fit to be king. Servants repeat an unconfirmed rumour of permanent palace closure. The Queen’s Guard arrests [[npcs/kingsport/corvin-dace|Corvin Dace]] on evidence secretly planted by the Bonebreakers.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], the Bonebreakers identify Lirina as Ash and the Grey Khan. She claims her invasions were intended to stabilise Agria, admits using Arthur, and offers cooperation against Valedictus. The party has agreed to no alliance and has yet to report to Agatha.
 
 ## Current status
 
 Active, but politically unstable because of Arthur's exposed conspiracy and the still-unclear reach of the Grey Syndicate.
+
+The Bonebreakers hold Countess Lirina of Velluria, identified as Ash and the Grey Khan, at the Mercy after resisting arrest by the Vellurian Watch. She still seeks the ducal title, but no change in office or government is established. The political response to her capture remains unknown.
 
 ## Related sessions
 
@@ -84,6 +88,7 @@ Active, but politically unstable because of Arthur's exposed conspiracy and the 
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
+- [[sessions/session-068|Session 68 - Ashes to Ashes]]
 
 ## Unresolved threads
 
