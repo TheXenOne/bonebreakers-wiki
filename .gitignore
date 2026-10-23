@@ -13,5 +13,8 @@ replit.nix
 # Local raw campaign source documents
 sources/
 
+# Local maintenance reports
+/docs/
+
 # Agent settings
 .claude/
