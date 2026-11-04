@@ -13,6 +13,9 @@ replit.nix
 # Local raw campaign source documents
 sources/
 
+# Referee's campaign planning notes
+referee/
+
 # Local maintenance reports
 /docs/
 
