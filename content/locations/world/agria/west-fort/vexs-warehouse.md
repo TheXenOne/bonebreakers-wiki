@@ -32,7 +32,7 @@ Vex's Warehouse is a warehouse in [[locations/world/agria/west-fort|Westfort]] u
 ## Campaign events
 
 - In [[sessions/session-035|Session 35]], the party catches Vex here and uncovers the stolen barracks weapons.
-- In [[sessions/session-036|Session 36]], the Bonebreakers use the warehouse as a base while tracking Jeremy to [[locations/world/westmarsh/spiders-market|the Spider Market]].
+- In [[sessions/session-036|Session 36]], the Bonebreakers use the warehouse as a base while tracking Jeremy to [[locations/world/westmarsh/spiders-market|the Spider's Market]].
 - In [[sessions/session-045|Session 45]], they again use the warehouse while trying to reopen contact with the Grey Syndicate.
 
 ## Related sessions

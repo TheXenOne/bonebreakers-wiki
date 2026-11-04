@@ -19,7 +19,7 @@ The [[quests/major/completed/renewed-siege-of-westfort|battle for Westfort]] con
 
 One ogre manages to fire the northernmost catapult, but its shot misses Westfort's troops and lands harmlessly in the [[locations/world/agria/west-flow-river|West Flow River]]. The hobgoblin archers are more effective: one massed volley kills a substantial portion of Westfort's remaining archers. Hobgoblin soldiers then begin crossing the narrow bridge two abreast. Arden paralyses the two surviving ogres with Hold Person, allowing Frank to land a devastating backstab, while [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]] and Selvar incapacitate more archers with Sleep.
 
-As the fire spreads, Frank badly wounds the broken-crowned hobgoblin king. Rose turns the enemy ballista on the blinded ogre standing before it and kills him, while [[characters/active-players/john/characters/micaelis|Micaelis]] leaps onto another ogre and repeatedly stabs it. Frank, Nila, Wistor, Ulrich, and Selvar finish the remaining hobgoblin archers. With all three ogres and the archers dealt with, the Bonebreakers converge on the centre while the [[factions/military-and-orders/west-fort-garrison|Westfort Garrison]] destroys several sections of soldiers advancing across the bridge.
+As the fire spreads, Frank badly wounds the broken-crowned hobgoblin king. Rose turns the enemy ballista on the blinded ogre standing before it and kills him, while [[characters/active-players/john/characters/michaelis|Michaelis]] leaps onto another ogre and repeatedly stabs it. Frank, Nila, Wistor, Ulrich, and Selvar finish the remaining hobgoblin archers. With all three ogres and the archers dealt with, the Bonebreakers converge on the centre while the [[factions/military-and-orders/west-fort-garrison|Westfort Garrison]] destroys several sections of soldiers advancing across the bridge.
 
 Barny flies over the battlefield and attempts to charm the hobgoblin king, but the spell fails. Wistor then sends a Lightning Bolt through the enemy ranks, killing [[npcs/westmarsh/kargaz-the-disciplined|Kargaz the Disciplined]], the king and commander of the siege army, and badly damaging the soldiers around him. The remaining hobgoblins fight on, wiping out an entire section of Westfort's soldiers and killing several more defenders before the militia moves up to replace the fallen. Under sustained attacks from the Bonebreakers, soldiers, militia, and surviving archers, the final two hobgoblins are killed. The renewed siege of [[locations/world/agria/west-fort|Westfort]] is broken.
 
@@ -51,7 +51,7 @@ Before beginning a period of downtime, the party collects eleven Potions of Wate
 - [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]]
 - [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barnobuck "Barny" the Bizarre]]
 - [[characters/active-players/deri/characters/francis-spencer-gray|Francis "Frank" Spencer Gray]]
-- [[characters/active-players/john/characters/micaelis|Micaelis]]
+- [[characters/active-players/john/characters/michaelis|Michaelis]]
 - [[characters/active-players/marta/characters/nila|Nila]]
 - [[characters/active-players/laura/characters/rose|Rose]]
 - [[characters/active-players/alessandro/characters/selvar|Selvar]]

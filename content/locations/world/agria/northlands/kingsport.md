@@ -30,7 +30,7 @@ After [[npcs/kingsport/corvin-dace|Corvin Dace]]'s arrest on evidence planted by
 
 In [[sessions/session-064|Session 64]], the Bonebreakers arrive after three days of sailing from Harrow. Tess impersonates Wendell Prye to secure Sedge's help entering Arthur's Palace.
 
-In [[sessions/session-065|Session 65]], the palace search reveals Arthur's ties to Lirina and Velluria. Steve tracks Corvin to the entrance of the Royal Chamberlain's building, catches him when he runs, and returns him to the palace. Micaelis plants stolen jewellery on him, and Elspeth's support persuades [[npcs/kingsport/sir-aldric-hale|Sir Aldric Hale]] to arrest him.
+In [[sessions/session-065|Session 65]], the palace search reveals Arthur's ties to Lirina and Velluria. Steve tracks Corvin to the entrance of the Royal Chamberlain's building, catches him when he runs, and returns him to the palace. Michaelis plants stolen jewellery on him, and Elswyth's support persuades [[npcs/kingsport/sir-aldric-hale|Sir Aldric Hale]] to arrest him.
 
 ## Related sessions
 

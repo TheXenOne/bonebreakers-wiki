@@ -17,7 +17,7 @@ The Salt Wharf Market is a named market in the northern commercial stretch of [[
 
 ## Geography or layout
 
-- It lies near [[locations/world/agria/southlands/ikiria/plats/cartographers-hall|the Cartographer's Hall]] and [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]].
+- It lies near [[locations/world/agria/southlands/ikiria/plats/cartographers-hall|the Cartographers' Hall]] and [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]].
 
 ## Campaign events
 

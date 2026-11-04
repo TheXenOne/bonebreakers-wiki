@@ -9,7 +9,7 @@ source_sessions:
 
 ## Overview
 
-Nessa is a nervous young chambermaid at [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] in Kingsport. Her duties include serving drinks to [[npcs/agria/prince-arthur|Arthur]] and his guests through a small door to his private salon; servants are forbidden to enter while guests are present. An overheard remark makes her a useful witness to Arthur's interest in [[npcs/velur/lirina|Lirina]].
+Nessa is a nervous young chambermaid at [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] in Kingsport. Her duties include serving drinks to [[npcs/agria/prince-arthur|Arthur]] and his guests through a small door to his private salon; servants are forbidden to enter while guests are present. An overheard remark makes her a useful witness to Arthur's interest in [[npcs/vellure/lirina|Lirina]].
 
 ## Relationship with the Bonebreakers
 
@@ -17,7 +17,7 @@ The party meets Nessa eating dinner in the kitchen. [[characters/active-players/
 
 ## Household gossip
 
-The Bonebreakers later overhear Nessa and [[npcs/kingsport/hugh-malory|Hugh Malory]] comparing what they told the visitors. Nessa repeats a rumour that someone magically controlled Arthur in the Southlands. The party suspects it concerns its earlier charm, but the gossip does not identify the Bonebreakers.
+The Bonebreakers later overhear Nessa and [[npcs/kingsport/hugh-mallory|Hugh Mallory]] comparing what they told the visitors. Nessa repeats a rumour that someone magically controlled Arthur in the Southlands. The party suspects it concerns its earlier charm, but the gossip does not identify the Bonebreakers.
 
 ## Associated locations
 

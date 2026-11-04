@@ -39,13 +39,13 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 ## Notable sublocations
 
 - [[locations/world/agria/west-flow-river|West Flow River]] crossing near [[locations/world/agria/west-fort|Westfort]]
-- [[locations/world/westmarsh/spiders-market|The Spider Market]]
+- [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 - [[locations/world/westmarsh/hobgoblin-mine|The Hobgoblin Mine]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 - [[locations/world/westmarsh/necropolis|The Necropolis]]
 - [[locations/world/westmarsh/imperial-hill-temple|The Imperial Hill Temple]], a concealed entrance into the Necropolis
 - [[locations/world/westmarsh/necropolis/imperial-family-tomb|The Imperial Family Tomb]]
-- [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]]
+- [[locations/world/westmarsh/necropolis/house-varek-tomb|House Varek Tomb]]
 
 ## Associated people and groups
 
@@ -60,7 +60,7 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 - By [[sessions/session-041|Session 41]] and later, the marsh is also tied to Necropolis exploration and rumours of a second entrance.
 - In [[sessions/session-058|Session 58]], the party finds a monumental imperial temple-like ruin while travelling northwest toward the Necropolis.
 - In [[sessions/session-059|Session 59]], the party confirms that the ruin is a concealed Necropolis entrance, meets Captain Varro, and explores a military command quarter within.
-- In [[sessions/session-060|Session 60]], the party learns about Valedictus's three phylacteries from Lord Varrick, crosses the Arch I drill yard, and returns to the Mercy through the Nexus.
+- In [[sessions/session-060|Session 60]], the party learns about Valedictus's three phylacteries from Lord Varek, crosses the Arch I drill yard, and returns to the Mercy through the Nexus.
 - In [[sessions/session-061|Session 61]], the party circles north through the wetlands, fords the West Flow River, kills eleven bugbears at a camp six to eight miles from Westfort's bridge, and approaches the rear of the hobgoblin siege line.
 
 ## Related sessions

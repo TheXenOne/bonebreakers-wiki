@@ -16,7 +16,7 @@ related_locations:
   - Westmarsh
   - Hobgoblin Mine
   - Invasion Fort
-  - Spider Market
+  - Spider's Market
   - Westfort
 source_sessions:
   - 36
@@ -54,7 +54,7 @@ They function as the main military organisers of the western invasion effort rat
 
 - [[locations/world/westmarsh/hobgoblin-mine|The Hobgoblin Mine]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
-- [[locations/world/westmarsh/spiders-market|The Spider Market]]
+- [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 - [[locations/world/agria/west-fort|Westfort]]
 
 ## Allies and enemies

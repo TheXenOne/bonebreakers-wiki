@@ -12,7 +12,7 @@ source_sessions:
 
 ## Overview
 
-The Stylus is an unknown object or power connected to [[npcs/necropolis/valedictus|High Priest Valedictus]]. [[npcs/necropolis/lord-varrick|Lord Varrick]] advises the Bonebreakers to find it after warning that Valedictus has three phylacteries and that undead activity will continue to worsen while he remains in power.
+The Stylus is an unknown object or power connected to [[npcs/necropolis/valedictus|High Priest Valedictus]]. [[npcs/necropolis/lord-varek|Lord Varek]] advises the Bonebreakers to find it after warning that Valedictus has three phylacteries and that undead activity will continue to worsen while he remains in power.
 
 ## Known properties
 

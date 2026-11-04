@@ -17,7 +17,7 @@ See also: [[sessions/index|Sessions]], [[sessions/session-027|Session 27 - Refle
 
 In the astral heart of [[locations/world/agria/southlands/ikiria/tower-of-arkeus-whizkeyrd|Arkeus' tower]], the [[factions/other/bonebreakers|Bonebreakers]] finally learn why [[npcs/ikiria/arkeus-whizkeyrd|Arkeus Whizkeyrd]] is suspended between worlds. The crystal golems explain that Arkeus has become a bridge between "here" and "there": the motes of light hunger for bodies, and he is being held in place to stop a tear from widening. The same motes have nested in the party's weapons, and one briefly enters Selvar before bursting free.
 
-To finish their bargain with clone-Arkeus, the party returns through the tower to recover the Harmonic Regulator. Selvar uses the [[items/party-inventory/astral-tuning-fork|Astral Tuning Fork]] to open the forcefield chamber, where Athlestan takes the regulator while Barny quarrels with an arrogant magical tome and Frank is tempted by a pale dagger promising power. On the way back, loose magic surges again; outside the tower, that unleashed force drains the harbour through a massive Lower Water effect.
+To finish their bargain with clone-Arkeus, the party returns through the tower to recover the Harmonics Regulator. Selvar uses the [[items/party-inventory/astral-tuning-fork|Astral Tuning Fork]] to open the forcefield chamber, where Athlestan takes the regulator while Barny quarrels with an arrogant magical tome and Frank is tempted by a pale dagger promising power. On the way back, loose magic surges again; outside the tower, that unleashed force drains the harbour through a massive Lower Water effect.
 
 The Bonebreakers bring clone-Arkeus to the real Arkeus rather than simply handing over the regulator. After a frantic struggle over the device and an argument about whether the clone is real, the copy pulls the original free. The act opens an astral portal that drags both Arkeuses away, along with the motes, clones, and sentient magical remnants. The immediate crisis ends, but Arkeus is not safely recovered. The remaining crystal golems attack, and the party destroys them before escaping by returning to the tower's entrance room and standing on the rug that first carried them across the astral corridor.
 
@@ -31,7 +31,7 @@ The session pivots from astral fallout to the [[locations/world/agria/southlands
 
 - The crystal golems explain that Arkeus is anchoring a rift.
 - Selvar is distorted after touching one of the motes.
-- The Harmonic Regulator is recovered from the tower's secured area.
+- The Harmonics Regulator is recovered from the tower's secured area.
 - Barny is overcome by a rude tome, and Frank is tempted by visions tied to a pale dagger.
 - Selvar and Luthien repair the snapped lever at the Threshold Gate.
 - Clone-Arkeus is dragged before the real Arkeus.
@@ -46,7 +46,7 @@ The session pivots from astral fallout to the [[locations/world/agria/southlands
 
 - Arkeus' tower
 - The astral chamber
-- The secured room holding the Harmonic Regulator
+- The secured room holding the Harmonics Regulator
 - Ikiria
 - The castle gate
 
@@ -70,7 +70,7 @@ The session pivots from astral fallout to the [[locations/world/agria/southlands
 
 ## Items, magic, and discoveries
 
-- The Harmonic Regulator is recovered and used to resolve the tower crisis.
+- The Harmonics Regulator is recovered and used to resolve the tower crisis.
 - The party encounters a rude magical tome and a pale dagger with corrupting visions.
 - Longtooth rewards the party with a spell scroll, a +1 mace, a Staff of Withering, and rings of protection.
 - The harbour has been drained by a powerful Lower Water effect.

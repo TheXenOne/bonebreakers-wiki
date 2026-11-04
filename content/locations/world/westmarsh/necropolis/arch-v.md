@@ -52,4 +52,4 @@ Arch V glows white and smells of dry dust and ancient cloth. It opens onto a bro
 
 ## Status
 
-Partially explored. The Bloated One is dead, Steve and Micaelis have been cured of its rotting disease, and the full purpose of the district remains unresolved.
+Partially explored. The Bloated One is dead, Steve and Michaelis have been cured of its rotting disease, and the full purpose of the district remains unresolved.

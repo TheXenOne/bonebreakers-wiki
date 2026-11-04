@@ -19,7 +19,7 @@ The [[factions/other/bonebreakers|Bonebreakers]] keep pushing through the hobgob
 
 Deeper in, the party finds more kobolds working under two hobgoblin overseers, with bugbears waiting at the rear of the chamber. The fight is sharp, but one bugbear survives long enough for Steve to charm it. That prisoner finally explains the purpose of the operation: a nearby base is stockpiling weapons for an imminent war.
 
-The Bonebreakers withdraw to [[locations/world/westmarsh/spiders-market|The Spider Market]] to rest and resupply, where rumours confirm the same picture. Hobgoblins are hiring mercenaries and mustering around a fortress not far from the marsh. Before the party can act on that information, gnolls attack the camp, forcing another fight and proving how unstable the area around the market remains.
+The Bonebreakers withdraw to [[locations/world/westmarsh/spiders-market|The Spider's Market]] to rest and resupply, where rumours confirm the same picture. Hobgoblins are hiring mercenaries and mustering around a fortress not far from the marsh. Before the party can act on that information, gnolls attack the camp, forcing another fight and proving how unstable the area around the market remains.
 
 With the war preparations now too clear to ignore, the party turns toward the fortress. Rather than charge blind, Barny makes [[characters/active-players/laura/characters/rose|Rose]] invisible and able to fly so she can scout from above. Her first look confirms the threat: weapons and armour are being gathered, hobgoblins are busy throughout the site, and larger commanders are studying maps. The session ends with the Bonebreakers holding proof that the frontier trouble is not a string of raids, but preparation for a campaign.
 
@@ -29,7 +29,7 @@ With the war preparations now too clear to ignore, the party turns toward the fo
 - Kobold miners are put to sleep and questioned.
 - More kobolds, two hobgoblin overseers, and four bugbears are found in a larger chamber.
 - One surviving bugbear is charmed and reveals that a nearby base is collecting weapons for war.
-- The Bonebreakers withdraw to the Spider Market to rest and gather rumours.
+- The Bonebreakers withdraw to the Spider's Market to rest and gather rumours.
 - Market talk confirms that hobgoblins are hiring mercenaries for an army.
 - Gnolls attack the camp and are beaten back.
 - Barny makes Rose invisible and flying so she can scout the fortress.
@@ -39,7 +39,7 @@ With the war preparations now too clear to ignore, the party turns toward the fo
 
 - The hobgoblin cave
 - The deeper mining chambers
-- The Spider Market
+- The Spider's Market
 - The area around the fortress
 
 ## NPCs and characters involved
@@ -64,7 +64,7 @@ With the war preparations now too clear to ignore, the party turns toward the fo
 
 - The cave contains mining traffic and transport routes tied to a larger military base.
 - A charmed bugbear confirms that a nearby fortress is gathering weapons for imminent war.
-- Rumours at the Spider Market reinforce that hobgoblins are hiring for an army.
+- Rumours at the Spider's Market reinforce that hobgoblins are hiring for an army.
 - Rose's invisible aerial scouting exposes large stockpiles and command activity inside the fortress.
 
 ## Threads raised this session

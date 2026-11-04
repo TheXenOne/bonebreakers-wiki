@@ -15,13 +15,13 @@ See also: [[sessions/index|Sessions]], [[sessions/session-053|Session 53 - Orcs 
 
 ## Narrative recap
 
-Back in [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]], the Bonebreakers regroup with two new player characters: [[characters/inactive-players/marie/characters/fred|Fred]] and [[characters/inactive-players/valerio/characters/paul|Paul]]. [[characters/active-players/ben-l/characters/arden-sable|Arden]], [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran]], [[characters/active-players/john/characters/micaelis|Micaelis]], Fred, and Paul set out by road toward [[locations/world/agria/southlands/mercy|the Mercy]], intending to rejoin the rest of the party before another descent into [[locations/world/westmarsh/necropolis|the Necropolis]].
+Back in [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]], the Bonebreakers regroup with two new player characters: [[characters/inactive-players/marie/characters/fred|Fred]] and [[characters/inactive-players/valerio/characters/paul|Paul]]. [[characters/active-players/ben-l/characters/arden-sable|Arden]], [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran]], [[characters/active-players/john/characters/michaelis|Michaelis]], Fred, and Paul set out by road toward [[locations/world/agria/southlands/mercy|the Mercy]], intending to rejoin the rest of the party before another descent into [[locations/world/westmarsh/necropolis|the Necropolis]].
 
 On the road near the broad river that runs from Barrow Spa toward [[locations/world/agria/southlands/ikiria|Ikiria]], they come upon twelve four-armed insectoid humanoids carrying polearms and deep battle rucksacks. The group catches the creatures from behind, but the numbers look too dangerous for a clean fight. They try to flee instead, only to discover that the mantid-like warriors are impossibly fast. Arden's Hold Person fails completely, and even the party's horses cannot open enough distance.
 
 The fight quickly turns disastrous. Fred charges in and lands a strong blow, while Bran fires accurately with his longbow, but the creatures dodge missiles with supernatural speed. They answer with claws and thrown crystal discs, cutting down Fred and Paul and wounding Arden. With no clear way to win and the others unable to escape cleanly, Bran makes the choice that defines the session: he sacrifices himself for the party, throwing himself into all twelve enemies and forcing their attention onto him.
 
-Bran lands heavy blows on several of the creatures and survives long enough under the attacks of the whole group for Arden and Micaelis to get away with Fred and Paul's bodies. Bran dies in the melee, and his body cannot be recovered. His sacrifice saves the survivors, but leaves the road threat unidentified and still at large.
+Bran lands heavy blows on several of the creatures and survives long enough under the attacks of the whole group for Arden and Michaelis to get away with Fred and Paul's bodies. Bran dies in the melee, and his body cannot be recovered. His sacrifice saves the survivors, but leaves the road threat unidentified and still at large.
 
 The survivors return to Barrow Spa, where Fred and Paul are resurrected. The party sends word by river trader to the Mercy, purchases a riverboat for 4,000 gold pieces, and hires eight oarsmen so it can travel 36 miles a day. They then rest for two weeks while Fred and Paul recover from resurrection.
 
@@ -38,11 +38,11 @@ Beyond the arch, they enter a vast moisture-dripping hall covered in lichen and 
 ## Important events
 
 - Fred and Paul join as new player characters in Barrow Spa.
-- Arden, Bran, Micaelis, Fred, and Paul encounter twelve fast four-armed insectoid humanoids on the road toward the Mercy.
+- Arden, Bran, Michaelis, Fred, and Paul encounter twelve fast four-armed insectoid humanoids on the road toward the Mercy.
 - The party tries to flee, but the creatures are too fast to outrun.
 - Arden's Hold Person fails against the creatures.
 - Fred and Paul are cut down by thrown crystal discs and melee attacks.
-- Bran chooses to sacrifice himself, holding all twelve creatures' attention long enough for Arden and Micaelis to escape with Fred and Paul's bodies.
+- Bran chooses to sacrifice himself, holding all twelve creatures' attention long enough for Arden and Michaelis to escape with Fred and Paul's bodies.
 - Bran dies, and his body cannot be recovered.
 - Fred and Paul are resurrected in Barrow Spa.
 - The party buys a riverboat for 4,000 gold pieces and hires eight oarsmen.
@@ -78,7 +78,7 @@ Beyond the arch, they enter a vast moisture-dripping hall covered in lichen and 
 - Twelve four-armed insectoid humanoids. Needs review.
 - Zombie merchants in Arch IV. Needs review.
 - [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]]
-- [[characters/active-players/john/characters/micaelis|Micaelis]]
+- [[characters/active-players/john/characters/michaelis|Michaelis]]
 - [[characters/active-players/deri/characters/francis-spencer-gray|Francis "Frank" Spencer Gray]]
 - [[characters/active-players/ben/characters/ulrich|Ulrich]]
 - [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barnobuck "Barny" the Bizarre]]

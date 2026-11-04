@@ -63,7 +63,7 @@ Thief.
 
 - [[locations/world/agria/southlands/ikiria/index|Ikiria]]
 - [[locations/world/agria/west-fort/index|Westfort]]
-- [[locations/world/westmarsh/spiders-market|the Spider Market]]
+- [[locations/world/westmarsh/spiders-market|the Spider's Market]]
 
 ## Important campaign events
 
@@ -93,8 +93,8 @@ Thief.
 - In [[sessions/session-059|Session 59]], Frank scouts the command quarter, finds its centurion's insignia, backstabs a minotaur, and helps recover 4,000 electrum pieces; takes corroded lockpicks from a prison cell, reads a warning about the vault and an untrustworthy halfling, and identifies a pressure plate beyond the portcullis that likely requires several people to trigger; then promises to lay [[npcs/necropolis/captain-varro|Captain Varro]] to rest, prompting Varro to leave the imperial armoury unlocked, where Frank opens its chest and recovers 800 gold pieces and a document before the party triggers the poison-gas trap.
 - In [[sessions/session-062|Session 62]], Frank infiltrates the hobgoblin siege engines with Nila, badly wounds an ogre with a backstab and Kargaz with a crossbow shot, and helps eliminate the remaining archers. After the victory, he contributes 1,000 gold pieces to Westfort's rebuilding and asks Arden to lead burial rites for the fallen defenders.
 - In [[sessions/session-063|Session 63]], Frank gives [[npcs/ikiria/gilly|Gilly]] enough money to rent an upper-city apartment and dress for high society, asking her to gather information about eligible widows he might pursue. Her report that Agatha remains missing and Commander Smith has also disappeared helps prompt the party's investigation.
-- In [[sessions/session-066|Session 66 - Masquerade]], [[npcs/agria/east-agria-company/captain-winston|Captain Winston]] introduces Frank to a forger, allowing him to secure two masquerade invitations. Posing as a Ramen noble with Steve as his bodyguard, he enters the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] and successfully flirts with an unmarried noblewoman who appears to be a distant royal cousin. Nila takes a letter from her; its contents remain unknown.
-- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Frank speaks with the frightened [[npcs/velur/lady-miranda|Lady Miranda]], the royal cousin he has been flirting with, and escorts her to her guards. He then joins the search of Lirina's rooms and discovers a secret exit from her bedroom into an alley behind the palace.
+- In [[sessions/session-066|Session 66 - Masquerade]], [[npcs/agria/east-agria-company/captain-winston|Captain Winston]] introduces Frank to a forger, allowing him to secure two masquerade invitations. Posing as a Ramen noble with Steve as his bodyguard, he enters the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]] and successfully flirts with an unmarried noblewoman who appears to be a distant royal cousin. Nila takes a letter from her; its contents remain unknown.
+- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Frank speaks with the frightened [[npcs/vellure/lady-miranda|Lady Miranda]], the royal cousin he has been flirting with, and escorts her to her guards. He then joins the search of Lirina's rooms and discovers a secret exit from her bedroom into an alley behind the palace.
 
 ## Relationships
 

@@ -15,7 +15,7 @@ notable_members:
   - The Grey Khan
 related_locations:
   - Westfort
-  - Spider Market
+  - Spider's Market
   - Invasion Fort
   - Westmarsh
 source_sessions:
@@ -38,7 +38,7 @@ source_sessions:
 
 ## Overview
 
-The Grey Syndicate is a covert organisation active across [[locations/world/westmarsh|Westmarsh]] and the frontier around [[locations/world/agria/west-fort|Westfort]]. It links sabotage, kidnapping, smuggling, political manipulation, and delayed-action raids into a single conspiracy. Captured orcs also tie the Syndicate to attacks on [[locations/world/agria/southlands/mercy|the Mercy]]. Its leader, identified by the Bonebreakers as [[npcs/velur/lirina|Lirina]] under the identities of Ash and the Grey Khan, is their prisoner, but the dispersed organisation remains a threat.
+The Grey Syndicate is a covert organisation active across [[locations/world/westmarsh|Westmarsh]] and the frontier around [[locations/world/agria/west-fort|Westfort]]. It links sabotage, kidnapping, smuggling, political manipulation, and delayed-action raids into a single conspiracy. Captured orcs also tie the Syndicate to attacks on [[locations/world/agria/southlands/mercy|the Mercy]]. Its leader, identified by the Bonebreakers as [[npcs/vellure/lirina|Lirina]] under the identities of Ash and the Grey Khan, is their prisoner, but the dispersed organisation remains a threat.
 
 ## Purpose or role
 
@@ -46,7 +46,7 @@ The Syndicate is the main hidden enemy behind the Westfort sabotage arc and late
 
 ## Leadership
 
-- [[npcs/velur/lirina|Lirina]], Countess of Velluria, is identified as [[npcs/westmarsh/grey-syndicate/ash|Ash]], the party's recurring handler and negotiator, and as the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]. Her thoughts support her claim to answer to nobody.
+- [[npcs/vellure/lirina|Lirina]], Countess of Velluria, is identified as [[npcs/westmarsh/grey-syndicate/ash|Ash]], the party's recurring handler and negotiator, and as the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]. Her thoughts support her claim to answer to nobody.
 - [[npcs/westmarsh/grey-syndicate/jeremy|Jeremy]] serves as a middleman and courier.
 - [[npcs/west-fort/grey-syndicate/vex|Vex]] operates a local embedded cell in Westfort.
 - Lirina mentally distinguishes her identities; linking her to Ash and Ash to the Khan convinces the party that it has found the network's leader.
@@ -61,7 +61,7 @@ The Syndicate is the main hidden enemy behind the Westfort sabotage arc and late
 ## Associated locations
 
 - [[locations/world/agria/west-fort|Westfort]]
-- [[locations/world/westmarsh/spiders-market|The Spider Market]]
+- [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 - [[locations/world/westmarsh|Westmarsh]]
 
@@ -75,15 +75,15 @@ The Syndicate is the main hidden enemy behind the Westfort sabotage arc and late
 ## Campaign involvement
 
 - In [[sessions/session-035|Session 35]], the party exposes Vex's role in Westfort's sabotage.
-- In [[sessions/session-036|Session 36]], Jeremy and Ash become the focus of the investigation through the Spider Market.
+- In [[sessions/session-036|Session 36]], Jeremy and Ash become the focus of the investigation through the Spider's Market.
 - In [[sessions/session-039|Session 39]] and [[sessions/session-040|Session 40]], the party uncovers more of the Syndicate's hidden infrastructure and written evidence.
 - In [[sessions/session-044|Session 44]] to [[sessions/session-046|Session 46]], the Syndicate becomes directly tied to Arthur and succession intrigue in Agria.
 - In [[sessions/session-047|Session 47]], a captured recruiter describes the Syndicate as dispersed across Westmarsh with some Southlands presence, even after the party steals 20,000 gold meant for its operations.
 - In [[sessions/session-053|Session 53]], orcs from Westmarsh seize the Mercy and say they were ordered to delay the Bonebreakers. Kronk also says the earlier kidnapping of priests from the Mercy was Syndicate work, suggesting [[npcs/kelfrek-marsh/gruumsh-one-tusk|Gruumsh One-Tusk]] may have been working for them.
-- In [[sessions/session-060|Session 60]], [[npcs/necropolis/lord-varrick|Lord Varrick]] suggests that the Syndicate may be seeking [[npcs/necropolis/valedictus|Valedictus's]] necromantic power or may intend to destroy him. The party has no proof of either motive.
+- In [[sessions/session-060|Session 60]], [[npcs/necropolis/lord-varek|Lord Varek]] suggests that the Syndicate may be seeking [[npcs/necropolis/valedictus|Valedictus's]] necromantic power or may intend to destroy him. The party has no proof of either motive.
 - In [[sessions/session-063|Session 63]], Kargaz confirms Syndicate support for his war and its promise to give him Westfort if he captured it.
 - In [[sessions/session-064|Session 64]], Agatha suspects the threat extends beyond the Syndicate and sends the party to investigate Arthur's supporters in Kingsport. No wider mastermind has been identified.
-- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], the captured [[npcs/velur/lirina|Lirina]], Countess of Velluria, proves to know who the Grey Khan is. One of her encoded messages is meant for the Khan, warning that the Bonebreakers are operating in the Northlands and are expected at her masquerade.
+- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], the captured [[npcs/vellure/lirina|Lirina]], Countess of Velluria, proves to know who the Grey Khan is. One of her encoded messages is meant for the Khan, warning that the Bonebreakers are operating in the Northlands and are expected at her masquerade.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], at the Mercy, Selvar's ESP identifies Lirina as Ash. Her thoughts distinguish Lirina from the Grey Khan, but she affirms that Ash is the Khan; the Bonebreakers conclude that they have captured the Syndicate's leader. She admits using Arthur, justifies replacing Westfort's defenders with her army, and says her plans will continue without her. Her genuine hatred of Valedictus opens the possibility of an alliance, which the Bonebreakers have not accepted.
 
 ## Current status

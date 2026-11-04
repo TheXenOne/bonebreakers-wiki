@@ -43,7 +43,7 @@ In [[sessions/session-026|Session 26]], weapons across Ikiria begin speaking and
 
 - The party receives legal backing to enter Arkeus' impossible tower.
 - The tower reveals clones, magical distortions, and the translucent tuning fork Longtooth wanted.
-- The Harmonic Regulator proves central to stabilising the crisis.
+- The Harmonics Regulator proves central to stabilising the crisis.
 - In [[sessions/session-028|Session 28]], the party frees the real Arkeus, but both Arkeus and his clone vanish into an astral disturbance.
 
 ## Current status
@@ -52,7 +52,7 @@ The sentient-weapon crisis is over.
 
 ## Resolution
 
-The Harmonic Regulator is recovered, the tower crisis ends, and Ikiria's immediate weapon disaster is resolved.
+The Harmonics Regulator is recovered, the tower crisis ends, and Ikiria's immediate weapon disaster is resolved.
 
 ## Consequences
 

@@ -13,7 +13,7 @@ source_sessions:
 
 ## Overview
 
-Arch III is one of the eight archways in [[locations/world/westmarsh/necropolis|the Necropolis]] Nexus. It has not been entered by the Bonebreakers. From the Nexus, it appears as a violet-lit, incense-scented passage with a wide corridor and a mosaic showing the rise of the empire, with gods descending to give fire to humanity. [[npcs/necropolis/captain-varro|Captain Varro]] says it leads to the temple district, where the high priest [[npcs/necropolis/valedictus|Valedictus]] “sees all.” Lord Varrick later identifies Valedictus as an expansionist necromancer with three phylacteries, making Arch III a likely route into the [[quests/major/active/valedictus-and-his-phylacteries|Valedictus and His Phylacteries]] threat.
+Arch III is one of the eight archways in [[locations/world/westmarsh/necropolis|the Necropolis]] Nexus. It has not been entered by the Bonebreakers. From the Nexus, it appears as a violet-lit, incense-scented passage with a wide corridor and a mosaic showing the rise of the empire, with gods descending to give fire to humanity. [[npcs/necropolis/captain-varro|Captain Varro]] says it leads to the temple district, where the high priest [[npcs/necropolis/valedictus|Valedictus]] “sees all.” Lord Varek later identifies Valedictus as an expansionist necromancer with three phylacteries, making Arch III a likely route into the [[quests/major/active/valedictus-and-his-phylacteries|Valedictus and His Phylacteries]] threat.
 
 ## Nexus view
 

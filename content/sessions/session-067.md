@@ -17,7 +17,7 @@ See also: [[sessions/index|Sessions]]
 
 ## Narrative recap
 
-[[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]]'s performance leaves the ballroom of the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] divided: some of [[npcs/velur/lirina|Countess Lirina]]'s guests are awestruck, others disgusted. At the climax of the act he produces his magical candle, and all the lights in the ballroom suddenly go out. Chaos erupts.
+[[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]]'s performance leaves the ballroom of the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]] divided: some of [[npcs/vellure/lirina|Countess Lirina]]'s guests are awestruck, others disgusted. At the climax of the act he produces his magical candle, and all the lights in the ballroom suddenly go out. Chaos erupts.
 
 [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]], [[characters/active-players/alessandro/characters/selvar|Selvar]], [[characters/active-players/laura/characters/rose|Rose]], and [[characters/active-players/marta/characters/nila|Nila]] take the chance to slip through the door into the servants' quarters. Moments later Lirina cries out, “Assassins! Everyone away!” and flees the darkened ballroom. Unknown to the rest of the party, she too heads into the servants' quarters.
 
@@ -25,7 +25,7 @@ Barny tries to calm the crowd, but his disturbing act makes the guests reluctant
 
 In the servants' quarters, Lirina runs directly into the four Bonebreakers who have entered ahead of her. Selvar blocks her path and she tries to stab him. His Charm Person fails, so Steve grabs and restrains her while Selvar casts ESP. Her thoughts are utterly panicked: she is desperate to escape the palace. Questioning her briefly while he reads her mind, Selvar confirms that she is making a political power play. She intends to rise through the political hierarchy and, at minimum, become Duchess during [[npcs/agria/prince-arthur|Arthur]]'s absence. Rose gags her and Nila binds her. Two servants carrying a tray of drinks then walk in and are horrified by what they see.
 
-Back in the ballroom, Barny casts Fly and crosses to the noble whose nightmare shows [[npcs/agria/queen-audrey-ii|Queen Audrey II]] murdered in the streets. Asked about it, the noble says he does not know why he has such a dream, and thanks Barny for not publicly revealing what the telescope showed. [[characters/active-players/deri/characters/francis-spencer-gray|Frank]] speaks with [[npcs/velur/lady-miranda|Lady Miranda]], the royal cousin he has been flirting with. She is frightened and believes the evening will have serious political consequences. Frank escorts her back to her guards. Ulrich takes control of the ballroom: he instructs the guards to open the main doors and organises an orderly evacuation, and the guests are now calm enough to leave without panic. [[characters/active-players/john/characters/micaelis|Micaelis]] guards the doors to the servants' quarters and lets nobody in or out.
+Back in the ballroom, Barny casts Fly and crosses to the noble whose nightmare shows [[npcs/agria/queen-audrey-ii|Queen Audrey II]] murdered in the streets. Asked about it, the noble says he does not know why he has such a dream, and thanks Barny for not publicly revealing what the telescope showed. [[characters/active-players/deri/characters/francis-spencer-gray|Frank]] speaks with [[npcs/vellure/lady-miranda|Lady Miranda]], the royal cousin he has been flirting with. She is frightened and believes the evening will have serious political consequences. Frank escorts her back to her guards. Ulrich takes control of the ballroom: he instructs the guards to open the main doors and organises an orderly evacuation, and the guests are now calm enough to leave without panic. [[characters/active-players/john/characters/michaelis|Michaelis]] guards the doors to the servants' quarters and lets nobody in or out.
 
 The two servants who witness Lirina's capture begin to flee. Steve removes the countess's diamond necklace, and Selvar casts Sleep on her to no effect. Rose swaps clothes with Lirina and starts impersonating her, while Nila pursues the servants. She tells them that the captured woman is an impostor, that the countess is perfectly safe, and that they need only look for themselves. They see Rose dressed as Lirina and, although confused, are reassured enough to obey when Nila orders them back to work.
 
@@ -35,13 +35,13 @@ Barny flies ahead into Lirina's bedroom before the others arrive and steals jewe
 
 In the servants' quarters, Nila leaves the servants and reads the letter she pickpocketed from Lady Miranda. It instructs Miranda to meet [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]], Arthur's secretary, before he gives his evidence. It appears to come from a third party who claims to be a friend of Arthur and to seek only the truth.
 
-The separated Bonebreakers regroup upstairs, with Micaelis remaining below to guard the servants' quarters entrance. Rose, still disguised as Lirina, stands at the top of the staircase and beckons [[npcs/velur/lord-petrand-kush|Lord Petrand Kush]], the Master of Revels, upstairs. Seen only from a distance, she fools everyone. Once Petrand is inside the private quarters, Rose uses Steve's sword to cast Charm Person on him, and he becomes convinced that she really is the countess. He asks for an update, and she tells him that everything is fine. Petrand explains that most of the guests have decided not to stay overnight because of the shocking events; only Lady Miranda intends to remain. The Bonebreakers are invited to stay overnight in the palace as guests.
+The separated Bonebreakers regroup upstairs, with Michaelis remaining below to guard the servants' quarters entrance. Rose, still disguised as Lirina, stands at the top of the staircase and beckons [[npcs/vellure/lord-petran-cask|Lord Petran Cask]], the Master of Revels, upstairs. Seen only from a distance, she fools everyone. Once Petran is inside the private quarters, Rose uses Steve's sword to cast Charm Person on him, and he becomes convinced that she really is the countess. He asks for an update, and she tells him that everything is fine. Petran explains that most of the guests have decided not to stay overnight because of the shocking events; only Lady Miranda intends to remain. The Bonebreakers are invited to stay overnight in the palace as guests.
 
 Nila spends time among the servants and hears several competing rumours. Some believe the acrobat is the assassin, others the magician, and some doubt that there are any assassins at all.
 
-The party then begins interrogating the real Lirina, with Selvar casting ESP on her again. Ulrich has put together the partially burned fragments of the poetry book's missing pages. They do not actually provide the cipher, but he hopes she will believe that they do. Barny threatens her, and she essentially tells him to piss off; her thoughts show her analysing him, considering what spells he might have and how she could counter them. When Ulrich asks her name she hesitates, suggesting that she may use another. Micaelis asks whether she is the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]. Lirina smiles, and her thoughts reveal that she knows who the Grey Khan is but is not the Khan herself. Steve begins preparing to torture her, and the rest of the party stops him.
+The party then begins interrogating the real Lirina, with Selvar casting ESP on her again. Ulrich has put together the partially burned fragments of the poetry book's missing pages. They do not actually provide the cipher, but he hopes she will believe that they do. Barny threatens her, and she essentially tells him to piss off; her thoughts show her analysing him, considering what spells he might have and how she could counter them. When Ulrich asks her name she hesitates, suggesting that she may use another. Michaelis asks whether she is the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]. Lirina smiles, and her thoughts reveal that she knows who the Grey Khan is but is not the Khan herself. Steve begins preparing to torture her, and the rest of the party stops him.
 
-Her thoughts confirm that she is indeed the Countess and, when Micaelis asks about aliases, that she has them. When Selvar asks about the dagger found in the hidden armoury, her thoughts show that she wants it back. Ulrich presents one of the encoded letters and she laughs: the letters belong to her spy network, and she believes the party will never decode them. He then presents the fake cipher page. Lirina panics inwardly and tries desperately to remember which letter corresponds to the passage, and her thoughts reveal enough for the party to uncover the message's purpose. It is meant for the Grey Khan. It warns that intelligence has been gathered on the Bonebreakers' activities in the Northlands and that they are expected to attend the masquerade.
+Her thoughts confirm that she is indeed the Countess and, when Michaelis asks about aliases, that she has them. When Selvar asks about the dagger found in the hidden armoury, her thoughts show that she wants it back. Ulrich presents one of the encoded letters and she laughs: the letters belong to her spy network, and she believes the party will never decode them. He then presents the fake cipher page. Lirina panics inwardly and tries desperately to remember which letter corresponds to the passage, and her thoughts reveal enough for the party to uncover the message's purpose. It is meant for the Grey Khan. It warns that intelligence has been gathered on the Bonebreakers' activities in the Northlands and that they are expected to attend the masquerade.
 
 By Day 193 the Bonebreakers hold the Countess of Velluria captive in her own palace, with Rose impersonating her before the household.
 
@@ -50,21 +50,21 @@ By Day 193 the Bonebreakers hold the Countess of Velluria captive in her own pal
 - Barny's candle plunges the ballroom into darkness; Lirina cries “Assassins!” and flees into the servants' quarters, where Steve, Selvar, Rose, and Nila capture, bind, and gag her.
 - ESP confirms Lirina's ambition: a political rise that would at minimum make her Duchess during Arthur's absence.
 - Arden, Ulrich, and Barny calm the guests, and Ulrich organises an orderly evacuation.
-- Rose swaps clothes with Lirina and impersonates her, reassuring two servant witnesses and later charming Lord Petrand Kush.
+- Rose swaps clothes with Lirina and impersonates her, reassuring two servant witnesses and later charming Lord Petran Cask.
 - A search of Lirina's private rooms finds encoded letters, the poetry book used as their cipher, a hidden wardrobe of covert clothing, a secret exit, and a concealed assassin's armoury.
 - Lady Miranda's stolen letter urges her to meet Wendell Prye before he gives his evidence.
 - Under interrogation, Lirina's thoughts reveal that she runs a spy network, and knows who the Grey Khan is, and that one of her encoded messages is meant to warn the Khan that the Bonebreakers are expected at the masquerade.
 
 ## Locations visited
 
-- [[locations/world/agria/northlands/velluria/velur/gilt-palace|The Gilt Palace]] in [[locations/world/agria/northlands/velluria/velur|Velur]]: the ballroom, the servants' quarters, and Lirina's private study, bedroom, and hidden armoury upstairs.
+- [[locations/world/agria/northlands/velluria/vellure/gilt-palace|The Gilt Palace]] in [[locations/world/agria/northlands/velluria/vellure|Vellure]]: the ballroom, the servants' quarters, and Lirina's private study, bedroom, and hidden armoury upstairs.
 
 ## NPCs and characters involved
 
-- Arden Sable, Ulrich, Francis “Frank” Spencer Gray, Steve “Ligma” Smith, Rose, Barnobuck “Barny” the Bizarre, Nila, Selvar, and Micaelis. How Selvar and Micaelis joined the gathering: **Needs review**.
-- [[npcs/velur/lirina|Lirina]], Countess of Velluria, captured and interrogated.
-- [[npcs/velur/lady-miranda|Lady Miranda]], the royal cousin Frank has been flirting with, and her guards.
-- [[npcs/velur/lord-petrand-kush|Lord Petrand Kush]], Master of Revels, charmed by Rose.
+- Arden Sable, Ulrich, Francis “Frank” Spencer Gray, Steve “Ligma” Smith, Rose, Barnobuck “Barny” the Bizarre, Nila, Selvar, and Michaelis. How Selvar and Michaelis joined the gathering: **Needs review**.
+- [[npcs/vellure/lirina|Lirina]], Countess of Velluria, captured and interrogated.
+- [[npcs/vellure/lady-miranda|Lady Miranda]], the royal cousin Frank has been flirting with, and her guards.
+- [[npcs/vellure/lord-petran-cask|Lord Petran Cask]], Master of Revels, charmed by Rose.
 - The noble whose nightmare Barny reveals, the two servants who witness Lirina's capture, and the palace guards and household.
 - [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]] and the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] are discussed but not encountered.
 
@@ -79,7 +79,7 @@ By Day 193 the Bonebreakers hold the Countess of Velluria captive in her own pal
 - Lirina wants back a dagger found in the armoury. Its nature and significance: **Needs review**.
 - Miranda's letter comes from an unidentified writer claiming to be Arthur's friend, urging her to speak to Wendell before he gives evidence.
 - One encoded message is intended for the Grey Khan, warning that the Bonebreakers are known to be operating in the Northlands and are expected at the masquerade.
-- Rose casts Charm Person on Petrand through Steve's sword.
+- Rose casts Charm Person on Petran through Steve's sword.
 
 ## Threads raised this session
 
@@ -89,7 +89,7 @@ By Day 193 the Bonebreakers hold the Countess of Velluria captive in her own pal
 - [[quests/major/active/grey-syndicate-conspiracy|The Grey Khan connection]]: **Resolved in Session 68.** Further ESP questioning identifies Lirina as Ash and links Ash to the Khan. Her mental separation of the identities explains the apparent denial here.
 - The encoded letters: **Still unresolved.** The party holds the letters and the cipher book but has not decoded them.
 - Miranda's letter: **Still unresolved.** Its author, and what Miranda is meant to learn from Wendell before he gives evidence, are unknown.
-- The captive countess: **Partially resolved in Session 68.** [[npcs/velur/opal|Opal]] exposes Rose's impersonation and the Watch attempts an arrest. The Bonebreakers escape with Lirina and take her to the Mercy, where her fate and proposed alliance remain undecided.
+- The captive countess: **Partially resolved in Session 68.** [[npcs/vellure/opal|Opal]] exposes Rose's impersonation and the Watch attempts an arrest. The Bonebreakers escape with Lirina and take her to the Mercy, where her fate and proposed alliance remain undecided.
 - The assassination scare: **Still unresolved.** The guests have left believing a range of rumours, some blaming the acrobat or the magician. Miranda expects serious political consequences.
 - The nightmare of Audrey's murder: **Still unresolved.** The noble says he does not know why he has such a dream.
 - [[quests/major/active/princess-agathas-secret-patronage|Agatha's commission]]: **Partially resolved; investigation active.** The party has strong evidence of Lirina's ambitions and her link to the Grey Khan, but has not yet reported to Agatha.

@@ -24,7 +24,7 @@ The cursed imperial armour is ancient armour recovered from undead in [[location
 ## Known history
 
 - In [[sessions/session-050|Session 50]], the Bonebreakers recover three suits of ancient imperial armour from the undead at [[locations/world/agria/southlands/ikiria/plats/corpse-pit|the Corpse Pit]].
-- The suits are claimed by [[characters/active-players/john/characters/micaelis|Micaelis]], [[characters/active-players/alessandro/characters/selvar|Selvar]], and [[characters/active-players/jennifer/characters/quak-ii|Quak II!]].
+- The suits are claimed by [[characters/active-players/john/characters/michaelis|Michaelis]], [[characters/active-players/alessandro/characters/selvar|Selvar]], and [[characters/active-players/jennifer/characters/quak-ii|Quak II!]].
 - In [[sessions/session-051|Session 51]], Selvar realises during an ochre jelly fight in [[locations/world/westmarsh/necropolis/arch-v|Arch V]] that his armour is cursed.
 
 ## Current status
@@ -38,4 +38,4 @@ Selvar is still affected by his cursed suit. The status of the other two suits n
 
 ## Open questions
 
-- Whether Micaelis's and Quak II!'s suits share the same curse remains unresolved.
+- Whether Michaelis's and Quak II!'s suits share the same curse remains unresolved.

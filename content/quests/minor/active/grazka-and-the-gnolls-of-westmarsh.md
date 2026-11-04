@@ -16,7 +16,7 @@ related_sessions:
 related_locations:
   - Westfort
   - Westmarsh
-  - Spider Market
+  - Spider's Market
 related_npcs:
   - Grazka
 related_factions:
@@ -40,7 +40,7 @@ In [[sessions/session-034|Session 34]], the party's first major push out from [[
 
 - The surviving gnolls mention a matriarch named Grazka.
 - Rumours in and around Westfort repeatedly describe gnolls as growing bolder.
-- A later gnoll attack near [[locations/world/westmarsh/spiders-market|the Spider Market]] reinforces that they remain active even while hobgoblins and the Grey Syndicate take center stage.
+- A later gnoll attack near [[locations/world/westmarsh/spiders-market|the Spider's Market]] reinforces that they remain active even while hobgoblins and the Grey Syndicate take center stage.
 
 ## Current status
 
@@ -54,7 +54,7 @@ Active. The gnolls remain a recurring frontier threat, but the campaign has not 
 
 - [[locations/world/agria/west-fort|Westfort]]
 - [[locations/world/westmarsh|Westmarsh]]
-- [[locations/world/westmarsh/spiders-market|Spider Market]]
+- [[locations/world/westmarsh/spiders-market|Spider's Market]]
 
 ## Related factions
 

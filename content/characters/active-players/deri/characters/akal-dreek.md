@@ -36,7 +36,7 @@ Duergar adventurer and associate.
 
 - [[locations/world/agria/southlands/ikiria/index|Ikiria]]
 - [[locations/world/agria/west-fort/index|Westfort]]
-- [[locations/world/westmarsh/spiders-market|the Spider Market]]
+- [[locations/world/westmarsh/spiders-market|the Spider's Market]]
 
 ## Important campaign events
 

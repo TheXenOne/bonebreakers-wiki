@@ -20,7 +20,7 @@ related_sessions:
   - 40
 related_locations:
   - Westfort
-  - Spider Market
+  - Spider's Market
   - Hobgoblin Mine
   - Invasion Fort
 related_npcs:
@@ -45,7 +45,7 @@ source_sessions:
 
 ## Overview
 
-What begins with Tobold's abduction and reports of missing children becomes a long frontier campaign around [[locations/world/agria/west-fort|Westfort]], the [[locations/world/westmarsh/spiders-market|Spider Market]], and the hidden invasion fort. The children are ultimately rescued and the immediate invasion breaks.
+What begins with Tobold's abduction and reports of missing children becomes a long frontier campaign around [[locations/world/agria/west-fort|Westfort]], the [[locations/world/westmarsh/spiders-market|Spider's Market]], and the hidden invasion fort. The children are ultimately rescued and the immediate invasion breaks.
 
 ## How it began
 
@@ -54,7 +54,7 @@ In [[sessions/session-033|Session 33]], Tobold is taken by a giant hawk and vill
 ## Key developments
 
 - Westfort is found already weakened by arson, poison, and theft.
-- The party traces sabotage through Vex, Jeremy, Ash, the Spider Market, and the nearby fortress network.
+- The party traces sabotage through Vex, Jeremy, Ash, the Spider's Market, and the nearby fortress network.
 - Reconnaissance and raids reveal a larger invasion plan targeting Westfort.
 - In [[sessions/session-040|Session 40]], the Bonebreakers locate the hawks' nesting ground, rescue the kidnapped children, and confirm the invading force has broken.
 
@@ -81,7 +81,7 @@ The children are returned alive to Westfort, Commander Valerius keeps the fort s
 ## Related locations
 
 - [[locations/world/agria/west-fort|Westfort]]
-- [[locations/world/westmarsh/spiders-market|Spider Market]]
+- [[locations/world/westmarsh/spiders-market|Spider's Market]]
 - [[locations/world/westmarsh/hobgoblin-mine|Hobgoblin Mine]]
 - [[locations/world/westmarsh/invasion-fort|Invasion Fort]]
 

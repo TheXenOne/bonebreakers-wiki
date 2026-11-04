@@ -35,7 +35,7 @@ Needs review.
 ## Associated locations
 
 - [[locations/world/agria/southlands/ikiria/index|Ikiria]]
-- [[locations/world/westmarsh/spiders-market|the Spider Market]]
+- [[locations/world/westmarsh/spiders-market|the Spider's Market]]
 
 ## Important campaign events
 

@@ -28,14 +28,14 @@ related_sessions:
   - 68
 related_locations:
   - Westfort
-  - Spider Market
+  - Spider's Market
   - Invasion Fort
   - Westmarsh
   - The Mercy
   - Kingsport
   - Arthur's Palace
   - Velluria
-  - Velur
+  - Vellure
   - Gilt Palace
 related_npcs:
   - Ash
@@ -43,10 +43,10 @@ related_npcs:
   - Vex
   - Prince Arthur
   - The Grey Khan
-  - Lord Varrick
+  - Lord Varek
   - Lirina
   - Corvin Dace
-  - Mistress Elspeth Crane
+  - Mistress Elswyth Crane
 related_factions:
   - Grey Syndicate
   - Westfort Garrison
@@ -75,27 +75,27 @@ The Grey Syndicate links Westfort sabotage, Westmarsh kidnappings, political man
 
 ## How it began
 
-The thread becomes visible when the party exposes Vex's sabotage cell in [[sessions/session-035|Session 35]], then traces the chain upward through Jeremy to Ash and the [[locations/world/westmarsh/spiders-market|Spider Market]].
+The thread becomes visible when the party exposes Vex's sabotage cell in [[sessions/session-035|Session 35]], then traces the chain upward through Jeremy to Ash and the [[locations/world/westmarsh/spiders-market|Spider's Market]].
 
 ## Key developments
 
 - Vex admits to poisoning, arson, and theft on behalf of a hidden employer.
-- Jeremy leads the party to Ash and the Spider Market network.
+- Jeremy leads the party to Ash and the Spider's Market network.
 - Papers recovered in [[sessions/session-040|Session 40]] show the Syndicate destabilising Agria through fire, poison, and kidnapping.
 - In [[sessions/session-044|Session 44]] to [[sessions/session-046|Session 46]], the Syndicate is tied directly to [[npcs/agria/prince-arthur|Prince Arthur]] and the struggle against Princess Agatha.
 - In [[sessions/session-047|Session 47]], the Bonebreakers rob a decoy market cell of 20,000 gold, learn the Syndicate is dispersed rather than centralised, and hear of renewed invasion plans at a hobgoblin fort. Needs review.
 - In [[sessions/session-053|Session 53]], captured orcs in the Mercy say they came from Westmarsh, were ordered to delay the Bonebreakers, and that the first priest kidnapping from the Mercy was also Syndicate work.
 - In [[sessions/session-054|Session 54]], news confirms that the renewed invasion of Westfort has become a siege. Kargaz later confirms the Syndicate supported his campaign.
-- In [[sessions/session-060|Session 60]], [[npcs/necropolis/lord-varrick|Lord Varrick]] suggests that the Syndicate may be seeking Valedictus's necromantic power or may instead intend to destroy him. This is informed speculation rather than proof of the Syndicate's objective.
+- In [[sessions/session-060|Session 60]], [[npcs/necropolis/lord-varek|Lord Varek]] suggests that the Syndicate may be seeking Valedictus's necromantic power or may instead intend to destroy him. This is informed speculation rather than proof of the Syndicate's objective.
 - In [[sessions/session-063|Session 63]], the reanimated [[npcs/westmarsh/kargaz-the-disciplined|Kargaz]] confirms that the Syndicate supported his war and promised him control of Westfort if he captured it. He says he knew little of its larger plans.
 - In [[sessions/session-064|Session 64]], Agatha says she suspects a force beyond even the Syndicate and doubts Arthur could have organised the unrest alone. The party follows a lead through Count Venn and Brother Sedge into Arthur's Palace, without yet identifying a wider mastermind.
-- In [[sessions/session-065|Session 65]], the palace search identifies [[npcs/velur/lirina|Lirina]], Countess of Velluria, as a lead through love letters, portraits, repeated journeys, and her warning against rash action and written commitments. Hugh Malory points to her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]]. Corvin takes letters and lies about his previous visits. His suspicious palace activity and flight after returning to the Royal Chamberlain's building lead the party to suspect he is not who he claims to be. The Bonebreakers frame him for their own jewellery theft and secure his arrest.
-- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], the Bonebreakers capture Lirina at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] and find encoded letters, a cipher book, and an assassin's armoury in her rooms. Her thoughts reveal that the letters belong to her spy network, that she knows who the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] is without being the Khan, and that one message is meant to warn the Khan that the Bonebreakers are active in the Northlands and expected at her masquerade.
+- In [[sessions/session-065|Session 65]], the palace search identifies [[npcs/vellure/lirina|Lirina]], Countess of Velluria, as a lead through love letters, portraits, repeated journeys, and her warning against rash action and written commitments. Hugh Mallory points to her masquerade in [[locations/world/agria/northlands/velluria/vellure|Vellure]]. Corvin takes letters and lies about his previous visits. His suspicious palace activity and flight after returning to the Royal Chamberlain's building lead the party to suspect he is not who he claims to be. The Bonebreakers frame him for their own jewellery theft and secure his arrest.
+- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], the Bonebreakers capture Lirina at the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]] and find encoded letters, a cipher book, and an assassin's armoury in her rooms. Her thoughts reveal that the letters belong to her spy network, that she knows who the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] is without being the Khan, and that one message is meant to warn the Khan that the Bonebreakers are active in the Northlands and expected at her masquerade.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], at the Mercy, Selvar's ESP identifies Lirina as Ash. Her thoughts distinguish Lirina from the Grey Khan, but she affirms that Ash is the Khan; the Bonebreakers conclude that they have captured the Syndicate's leader. Lirina says her plans will continue without her and justifies the invasion as an attempt to replace Westfort's weak defenders with her own army. Her hatred of Valedictus is genuine, and a nightmare of plague ravaging Agria suggests fear of disaster. She offers an alliance, but the party cannot agree whether to accept.
 
 ## Current status
 
-Active, with the leadership mystery resolved from the Bonebreakers' perspective. The party has escaped Velur and holds [[npcs/velur/lirina|Lirina]], identified as Ash and the Grey Khan, at the Mercy. Her thoughts support her claim to answer to no superior, and confirm that she genuinely wants Valedictus destroyed. She says her plans will continue without her; the network has not been dismantled.
+Active, with the leadership mystery resolved from the Bonebreakers' perspective. The party has escaped Vellure and holds [[npcs/vellure/lirina|Lirina]], identified as Ash and the Grey Khan, at the Mercy. Her thoughts support her claim to answer to no superior, and confirm that she genuinely wants Valedictus destroyed. She says her plans will continue without her; the network has not been dismantled.
 
 Lirina offers an alliance against the Necropolis's evil, claiming that she seeks Agria's stability. The Bonebreakers know her responsibility for a companion's death, child kidnappings, arson, and invasions. They remain divided over whether her help against Valedictus can justify cooperating with her, and have made no agreement. Agatha has not received its findings, and Lirina's other encoded letters remain undeciphered.
 
@@ -105,7 +105,7 @@ Lirina offers an alliance against the Necropolis's evil, claiming that she seeks
 - The conspiracy reaches from criminal handlers to royal succession.
 - Arthur's arrest turns part of the conspiracy from hidden leverage into open political evidence.
 - The priest kidnapping once attributed to Gruumsh's warband now appears to have been connected to the Syndicate, though the exact arrangement remains unclear.
-- Corvin is in custody on fabricated theft evidence. Elspeth remains charmed when she supports the party; exposure of the frame-up could compromise its position with the Queen’s Guard.
+- Corvin is in custody on fabricated theft evidence. Elswyth remains charmed when she supports the party; exposure of the frame-up could compromise its position with the Queen’s Guard.
 - The party has identified the Syndicate leader and holds new documentary evidence, but has not yet reported to Agatha. Lirina's thoughts support her claim to answer to nobody; this does not establish the extent of every force involved in the unrest.
 - One of Lirina's encoded messages is meant to warn the Grey Khan that the Bonebreakers are operating in the Northlands.
 - Capturing the Khan removes her freedom without establishing that the dispersed network has stopped operating.
@@ -120,21 +120,21 @@ Lirina offers an alliance against the Necropolis's evil, claiming that she seeks
 - [[npcs/west-fort/grey-syndicate/vex|Vex]]
 - [[npcs/agria/prince-arthur|Prince Arthur]]
 - [[npcs/westmarsh/grey-syndicate/the-grey-khan|The Grey Khan]]
-- [[npcs/velur/lirina|Lirina]]
+- [[npcs/vellure/lirina|Lirina]]
 - [[npcs/kingsport/corvin-dace|Corvin Dace]]
-- [[npcs/kingsport/elspeth-crane|Mistress Elspeth Crane]]
+- [[npcs/kingsport/elswyth-crane|Mistress Elswyth Crane]]
 
 ## Related locations
 
 - [[locations/world/agria/west-fort|Westfort]]
-- [[locations/world/westmarsh/spiders-market|Spider Market]]
+- [[locations/world/westmarsh/spiders-market|Spider's Market]]
 - [[locations/world/westmarsh/invasion-fort|Invasion Fort]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
 - [[locations/world/agria/northlands/kingsport|Kingsport]]
 - [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]
 - [[locations/world/agria/northlands/velluria|Velluria]]
-- [[locations/world/agria/northlands/velluria/velur|Velur]]
-- [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]
+- [[locations/world/agria/northlands/velluria/vellure|Vellure]]
+- [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]]
 
 ## Related factions
 

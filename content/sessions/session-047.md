@@ -15,7 +15,7 @@ See also: [[sessions/index|Sessions]], [[sessions/session-046|Session 46 - The G
 
 ## Narrative recap
 
-The Bonebreakers try to turn [[npcs/westmarsh/grey-syndicate/ash|Ash]]'s proposed exchange into a quiet capture operation inside [[locations/world/westmarsh/spiders-market|The Spider Market]]. The real goal is to get Ash, not simply rob the deal, and the risk is that any obvious violence would expose them as deal-breakers in a place where the market itself punishes broken bargains. When sprites appear around the party's camp during the night, Selvar persuades them to cause a distraction in the market, giving the Bonebreakers cover to move while attention is pulled elsewhere.
+The Bonebreakers try to turn [[npcs/westmarsh/grey-syndicate/ash|Ash]]'s proposed exchange into a quiet capture operation inside [[locations/world/westmarsh/spiders-market|The Spider's Market]]. The real goal is to get Ash, not simply rob the deal, and the risk is that any obvious violence would expose them as deal-breakers in a place where the market itself punishes broken bargains. When sprites appear around the party's camp during the night, Selvar persuades them to cause a distraction in the market, giving the Bonebreakers cover to move while attention is pulled elsewhere.
 
 With that distraction in place, the plan becomes a strange but careful mix of invisibility, Silence, an invisible silenced rabbit, and sleep magic. The aim is to keep nearby market occupants from waking and seeing the party break the exchange terms. The target tent proves to be a decoy rather than Ash herself, but the raid still drops the occupants and seizes the first 10,000 gold as a useful bonus.
 
@@ -45,8 +45,8 @@ The final move is into locked-down [[locations/world/agria/southlands/ikiria|Iki
 
 ## Locations visited
 
-- Camp near [[locations/world/westmarsh/spiders-market|the Spider Market]]
-- [[locations/world/westmarsh/spiders-market|The Spider Market]]
+- Camp near [[locations/world/westmarsh/spiders-market|the Spider's Market]]
+- [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 - [[locations/world/agria/west-fort|Westfort]]
 - [[locations/world/agria/southlands/barrowshire/barrow-spa/index|Barrow Spa]]
 - [[locations/world/agria/southlands/barrowshire/barrow-spa/bean-counter|The Bean Counter]]
@@ -67,7 +67,7 @@ The final move is into locked-down [[locations/world/agria/southlands/ikiria|Iki
 - [[characters/inactive-players/connor/characters/cyder|Cyder]]
 - [[characters/active-players/alessandro/characters/selvar|Selvar]]
 - [[characters/active-players/marta/characters/luthien|Luthien]]
-- [[characters/active-players/john/characters/micaelis|Micaelis]]
+- [[characters/active-players/john/characters/michaelis|Michaelis]]
 - [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]]
 - [[characters/active-players/ben/characters/del|Del]]
 - [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve "Ligma" Smith]]
@@ -85,7 +85,7 @@ The final move is into locked-down [[locations/world/agria/southlands/ikiria|Iki
 - The Bonebreakers seize 20,000 gold in two separate hauls from the decoy operation.
 - [[characters/active-players/laura/characters/rose|Rose]] collects her dragon-scale armour.
 - [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]] collects his orcish mail.
-- [[characters/active-players/john/characters/micaelis|Micaelis]] commissions a spear for 500 gold pieces.
+- [[characters/active-players/john/characters/michaelis|Michaelis]] commissions a spear for 500 gold pieces.
 - The party recovers its stored pre-imperial treasure and evidence from the Mercy.
 - The captured recruiter confirms that the Syndicate has no single headquarters and works through a dispersed network.
 - The captured recruiter also says she cannot confirm who the Grey Khan is.

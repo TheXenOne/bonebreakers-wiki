@@ -76,7 +76,7 @@ The faith is associated with healing, public charity, and resistance to undead c
 - In [[sessions/session-048|Session 48]], the party finds [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|the Temple of Merciful Life]] in Ikiria burned by civilian inquisitors, while Arden and Frank continue public healing and charity in the district.
 - In [[sessions/session-053|Session 53]], Grey Syndicate-linked orcs briefly seize the Mercy and imprison its inhabitants before the Bonebreakers retake the nave.
 - In [[sessions/session-063|Session 63]], the party finds the Temple of Merciful Life rebuilt. Arden trains and employs Elizabeth to run it, gather followers, and provide local healing.
-- In [[sessions/session-066|Session 66 - Masquerade]], Arden publicly represents the faith at Lirina's masquerade in the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]], blessing the spectators and attending with Ulrich as a fellow cleric. His attempt to promote Belenite healing alarms a physician when he mentions a companion approaching the ability to resurrect the dead.
+- In [[sessions/session-066|Session 66 - Masquerade]], Arden publicly represents the faith at Lirina's masquerade in the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]], blessing the spectators and attending with Ulrich as a fellow cleric. His attempt to promote Belenite healing alarms a physician when he mentions a companion approaching the ability to resurrect the dead.
 
 ## Current status
 

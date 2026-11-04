@@ -38,7 +38,7 @@ Ambitious, jealous of Agatha, and politically compromised. His correspondence sh
 
 - He is the royal conspirator working with the Grey Syndicate against Princess Agatha.
 - After Luthien charms him, the party tries to use Arthur and his secretary's ledger to make contact with the Grey Khan, but that effort fails.
-- His capture pushes the Bonebreakers into direct negotiation with Ash and the Spider Market network.
+- His capture pushes the Bonebreakers into direct negotiation with Ash and the Spider's Market network.
 - After Wendell's testimony reaches Smith, Arthur is formally arrested in Ikiria.
 
 ## Affiliations
@@ -51,7 +51,7 @@ Ambitious, jealous of Agatha, and politically compromised. His correspondence sh
 
 - [[locations/world/agria/northlands|Northlands]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
-- [[locations/world/westmarsh/spiders-market|The Spider Market]]
+- [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 - [[locations/world/agria/southlands/ikiria|Ikiria]]
 
 ## Relationships
@@ -61,19 +61,19 @@ Ambitious, jealous of Agatha, and politically compromised. His correspondence sh
 - Travels with [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]], [[npcs/agria/prince-arthurs-retinue/pell|Pell]], [[npcs/agria/prince-arthurs-retinue/tomas-wren|Tomas Wren]], and the rest of [[npcs/agria/prince-arthurs-retinue/index|his retinue]].
 - [[npcs/agria/prince-arthurs-retinue/captain-hassock|Captain Hassock]] remains outwardly loyal to Arthur but ultimately carries out his arrest on Smith's orders.
 - Seeks guidance from the Grey Khan, later tied to [[npcs/westmarsh/grey-syndicate/ash|Ash]].
-- Love letters and portraits connect him personally to [[npcs/velur/lirina|Lirina]]. Rumours that she abandoned him after his arrest remain unconfirmed.
+- Love letters and portraits connect him personally to [[npcs/vellure/lirina|Lirina]]. Rumours that she abandoned him after his arrest remain unconfirmed.
 - Lirina, identified as Ash and the Grey Khan, says Arthur adored her and that she treated him as a useful tool. She insists his mistakes were his own; her exact influence over his decisions remains unclear.
 
 ## Campaign events
 
 - In [[sessions/session-044|Session 44]], the party intercepts Arthur on the road and forces a confession linking him to the Grey Syndicate.
 - In [[sessions/session-045|Session 45]], his ledger becomes evidence, and the party tries to turn his capture into leverage.
-- In [[sessions/session-046|Session 46]], Arthur is brought into the Spider Market under disguise while the party negotiates with Ash.
+- In [[sessions/session-046|Session 46]], Arthur is brought into the Spider's Market under disguise while the party negotiates with Ash.
 - In [[sessions/session-047|Session 47]], Wendell and the seized papers are delivered to Smith, and Arthur is arrested in Ikiria.
 - In [[sessions/session-064|Session 64]], Agatha doubts he organised the wider unrest alone. The Bonebreakers pose as his supporters and enter [[locations/world/agria/northlands/kingsport/arthurs-palace|his palace]] through Brother Sedge to investigate his political circle.
-- In [[sessions/session-065|Session 65]], the search of [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] reveals love letters to [[npcs/velur/lirina|Lirina]], increasingly cautious political drafts, repeated trips to Velluria, and a payment for discretion in Harrow. Lirina's note warns against rash action and committing anything to paper. Servants repeat unconfirmed rumours that she abandoned him and that the Queen intends to close his palace.
+- In [[sessions/session-065|Session 65]], the search of [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]] reveals love letters to [[npcs/vellure/lirina|Lirina]], increasingly cautious political drafts, repeated trips to Velluria, and a payment for discretion in Harrow. Lirina's note warns against rash action and committing anything to paper. Servants repeat unconfirmed rumours that she abandoned him and that the Queen intends to close his palace.
 - In [[sessions/session-066|Session 66 - Masquerade]], Nila hears rumours at Lirina's masquerade that the countess is trying to take Arthur's place. Lirina speaks about Agria's political uncertainty beside an empty ducal chair, but her intentions and any change to Arthur's position remain unconfirmed.
-- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], [[npcs/velur/lirina|Lirina]]'s thoughts confirm that she intends at least to become Duchess during his absence. A letter stolen from [[npcs/velur/lady-miranda|Lady Miranda]] shows that an unidentified writer claiming to be Arthur's friend wants her to speak to [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]] before he gives evidence.
+- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], [[npcs/vellure/lirina|Lirina]]'s thoughts confirm that she intends at least to become Duchess during his absence. A letter stolen from [[npcs/vellure/lady-miranda|Lady Miranda]] shows that an unidentified writer claiming to be Arthur's friend wants her to speak to [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]] before he gives evidence.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], Lirina is identified as Ash and the Grey Khan. She describes Arthur as a useful tool who adored her and resented Agatha, while denying responsibility for his mistakes. Her offer to the party links greater rewards to her becoming Duchess, without any change to Arthur's title or arrested status.
 
 ## Current status

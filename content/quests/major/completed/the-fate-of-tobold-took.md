@@ -16,7 +16,7 @@ related_sessions:
   - 46
 related_locations:
   - Westfort
-  - Spider Market
+  - Spider's Market
   - The Mercy
 related_npcs:
   - Tobold Took
@@ -67,7 +67,7 @@ The party finally learns that Tobold is dead.
 ## Related locations
 
 - [[locations/world/agria/west-fort|Westfort]]
-- [[locations/world/westmarsh/spiders-market|Spider Market]]
+- [[locations/world/westmarsh/spiders-market|Spider's Market]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]
 
 ## Related factions

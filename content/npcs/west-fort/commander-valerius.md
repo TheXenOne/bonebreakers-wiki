@@ -39,7 +39,7 @@ Cynical, seasoned, and authoritative.
 
 - Valerius becomes the main military authority during the fort's sabotage, investigations, and later war footing.
 - He receives prisoners, recovered arms, invasion intelligence, and hard-won reports from the party, and publicly commends them after the Vex operation despite his misgivings.
-- He remains the party's main military contact when renewed invasion rumours return after the Spider Market raid, and publicly honours them after they break the siege.
+- He remains the party's main military contact when renewed invasion rumours return after the Spider's Market raid, and publicly honours them after they break the siege.
 
 ## Affiliations
 

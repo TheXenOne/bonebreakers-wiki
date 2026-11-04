@@ -21,7 +21,7 @@ During the stop in Barrow Spa, the party shops for equipment and takes several m
 
 The party chooses [[locations/world/agria/west-fort|Westfort]] as its next destination, but the journey is cut short when nine gryphons dive out of the sky and tear through the party's horses. Only [[characters/active-players/ben/characters/ulrich|Ulrich]]'s horse survives the first attack. [[characters/active-players/ben-l/characters/arden-sable|Arden]] protects it with Bran's Heroic Aura long enough for Ulrich to dismount, while [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]] covers the animal in poison. [[characters/active-players/alessandro/characters/selvar|Selvar]] surrounds himself with mirror images and Paul disappears from sight before the gryphons strike again.
 
-The poisoned horse is killed, but three gryphons die from the poison after attacking it. Arden and Ulrich blind two more, and [[characters/inactive-players/marie/characters/fred|Fred]] traps the last four in a Web. The spell also catches [[characters/active-players/john/characters/micaelis|Micaelis]], who has leapt onto one of the creatures to attack it at close quarters. Barny drives the [[items/party-inventory/red-seers-dagger|Red Seer's Dagger]] into a gryphon, only to be struck so badly in return that he is left barely alive. Arden heals him before the fight can finish him.
+The poisoned horse is killed, but three gryphons die from the poison after attacking it. Arden and Ulrich blind two more, and [[characters/inactive-players/marie/characters/fred|Fred]] traps the last four in a Web. The spell also catches [[characters/active-players/john/characters/michaelis|Michaelis]], who has leapt onto one of the creatures to attack it at close quarters. Barny drives the [[items/party-inventory/red-seers-dagger|Red Seer's Dagger]] into a gryphon, only to be struck so badly in return that he is left barely alive. Arden heals him before the fight can finish him.
 
 The Bonebreakers turn the ambush into an opportunity. Ulrich chases down and subdues one gryphon, Selvar restrains another, and the party kills the remaining trapped attackers from a distance, with Fred landing the final blow against one of them. Six gryphons are killed, two are captured alive, and one escapes with the Red Seer's Dagger still lodged in it. Because the dagger can show Barny what its bearer sees, the escaped gryphon may still be watched through the weapon.
 
@@ -35,7 +35,7 @@ With nearly all their horses dead and two dangerous captives to manage, the part
 - The Bonebreakers leave the Mercy, stop in Barrow Spa, and set out for Westfort to buy potions of water breathing from Erasmus Vale for the next part of the Sunken Market.
 - Nine gryphons ambush the party and kill all of its horses.
 - Poison placed on Ulrich's surviving horse kills three gryphons after they bring the animal down.
-- Fred webs four gryphons and accidentally traps Micaelis with them.
+- Fred webs four gryphons and accidentally traps Michaelis with them.
 - Barny is left barely alive by a gryphon after stabbing it with the Red Seer's Dagger, and Arden heals him.
 - Six gryphons are killed, one escapes, and Ulrich and Selvar each capture one alive.
 - The escaping gryphon carries away the Red Seer's Dagger, preserving a possible means of watching or tracking it.
@@ -62,7 +62,7 @@ With nearly all their horses dead and two dangerous captives to manage, the part
 - [[characters/inactive-players/valerio/characters/paul|Paul]]
 - [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve "Ligma" Smith]]
 - [[characters/inactive-players/marie/characters/fred|Fred]]
-- [[characters/active-players/john/characters/micaelis|Micaelis]]
+- [[characters/active-players/john/characters/michaelis|Michaelis]]
 
 ## Items, magic, and discoveries
 
@@ -75,7 +75,7 @@ With nearly all their horses dead and two dangerous captives to manage, the part
 - Selvar uses Mirror Image and Paul turns invisible as the gryphons descend.
 - Poison placed on the surviving horse kills three gryphons after they attack it.
 - Blindness magic from Arden and Ulrich disables two gryphons.
-- Fred's Web restrains four gryphons and Micaelis.
+- Fred's Web restrains four gryphons and Michaelis.
 - Two living gryphons are now in the party's custody, but neither is tame or safe to ride.
 - Commissioned gryphon harnesses and a Bonebreaker-decorated wagon are not yet complete.
 

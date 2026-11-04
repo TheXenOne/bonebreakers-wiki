@@ -41,7 +41,7 @@ related_locations:
   - The Abyss
   - Imperial Hill Temple
   - Imperial Family Tomb
-  - House Varrick Tomb
+  - House Varek Tomb
 related_npcs:
   - Cornelius Vane
   - Tobold Took
@@ -51,7 +51,7 @@ related_npcs:
   - Crimson Bishop
   - Captain Varro
   - Valedictus
-  - Lord Varrick
+  - Lord Varek
   - Lirina
 related_factions:
   - Bonebreakers
@@ -85,7 +85,7 @@ The party discovers that a section of the legendary [[locations/world/westmarsh/
 
 The renewed delve has widened the Necropolis from a buried dungeon into a half-understood civic ruin. [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]] appears to connect the [[locations/world/westmarsh/necropolis#The Nexus|Nexus]] to a western exterior gate, while [[locations/world/westmarsh/necropolis/arch-v|Arch V]] has revealed an undead restoration district with labourers, foremen, children's quarters, a schoolroom, hidden maintenance routes, and orders stretching back more than 2,000 years. Their push through Arch V has killed [[npcs/necropolis/the-bloated-one|the Bloated One]] and recovered new evidence about the district's administration. [[locations/world/westmarsh/necropolis/arch-iv|Arch IV]] now opens onto the [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|Sunken Market]], a flooded market district where zombie merchants still trade, serpent pools punish broken routines, snake-men defend or patrol the counting house, and [[factions/religions-and-cults/dark-druids-of-the-deep-one|dark druids of the Deep One]] move through the stalls.
 
-The [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]] has now opened another Necropolis zone: a District One command quarter connected to the Nexus through [[locations/world/westmarsh/necropolis/arch-i|Arch I]]. Secret passages from the command quarter also reach the separate [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]] and [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]].
+The [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]] has now opened another Necropolis zone: a District One command quarter connected to the Nexus through [[locations/world/westmarsh/necropolis/arch-i|Arch I]]. Secret passages from the command quarter also reach the separate [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]] and [[locations/world/westmarsh/necropolis/house-varek-tomb|House Varek Tomb]].
 
 ## How it began
 
@@ -99,7 +99,7 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 - Sessions [[sessions/session-042|42]] and [[sessions/session-043|43]] continue the delve, but the exact split between their events is unclear.
 - In [[sessions/session-044|Session 44]], the party kills a chimera guarding a major hoard within the deeper section.
 - By [[sessions/session-046|Session 46]], rumours point to another western entrance that may connect to the same complex.
-- In [[sessions/session-047|Session 47]], a captured recruiter places the Necropolis roughly 50 miles west of the Spider Market, giving the western-entrance rumour a little more support.
+- In [[sessions/session-047|Session 47]], a captured recruiter places the Necropolis roughly 50 miles west of the Spider's Market, giving the western-entrance rumour a little more support.
 - In [[sessions/session-048|Session 48]], undead wrapped in sailcloth marked with ancient imperial script rise from Ikiria's corpse pits, suggesting a possible necromantic link between the city crisis and the same buried civilisation.
 - In [[sessions/session-049|Session 49]], [[npcs/ikiria/maren-sollow|Maren Sollow]] says the corpse-pit undead were conjured and do not belong there, strengthening the case for deliberate necromancy linked to the same buried past, though not proving the exact source.
 - In [[sessions/session-050|Session 50]], the party finds 400 pre-imperial Westmarsh gold pieces planted at the bottom of [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]], further tying Ikiria's crisis to deliberate use of older imperial material.
@@ -110,11 +110,11 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 - When the party changes one arrow to point upward, the route teleports them onto the outer dome and wall near [[locations/world/westmarsh/necropolis/arch-vi|Arch VI]]; after returning to the [[locations/world/westmarsh/necropolis#The Nexus|Nexus]] and going back into Arch V, Steve breaks the loop with a symmetrical floor arrow.
 - The [[items/bloated-one-work-ledger|Bloated One work ledger]] reveals annual inspections, a recent warm-air anomaly behind the school, and an instruction not to report the anomaly to [[npcs/necropolis/the-tribune|the Tribune]].
 - Cyder learns from the Bloated One that Section 22 was demolished and reused for Section 12 because the restoration works have no fresh source of stone.
-- The Bonebreakers kill the Bloated One, but its death burst infects [[characters/active-players/john/characters/micaelis|Micaelis]] and [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]] with a Constitution-draining disease while more zombies arrive.
+- The Bonebreakers kill the Bloated One, but its death burst infects [[characters/active-players/john/characters/michaelis|Michaelis]] and [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]] with a Constitution-draining disease while more zombies arrive.
 - In [[sessions/session-053|Session 53]], the party destroys those zombies and finds a sash identifying the Bloated One as Senior Administrator of Residential District V.
 - The party recovers the [[items/party-inventory/arch-v-shrine-locket|Arch V Shrine Locket]] and a vial of holy water from a hidden shrine cache.
 - Arden tests the Nexus eagle's ruby eye-buttons again with no obvious result before Steve removes them for loot.
-- After the party rests at the Mercy, Ulrich cures Steve and Micaelis of the Bloated One's rotting disease.
+- After the party rests at the Mercy, Ulrich cures Steve and Michaelis of the Bloated One's rotting disease.
 - Barny researches the Mercy's history and confirms that the Abyss predates the cathedral and the stairway built over it.
 - The party suspects something from the Necropolis may have possessed or corrupted the Crimson Bishop, but this remains unproven.
 - In [[sessions/session-054|Session 54]], the party enters Arch IV, finds a damp lichen-covered hall and zombie market street, and receives gems worth 380 gold pieces from a zombie merchant after Steve pays two gold pieces.
@@ -129,19 +129,19 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 - Varro says [[locations/world/westmarsh/necropolis/arch-viii|Arch VIII]] was sealed after something went wrong when the empire ended and identifies Valedictus as the all-seeing high priest in [[locations/world/westmarsh/necropolis/arch-iii|Arch III]]'s temple district.
 - Secret passages carry the party from Varro's command quarter into a separate district containing the [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]]. The tomb is guarded by twenty-four wights, and the party retreats rather than fight them.
 - Frank promises to lay Varro to rest. The party then loots the command-quarter armoury and triggers a poisonous-gas trap.
-- In [[sessions/session-060|Session 60]], the party survives the trap, recovers 1,980 gold pieces of military valuables and unpaid wages from a hidden room, and passes through a resin-filled embalming workshop into House Varrick Tomb.
-- [[npcs/necropolis/lord-varrick|Lord Varrick]] says Valedictus sought continental dominion, remains in power, possesses three phylacteries, and is connected to [[items/the-stylus|the Stylus]], which he advises the party to find.
+- In [[sessions/session-060|Session 60]], the party survives the trap, recovers 1,980 gold pieces of military valuables and unpaid wages from a hidden room, and passes through a resin-filled embalming workshop into House Varek Tomb.
+- [[npcs/necropolis/lord-varek|Lord Varek]] says Valedictus sought continental dominion, remains in power, possesses three phylacteries, and is connected to [[items/the-stylus|the Stylus]], which he advises the party to find.
 - A powerful incorporeal spirit cannot be turned or harmed. Ulrich permanently blinds it with Continual Light, and Barny's telescope shows it dreaming of [[items/glowing-skull|the glowing skull]] in lizardfolk hands, strongly implicating the skull as one of Valedictus's phylacteries.
 - The party crosses a drill yard containing 300 skeletons and enters the Nexus through Arch I, confirming the command quarter's connection.
 - Wistor opens the spiked Mercy trapdoor from below with Knock. The party returns to the Mercy, closes the trapdoor, and spikes it shut again.
 - In [[sessions/session-062|Session 62]], the party obtains eleven Potions of Water Breathing from Erasmus Vale after breaking the siege of Westfort. This removes the practical obstacle that previously forced the Bonebreakers to withdraw from the flooded Sunken Market routes.
-- In [[sessions/session-068|Session 68 - Ashes to Ashes]], the captive [[npcs/velur/lirina|Lirina]], identified as Ash and the Grey Khan, offers an alliance against the Necropolis's evil. She wants Valedictus destroyed, but the party is divided over cooperating with her.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], the captive [[npcs/vellure/lirina|Lirina]], identified as Ash and the Grey Khan, offers an alliance against the Necropolis's evil. She wants Valedictus destroyed, but the party is divided over cooperating with her.
 
 ## Current status
 
 Active, with exploration temporarily deferred. The Bonebreakers have escaped the command quarter through Arch I and returned to the Mercy. Wistor's Knock spell proves the lower trapdoor can be reopened from the Nexus side, although the party has closed and spiked it again. They now possess eleven Potions of Water Breathing, allowing them to resume exploration of the flooded Sunken Market routes.
 
-The delve has produced a new central threat: Valedictus remains in power, possesses three phylacteries, and is connected to the unknown Stylus. The glowing skull that Steve traded away is strongly implicated as one phylactery, while the three-locked soul-bound chest may hold another. The larger unresolved questions also include Captain Varro's release, the sealed Eighth Wing, the guarded Imperial Family Tomb, House Varrick, the Tribune, the restoration works, the Sunken Market, the dark druids, and the possible link between the Necropolis and the Crimson Bishop.
+The delve has produced a new central threat: Valedictus remains in power, possesses three phylacteries, and is connected to the unknown Stylus. The glowing skull that Steve traded away is strongly implicated as one phylactery, while the three-locked soul-bound chest may hold another. The larger unresolved questions also include Captain Varro's release, the sealed Eighth Wing, the guarded Imperial Family Tomb, House Varek, the Tribune, the restoration works, the Sunken Market, the dark druids, and the possible link between the Necropolis and the Crimson Bishop.
 
 The Bonebreakers have returned to the Mercy through Agatha's investigation, bringing Lirina, identified as Ash and the Grey Khan, as a prisoner. She offers them all treasure they find in the Necropolis in exchange for help destroying its evil and stabilising Agria. Her hatred of Valedictus is real, but the party is divided over working with an enemy responsible for killing, child kidnappings, arson, and invasions. No alliance has been agreed and the delve has not resumed.
 
@@ -161,7 +161,7 @@ The Bonebreakers have returned to the Mercy through Agatha's investigation, brin
 - Varro's refusal to speak Valedictus's name strengthens the mystery around the priest and the Necropolis's necromantic history. His answer implies that Valedictus was connected to whatever the priests did in the vault, but the nature of that connection remains unclear.
 - The Imperial Family Tomb adds a separate district containing twelve powerful interred figures and twenty-four active wight guardians to the known Necropolis.
 - The Arch I route establishes that the Imperial Hill Temple enters District One and gives the party a complete path from Westmarsh back to the Mercy.
-- Lord Varrick turns Valedictus from an obscure high priest into an active continental threat with three phylacteries and an unexplained connection to the Stylus.
+- Lord Varek turns Valedictus from an obscure high priest into an active continental threat with three phylacteries and an unexplained connection to the Stylus.
 - The Tribune's sealing order confirms authority beyond the Arch V restoration works.
 - Ulrich's Continual Light leaves a powerful incorporeal spirit permanently blinded but still active in the command quarter.
 - Barny has permanently gained control of a wight and six skeletons, although whether they left the drill yard with him needs review.
@@ -177,8 +177,8 @@ The Bonebreakers have returned to the Mercy through Agatha's investigation, brin
 - [[npcs/mercy/crimson-bishop|Crimson Bishop]]
 - [[npcs/necropolis/captain-varro|Captain Varro]]
 - [[npcs/necropolis/valedictus|Valedictus]]
-- [[npcs/necropolis/lord-varrick|Lord Varrick]]
-- [[npcs/velur/lirina|Lirina]]
+- [[npcs/necropolis/lord-varek|Lord Varek]]
+- [[npcs/vellure/lirina|Lirina]]
 
 ## Related locations
 
@@ -191,7 +191,7 @@ The Bonebreakers have returned to the Mercy through Agatha's investigation, brin
 - [[locations/world/agria/southlands/the-abyss|The Abyss]]
 - [[locations/world/westmarsh/imperial-hill-temple|The Imperial Hill Temple]]
 - [[locations/world/westmarsh/necropolis/imperial-family-tomb|The Imperial Family Tomb]]
-- [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]]
+- [[locations/world/westmarsh/necropolis/house-varek-tomb|House Varek Tomb]]
 - [[locations/world/westmarsh/necropolis/arch-i|Arch I]]
 
 ## Related factions
@@ -252,5 +252,5 @@ The Bonebreakers have returned to the Mercy through Agatha's investigation, brin
 - The permanently blinded incorporeal spirit remains active in the command quarter.
 - The nature and location of the Stylus, the locations of Valedictus's three phylacteries, and the glowing skull's present location remain unresolved.
 - Whether the three-locked soul-bound chest contains another phylactery remains only a suspicion.
-- The other occupants of House Varrick Tomb and the subjects of Lord Varrick's rejected petitions remain unknown.
+- The other occupants of House Varek Tomb and the subjects of Lord Varek's rejected petitions remain unknown.
 - Whether to accept Lirina's alliance, what help she can provide, and how her feared plague relates to the Necropolis remain unresolved.

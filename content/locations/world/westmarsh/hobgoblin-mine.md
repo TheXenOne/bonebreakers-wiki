@@ -15,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-The Hobgoblin Mine is a worked cave-mine in the hills south of [[locations/world/westmarsh/spiders-market|the Spider Market]]. Kobolds mine here under hobgoblin and bugbear supervision, feeding labour and supplies into the broader Westmarsh war effort.
+The Hobgoblin Mine is a worked cave-mine in the hills south of [[locations/world/westmarsh/spiders-market|the Spider's Market]]. Kobolds mine here under hobgoblin and bugbear supervision, feeding labour and supplies into the broader Westmarsh war effort.
 
 ## Geography and layout
 
@@ -29,7 +29,7 @@ The Hobgoblin Mine is a worked cave-mine in the hills south of [[locations/world
 
 ## Campaign events
 
-- In [[sessions/session-036|Session 36]], the Bonebreakers discover the cave after leaving the Spider Market.
+- In [[sessions/session-036|Session 36]], the Bonebreakers discover the cave after leaving the Spider's Market.
 - In [[sessions/session-037|Session 37]], they press deeper, learn of wider war preparations, and trace supplies toward [[locations/world/westmarsh/invasion-fort|the Invasion Fort]].
 - In [[sessions/session-057|Session 57]], Gobbo leads the party through the southern mountains until they recognise the approaches to the mine. They backtrack rather than enter and destroy one route with a landslide.
 

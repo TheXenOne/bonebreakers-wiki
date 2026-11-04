@@ -20,21 +20,21 @@ See also: [[sessions/index|Sessions]]
 
 ### The Watch arrives
 
-The Bonebreakers' interrogation of [[npcs/velur/lirina|Countess Lirina]] is interrupted by guards searching the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]. In the servants' quarters, [[characters/active-players/marta/characters/nila|Nila]] hears the newcomers entering and sees them searching in pairs. Outside the interrogation room, [[characters/active-players/john/characters/micaelis|Micaelis]] hears their approach and warns the others. [[characters/active-players/ben-l/characters/arden-sable|Arden]] casts Bless in preparation, while [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]] carries Lirina onto the balcony and jumps two storeys into the gardens. He conceals himself and the captive countess in the lush vegetation. [[characters/active-players/alessandro/characters/selvar|Selvar]] looks out from the balcony but sees neither of them and returns inside.
+The Bonebreakers' interrogation of [[npcs/vellure/lirina|Countess Lirina]] is interrupted by guards searching the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]]. In the servants' quarters, [[characters/active-players/marta/characters/nila|Nila]] hears the newcomers entering and sees them searching in pairs. Outside the interrogation room, [[characters/active-players/john/characters/michaelis|Michaelis]] hears their approach and warns the others. [[characters/active-players/ben-l/characters/arden-sable|Arden]] casts Bless in preparation, while [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]] carries Lirina onto the balcony and jumps two storeys into the gardens. He conceals himself and the captive countess in the lush vegetation. [[characters/active-players/alessandro/characters/selvar|Selvar]] looks out from the balcony but sees neither of them and returns inside.
 
-Eight guards approach Micaelis, including four elite swordsmen in plate armour carrying shields. A woman in plate commands them, accompanied by a smaller, slight woman who appears to be Lirina's attendant. Micaelis asks for a warrant and questions whether their weapons are regulation, but they threaten force and push past him. Downstairs, the head servant tells Nila that the newcomers are the Vellurian Watch and orders her back to work. Once he leaves her alone, she pickpockets his palace keys.
+Eight guards approach Michaelis, including four elite swordsmen in plate armour carrying shields. A woman in plate commands them, accompanied by a smaller, slight woman who appears to be Lirina's attendant. Michaelis asks for a warrant and questions whether their weapons are regulation, but they threaten force and push past him. Downstairs, the head servant tells Nila that the newcomers are the Vellurian Watch and orders her back to work. Once he leaves her alone, she pickpockets his palace keys.
 
-[[characters/active-players/laura/characters/rose|Rose]], still dressed as Lirina, challenges the interruption. The attendant whispers to the captain, and Selvar's active ESP reveals that she recognises Rose as an impostor. The captain initially keeps this to herself and asks whether the supposed countess is all right. Rose claims that the attendant attacked her the previous night, but Selvar can tell that the captain does not believe her. Asked for the attendant's name, Rose is rescued briefly by Selvar, who supplies “[[npcs/velur/opal|Opal]]” from their thoughts. Rose claims that she knew Opal by another name and that the attendant must have changed it to deceive her, but the bluff fails. The officer introduces herself as [[npcs/velur/dame-silka-voss|Dame Silka Voss]], Captain of the Vellurian Watch, and places the party under arrest.
+[[characters/active-players/laura/characters/rose|Rose]], still dressed as Lirina, challenges the interruption. The attendant whispers to the captain, and Selvar's active ESP reveals that she recognises Rose as an impostor. The captain initially keeps this to herself and asks whether the supposed countess is all right. Rose claims that the attendant attacked her the previous night, but Selvar can tell that the captain does not believe her. Asked for the attendant's name, Rose is rescued briefly by Selvar, who supplies “[[npcs/vellure/opal|Opal]]” from their thoughts. Rose claims that she knew Opal by another name and that the attendant must have changed it to deceive her, but the bluff fails. The officer introduces herself as [[npcs/vellure/dame-silka-voss|Dame Silka Voss]], Captain of the Vellurian Watch, and places the party under arrest.
 
 ### A false alarm and an escape
 
-The Bonebreakers resist. Selvar puts the four rear crossbowmen and Opal to sleep, Arden paralyses two elite guards with Hold Person, and [[characters/active-players/ben/characters/ulrich|Ulrich]] blinds Dame Voss with Light. [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]] blinds another elite guard, leaving the last active swordsman to surrender. Micaelis continues blocking the doorway while Nila remains hidden downstairs.
+The Bonebreakers resist. Selvar puts the four rear crossbowmen and Opal to sleep, Arden paralyses two elite guards with Hold Person, and [[characters/active-players/ben/characters/ulrich|Ulrich]] blinds Dame Voss with Light. [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]] blinds another elite guard, leaving the last active swordsman to surrender. Michaelis continues blocking the doorway while Nila remains hidden downstairs.
 
 Blinded but still conscious, Voss blows an extremely loud whistle that carries through the palace. The party restrains its prisoners. Barny casts Fly, takes the captain's whistle, and sounds it again from the opposite side of the building. Guards pouring through the servants' quarters turn towards the second alarm. Nila heads upstairs through the ballroom, where four more elite guards also abandon their position in response to the whistle, allowing her to rejoin the others.
 
-Rose takes a dagger and key from Opal; Arden finds nothing of interest on Voss. The party locks its prisoners in a room and escapes through the secret passage in Lirina's bedroom. Barny flies to the carriages to recover the party's equipment, spotting Steve and Lirina in the gardens on the way. Reunited, the Bonebreakers obtain an additional carriage when Rose, still posing as Lirina, orders the stable servants to prepare one. Nila and Micaelis drive the two carriages towards the exit.
+Rose takes a dagger and key from Opal; Arden finds nothing of interest on Voss. The party locks its prisoners in a room and escapes through the secret passage in Lirina's bedroom. Barny flies to the carriages to recover the party's equipment, spotting Steve and Lirina in the gardens on the way. Reunited, the Bonebreakers obtain an additional carriage when Rose, still posing as Lirina, orders the stable servants to prepare one. Nila and Michaelis drive the two carriages towards the exit.
 
-Elite guards stop them at the edge of the palace grounds. Micaelis says his passenger is unwell and should not be disturbed. The guards insist on looking. Rose continues pretending to be Lirina and acts ill; believing they have disturbed their countess, they apologise and let that carriage through. Nila's attempt to avoid a search makes the guards suspicious of the second carriage. When one opens its door, Steve casts Charm Person through his sword and tells him he saw nothing. The guard accepts this and closes the door, allowing the Bonebreakers to escape [[locations/world/agria/northlands/velluria/velur|Velur]] with the real countess still captive.
+Elite guards stop them at the edge of the palace grounds. Michaelis says his passenger is unwell and should not be disturbed. The guards insist on looking. Rose continues pretending to be Lirina and acts ill; believing they have disturbed their countess, they apologise and let that carriage through. Nila's attempt to avoid a search makes the guards suspicious of the second carriage. When one opens its door, Steve casts Charm Person through his sword and tells him he saw nothing. The guard accepts this and closes the door, allowing the Bonebreakers to escape [[locations/world/agria/northlands/velluria/vellure|Vellure]] with the real countess still captive.
 
 ### The countess, Ash, and the Grey Khan
 
@@ -52,11 +52,11 @@ Arden asks whether her plans will continue without her personal direction. She s
 
 ### An offer that divides the party
 
-Micaelis presses Lirina about her ultimate purpose and her intentions for the Necropolis. She presents herself as a stabilising force who wants to combat its evil and act for Agria's good. Barny examines her with the [[items/party-inventory/nightmare-revealing-telescope|Nightmare-Revealing Telescope]] and sees a nightmare of plague devastating the whole kingdom. The vision suggests that she genuinely wants to prevent such a disaster, without establishing that it will happen or what would cause it.
+Michaelis presses Lirina about her ultimate purpose and her intentions for the Necropolis. She presents herself as a stabilising force who wants to combat its evil and act for Agria's good. Barny examines her with the [[items/party-inventory/nightmare-revealing-telescope|Nightmare-Revealing Telescope]] and sees a nightmare of plague devastating the whole kingdom. The vision suggests that she genuinely wants to prevent such a disaster, without establishing that it will happen or what would cause it.
 
 Barny challenges the contradiction between her professed desire for stability and her orchestration of the goblin invasion. Lirina replies that Westfort's defenders were weak and that her own army would have been better suited to garrisoning it. She also admits that she regarded Arthur as a useful tool. Arden returns to Valedictus, asking whether she knows what he truly is. Lirina says she knows he is a lich and wants him destroyed; Selvar again confirms the sincerity of her hatred. With her identities exposed, she appears to abandon much of her earlier evasion, and most of her answers seem truthful. She is defending the violence she has caused as necessary for the order she wants to impose on Agria.
 
-Micaelis suggests an alliance if she will work with [[npcs/agria/princess-agatha|Agatha]]. Lirina says a contract could be made, without promising anything, and points out that the princess is missing. Micaelis reveals that the Bonebreakers have been in contact with Agatha. Lirina immediately asks where she is, but he refuses to tell her.
+Michaelis suggests an alliance if she will work with [[npcs/agria/princess-agatha|Agatha]]. Lirina says a contract could be made, without promising anything, and points out that the princess is missing. Michaelis reveals that the Bonebreakers have been in contact with Agatha. Lirina immediately asks where she is, but he refuses to tell her.
 
 Knowing that the party can contact Agatha, Lirina renews her offer. She wants the Bonebreakers to help destroy the evil in the Necropolis and stabilise Agria, and offers them all the treasure they find there. She adds that she could offer much more if she held the title of Duchess.
 
@@ -66,28 +66,28 @@ The debate ends without a decision. Lirina remains their prisoner at the Mercy, 
 
 ## Important events
 
-- Dame Silka Voss attempts to arrest the party after [[npcs/velur/opal|Opal]] recognises Rose's impersonation. The Bonebreakers overpower and confine the arresting group; none is reported killed.
+- Dame Silka Voss attempts to arrest the party after [[npcs/vellure/opal|Opal]] recognises Rose's impersonation. The Bonebreakers overpower and confine the arresting group; none is reported killed.
 - Barny redirects the reinforcements with Voss's whistle. Rose's disguise and Steve's Charm Person then get both carriages through the palace checkpoint.
-- The party escapes Velur and brings Lirina to the Mercy for further interrogation.
+- The party escapes Vellure and brings Lirina to the Mercy for further interrogation.
 - The party finally identifies Lirina as Ash and the Grey Khan, bringing its pursuit of the Syndicate's elusive leader to a major breakthrough: she is already in its custody.
 - Lirina says her plans can continue without her. Her thoughts support her claim to answer to no superior.
 - Lirina's hatred of Valedictus is sincere. Her nightmare suggests fear of a plague devastating Agria.
-- Micaelis reveals contact with Agatha but withholds her whereabouts. Lirina offers an alliance, leaving the Bonebreakers sharply divided over whether her help against Valedictus can justify working with the enemy responsible for a companion's death, child kidnappings, arson, and invasions.
+- Michaelis reveals contact with Agatha but withholds her whereabouts. Lirina offers an alliance, leaving the Bonebreakers sharply divided over whether her help against Valedictus can justify working with the enemy responsible for a companion's death, child kidnappings, arson, and invasions.
 
 ## Locations visited
 
-- [[locations/world/agria/northlands/velluria/velur/gilt-palace|The Gilt Palace]] — private quarters, servants' quarters, ballroom, gardens, secret passage, stables, and exit checkpoint.
-- [[locations/world/agria/northlands/velluria/velur|Velur]] — escaped with Lirina in custody.
+- [[locations/world/agria/northlands/velluria/vellure/gilt-palace|The Gilt Palace]] — private quarters, servants' quarters, ballroom, gardens, secret passage, stables, and exit checkpoint.
+- [[locations/world/agria/northlands/velluria/vellure|Vellure]] — escaped with Lirina in custody.
 - [[locations/world/agria/southlands/barrowshire/kings-road|The King's Road]] and [[locations/world/agria/southlands/barrowshire/kelfrek-marsh|Kelfrek Marsh]] — the southbound route.
 - [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]] — passed through without stopping, with wilderness camps before and after.
 - [[locations/world/agria/southlands/mercy|The Mercy]] — Lirina's interrogation and the unresolved alliance debate.
 
 ## NPCs and characters involved
 
-- **Bonebreakers:** Steve, Selvar, Rose, Nila, Micaelis, Arden, Ulrich, and Barny.
-- [[npcs/velur/lirina|Countess Lirina]] — captive, identified as [[npcs/westmarsh/grey-syndicate/ash|Ash]] and the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]; offers an alliance against Valedictus.
-- [[npcs/velur/dame-silka-voss|Dame Silka Voss]] — Captain of the Vellurian Watch; attempts the arrest and sounds the alarm before being confined.
-- [[npcs/velur/opal|Opal]] — Lirina's slight attendant, who recognises Rose as an impostor and is captured with the Watch.
+- **Bonebreakers:** Steve, Selvar, Rose, Nila, Michaelis, Arden, Ulrich, and Barny.
+- [[npcs/vellure/lirina|Countess Lirina]] — captive, identified as [[npcs/westmarsh/grey-syndicate/ash|Ash]] and the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]; offers an alliance against Valedictus.
+- [[npcs/vellure/dame-silka-voss|Dame Silka Voss]] — Captain of the Vellurian Watch; attempts the arrest and sounds the alarm before being confined.
+- [[npcs/vellure/opal|Opal]] — Lirina's slight attendant, who recognises Rose as an impostor and is captured with the Watch.
 - **The Vellurian Watch and palace servants** — search the palace, respond to the alarms, prepare the carriages, and control the exit.
 - [[npcs/agria/prince-arthur|Prince Arthur]], [[npcs/agria/princess-agatha|Princess Agatha]], and [[npcs/necropolis/valedictus|Valedictus]] — discussed during the interrogation; none is present.
 

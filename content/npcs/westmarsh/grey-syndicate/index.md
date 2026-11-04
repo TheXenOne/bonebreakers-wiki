@@ -21,7 +21,7 @@ source_sessions:
 
 ## Overview
 
-The Grey Syndicate is the main covert organisation behind the Westfort sabotage arc and the later royal conspiracy around [[npcs/agria/prince-arthur|Prince Arthur]]. It remains dangerous after the Spider Market decoy raid, even with [[npcs/westmarsh/grey-syndicate/ash|Ash]], identified as Countess Lirina and the Grey Khan, held at the Mercy.
+The Grey Syndicate is the main covert organisation behind the Westfort sabotage arc and the later royal conspiracy around [[npcs/agria/prince-arthur|Prince Arthur]]. It remains dangerous after the Spider's Market decoy raid, even with [[npcs/westmarsh/grey-syndicate/ash|Ash]], identified as Countess Lirina and the Grey Khan, held at the Mercy.
 
 ## Key figures
 
@@ -48,12 +48,12 @@ The Grey Syndicate is the main covert organisation behind the Westfort sabotage 
 
 - [[npcs/agria/prince-arthur|Prince Arthur]]
 - [[npcs/west-fort/grey-syndicate/vex|Vex]]
-- networks operating through [[locations/world/westmarsh/spiders-market|the Spider Market]]
+- networks operating through [[locations/world/westmarsh/spiders-market|the Spider's Market]]
 
 ## Associated locations
 
 - [[locations/world/agria/west-fort/index|Westfort]]
-- [[locations/world/westmarsh/spiders-market|The Spider Market]]
+- [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 
 ## Relationships

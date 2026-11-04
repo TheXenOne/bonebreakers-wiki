@@ -247,7 +247,7 @@ Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sess
 
   **The tower hides a clone and the captive real Arkeus**
 
-  A clone offers answers in exchange for a Harmonic Regulator, while the party unlocks a sealed chamber containing the real Arkeus and two crystal guardians.
+  A clone offers answers in exchange for a Harmonics Regulator, while the party unlocks a sealed chamber containing the real Arkeus and two crystal guardians.
 
 - [[sessions/session-028|Session 28]]
 
@@ -301,7 +301,7 @@ Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sess
 
 - [[sessions/session-036|Session 36]]
 
-  **The captured handler leads the party to Ash at the Spider Market**
+  **The captured handler leads the party to Ash at the Spider's Market**
 
   Charmed into cooperation, Jeremy names [[npcs/westmarsh/grey-syndicate/ash|Ash]] as his employer, and the Bonebreakers follow him to the [[locations/world/westmarsh/spiders-market|market]] before tracing hawk clues into hobgoblin territory.
 
@@ -353,7 +353,7 @@ Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sess
 
   **The Bonebreakers secure evidence against Arthur and seek the Grey Khan**
 
-  They take his secretary [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]]'s ledger and try to reach the Syndicate's leader, the Grey Khan, but a cancelled meeting sends them to the Spider Market with Arthur.
+  They take his secretary [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]]'s ledger and try to reach the Syndicate's leader, the Grey Khan, but a cancelled meeting sends them to the Spider's Market with Arthur.
 
 - [[sessions/session-046|Session 46]]
 
@@ -397,19 +397,19 @@ Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sess
 
   **The Bloated One is slain, but his death leaves two companions diseased**
 
-  A hidden maintenance passage lets the party ambush [[npcs/necropolis/the-bloated-one|Arch V's ruler]], but his necrotic death blast infects Steve and Micaelis with a disease that will turn them into zombies unless cured.
+  A hidden maintenance passage lets the party ambush [[npcs/necropolis/the-bloated-one|Arch V's ruler]], but his necrotic death blast infects Steve and Michaelis with a disease that will turn them into zombies unless cured.
 
 - [[sessions/session-053|Session 53]]
 
   **Returning home, the Bonebreakers drive Syndicate-linked orcs from the Mercy**
 
-  Prisoners say the Syndicate ordered them to delay the party and also organised the earlier priest kidnappings, while Ulrich cures Steve and Micaelis of their disease.
+  Prisoners say the Syndicate ordered them to delay the party and also organised the earlier priest kidnappings, while Ulrich cures Steve and Michaelis of their disease.
 
 - [[sessions/session-054|Session 54]]
 
   **Bran dies saving his companions on the road back to the Mercy**
 
-  After [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran]] holds off insectoid attackers so Arden and Micaelis can escape, the survivors fortify the Mercy, hold his wake, and descend into the Necropolis's market district.
+  After [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran]] holds off insectoid attackers so Arden and Michaelis can escape, the survivors fortify the Mercy, hold his wake, and descend into the Necropolis's market district.
 
 - [[sessions/session-055|Session 55]]
 
@@ -445,7 +445,7 @@ Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sess
 
   **An undead noble reveals Valedictus's three phylacteries**
 
-  [[npcs/necropolis/lord-varrick|Lord Varrick]] warns that Agria's undead crisis will worsen while Valedictus remains in power and recommends finding [[items/the-stylus|the Stylus]], while the party suspects the skull Steve traded away is a phylactery.
+  [[npcs/necropolis/lord-varek|Lord Varek]] warns that Agria's undead crisis will worsen while Valedictus remains in power and recommends finding [[items/the-stylus|the Stylus]], while the party suspects the skull Steve traded away is a phylactery.
 
 ## Sessions 61–68
 
@@ -477,19 +477,19 @@ Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sess
 
   **Arthur's letters lead the investigation to Countess Lirina's masquerade**
 
-  Love letters and travel records link Arthur to [[npcs/velur/lirina|Velluria's countess]], whose masquerade in Velur offers a lead, while the party frames [[npcs/kingsport/corvin-dace|Corvin Dace]] for its own palace thefts.
+  Love letters and travel records link Arthur to [[npcs/vellure/lirina|Velluria's countess]], whose masquerade in Vellure offers a lead, while the party frames [[npcs/kingsport/corvin-dace|Corvin Dace]] for its own palace thefts.
 
 - [[sessions/session-066|Session 66]]
 
   **The Bonebreakers infiltrate Lirina's masquerade, but she appears to recognise them**
 
-  At [[locations/world/agria/northlands/velluria/velur/gilt-palace|the Gilt Palace]], Nila steals a letter and hears rumours that Lirina wants Arthur's place, while [[items/party-inventory/nightmare-revealing-telescope|Barny's telescope]] reveals a noble's nightmare of Queen Audrey's murder; Lirina's involvement remains unproven.
+  At [[locations/world/agria/northlands/velluria/vellure/gilt-palace|the Gilt Palace]], Nila steals a letter and hears rumours that Lirina wants Arthur's place, while [[items/party-inventory/nightmare-revealing-telescope|Barny's telescope]] reveals a noble's nightmare of Queen Audrey's murder; Lirina's involvement remains unproven.
 
 - [[sessions/session-067|Session 67]]
 
   **The Bonebreakers capture Lirina, who knows the Grey Khan's identity**
 
-  Seized as she flees a blackout at her own masquerade and replaced by Rose in disguise, [[npcs/velur/lirina|the countess]] is revealed by ESP and her hidden armoury as an aspiring duchess and likely assassin whose coded message to the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] warns that the party is coming.
+  Seized as she flees a blackout at her own masquerade and replaced by Rose in disguise, [[npcs/vellure/lirina|the countess]] is revealed by ESP and her hidden armoury as an aspiring duchess and likely assassin whose coded message to the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] warns that the party is coming.
 
 - [[sessions/session-068|Session 68]]
 

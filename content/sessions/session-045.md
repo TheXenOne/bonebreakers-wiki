@@ -21,7 +21,7 @@ Frank secures the most important evidence: [[npcs/agria/prince-arthurs-retinue/w
 
 The party stores the recent treasure in the cathedral vault, then travels to [[locations/world/agria/southlands/barrowshire/barrow-spa/index|Barrow Spa]] to shop and make arrangements. Steve commissions new armour, Frank and Arthur develop an unexpectedly friendly rapport, and Luthien has Arthur try on a mystery ring to identify it before taking back the [[items/party-inventory/ring-of-water-walking|Ring of Water Walking]]. From there the Bonebreakers move to [[locations/world/agria/west-fort/index|Westfort]], using [[locations/world/agria/west-fort/vexs-warehouse|Vex's Warehouse]] as a base while they try to use Arthur's expected meeting to reach the Syndicate through [[npcs/west-fort/gorm-the-fence|Gorm]].
 
-The quiet approach collapses. After several nights of watching and waiting, a message arrives: the meeting is cancelled. The party concludes they have been seen with Arthur and that their cover is broken, so they turn toward Westmarsh instead. An ogre ambush on the road costs one of Arthur's guards but is otherwise beaten quickly by the party's magic. By the end of the session, the Bonebreakers reach [[locations/world/westmarsh/spiders-market|The Spider Market]], where its three rules still hold, and see a group of halflings approaching through the marsh.
+The quiet approach collapses. After several nights of watching and waiting, a message arrives: the meeting is cancelled. The party concludes they have been seen with Arthur and that their cover is broken, so they turn toward Westmarsh instead. An ogre ambush on the road costs one of Arthur's guards but is otherwise beaten quickly by the party's magic. By the end of the session, the Bonebreakers reach [[locations/world/westmarsh/spiders-market|The Spider's Market]], where its three rules still hold, and see a group of halflings approaching through the marsh.
 
 ## Important events
 
@@ -40,7 +40,7 @@ The quiet approach collapses. After several nights of watching and waiting, a me
 - After several nights, a message arrives that the meeting has been cancelled.
 - The party concludes that its contact plan has failed and heads back into Westmarsh.
 - Eight ogres ambush the group on the road, but the party defeats them quickly.
-- The session ends with the Bonebreakers reaching the Spider Market and seeing a group of halflings approach.
+- The session ends with the Bonebreakers reaching the Spider's Market and seeing a group of halflings approach.
 
 ## Locations visited
 
@@ -53,7 +53,7 @@ The quiet approach collapses. After several nights of watching and waiting, a me
 - Vex's warehouse
 - The great bridge
 - The road into Westmarsh
-- The Spider Market
+- The Spider's Market
 
 ## NPCs and characters involved
 
@@ -83,7 +83,7 @@ The quiet approach collapses. After several nights of watching and waiting, a me
 - Luthien buys a mystery ring, has Arthur test it, and takes back the Ring of Water Walking once its magic is revealed.
 - Steve commissions new armour in Barrow Spa.
 - The cathedral vault is used to store the party's recent treasure.
-- The Spider Market remains bound by its three rules: no violence, broken deals mean death, and all secrets stay there.
+- The Spider's Market remains bound by its three rules: no violence, broken deals mean death, and all secrets stay there.
 
 ## Threads raised this session
 
