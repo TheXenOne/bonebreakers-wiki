@@ -8,7 +8,7 @@ aliases: []
 status: alive
 primary_location: Westfort
 affiliations:
-  - Ironhand's Forge
+  - Ironhand Forge
 source_sessions:
   - 38
   - 39
@@ -32,11 +32,11 @@ Practical and supportive of proven defenders.
 
 ## Affiliations
 
-- [[locations/world/agria/west-fort/ironhands-forge|Ironhand's Forge]]
+- [[locations/world/agria/west-fort/ironhand-forge|Ironhand Forge]]
 
 ## Associated locations
 
-- [[locations/world/agria/west-fort/ironhands-forge|Ironhand's Forge]]
+- [[locations/world/agria/west-fort/ironhand-forge|Ironhand Forge]]
 - [[locations/world/agria/west-fort/index|Westfort]]
 
 ## Relationships

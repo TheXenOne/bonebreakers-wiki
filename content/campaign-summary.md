@@ -6,7 +6,7 @@ tags:
 
 The **Bonebreakers** began as a band of adventurers hired to clear undead from a Barrow near Barrow Spa. What started as a dangerous local job quickly became a pattern: delve into forgotten ruins, survive catastrophic losses, uncover powerful relics, and emerge richer and more infamous than before.
 
-Their early exploits saw them slay the so-called **Grease Dragon**, plunder the trapped laboratories of a long-dead jeweller-magician, and follow a hidden map across the sea to an island where healing had become something monstrous. There they destroyed a corrupted cult, freed its prisoners, and rescued **Princess Agatha**, heir to the Agrial throne.
+Their early exploits saw them slay the so-called **Grease Dragon**, plunder the trapped laboratories of a long-dead jeweller-magician, and follow a hidden map across the sea to an island where healing had become something monstrous. There they destroyed a corrupted cult, freed its prisoners, and rescued **Princess Agatha**, heir to the Agrian throne.
 
 That rescue changed everything. Agatha recruited the Bonebreakers as covert agents of the crown, sending them against the **Church of the Crimson Flame**, whose undead bishop presided over the Deathless Plague. After destroying him and ending the church’s reign of terror, the party inherited its cathedral and transformed it into **the Mercy**, gaining land, influence, and a permanent base of power.
 

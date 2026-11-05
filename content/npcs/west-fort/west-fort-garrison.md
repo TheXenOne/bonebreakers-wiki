@@ -31,7 +31,7 @@ This page groups the main named military figures tied to [[locations/world/agria
 - [[npcs/west-fort/sergeant-dara|Sergeant Dara]]: Acting commander when the party first arrives. Hard-eyed and blunt.
 - [[npcs/west-fort/captain-rodrick|Captain Rodrick]]: Senior officer, conservative and dismissive of conspiracies.
 - [[npcs/west-fort/commander-valerius|Commander Valerius]]: Veteran overall commander of the fort.
-- [[npcs/west-fort/private-jordan|Private Jordan]]: Young Westfort soldier with a gambling problem and a weakness for drink.
+- [[npcs/west-fort/private-jorin|Private Jorin]]: Young Westfort soldier with a gambling problem and a weakness for drink.
 - [[npcs/west-fort/grey-syndicate/veteran-borak|Veteran Borak]]: Respected half-orc guard who later tries to kill Sarla on orders.
 
 ## Appearance
@@ -44,7 +44,7 @@ This page groups the main named military figures tied to [[locations/world/agria
 - Dara is disciplined.
 - Rodrick is stubborn.
 - Valerius is seasoned and capable.
-- Jordan is unreliable in small, very human ways rather than strategically important ones.
+- Jorin is unreliable in small, very human ways rather than strategically important ones.
 - Borak is obedient to dangerous orders.
 
 ## Role in the campaign
@@ -63,7 +63,7 @@ This page groups the main named military figures tied to [[locations/world/agria
 ## Relationships
 
 - Dara, Rodrick, and Valerius all represent different command levels within the same strained fort.
-- Jordan is one of the ordinary soldiers who reflects the fort's morale and internal strain.
+- Jorin is one of the ordinary soldiers who reflects the fort's morale and internal strain.
 - Borak serves under Valerius.
 
 ## Campaign events

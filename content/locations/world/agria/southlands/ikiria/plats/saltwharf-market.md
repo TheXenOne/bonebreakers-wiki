@@ -1,11 +1,12 @@
 ---
-title: The Salt Wharf Market
+title: The Saltwharf Market
 type: location
 tags:
   - location
   - market
 aliases:
-  - Salt Wharf Market
+  - locations/world/agria/southlands/ikiria/plats/salt-wharf-market
+  - Saltwharf Market
 parent_location: "[[locations/world/agria/southlands/ikiria/plats|The Plats]]"
 source_sessions:
   - 48
@@ -13,7 +14,7 @@ source_sessions:
 
 ## Overview
 
-The Salt Wharf Market is a named market in the northern commercial stretch of [[locations/world/agria/southlands/ikiria/plats|the Plats]].
+The Saltwharf Market is a named market in the northern commercial stretch of [[locations/world/agria/southlands/ikiria/plats|the Plats]].
 
 ## Geography or layout
 
@@ -21,7 +22,7 @@ The Salt Wharf Market is a named market in the northern commercial stretch of [[
 
 ## Campaign events
 
-- In [[sessions/session-048|Session 48]], the party notes the Salt Wharf Market while entering the district.
+- In [[sessions/session-048|Session 48]], the party notes the Saltwharf Market while entering the district.
 
 ## Related sessions
 

@@ -1,11 +1,12 @@
 ---
-title: Ironhand's Forge
+title: Ironhand Forge
 type: location
 tags:
   - location
   - shop
   - forge
 aliases:
+  - locations/world/agria/west-fort/ironhands-forge
   - Ironhands Forge
 parent_location: "[[locations/world/agria/west-fort|Westfort]]"
 source_sessions:
@@ -14,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Ironhand's Forge is a smithy in [[locations/world/agria/west-fort|Westfort]] known for sturdy work and, on rare occasions, access to magical equipment for trusted defenders of the fort.
+Ironhand Forge is a smithy in [[locations/world/agria/west-fort|Westfort]] known for sturdy work and, on rare occasions, access to magical equipment for trusted defenders of the fort.
 
 ## Geography or layout
 

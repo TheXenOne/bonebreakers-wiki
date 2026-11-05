@@ -31,7 +31,7 @@ The quiet approach collapses. After several nights of watching and waiting, a me
 - Steve stabilises the wounded squire Tomas Wren.
 - Frank takes a secretary's ledger showing meetings with the Grey Syndicate.
 - The party returns to the cathedral and calms alarmed witnesses there.
-- Aldus Fenwick is identified as a physician travelling between Westfort and Ikiria.
+- Aldous Fenwick is identified as a physician travelling between Westfort and Ikiria.
 - Frank extracts an oath from Akal to deliver the evidence to the Princess if the party disappears.
 - The treasure is stored in the cathedral vault.
 - In Barrow Spa, Steve commissions armour and the party shops for curios.
@@ -62,7 +62,7 @@ The quiet approach collapses. After several nights of watching and waiting, a me
 - Tomas Wren
 - Commander Smith
 - Captain Fardr
-- Aldus Fenwick
+- Aldous Fenwick
 - Akal
 - Gorm
 - Vex

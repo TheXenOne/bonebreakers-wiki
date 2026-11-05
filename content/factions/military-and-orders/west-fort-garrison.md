@@ -50,7 +50,7 @@ It protects one of Agria's key frontier approaches and becomes central to the sa
 - [[npcs/west-fort/commander-valerius|Commander Valerius]]
 - [[npcs/west-fort/captain-rodrick|Captain Rodrick]]
 - [[npcs/west-fort/sergeant-dara|Sergeant Dara]]
-- [[npcs/west-fort/private-jordan|Private Jordan]]
+- [[npcs/west-fort/private-jorin|Private Jorin]]
 - [[npcs/west-fort/grey-syndicate/veteran-borak|Veteran Borak]]
 
 ## Associated locations

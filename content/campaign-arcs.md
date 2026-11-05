@@ -46,11 +46,11 @@ The Bonebreakers kill Sebastaeia and break her hold over the Asclepieion, but a 
 
 Aboard the Eleftheria, they return to the Asclepieion, destroy the remaining harpies and rescue further prisoners, including **Princess Agatha of Agria** and several nobles. With the missing Imperials saved, the Ramen fleet honours its bargain and allows the Bonebreakers to leave.
 
-They sail home as heroes, unaware that rescuing Agatha has just drawn them into the affairs of the Agrial crown.
+They sail home as heroes, unaware that rescuing Agatha has just drawn them into the affairs of the Agrian crown.
 
 # Church of the Crimson Flame Arc
 
-Back in Ikiria, Princess Agatha reveals herself as heir to the Agrial throne and governor of the East Agria Company. Impressed by Fos Imeras, she recruits the Bonebreakers for missions too dangerous—and too politically sensitive—for the crown to undertake openly.
+Back in Ikiria, Princess Agatha reveals herself as heir to the Agrian throne and governor of the East Agria Company. Impressed by Fos Imeras, she recruits the Bonebreakers for missions too dangerous—and too politically sensitive—for the crown to undertake openly.
 
 Their first target is the **Deathless Plague**, which has ravaged the Southlands while the Church of the Crimson Flame grows increasingly brutal in its attempts to contain it. The Bonebreakers assault the church’s cathedral and uncover the truth: the Crimson Bishop himself has been undead for years, while the faith that once tried to cure the afflicted has collapsed into torture, execution and fanaticism.
 
@@ -68,7 +68,7 @@ With the Mercy established, Barny’s search for forbidden magical knowledge dra
 
 Their new power immediately attracts enemies.
 
-Black-clad orcs raid the Mercy and kidnap four priests, demanding a vast ransom from their leader, **Gruumsh One-tusk**. The trail leads back to the Shrine of Mulvis, now occupied by a hundred-strong orc warband.
+Black-clad orcs raid the Mercy and kidnap four priests, demanding a vast ransom from their leader, **Gruumsh One-Tusk**. The trail leads back to the Shrine of Mulvis, now occupied by a hundred-strong orc warband.
 
 Rather than pay, the Bonebreakers infiltrate their old hunting ground. Sleep spells, traps, grease and fire turn the shrine into a killing ground. Gruumsh’s forces are devastated, the priests are freed and the warlord is forced to surrender his treasure and withdraw.
 

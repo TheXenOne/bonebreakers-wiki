@@ -11,7 +11,7 @@ source_sessions:
 
 **Date:** 22/09/25
 
-See also: [[sessions/index|Sessions]], [[sessions/session-021|Session 21 - Soup for the Abbott]], [[sessions/session-023|Session 23 - Secrets in the Stone]]
+See also: [[sessions/index|Sessions]], [[sessions/session-021|Session 21 - Soup for the Abbot]], [[sessions/session-023|Session 23 - Secrets in the Stone]]
 
 ## Narrative recap
 
@@ -87,5 +87,5 @@ By the end of the session, the deathless plague and the church's occupation are 
 
 ## Related sessions
 
-- Previous: [[sessions/session-021|Session 21 - Soup for the Abbott]]
+- Previous: [[sessions/session-021|Session 21 - Soup for the Abbot]]
 - Next: [[sessions/session-023|Session 23 - Secrets in the Stone]]
