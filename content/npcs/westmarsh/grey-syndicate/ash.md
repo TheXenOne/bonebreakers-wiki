@@ -6,7 +6,7 @@ tags:
   - grey-syndicate
 aliases: []
 status: captured
-primary_location: On the road to Ikiria
+primary_location: Ikiria
 affiliations:
   - Grey Syndicate
 source_sessions:
@@ -17,11 +17,12 @@ source_sessions:
   - 47
   - 68
   - 69
+  - 70
 ---
 
 ## Overview
 
-Ash is the orc handler and negotiator through whom the Bonebreakers encounter the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]]'s leadership. Confident, transactional, and dangerous, she connects Jeremy's sabotage network to the invasions and Arthur's conspiracy. The party has identified her as [[npcs/velur/lirina|Lirina Kartashan]], Countess of Velluria, and accepts that she holds the title of [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]. Responsible for a companion's death, child kidnappings, arson, and invasions, she is one of the party's most personal enemies. She remains their captive after they reject her offer of help against Valedictus: they cannot trust her and firmly side with Agatha. She justifies her violence as serving Agria's stability.
+Ash is the orc handler and negotiator through whom the Bonebreakers encounter the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]]'s leadership. Confident, transactional, and dangerous, she connects Jeremy's sabotage network to the invasions and Arthur's conspiracy. The party has identified her as [[npcs/velur/lirina|Lirina Kartashan]], Countess of Velluria, and accepts that she holds the title of [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]. Responsible for a companion's death, child kidnappings, arson, and invasions, she is one of the party's most personal enemies. She is imprisoned in Ikiria after the Bonebreakers reject her offer of help against Valedictus and firmly side with Agatha. She justifies her violence as serving Agria's stability.
 
 ## Appearance
 
@@ -45,6 +46,7 @@ Confident, transactional, and dangerous.
 - [[locations/world/westmarsh/spiders-market|The Spider Market]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 - [[locations/world/westmarsh|Westmarsh]]
+- [[locations/world/agria/southlands/ikiria|Ikiria]] — imprisoned as Lirina.
 
 ## Relationships
 
@@ -61,10 +63,13 @@ Confident, transactional, and dangerous.
 - In [[sessions/session-047|Session 47]], the promised exchange turns into a decoy operation that costs her network 20,000 gold while she remains out of reach.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], at the Mercy, Selvar's ESP identifies Lirina as Ash. Her thoughts distinguish Lirina from the Grey Khan, but she affirms that Ash is the Khan; the Bonebreakers conclude that they have captured the Syndicate's leader. She offers cooperation against Valedictus, but the party reaches no agreement.
 - In [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers reject Lirina's alliance because they cannot trust her and firmly side with Agatha. Later, ninja orcs demand Lirina in exchange for a farming couple's captive daughter while the Bonebreakers travel towards Ikiria. The girl is killed, most attackers die, and two escape. Lirina remains captive; the ambushers' allegiance is **Needs review**.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], the Bonebreakers jail Lirina in Ikiria, warn the guards of a likely breakout, and prohibit contact with Arthur. They leave to pursue the poetry cipher towards Thorngate Abbey.
 
 ## Current status
 
-Captured as Lirina and travelling with the Bonebreakers towards Ikiria, where they intend to leave her. The ninja orcs' ambush fails to free her; the attackers' allegiance remains unclear. She wants Valedictus destroyed, but the Bonebreakers have rejected her alliance because they cannot trust her and firmly sided with Agatha. She says her wider plans can continue without her.
+Imprisoned as Lirina in Ikiria, with guards warned to expect a breakout attempt and ordered never to allow her to speak with Arthur. Commander Smith assures the Bonebreakers that the prison is the safest available place to hold her. Her plans may continue without her personal direction, leaving the Syndicate an active concern.
+
+The Bonebreakers have rejected her alliance against Valedictus and firmly sided with Agatha. They are seeking another copy of the poetry cipher at [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]]; her other letters remain undeciphered.
 
 ## Related sessions
 
@@ -75,6 +80,7 @@ Captured as Lirina and travelling with the Bonebreakers towards Ikiria, where th
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Unresolved threads
 

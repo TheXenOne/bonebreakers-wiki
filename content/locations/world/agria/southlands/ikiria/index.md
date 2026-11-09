@@ -23,11 +23,12 @@ source_sessions:
   - 51
   - 63
   - 64
+  - 70
 ---
 
 ## Overview
 
-Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks below. Originally elven, later abandoned, and then reworked by gnomes, it is known for magical lifts, constructs, trade, scholarship, and a civic culture of intense optimism. Its recent plague crisis in the Plats has been brought under control: the city is functional again and the Temple of Merciful Life has been rebuilt, while Agatha directs covert work from hiding outside the city.
+Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks below. Originally elven, later abandoned, and then reworked by gnomes, it is known for magical lifts, constructs, trade, scholarship, and a civic culture of intense optimism. Its recent plague crisis in the Plats has been brought under control: the city is functional again and the Temple of Merciful Life has been rebuilt, while Agatha directs covert work from hiding outside the city. Its prison holds both Prince Arthur and Countess Lirina, with the guards instructed to prevent contact between them.
 
 ## Geography and layout
 
@@ -69,6 +70,7 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - By [[sessions/session-051|Session 51]], the immediate crisis in the Plats has been resolved: the plague is confirmed to have begun as poison, the well is purified, the undead have been killed, and Arden confirms that the necromantic energies are gone from the pit and cemetery.
 - In the same session, [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] accepts testimony against the civilian inquisitors, agrees to raise the quarantine problem with the [[factions/guilds-and-companies/east-agria-company|East Agria Company]], and says the city will pay to rebuild [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|the Temple of Merciful Life]].
 - In [[sessions/session-063|Session 63]], the party returns to find Ikiria functional and the temple rebuilt. Reports that Agatha and Commander Smith are both missing lead them to investigate an apparent summons to Harrow.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], the Bonebreakers jail Lirina, inspect the prison, warn the guards of a likely breakout attempt, and forbid contact with Arthur. Commander Smith assures them of its security. At Flux Academy, Morel reports Fos Imeras's gnomish history and identifies Thorngate Abbey as a lead for Lirina's poetry cipher; the party leaves northwards by a concealed forest route.
 
 ## Related sessions
 
@@ -86,6 +88,7 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - [[sessions/session-051|Session 51]]
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Unresolved threads or mysteries
 
@@ -93,3 +96,4 @@ Ikiria is a tiered coastal metropolis built atop cliffs and around busy docks be
 - The civilian inquisitors active in the Plats have no clear leadership on-page yet, though Vaessa now intends to move against them.
 - Agatha and Smith have been found alive in Harrow, but the threat keeping Agatha in hiding remains unresolved.
 - Arkeus survives long enough to be freed but disappears into an astral disturbance.
+- Lirina's security remains a concern: the party expects a breakout attempt and has forbidden her from speaking with Arthur.

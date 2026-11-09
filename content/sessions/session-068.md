@@ -112,3 +112,4 @@ The debate ends without a decision. Lirina remains their prisoner at the Mercy, 
 ## Related sessions
 
 - Previous: [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
+- Next: [[sessions/session-069|Session 69 - A Cruel Bargain]]

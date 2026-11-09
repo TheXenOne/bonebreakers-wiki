@@ -62,6 +62,7 @@ source_sessions:
   - 63
   - 66
   - 67
+  - 70
 ---
 
 ## Overview
@@ -142,6 +143,7 @@ Cleric of Belenus and Bishop of the Mercy.
 - In [[sessions/session-063|Session 63]], Arden visits the family of a girl Ulrich cured during Ikiria's plague and recruits her sister, [[npcs/ikiria/elizabeth|Elizabeth]], into the Belenite faith. He trains and employs her as a non-combatant acolyte responsible for healing local people and running the rebuilt Temple of Merciful Life. After reaching Harrow, he loudly announces himself as a cleric of Belenus and tells the Anchor & Chain that the party is seeking work.
 - In [[sessions/session-066|Session 66 - Masquerade]], Arden attends Lirina's masquerade openly as a Belenite bishop, blessing the spectators before entering the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] with Ulrich. He tries to promote Belenite healing to a physician, who withdraws in alarm when Arden says a companion is almost capable of resurrecting the dead.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Arden helps calm the darkened ballroom of the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] by revealing his shining holy symbol and casting Bless over the frightened guests. Searching Lirina's bedroom afterwards, he finds the false back in her wardrobe and the covert clothing hidden behind it.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], Arden offers resurrection to the parents of the murdered hostage, but they refuse and end their Belenite subscription. In the forest north of Ikiria, he befriends a tree he names Trevor and learns that orcs killed a giant boar and concealed the evidence. He leaves the Barrow's glass eyes in Trevor's trunk, hoping to return. After witnessing Barny raise a slain wyvern, Arden confirms that it is undead with Detect Evil. His suspicions grow, although his trust in Barny keeps him from confronting him. Another tree reveals an orc-used trail, where Arden triggers a trap that drops an object onto him.
 
 ## Relationships
 
@@ -149,10 +151,12 @@ Cleric of Belenus and Bishop of the Mercy.
 - Closely linked with Bran, Cedric, and Tess. Bran's death becomes a major personal and religious memory for Arden at the Mercy.
 - Arden is now arranging permanent memorials for Bran and Luthien through Michelangelo's statues.
 - Often works alongside [[characters/active-players/deri/characters/francis-spencer-gray|Frank]] on public-facing schemes.
+- Trusts [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]], but is increasingly suspicious of his magic after witnessing the wyvern's reanimation and confirming that it is undead. He has not confronted him.
+- Befriends Trevor, a tree in the forest north of Ikiria, and hopes to return to him.
 
 ## Current status
 
-Active. Arden remains Bishop of the Mercy and continues with the party in later arcs while carrying Bran's sacrifice into his magic and public memory.
+Active as Bishop of the Mercy, carrying Bran's sacrifice into his magic and public memory. His trust in Barny is under strain after he confirms that the wyvern Barny raised is undead; the concern remains unspoken.
 
 ## Related sessions
 
@@ -208,3 +212,4 @@ Active. Arden remains Bishop of the Mercy and continues with the party in later 
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]

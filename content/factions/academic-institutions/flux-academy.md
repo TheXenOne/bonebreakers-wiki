@@ -23,6 +23,7 @@ source_sessions:
   - 14
   - 18
   - 26
+  - 70
 ---
 
 ## Overview
@@ -64,6 +65,7 @@ The Academy supports magical, historical, medical, and practical study. In the c
 - In [[sessions/session-014|Session 14]], Ulna Glitterpatch identifies [[locations/world/fos-imeras|Fos Imeras]] and funds the expedition.
 - In [[sessions/session-018|Session 18]], the Academy remains part of the party's post-expedition research and introductions.
 - In [[sessions/session-026|Session 26]], it becomes a main institutional response point to the city's magical emergency.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], [[npcs/flux-academy/illitharien-morel|Morel]] reports that Fos Imeras was an ancient gnomish shrine and that a decoded book describes an island headquarters with a laboratory. His examination of Lirina's poetry cipher identifies [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]] as a lead for another copy and the missing key.
 
 ## Current status
 
@@ -75,6 +77,7 @@ Active.
 - [[sessions/session-014|Session 14]]
 - [[sessions/session-018|Session 18]]
 - [[sessions/session-026|Session 26]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Unresolved threads
 

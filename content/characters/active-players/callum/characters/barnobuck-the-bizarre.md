@@ -66,11 +66,12 @@ source_sessions:
   - 66
   - 67
   - 68
+  - 70
 ---
 
 ## Overview
 
-Barnobuck "Barny" the Bizarre is one of the party's defining magic-users. He insists he was once vastly more powerful, and much of his story revolves around recovering lost power, knowledge, and immortality. He is secretive by nature, keeps important things from the party, and appears to maintain undead servants in secret, especially away from the party's clerics.
+Barnobuck "Barny" the Bizarre is one of the party's defining magic-users. He insists he was once vastly more powerful, and much of his story revolves around recovering lost power, knowledge, and immortality. Secretive by nature, he keeps important things from the party and has often concealed his raising of undead servants from its clerics. His willingness to reanimate the dead openly is now straining Arden's trust.
 
 ## Player
 
@@ -85,6 +86,7 @@ Magic-user.
 - [[characters/active-players/callum/retainers-followers/rhian|Rhian]]
 - [[characters/active-players/callum/retainers-followers/rattius|Rattius]]
 - [[characters/active-players/callum/retainers-followers/krazak-the-silent|Krazak the Silent]]
+- An undead wyvern, raised openly after the party kills it on the forest route north of Ikiria.
 
 ## Associated locations
 
@@ -151,16 +153,17 @@ Magic-user.
 - In [[sessions/session-066|Session 66 - Masquerade]], Barny gains entry to the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] as a replacement magician, having raised a minor undead to serve as his assistant. His [[items/party-inventory/nightmare-revealing-telescope|telescope]] reveals a noble's nightmare of Queen Audrey's murder; Barny brings it into his performance, and the noble vehemently denies it. He then cuts apart and reassembles his assistant, horrifying the audience.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Barny ends his act by producing his magical candle, putting out every light in the ballroom and setting off the panic in which Lirina flees and is captured. He flies to the noble whose nightmare he has revealed, who says he does not know why he has such a dream of Audrey's murder and thanks Barny for his discretion. While the others search Lirina's rooms, Barny steals jewellery and artwork. His threats during her interrogation make no impression on her.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], Barny uses Dame Silka Voss's alarm whistle from the opposite side of the palace to divert reinforcements and enable the escape. At the Mercy his telescope shows Lirina's nightmare of plague devastating Agria. He challenges her claim to seek stability by asking why she orchestrated the invasion of Westfort.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], Barny flies above the forest to meet a wyvern and blinds it before the party kills it. He then openly raises the corpse in front of his companions. Arden grows suspicious, later confirms that the wyvern is undead, and withholds a confrontation despite his increasing concern.
 
 ## Relationships
 
 - Maintains the closest ties to Rhian, Rattius, and Krazak.
 - Early partnership with [[characters/inactive-players/dom/characters/virien|Virien]] is central to the first arc.
-- Keeps secrets from the party and seems to hide parts of his necromantic activity, especially from the clerics.
+- Often conceals his necromantic activity from the clerics. Openly raising a wyvern increases [[characters/active-players/ben-l/characters/arden-sable|Arden]]'s suspicions, although Arden still trusts him enough to withhold a confrontation.
 
 ## Current status
 
-Active.
+Active, accompanied by an undead wyvern he raises openly. Arden has confirmed the creature's nature and is increasingly suspicious, but has not confronted him.
 
 ## Related sessions
 
@@ -219,3 +222,4 @@ Active.
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]

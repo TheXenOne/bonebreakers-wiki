@@ -46,6 +46,7 @@ tags:
 
 ## Institutions
 
+- [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]]
 - [[locations/world/agria/southlands/ikiria/flux-academy|Flux Academy]]
 - [[locations/world/agria/southlands/ikiria/east-agria-company-headquarters|East Agria Company Headquarters]]
 - [[locations/world/agria/southlands/mercy|The Mercy]]

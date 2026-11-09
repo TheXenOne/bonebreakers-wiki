@@ -29,6 +29,7 @@ source_sessions:
   - 65
   - 68
   - 69
+  - 70
 ---
 
 ## Overview
@@ -75,12 +76,13 @@ Agria is home to the Bonebreakers and the setting for many of the kingdom's most
 - In [[sessions/session-065|Session 65]], Arthur’s household yields an incomplete letter anticipating Agatha’s disgrace and a duke fit to be king. Servants repeat an unconfirmed rumour of permanent palace closure. The Queen’s Guard arrests [[npcs/kingsport/corvin-dace|Corvin Dace]] on evidence secretly planted by the Bonebreakers.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], the Bonebreakers identify Lirina as Ash and the Grey Khan. She claims her invasions were intended to stabilise Agria, admits using Arthur, and offers cooperation against Valedictus. The party has agreed to no alliance and has yet to report to Agatha.
 - At the start of [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers reject Lirina's alliance because they cannot trust her and firmly commit to Princess Agatha.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], Lirina is jailed in Ikiria, where Arthur is also imprisoned. The Bonebreakers prohibit contact between them, warn of a likely breakout, and depart to pursue the poetry cipher at Thorngate Abbey without having reported to Agatha.
 
 ## Current status
 
 Active, but politically unstable because of Arthur's exposed conspiracy and the still-unclear reach of the Grey Syndicate.
 
-The Bonebreakers hold Countess Lirina of Velluria, identified as Ash and the Grey Khan, captive after resisting arrest by the Vellurian Watch. They have firmly sided with Agatha and rejected Lirina's alliance because they cannot trust her. They intend to leave the countess in Ikiria while attempting contact with the princess. She still seeks the ducal title, but no change in office or government is established. The political response to her capture remains unknown.
+Countess Lirina of Velluria, identified as Ash and the Grey Khan, is imprisoned in Ikiria after the Bonebreakers resist arrest by the Vellurian Watch and bring her south. They have firmly sided with Agatha and rejected Lirina's alliance because they cannot trust her. The guards are warned of a likely breakout and forbidden to let her speak with Arthur. The Bonebreakers are seeking the poetry cipher at Thorngate Abbey, and Agatha has not yet received their report. She still seeks the ducal title, but no change in office or government is established. The political response to her capture remains unknown.
 
 ## Related sessions
 
@@ -92,6 +94,7 @@ The Bonebreakers hold Countess Lirina of Velluria, identified as Ash and the Gre
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Unresolved threads
 

@@ -14,21 +14,15 @@ See also: [[sessions/index|Sessions]]
 
 ## Narrative recap
 
-### Choosing Agatha and leaving the Mercy
-
 At [[locations/world/agria/southlands/mercy|the Mercy]], the Bonebreakers settle the debate over [[npcs/velur/lirina|Countess Lirina]]'s proposed alliance. They decide that she cannot be trusted and firmly side with [[npcs/agria/princess-agatha|Princess Agatha]], rejecting cooperation with the countess against Valedictus.
 
 With their allegiance decided, they set out towards [[locations/world/agria/southlands/ikiria|Ikiria]], intending to leave Lirina there and attempt contact with Agatha. The countess remains their prisoner, identified as Ash and the Grey Khan; the princess has yet to receive their findings.
 
 During the journey, the party spots two carriages in the distance and approaches cautiously. Inside are a farmer and his wife. The couple proves innocent: they are caught up in an ambush rather than arranging one themselves.
 
-### A hostage demand
-
 Ninja orcs emerge from hiding and reveal that they have taken the farmers' daughter hostage. They demand Lirina in exchange for the girl's safety, forcing the Bonebreakers to weigh their captive's freedom against an innocent life.
 
 The party begins debating how to respond. Before it reaches a decision, [[characters/active-players/deri/characters/akal-dreek|Akal Dreek]] sets fire to the carriages. Fighting breaks out immediately. One of the orcs flees with the farmers' daughter still his hostage, and [[characters/active-players/laura/characters/rose|Rose]] pursues him while the others fight the remaining attackers.
-
-### The pursuit and its consequences
 
 Rose tries desperately to catch the fleeing orc with a net. He trips during his escape, but before she can reach him he kills the young hostage. The farmers' daughter dies before Rose can rescue her.
 
@@ -67,6 +61,11 @@ The Bonebreakers kill most of the ninja orcs and finish dealing with the attack,
 
 - **The farmers' daughter:** **Resolved in Session 69, with the hostage's death.** Rose's pursuit fails to save her, leaving both parents grieving.
 - **The escaped attackers:** **Still unresolved.** Two ninja orcs escape. Their identities, destination, and allegiance are **Needs review**; the fate of the orc who killed the girl is also **Needs review**.
-- **[[quests/major/active/grey-syndicate-conspiracy|Lirina's captivity]]:** **Partially resolved.** The ambush does not free her, but her intended placement in Ikiria remains unfinished and the attackers' connection to her is unclear.
+- **[[quests/major/active/grey-syndicate-conspiracy|Lirina's captivity]]:** **Placement resolved in [[sessions/session-070|Session 70]]; security still unresolved.** The Bonebreakers jail her in Ikiria, warn of a likely breakout, and forbid contact with Arthur. The hostage-takers' connection to her remains unclear.
 - **[[quests/major/active/princess-agathas-secret-patronage|Reporting to Agatha]]:** **Still unresolved.** The Bonebreakers set out to attempt contact, but have yet to deliver their findings.
 - **Lirina's proposed alliance against [[quests/major/active/valedictus-and-his-phylacteries|Valedictus]]:** **Resolved in Session 69.** Before setting out, the Bonebreakers reject the offer because they cannot trust her and firmly side with Agatha.
+
+## Related sessions
+
+- Previous: [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- Next: [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]

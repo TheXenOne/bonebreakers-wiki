@@ -12,6 +12,7 @@ source_sessions:
   - 14
   - 18
   - 26
+  - 70
 ---
 
 ## Overview
@@ -39,6 +40,7 @@ Flux Academy is a prestigious institution of learning in the upper city of [[loc
 - In [[sessions/session-014|Session 14]], Ulna Glitterpatch identifies [[locations/world/fos-imeras|Fos Imeras]] and funds the expedition.
 - In [[sessions/session-018|Session 18]], the Academy helps process rewards, research, and political introductions after that mission.
 - In [[sessions/session-026|Session 26]], the Academy becomes the main response point for the sentient weapon crisis.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], [[npcs/flux-academy/illitharien-morel|Morel]] reports that Fos Imeras was an ancient gnomish shrine and that a decoded book describes an island headquarters with a laboratory. His examination of Lirina's poetry cipher identifies [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]] as a lead for another copy and the missing key.
 
 ## Related sessions
 
@@ -46,6 +48,7 @@ Flux Academy is a prestigious institution of learning in the upper city of [[loc
 - [[sessions/session-014|Session 14]]
 - [[sessions/session-018|Session 18]]
 - [[sessions/session-026|Session 26]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Unresolved threads or mysteries
 

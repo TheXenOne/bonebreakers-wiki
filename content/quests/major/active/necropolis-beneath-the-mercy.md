@@ -31,6 +31,7 @@ related_sessions:
   - 64
   - 68
   - 69
+  - 70
 related_locations:
   - The Mercy
   - Necropolis
@@ -79,6 +80,7 @@ source_sessions:
   - 64
   - 68
   - 69
+  - 70
 ---
 
 ## Overview
@@ -146,7 +148,7 @@ Active, with exploration temporarily deferred. The Bonebreakers have escaped the
 
 The delve has produced a new central threat: Valedictus remains in power, possesses three phylacteries, and is connected to the unknown Stylus. The glowing skull that Steve traded away is strongly implicated as one phylactery, while the three-locked soul-bound chest may hold another. The larger unresolved questions also include Captain Varro's release, the sealed Eighth Wing, the guarded Imperial Family Tomb, House Varrick, the Tribune, the restoration works, the Sunken Market, the dark druids, and the possible link between the Necropolis and the Crimson Bishop.
 
-The Bonebreakers are travelling towards Ikiria with Lirina, identified as Ash and the Grey Khan, as their prisoner, intending to leave her there and contact Agatha. She offered them all treasure they find in the Necropolis in exchange for help destroying its evil and stabilising Agria. Her hatred of Valedictus is real, but the Bonebreakers have rejected her alliance because they cannot trust her and firmly sided with Agatha. The delve has not resumed.
+The Bonebreakers have jailed Lirina, identified as Ash and the Grey Khan, in Ikiria and are pursuing the poetry cipher towards [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]]. Her hatred of Valedictus is real, but they have rejected her alliance because they cannot trust her and firmly sided with Agatha. Their findings have not yet reached the princess, and exploration of the Necropolis has not resumed.
 
 ## Consequences
 
@@ -225,6 +227,7 @@ The Bonebreakers are travelling towards Ikiria with Lirina, identified as Ash an
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Loose ends
 

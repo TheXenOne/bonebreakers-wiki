@@ -15,6 +15,7 @@ related_sessions:
   - 15
   - 16
   - 17
+  - 70
 related_locations:
   - Ikiria
   - Fos Imeras
@@ -35,6 +36,7 @@ source_sessions:
   - 15
   - 16
   - 17
+  - 70
 ---
 
 ## Overview
@@ -51,6 +53,7 @@ In [[sessions/session-013|Session 13]] and [[sessions/session-014|Session 14]], 
 - The Golden Asclepeion is found overrun by harpies, physicians, purified horrors, and [[npcs/fos-imeras/sebastaeia|Sebastaeia]].
 - The party defeats Sebastaeia, escapes via the lake riddle, and recovers the Eleftheria.
 - In [[sessions/session-017|Session 17]], the remaining harpies are cleared, Orsilochus is recovered, and Princess Agatha is rescued.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], Morel's research identifies Fos Imeras as an ancient gnomish shrine. A book he has decoded describes a gnomish island headquarters containing a laboratory. The headquarters has not been located or investigated.
 
 ## Current status
 
@@ -92,9 +95,11 @@ The party returns to Ikiria with proof of what happened on Fos Imeras, the rescu
 - [[sessions/session-015|Session 15]]
 - [[sessions/session-016|Session 16]]
 - [[sessions/session-017|Session 17]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Loose ends
 
 - The disappearance of Callea is not clearly resolved.
 - The exact identity of the golden dragon seen at sea remains unknown.
 - The origin and full nature of the purified remain unknown, although their immediate threat ended with Sebastaeia's death. See [[quests/minor/completed/the-purified-of-fos-imeras|The Purified of Fos Imeras]].
+- The identity of the island headquarters and laboratory in Morel's decoded book, and their precise relationship to Fos Imeras, are **Needs review**.

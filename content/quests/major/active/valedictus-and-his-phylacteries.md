@@ -18,6 +18,7 @@ related_sessions:
   - 64
   - 68
   - 69
+  - 70
 related_locations:
   - The Necropolis
   - Arch III
@@ -39,6 +40,7 @@ source_sessions:
   - 64
   - 68
   - 69
+  - 70
 ---
 
 ## Overview
@@ -68,7 +70,7 @@ The Bonebreakers first find Valedictus's necromantic treatise in [[sessions/sess
 
 Active. The Bonebreakers know that Valedictus is tied to Arch III and possesses three phylacteries. The phylacteries remain unsecured. One probable phylactery has passed out of their hands and is now being studied by an unidentified lizardfolk shaman. The Stylus is a separate lead of uncertain importance.
 
-The Bonebreakers are travelling towards Ikiria with Lirina, identified as Ash and the Grey Khan, as their prisoner. They intend to leave her there and contact Agatha. She offered cooperation against the Necropolis's evil and all treasure the party finds there. Her hatred of Valedictus is real, but the Bonebreakers have decided she cannot be trusted, rejected her alliance, and firmly sided with Agatha. Exploration has not resumed.
+The Bonebreakers have jailed Lirina, identified as Ash and the Grey Khan, in Ikiria and are pursuing the poetry cipher towards [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]]. Her hatred of Valedictus is real, but they have rejected her alliance because they cannot trust her and firmly sided with Agatha. Their findings have not yet reached the princess, and exploration of the Necropolis has not resumed.
 
 ## Related characters and NPCs
 
@@ -100,6 +102,7 @@ The Bonebreakers are travelling towards Ikiria with Lirina, identified as Ash an
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Loose ends
 

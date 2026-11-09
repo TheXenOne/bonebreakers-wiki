@@ -6,7 +6,7 @@ tags:
   - nobility
 aliases: []
 status: arrested
-primary_location: Northlands
+primary_location: Ikiria
 affiliations:
   - Crown of Agria
   - Grey Syndicate
@@ -20,6 +20,7 @@ source_sessions:
   - 66
   - 67
   - 68
+  - 70
 ---
 
 ## Overview
@@ -75,10 +76,11 @@ Ambitious, jealous of Agatha, and politically compromised. His correspondence sh
 - In [[sessions/session-066|Session 66 - Masquerade]], Nila hears rumours at Lirina's masquerade that the countess is trying to take Arthur's place. Lirina speaks about Agria's political uncertainty beside an empty ducal chair, but her intentions and any change to Arthur's position remain unconfirmed.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], [[npcs/velur/lirina|Lirina]]'s thoughts confirm that she intends at least to become Duchess during his absence. A letter stolen from [[npcs/velur/lady-miranda|Lady Miranda]] shows that an unidentified writer claiming to be Arthur's friend wants her to speak to [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]] before he gives evidence.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], Lirina is identified as Ash and the Grey Khan. She describes Arthur as a useful tool who adored her and resented Agatha, while denying responsibility for his mistakes. Her offer to the party links greater rewards to her becoming Duchess, without any change to Arthur's title or arrested status.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], he remains imprisoned in Ikiria when Lirina is jailed there. The Bonebreakers expressly forbid the guards to let the two speak.
 
 ## Current status
 
-Under arrest and facing trial. Agatha says he would remain the only surviving heir if she died. The precise stage of the proceedings: **Needs review**.
+Imprisoned in Ikiria and facing trial. Lirina is also jailed in the city, with the guards ordered never to allow the two to speak. Agatha says he would remain the only surviving heir if she died. The precise stage of the proceedings: **Needs review**.
 
 ## Related sessions
 
@@ -91,6 +93,7 @@ Under arrest and facing trial. Agatha says he would remain the only surviving he
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Unresolved threads
 

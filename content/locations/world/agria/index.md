@@ -19,6 +19,7 @@ source_sessions:
   - 66
   - 67
   - 68
+  - 70
 ---
 
 ## Overview
@@ -63,6 +64,7 @@ Agatha has asked the Bonebreakers to investigate the wider Northlands conspiracy
 - In [[sessions/session-064|Session 64]], the party finds Agatha alive in hiding, accepts her commission, and follows northern political contacts from Harrow to Kingsport.
 - In [[sessions/session-065|Session 65]], evidence from Arthur’s Palace points toward Lirina and Velluria, but the wider threat to Agatha remains unidentified.
 - In [[sessions/session-066|Session 66 - Masquerade]], the party enters Lirina's masquerade at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]. She appears to recognise the Bonebreakers. Nila hears rumours that the countess wants Arthur's place, but no change to his position is confirmed.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], Lirina is jailed in Ikiria, with contact between her and Arthur forbidden. The Bonebreakers pursue her poetry cipher towards [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]], travelling through the wooded highlands north of the city. Grainholm lies beyond the woods, with the Thorngate River continuing north towards the sea.
 
 ## Related sessions
 
@@ -76,6 +78,7 @@ Agatha has asked the Bonebreakers to investigate the wider Northlands conspiracy
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Unresolved threads or mysteries
 

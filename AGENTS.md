@@ -60,6 +60,7 @@ source_sessions:
 
 ## Session page notes
 
+- Do not add subheadings within session-page narrative recaps unless the user explicitly requests them. Write the recap as continuous chronological prose under its main section heading.
 - Do not use the heading "Open questions" for historical session pages.
 - Use "Threads raised this session" instead.
 - For each thread, include a status where possible:

@@ -18,6 +18,7 @@ source_sessions:
   - 45
   - 63
   - 64
+  - 70
 ---
 
 ## Overview
@@ -29,7 +30,7 @@ The East Agria Company's leadership combines Agatha's political authority, Smith
 - [[npcs/agria/princess-agatha|Princess Agatha]]: Governor of the East Agria Company, rescued from Fos Imeras by the Bonebreakers and later their secret patron.
 - [[npcs/agria/east-agria-company/commander-smith|Commander Smith]]: Head of security for the East Agria Company. He becomes Princess Agatha's main operative and liaison to the party during the Mercy arc and later political fallout.
 - [[npcs/agria/east-agria-company/admiral-nelson|Admiral Nelson]]: Formerly Captain Nelson, later elevated to admiral after the [[locations/world/fos-imeras/index|Fos Imeras]] expedition.
-- [[npcs/agria/east-agria-company/captain-winston|Captain Winston]]: Former navigator on the Fos Imeras expedition and later captain of *Agatha's Favour*.
+- [[npcs/agria/east-agria-company/captain-winston|Captain Winston]]: Former navigator on the Fos Imeras expedition and later captain of _Agatha's Favour_.
 
 ## Appearance
 
@@ -69,12 +70,13 @@ The East Agria Company's leadership combines Agatha's political authority, Smith
 - Smith directs and supports the party through [[sessions/session-019|Session 19]] to [[sessions/session-022|Session 22]].
 - In [[sessions/session-026|Session 26]], Smith becomes entangled in the fallout from Frank's publicity campaign.
 - In [[sessions/session-045|Session 45]], Pell is sent to Smith with warning about Prince Arthur.
-- In [[sessions/session-063|Session 63]], a Company secretary says Agatha is safe but gives the Bonebreakers a letter apparently from her summoning them to Harrow. Captain Winston carries them there aboard *Agatha's Favour*, although he does not know where Agatha is.
+- In [[sessions/session-063|Session 63]], a Company secretary says Agatha is safe but gives the Bonebreakers a letter apparently from her summoning them to Harrow. Captain Winston carries them there aboard _Agatha's Favour_, although he does not know where Agatha is.
 - In [[sessions/session-064|Session 64]], Agatha, Smith, and Nelson reveal themselves at the Anchor & Chain and renew the Bonebreakers’ covert commission.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], Smith assures the Bonebreakers that Ikiria's prison is the safest available place to hold Lirina. They warn of a likely breakout and prohibit her from speaking with Arthur.
 
 ## Current status
 
-Agatha, Smith, and Nelson are operating covertly and have met the Bonebreakers in Harrow. Agatha remains in hiding from a continuing threat and has commissioned an investigation into Arthur's supporters in Kingsport.
+Agatha remains in hiding from a continuing threat and has commissioned an investigation into Arthur's supporters. Smith is in Ikiria, where he assures the Bonebreakers of the prison's security when they jail Lirina. The party has not yet delivered its findings to the princess.
 
 ## Related sessions
 
@@ -85,6 +87,7 @@ Agatha, Smith, and Nelson are operating covertly and have met the Bonebreakers i
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Unresolved threads
 

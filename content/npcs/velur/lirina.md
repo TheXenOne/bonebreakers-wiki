@@ -9,6 +9,7 @@ source_sessions:
   - 67
   - 68
   - 69
+  - 70
 aliases:
   - Lirina Kartashan
   - Countess Lirina
@@ -18,7 +19,7 @@ aliases:
 
 Lirina Kartashan is Countess of [[locations/world/agria/northlands/velluria|Velluria]], mistress of the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] in Velur, and the woman behind [[npcs/westmarsh/grey-syndicate/ash|Ash]] and the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]. Tall, slender, and beautiful, she has a graceful, poised manner; [[npcs/kingsport/hugh-malory|Hugh Malory]] describes her as exceptionally charming and charismatic. She runs a spy network and pursues the ducal seat, treating [[npcs/agria/prince-arthur|Arthur]] as a useful tool. She claims that her violent campaigns serve Agria's stability.
 
-The Bonebreakers know her as an enemy responsible for killing one of their companions, kidnapping children, burning an inn with the party inside, and orchestrating invasions that caused enormous suffering. She invokes Agria's stability to justify her violence while pursuing greater political power. She remains their prisoner. Her offer of cooperation against [[npcs/necropolis/valedictus|Valedictus]], whom she hates, fails to win their trust: the Bonebreakers reject the alliance and firmly side with [[npcs/agria/princess-agatha|Princess Agatha]].
+The Bonebreakers know her as an enemy responsible for killing one of their companions, kidnapping children, burning an inn with the party inside, and orchestrating invasions that caused enormous suffering. She invokes Agria's stability to justify her violence while pursuing greater political power. She is imprisoned in [[locations/world/agria/southlands/ikiria|Ikiria]], with guards instructed to prevent contact with Arthur. Her offer of cooperation against [[npcs/necropolis/valedictus|Valedictus]], whom she hates, fails to win their trust: the Bonebreakers reject the alliance and firmly side with [[npcs/agria/princess-agatha|Princess Agatha]].
 
 ## Relationship with Arthur
 
@@ -32,7 +33,9 @@ Lirina says Arthur adored her and had an intensely hostile relationship with Aga
 
 ## Covert activities
 
-Her study in the Gilt Palace holds encoded letters, which her thoughts identify as belonging to her spy network, and the poetry book used as their cipher. Her bedroom wardrobe has a false back concealing dark clothing for covert work, and a secret exit leads to an alley behind the palace. A locked closet contains daggers, poisons, and a disguise kit, all apparently sized for her. The evidence strongly suggests that she is an assassin herself.
+The Bonebreakers recover encoded letters belonging to her spy network and the poetry book used as their cipher from her study in the Gilt Palace. [[npcs/flux-academy/illitharien-morel|Illitharien Morel]] confirms that the poetry was published in Agria and copied by monks, identifying [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]] as a lead for another copy and the missing key. The letters remain undeciphered.
+
+Her bedroom wardrobe has a false back concealing dark clothing for covert work, and a secret exit leads to an alley behind the palace. A locked closet contains daggers, poisons, and a disguise kit, all apparently sized for her. The evidence strongly suggests that she is an assassin herself.
 
 Her network has gathered intelligence on the Bonebreakers' activities in the Northlands. One encoded message, meant for the Grey Khan, warns that they are expected at her masquerade. Charm Person and Sleep have both failed against her; ESP has not.
 
@@ -46,9 +49,9 @@ Lirina regards Valedictus as an arch-enemy she wants destroyed. Selvar's ESP con
 
 ## Current status
 
-Captive with the Bonebreakers on the road towards [[locations/world/agria/southlands/ikiria|Ikiria]], where they intend to leave her and attempt contact with Agatha. Ninja orcs demand her release in exchange for a farming couple's daughter, but the ambush ends with the hostage killed and two attackers escaping. The orcs' allegiance is **Needs review**. The Bonebreakers have firmly sided with Agatha and rejected Lirina's alliance because they cannot trust her, despite her offer of the Necropolis's treasure and greater rewards if she became Duchess.
+Imprisoned in Ikiria after the Bonebreakers reject her alliance and firmly side with Agatha. The party inspects the prison, warns the guards to expect a breakout attempt, and orders that she must never speak with Arthur, who is also imprisoned in the city. [[npcs/agria/east-agria-company/commander-smith|Commander Smith]] assures them this is the safest available place to hold her.
 
-She knows the party has been in contact with Agatha, but Micaelis refuses to disclose the princess's whereabouts. She suggested a contract involving cooperation with Agatha, without committing to one.
+Lirina knows the Bonebreakers can contact Agatha but not where the princess is hidden. Her spy network remains an active concern, and the party is pursuing the poetry cipher towards Thorngate Abbey.
 
 ## Open questions
 
@@ -59,6 +62,7 @@ She knows the party has been in contact with Agatha, but Micaelis refuses to dis
 - How she concealed her identity as Ash, and why she wants back the dagger found in her armoury: **Needs review**.
 - The Watch's response to her removal from Velur.
 - Who sent the ninja orcs to demand her release, and what the two escaped attackers will do next: **Needs review**.
+- Whether a breakout will be attempted, and whether the guards can keep her isolated from Arthur.
 
 ## Related sessions
 
@@ -67,3 +71,4 @@ She knows the party has been in contact with Agatha, but Micaelis refuses to dis
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]

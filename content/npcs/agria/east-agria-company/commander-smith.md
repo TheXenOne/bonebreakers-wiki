@@ -21,11 +21,12 @@ source_sessions:
   - 63
   - 64
   - 65
+  - 70
 ---
 
 ## Overview
 
-Commander Smith is head of security for the East Agria Company and one of [[npcs/agria/princess-agatha|Princess Agatha]]'s main covert agents. He accepts the party's case against [[npcs/agria/prince-arthur|Prince Arthur]] and orders his arrest. Discreet and accustomed to disguise, he remains beside Agatha during her concealment and the renewed covert investigation.
+Commander Smith is head of security for the East Agria Company and one of [[npcs/agria/princess-agatha|Princess Agatha]]'s main covert agents. He accepts the party's case against [[npcs/agria/prince-arthur|Prince Arthur]] and orders his arrest. Discreet and accustomed to disguise, he helps protect Agatha while the Bonebreakers investigate the conspiracy against her. He is also a trusted contact for securing their politically dangerous prisoners.
 
 ## Appearance
 
@@ -67,10 +68,11 @@ Efficient, discreet, and easily irritated by public loose ends.
 - In [[sessions/session-063|Session 63]], Gilly reports that Smith disappeared shortly after Arthur was returned, or around the same time.
 - In [[sessions/session-064|Session 64]], he is revealed beside Agatha and Nelson at the secret meeting in Harrow, resolving the party’s uncertainty about his whereabouts.
 - In [[sessions/session-065|Session 65]], the party finds a burned letter in Arthur's private salon preserving only “Smith already knows.” Whether it refers to the Commander, and what the writer believed Smith knew, are **Needs review**.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], he assures the Bonebreakers that Ikiria's prison is the safest available place to hold Lirina. The party warns of a likely breakout and forbids contact between the countess and the imprisoned Arthur.
 
 ## Current status
 
-Alive and accompanying Agatha in hiding; the Bonebreakers have met him at the Anchor & Chain in Harrow.
+Alive and in [[locations/world/agria/southlands/ikiria|Ikiria]], where he assures the Bonebreakers of the prison's security when they place Lirina in custody. Agatha's location is not disclosed to the countess.
 
 ## Related sessions
 
@@ -84,6 +86,7 @@ Alive and accompanying Agatha in hiding; the Bonebreakers have met him at the An
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Unresolved threads
 

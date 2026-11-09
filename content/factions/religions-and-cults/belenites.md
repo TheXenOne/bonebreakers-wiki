@@ -30,6 +30,7 @@ source_sessions:
   - 53
   - 63
   - 66
+  - 70
 ---
 
 ## Overview
@@ -77,10 +78,11 @@ The faith is associated with healing, public charity, and resistance to undead c
 - In [[sessions/session-053|Session 53]], Grey Syndicate-linked orcs briefly seize the Mercy and imprison its inhabitants before the Bonebreakers retake the nave.
 - In [[sessions/session-063|Session 63]], the party finds the Temple of Merciful Life rebuilt. Arden trains and employs Elizabeth to run it, gather followers, and provide local healing.
 - In [[sessions/session-066|Session 66 - Masquerade]], Arden publicly represents the faith at Lirina's masquerade in the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]], blessing the spectators and attending with Ulrich as a fellow cleric. His attempt to promote Belenite healing alarms a physician when he mentions a companion approaching the ability to resurrect the dead.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], the murdered hostage's parents reveal that they are Belenite subscribers who feel betrayed by their daughter's death. They reject Arden's offer of resurrection and leave the faith, accepting only Steve's offer to pay for the funeral. Arden agrees to cancel their subscription.
 
 ## Current status
 
-Active at both the Mercy and the rebuilt Temple of Merciful Life. Elizabeth now gives the faith a permanent non-combatant acolyte in Ikiria, while Arden and the Bonebreakers travel north.
+Active at both the Mercy and the rebuilt Temple of Merciful Life. Elizabeth now gives the faith a permanent non-combatant acolyte in Ikiria, while Arden travels with the Bonebreakers.
 
 ## Related sessions
 
@@ -93,6 +95,7 @@ Active at both the Mercy and the rebuilt Temple of Merciful Life. Elizabeth now 
 - [[sessions/session-053|Session 53]]
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-066|Session 66 - Masquerade]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Unresolved threads
 

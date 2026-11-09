@@ -75,12 +75,13 @@ source_sessions:
     67,
     68,
     69,
+    70,
   ]
 ---
 
-The Bonebreakers through [[sessions/session-069|Session 69]]. [[#Sessions 61–69|Jump to the latest events]].
+The Bonebreakers through [[sessions/session-070|Session 70]]. [[#Sessions 61–70|Jump to the latest events]].
 
-Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sessions 21–30|21–30]] · [[#Sessions 31–40|31–40]] · [[#Sessions 41–50|41–50]] · [[#Sessions 51–60|51–60]] · [[#Sessions 61–69|61–69]]
+Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sessions 21–30|21–30]] · [[#Sessions 31–40|31–40]] · [[#Sessions 41–50|41–50]] · [[#Sessions 51–60|51–60]] · [[#Sessions 61–70|61–70]]
 
 ## Sessions 1–10
 
@@ -448,7 +449,7 @@ Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sess
 
   [[npcs/necropolis/lord-varrick|Lord Varrick]] warns that Agria's undead crisis will worsen while Valedictus remains in power and recommends finding [[items/the-stylus|the Stylus]], while the party suspects the skull Steve traded away is a phylactery.
 
-## Sessions 61–69
+## Sessions 61–70
 
 - [[sessions/session-061|Session 61]]
 
@@ -503,3 +504,9 @@ Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sess
   **The Bonebreakers choose Agatha before a fatal hostage ambush**
 
   Deciding Lirina cannot be trusted, the Bonebreakers reject her alliance and firmly side with Agatha. They set out towards [[locations/world/agria/southlands/ikiria|Ikiria]] to leave the countess there and contact the princess, but face ninja orcs demanding the countess in exchange for a farming couple's daughter. Akal sets the carriages alight before the party agrees on a response; Rose pursues the fleeing captor, but he kills the girl before she reaches him. Most attackers are killed, two escape, and Lirina remains captive. The ambushers' allegiance is unclear, and the intended contact with Agatha remains unfinished.
+
+- [[sessions/session-070|Session 70]]
+
+  **Lirina is jailed; the poetry cipher sends the Bonebreakers towards Thorngate Abbey**
+
+  In Ikiria, the party secures Lirina in prison, warns of a likely breakout, and forbids contact with Arthur. Morel traces her poetry cipher to monastic copying and identifies [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]] as a lead for another copy and the missing key; the report to Agatha remains undelivered. He also identifies Fos Imeras's gnomish shrine origins and reports an unlocated island headquarters with a laboratory. On the concealed route north, Barny openly raises a slain wyvern, increasing Arden's suspicions when he confirms it is undead. Trees reveal recent orc activity, and Arden triggers a trap on an orc-used trail before the party reaches the abbey.

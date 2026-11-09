@@ -31,6 +31,7 @@ source_sessions:
   - 67
   - 68
   - 69
+  - 70
 ---
 
 ## Overview
@@ -74,6 +75,7 @@ Leadership is shared and situational rather than strictly formal.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], the company captures [[npcs/velur/lirina|Lirina]] during an assassination scare at her own masquerade and holds her prisoner in the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] while Rose impersonates her. Her thoughts and private rooms reveal her ambition for the ducal seat, a spy network, an assassin's armoury, and a warning written for the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] that the Bonebreakers are expected.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], the party escapes the Vellurian Watch with the captive countess, identifies Lirina as Ash and the Grey Khan at the Mercy, and debates her alliance offer against Valedictus without reaching a decision.
 - At the start of [[sessions/session-069|Session 69 - A Cruel Bargain]], the company decides Lirina cannot be trusted, rejects her alliance, and firmly sides with Princess Agatha. It sets out towards Ikiria to leave Lirina there and contact Agatha. Ninja orcs demand the countess in exchange for a farming couple's daughter. Akal sets the carriages alight before the party agrees on a response, triggering combat. Rose pursues the fleeing hostage-taker, but he kills the girl before she can reach him. Most attackers are killed and two escape.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], the company jails Lirina in Ikiria and follows Morel's poetry-cipher lead towards Thorngate Abbey. Akal's wolf is killed by jackalweres. Barny openly raises a slain wyvern, increasing Arden's suspicions. The party's concealed forest route reveals recent orc activity and traps before it reaches the abbey.
 
 ## Current status
 
@@ -81,7 +83,9 @@ Active and increasingly influential. The company is publicly honoured as a defen
 
 The party also remains Agatha's covert agent, investigating Arthur's supporters while protecting her concealment.
 
-The company holds Lirina, identified as Ash and the Grey Khan, while travelling towards Ikiria to leave her there and contact Agatha. An ambush by ninja orcs has failed to free her; the attackers' allegiance is unclear and two remain at large. The Bonebreakers have rejected her proposal to cooperate against Valedictus because they cannot trust her, firmly committing to Agatha. The princess has not yet received the investigation's findings.
+The company has jailed Lirina, identified as Ash and the Grey Khan, in Ikiria and forbidden contact between her and Arthur. Its commitment to Agatha remains firm, but the princess has not yet received its findings. The Bonebreakers are travelling towards [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]] in search of the poetry cipher's missing key. Recent orc movements and traps complicate the forest route; their connection to the earlier hostage-takers is unconfirmed.
+
+Barny's open reanimation of a wyvern creates an unspoken strain in his relationship with Arden, who has confirmed that the creature is undead.
 
 ## Related sessions
 
@@ -101,6 +105,7 @@ The company holds Lirina, identified as Ash and the Grey Khan, while travelling 
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
 
 ## Unresolved threads
 
@@ -108,3 +113,5 @@ The company holds Lirina, identified as Ash and the Grey Khan, while travelling 
 - Its future relationship with Agatha, Arthur, and the Mercy's growing political weight remains unresolved.
 - Whether its captured gryphons can be safely trained and bred as mounts remains unresolved.
 - How the Vellurian Watch will respond to the party's escape remains unresolved.
+- Securing the missing cipher key, delivering the report to Agatha, and preventing Lirina's escape remain unfinished.
+- Arden has growing suspicions about Barny after the wyvern's reanimation, but has not confronted him.

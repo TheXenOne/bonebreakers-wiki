@@ -39,6 +39,7 @@ source_sessions:
   - 66
   - 67
   - 68
+  - 70
 ---
 
 ## Overview
@@ -93,6 +94,7 @@ Barbarian.
 - In [[sessions/session-066|Session 66 - Masquerade]], Steve poses as Frank's Ramen bodyguard at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] masquerade. Frank presents a forged invitation and Steve's gift of bear hide and leatherwork before the pair enter the palace.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Steve slips into the servants' quarters during the blackout and physically restrains [[npcs/velur/lirina|Lirina]] when she runs into the party, then takes her diamond necklace. Rose uses his sword to charm Lord Petrand Kush. During Lirina's interrogation he begins preparing to torture her, and the rest of the party stops him.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], Steve carries Lirina off the palace balcony and hides with her in the gardens, then charms a checkpoint guard to secure the escape. At the Mercy his questioning, alongside Selvar's ESP, connects Lirina to Ash and Ash to the Grey Khan.
+- In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], Steve's attempt to give money to the murdered hostage's parents offends them, but they accept his offer to pay for the funeral. Later, protected by Bran's Heroic Aura, he faces a wyvern's failed attack and delivers the killing blow before Barny raises it. He also fashions Trevor's damaged branch into a cudgel for Arden and investigates a cord trap without an obvious result.
 
 ## Relationships
 
@@ -101,7 +103,7 @@ Barbarian.
 
 ## Current status
 
-Active. No longer infected by the Bloated One's rotting disease, stronger after completing the Manual of Strength, and equipped with a massive crossbow.
+Active and cured of the Bloated One's rotting disease.
 
 ## Related sessions
 
@@ -132,3 +134,4 @@ Active. No longer infected by the Bloated One's rotting disease, stronger after 
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
