@@ -1,10 +1,11 @@
 ---
-title: Private Jordan
+title: Private Jorin
 type: npc
 tags:
   - npc
   - soldier
-aliases: []
+aliases:
+  - npcs/west-fort/private-jordan
 status: alive
 primary_location: Westfort
 affiliations:
@@ -15,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Private Jordan is a young Westfort soldier with a gambling problem and a weakness for drink.
+Private Jorin is a young Westfort soldier with a gambling problem and a weakness for drink.
 
 ## Appearance
 
@@ -27,7 +28,7 @@ Unreliable and easily exploited.
 
 ## Role in the campaign
 
-- Jordan helps show the fort's frayed discipline and morale.
+- Jorin helps show the fort's frayed discipline and morale.
 
 ## Affiliations
 
@@ -43,7 +44,7 @@ Unreliable and easily exploited.
 
 ## Campaign events
 
-- In [[sessions/session-035|Session 35]], Akal takes advantage of Jordan in a drunken bet.
+- In [[sessions/session-035|Session 35]], Akal takes advantage of Jorin in a drunken bet.
 
 ## Current status
 

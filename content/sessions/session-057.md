@@ -25,7 +25,7 @@ The party's arrival draws whispers from townspeople who connect the Bonebreakers
 
 That night, the party ambushes two groups of goblin food raiders. Sleep magic helps them defeat the attackers quickly, and they leave one survivor for questioning. The goblin, [[npcs/westmarsh/gobbo|Gobbo]], confirms that the raiders use routes through the southern mountains. He leads the Bonebreakers into the hills, where they find six mules that explain how the raiders have been moving so quickly. The party takes the animals, hires Gobbo as a guide for ten gold pieces per day, and reaches the approaches to [[locations/world/westmarsh/hobgoblin-mine|the Hobgoblin Mine]].
 
-Rather than follow the raiding route directly into enemy territory, the Bonebreakers backtrack and use the two [[items/party-inventory/gnomish-power-cores|gnomish power cores]] recovered long ago from gnomish automatons to destroy the mountain path. The rigged cores explode with enough force to trigger a landslide, cutting the route used against Westfort. The blast attracts thirteen starving dogs. After the animals bite Arden, Cecil, and Micaelis, [[characters/active-players/ben-l/characters/arden-sable|Arden]] casts Speak with Animals, offers food, and persuades the pack to follow the party toward [[locations/world/westmarsh/invasion-fort|the Invasion Fort]].
+Rather than follow the raiding route directly into enemy territory, the Bonebreakers backtrack and use the two [[items/party-inventory/gnomish-power-cores|gnomish power cores]] recovered long ago from gnomish automatons to destroy the mountain path. The rigged cores explode with enough force to trigger a landslide, cutting the route used against Westfort. The blast attracts thirteen starving dogs. After the animals bite Arden, Cecil, and Michaelis, [[characters/active-players/ben-l/characters/arden-sable|Arden]] casts Speak with Animals, offers food, and persuades the pack to follow the party toward [[locations/world/westmarsh/invasion-fort|the Invasion Fort]].
 
 [[characters/active-players/marta/characters/luthien|Luthien]] scouts ahead through the fort's secret entrance. The early chambers are almost deserted, with only two sleeping hobgoblins, and the foul-smelling hork chamber remains cluttered but empty. Near the western secret entrance she finds a chest and reaches inside, only for it to reveal itself as a mimic and seize her. The session ends with Luthien trapped alone inside the enemy fortress while the party remains outside.
 
@@ -63,7 +63,7 @@ Rather than follow the raiding route directly into enemy territory, the Bonebrea
 - [[npcs/west-fort/gorin-heavyhoof|Gorin Heavyhoof]]
 - [[characters/active-players/jennifer/characters/quak-ii|Quak II!]]
 - [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]]
-- [[characters/active-players/john/characters/micaelis|Micaelis]]
+- [[characters/active-players/john/characters/michaelis|Michaelis]]
 - [[characters/active-players/marta/characters/luthien|Luthien]]
 - Thirteen starving dogs, now following the party in return for food
 

@@ -49,7 +49,7 @@ Professional and practical. He keeps the Bonebreakers out of sight during a tens
 
 - In [[sessions/session-014|Session 14]], Winston serves as navigator on the Bonebreakers' expedition to Fos Imeras.
 - In [[sessions/session-063|Session 63]], he commands *Agatha's Favour*, negotiates Rickart the Reeve's demanded entry payment from 10,000 to 7,500 gold pieces, and lands the party in Harrow. He does not know where Princess Agatha is.
-- In [[sessions/session-066|Session 66 - Masquerade]], Winston introduces Frank to the forger who supplies two invitations to [[npcs/velur/lirina|Lirina]]'s masquerade in Velur.
+- In [[sessions/session-066|Session 66 - Masquerade]], Winston introduces Frank to the forger who supplies two invitations to [[npcs/vellure/lirina|Lirina]]'s masquerade in Vellure.
 
 ## Current status
 

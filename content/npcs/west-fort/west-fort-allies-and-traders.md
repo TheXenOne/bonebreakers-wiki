@@ -54,7 +54,7 @@ This page groups the non-military allies and specialists tied to [[locations/wor
 - [[locations/world/agria/west-fort/temple-of-saint-lucia-the-merciful|Temple of Saint Lucia the Merciful]]
 - [[locations/world/agria/west-fort/kenrics-cartography|Kenric's Cartography]]
 - [[locations/world/agria/west-fort/tincture-and-tonic|The Tincture & Tonic]]
-- [[locations/world/agria/west-fort/ironhands-forge|Ironhand's Forge]]
+- [[locations/world/agria/west-fort/ironhand-forge|Ironhand Forge]]
 
 ## Relationships
 

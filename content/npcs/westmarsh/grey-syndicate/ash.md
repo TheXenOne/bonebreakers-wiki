@@ -22,7 +22,7 @@ source_sessions:
 
 ## Overview
 
-Ash is the orc handler and negotiator through whom the Bonebreakers encounter the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]]'s leadership. Confident, transactional, and dangerous, she connects Jeremy's sabotage network to the invasions and Arthur's conspiracy. The party has identified her as [[npcs/velur/lirina|Lirina Kartashan]], Countess of Velluria, and accepts that she holds the title of [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]. Responsible for a companion's death, child kidnappings, arson, and invasions, she is one of the party's most personal enemies. She is imprisoned in Ikiria after the Bonebreakers reject her offer of help against Valedictus and firmly side with Agatha. She justifies her violence as serving Agria's stability.
+Ash is the orc handler and negotiator through whom the Bonebreakers encounter the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]]'s leadership. Confident, transactional, and dangerous, she connects Jeremy's sabotage network to the invasions and Arthur's conspiracy. The party has identified her as [[npcs/vellure/lirina|Lirina Kartashyan]], Countess of Velluria, and accepts that she holds the title of [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]. Responsible for a companion's death, child kidnappings, arson, and invasions, she is one of the party's most personal enemies. She is imprisoned in Ikiria after the Bonebreakers reject her offer of help against Valedictus and firmly side with Agatha. She justifies her violence as serving Agria's stability.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Confident, transactional, and dangerous.
 
 ## Role in the campaign
 
-- Ash connects the Westfort sabotage network to the Spider Market and later to the Arthur conspiracy.
+- Ash connects the Westfort sabotage network to the Spider's Market and later to the Arthur conspiracy.
 - She becomes the Syndicate's main face-to-face negotiator and repeatedly avoids capture when deals, ambushes, or exchanges collapse.
 
 ## Affiliations
@@ -43,7 +43,7 @@ Confident, transactional, and dangerous.
 
 ## Associated locations
 
-- [[locations/world/westmarsh/spiders-market|The Spider Market]]
+- [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 - [[locations/world/westmarsh|Westmarsh]]
 - [[locations/world/agria/southlands/ikiria|Ikiria]] — imprisoned as Lirina.
@@ -52,7 +52,7 @@ Confident, transactional, and dangerous.
 
 - Handler of [[npcs/westmarsh/grey-syndicate/jeremy|Jeremy]].
 - Negotiates over [[npcs/agria/prince-arthurs-retinue/wendell|Wendell]].
-- The party identifies Ash with [[npcs/velur/lirina|Countess Lirina]] and accepts her claim to the Grey Khan title after questioning her with ESP.
+- The party identifies Ash with [[npcs/vellure/lirina|Countess Lirina]] and accepts her claim to the Grey Khan title after questioning her with ESP.
 
 ## Campaign events
 

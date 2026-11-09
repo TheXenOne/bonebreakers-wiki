@@ -39,7 +39,7 @@ related_locations:
   - Kingsport
   - Arthur's Palace
   - Velluria
-  - Velur
+  - Vellure
   - Gilt Palace
   - Thorngate Abbey
 related_npcs:
@@ -50,9 +50,9 @@ related_npcs:
   - Captain Winston
   - Lirina
   - Corvin Dace
-  - Mistress Elspeth Crane
+  - Mistress Elswyth Crane
   - Lady Miranda
-  - Lord Petrand Kush
+  - Lord Petran Cask
   - Wendell Prye
   - Illitharien Morel
 related_factions:
@@ -99,10 +99,10 @@ The party first meets Agatha as a stranded noble on [[locations/world/fos-imeras
 - In [[sessions/session-050|Session 50]], the party overhears ordinary citizens in the Plats claiming that Agatha is missing or has fled while the city suffers.
 - In [[sessions/session-063|Session 63]], Gilly says Agatha remains missing and Commander Smith has also disappeared. A Company secretary insists Agatha is safe and gives the Bonebreakers a letter apparently from her summoning them to [[locations/world/agria/northlands/harrowmere/harrow|Harrow]], but Captain Winston does not know where she is.
 - In [[sessions/session-064|Session 64]], Agatha meets the party with Smith and Nelson in Harrow. She asks them to investigate a wider Northlands threat, prioritising it over the Necropolis. Count Venn's referral leads them to Sedge and Arthur's Palace.
-- In [[sessions/session-065|Session 65]], the palace search identifies [[npcs/velur/lirina|Lirina]], Countess of Velluria, as a lead through love letters, portraits, repeated journeys, and her warning against rash action and written commitments. Hugh Malory points to her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]]. Corvin takes letters and lies about his previous visits. His suspicious palace activity and flight after returning to the Royal Chamberlain's building lead the party to suspect he is not who he claims to be. The Bonebreakers frame him for their own jewellery theft and secure his arrest.
-- In [[sessions/session-066|Session 66 - Masquerade]], Winston introduces Frank to a forger and the Bonebreakers gain entry to Lirina's masquerade at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]. Nila enters as a server, Rose and Barny as entertainers, and the others as guests with companions. Lirina appears to recognise them. Nila steals a letter from a noblewoman with royal connections and hears rumours that the countess wants Arthur's place. Barny publicly reveals another noble's nightmare of Audrey's murder; the noble denies it.
-- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Barny's act blacks out the ballroom and Lirina flees crying that assassins are present. The Bonebreakers capture her in the servants' quarters, and Rose takes her place before the household. ESP confirms that Lirina intends at least to become Duchess during Arthur's absence. Her private rooms yield encoded letters, their cipher book, covert clothing, a secret exit, and an assassin's armoury. Nila reads the letter stolen from [[npcs/velur/lady-miranda|Lady Miranda]]: an unidentified friend of Arthur urges her to meet [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]] before he gives evidence. Under interrogation, Lirina's thoughts reveal a spy network and a warning written for the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] that the Bonebreakers are expected.
-- In [[sessions/session-068|Session 68 - Ashes to Ashes]], the Bonebreakers resist Dame Silka Voss's attempt to arrest them, escape Velur with Lirina, and take her to the Mercy. ESP identifies her as Ash and links Ash to the Grey Khan. Lirina admits treating Arthur as a useful tool, says she answers to nobody, and offers cooperation against Valedictus. Micaelis reveals contact with Agatha but refuses to name her hiding place. The alliance debate remains unresolved.
+- In [[sessions/session-065|Session 65]], the palace search identifies [[npcs/vellure/lirina|Lirina]], Countess of Velluria, as a lead through love letters, portraits, repeated journeys, and her warning against rash action and written commitments. Hugh Mallory points to her masquerade in [[locations/world/agria/northlands/velluria/vellure|Vellure]]. Corvin takes letters and lies about his previous visits. His suspicious palace activity and flight after returning to the Royal Chamberlain's building lead the party to suspect he is not who he claims to be. The Bonebreakers frame him for their own jewellery theft and secure his arrest.
+- In [[sessions/session-066|Session 66 - Masquerade]], Winston introduces Frank to a forger and the Bonebreakers gain entry to Lirina's masquerade at the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]]. Nila enters as a server, Rose and Barny as entertainers, and the others as guests with companions. Lirina appears to recognise them. Nila steals a letter from a noblewoman with royal connections and hears rumours that the countess wants Arthur's place. Barny publicly reveals another noble's nightmare of Audrey's murder; the noble denies it.
+- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Barny's act blacks out the ballroom and Lirina flees crying that assassins are present. The Bonebreakers capture her in the servants' quarters, and Rose takes her place before the household. ESP confirms that Lirina intends at least to become Duchess during Arthur's absence. Her private rooms yield encoded letters, their cipher book, covert clothing, a secret exit, and an assassin's armoury. Nila reads the letter stolen from [[npcs/vellure/lady-miranda|Lady Miranda]]: an unidentified friend of Arthur urges her to meet [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]] before he gives evidence. Under interrogation, Lirina's thoughts reveal a spy network and a warning written for the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] that the Bonebreakers are expected.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], the Bonebreakers resist Dame Silka Voss's attempt to arrest them, escape Vellure with Lirina, and take her to the Mercy. ESP identifies her as Ash and links Ash to the Grey Khan. Lirina admits treating Arthur as a useful tool, says she answers to nobody, and offers cooperation against Valedictus. Michaelis reveals contact with Agatha but refuses to name her hiding place. The alliance debate remains unresolved.
 - In [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers decide Lirina cannot be trusted, reject her alliance, and firmly side with Princess Agatha. They leave for Ikiria with Lirina, intending to leave her there and contact Agatha. Ninja orcs use two farmers and their captive daughter to demand her release. Akal sets the carriages alight before the party agrees on a response. Rose pursues the fleeing captor, but he kills the girl before she reaches him. Most attackers are killed and two escape. Their allegiance is **Needs review**.
 - In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], the Bonebreakers jail Lirina in Ikiria, inspect the prison, warn of a likely breakout, and prohibit contact with Arthur. Smith assures them that it is the safest available prison. Morel traces the poetry cipher to monastic copying and identifies [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]] as a lead for another copy and the missing key. The party takes a concealed route north to avoid Syndicate orcs, but trees reveal recent orc activity; those orcs' allegiance is unconfirmed. The abbey has not been reached and no report to Agatha has been delivered.
 
@@ -112,17 +112,17 @@ Active. Agatha remains in hiding and has not yet received the Bonebreakers' repo
 
 Lirina is now jailed in Ikiria, with guards warned to expect a breakout and ordered never to let her speak with Arthur. Smith assures the party of the prison's security. The Bonebreakers have left northwards for Thorngate Abbey, seeking another copy of the poetry cipher and the missing key to her correspondence. Securing a prison for Lirina is complete; deciphering the letters, reporting to Agatha, and resolving the wider threat remain unfinished.
 
-Lirina knows that the party can contact Agatha, but Micaelis has withheld her hiding place.
+Lirina knows that the party can contact Agatha, but Michaelis has withheld her hiding place.
 
 ## Consequences
 
 - The Bonebreakers now operate inside high-level Agrian politics.
 - Their victories increasingly affect succession, regional stability, and Agatha's power base in [[locations/world/agria/southlands/ikiria|Ikiria]].
 - The search for the missing patron is resolved, but investigating the threat to her now takes priority over the Necropolis. Arthur would be the only surviving heir if she died.
-- Corvin is in custody on fabricated theft evidence. Elspeth remains charmed when she supports the party; exposure of the frame-up could compromise its position with the Queen’s Guard.
+- Corvin is in custody on fabricated theft evidence. Elswyth remains charmed when she supports the party; exposure of the frame-up could compromise its position with the Queen’s Guard.
 - The party has identified Lirina as the Syndicate leader but has not reported this or its documentary evidence to Agatha. The full threat to the princess is still unresolved.
 - Lirina's spy network has identified the Bonebreakers and expects them at the masquerade; a message meant for the Grey Khan warns that they are active in the Northlands.
-- [[npcs/velur/opal|Opal]] and Dame Silka Voss expose Rose's impersonation to the arresting group. The Bonebreakers overcome the Watch and remove the captive countess to the Mercy, leaving the political consequences unresolved.
+- [[npcs/vellure/opal|Opal]] and Dame Silka Voss expose Rose's impersonation to the arresting group. The Bonebreakers overcome the Watch and remove the captive countess to the Mercy, leaving the political consequences unresolved.
 - The masquerade ends in an assassination scare. Guests leave with conflicting rumours, some blaming the party's performers, and Lady Miranda expects serious political consequences.
 - Barny publicly reveals a noble's nightmare of Audrey's murder, prompting the noble to deny it. His subsequent dismemberment and reassembly of his undead assistant horrify the guests.
 - Lirina now knows that Agatha can be reached through the Bonebreakers, but the princess's location remains concealed from her.
@@ -138,12 +138,12 @@ Lirina knows that the party can contact Agatha, but Micaelis has withheld her hi
 - [[npcs/agria/east-agria-company/admiral-nelson|Admiral Nelson]]
 - [[npcs/agria/prince-arthur|Prince Arthur]]
 - [[npcs/agria/east-agria-company/captain-winston|Captain Winston]]
-- [[npcs/velur/lirina|Lirina]]
-- [[npcs/velur/lady-miranda|Lady Miranda]]
-- [[npcs/velur/lord-petrand-kush|Lord Petrand Kush]]
+- [[npcs/vellure/lirina|Lirina]]
+- [[npcs/vellure/lady-miranda|Lady Miranda]]
+- [[npcs/vellure/lord-petran-cask|Lord Petran Cask]]
 - [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]]
 - [[npcs/kingsport/corvin-dace|Corvin Dace]]
-- [[npcs/kingsport/elspeth-crane|Mistress Elspeth Crane]]
+- [[npcs/kingsport/elswyth-crane|Mistress Elswyth Crane]]
 - [[npcs/flux-academy/illitharien-morel|Illitharien Morel]]
 
 ## Related locations
@@ -155,8 +155,8 @@ Lirina knows that the party can contact Agatha, but Micaelis has withheld her hi
 - [[locations/world/agria/northlands/kingsport|Kingsport]]
 - [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]]
 - [[locations/world/agria/northlands/velluria|Velluria]]
-- [[locations/world/agria/northlands/velluria/velur|Velur]]
-- [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]
+- [[locations/world/agria/northlands/velluria/vellure|Vellure]]
+- [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]]
 - [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]]
 
 ## Related factions
@@ -193,7 +193,7 @@ Lirina knows that the party can contact Agatha, but Micaelis has withheld her hi
 - Lirina's encoded letters remain undeciphered. Morel identifies Thorngate Abbey as a lead for another copy of the poetry cipher and its missing key, but the party has not reached it. How she concealed her identity as Ash, and the significance of the dagger she wants returned: **Needs review**.
 - Who is writing to Lady Miranda, and what she is meant to learn from Wendell before he gives evidence, are unknown.
 - The noble's nightmare of Audrey's murder has no confirmed connection to a plot; he says he does not know why he has such a dream.
-- Elspeth supports the party while charmed. The consequences of Corvin's false arrest and the fate of the letters he took remain unresolved.
+- Elswyth supports the party while charmed. The consequences of Corvin's false arrest and the fate of the letters he took remain unresolved.
 - What “Smith already knows” means, including which Smith is meant, remains unclear.
 - Queen Audrey II's reported illness remains unexplained: **Needs review**.
 - Agatha's personal authorship of the letter was not explicitly confirmed, although the summons led to her.

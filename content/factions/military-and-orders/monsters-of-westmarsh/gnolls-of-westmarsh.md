@@ -15,7 +15,7 @@ notable_members:
 related_locations:
   - Westmarsh
   - Westfort
-  - Spider Market
+  - Spider's Market
 source_sessions:
   - 34
   - 37
@@ -43,7 +43,7 @@ They appear mainly as raiders, patrols, and camp attackers rather than as a visi
 
 - [[locations/world/westmarsh|Westmarsh]]
 - [[locations/world/agria/west-fort|Westfort]]
-- [[locations/world/westmarsh/spiders-market|The Spider Market]]
+- [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 
 ## Allies and enemies
 

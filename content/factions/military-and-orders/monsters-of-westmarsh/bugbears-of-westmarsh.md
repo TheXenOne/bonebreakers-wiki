@@ -15,7 +15,7 @@ related_locations:
   - Westmarsh
   - Hobgoblin Mine
   - Invasion Fort
-  - Spider Market
+  - Spider's Market
 source_sessions:
   - 37
   - 39
@@ -43,7 +43,7 @@ Needs review.
 
 - [[locations/world/westmarsh/hobgoblin-mine|The Hobgoblin Mine]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
-- [[locations/world/westmarsh/spiders-market|The Spider Market]]
+- [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 
 ## Allies and enemies
 

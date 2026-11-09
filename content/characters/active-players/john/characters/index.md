@@ -9,4 +9,4 @@ aliases:
 
 ## John's Characters
 
-- [[characters/active-players/john/characters/micaelis|Micaelis]]
+- [[characters/active-players/john/characters/michaelis|Michaelis]]

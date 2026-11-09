@@ -23,13 +23,13 @@ related_locations:
   - The Necropolis
   - Arch III
   - Arch VII
-  - House Varrick Tomb
+  - House Varek Tomb
 related_npcs:
   - Valedictus
-  - Lord Varrick
+  - Lord Varek
   - Lirina
 related_factions:
-  - House Varrick
+  - House Varek
   - Grey Syndicate
 source_sessions:
   - 41
@@ -45,25 +45,25 @@ source_sessions:
 
 ## Overview
 
-[[npcs/necropolis/valedictus|Valedictus]] is an ancient high priest and necromancer whose plans may still be driving the spread of undead across Agria. [[npcs/necropolis/lord-varrick|Lord Varrick]] says Valedictus sought dominion across the continent and possesses three phylacteries. Varrick also advises the Bonebreakers to find [[items/the-stylus|the Stylus]], though its importance and connection to Valedictus remain unknown.
+[[npcs/necropolis/valedictus|Valedictus]] is an ancient high priest and necromancer whose plans may still be driving the spread of undead across Agria. [[npcs/necropolis/lord-varek|Lord Varek]] says Valedictus sought dominion across the continent and possesses three phylacteries. Varek also advises the Bonebreakers to find [[items/the-stylus|the Stylus]], though its importance and connection to Valedictus remain unknown.
 
 ## How it began
 
-The Bonebreakers first find Valedictus's necromantic treatise in [[sessions/session-041|Session 41]]. Captain Varro identifies him as the high priest beyond [[locations/world/westmarsh/necropolis/arch-iii|Arch III]] in [[sessions/session-059|Session 59]], but the threat becomes a concrete active thread in [[sessions/session-060|Session 60]] when Lord Varrick explains his ambitions and phylacteries.
+The Bonebreakers first find Valedictus's necromantic treatise in [[sessions/session-041|Session 41]]. Captain Varro identifies him as the high priest beyond [[locations/world/westmarsh/necropolis/arch-iii|Arch III]] in [[sessions/session-059|Session 59]], but the threat becomes a concrete active thread in [[sessions/session-060|Session 60]] when Lord Varek explains his ambitions and phylacteries.
 
 ## Key developments
 
 - Valedictus wrote a treatise on necrotic arts, souls, binding, and compulsion.
 - Captain Varro says Valedictus is the high priest in Arch III's temple district, “sees all,” and was connected to the evil done in the command-quarter vault.
-- Lord Varrick says Valedictus rejected his petitions three times, ignored opposition within the Imperial City, and sought to spread his dark arts and dominion across the continent.
-- Varrick warns that Agria's undead problem will worsen while Valedictus remains in power.
+- Lord Varek says Valedictus rejected his petitions three times, ignored opposition within the Imperial City, and sought to spread his dark arts and dominion across the continent.
+- Varek warns that Agria's undead problem will worsen while Valedictus remains in power.
 - Valedictus has three phylacteries.
-- The party strongly suspects that [[items/glowing-skull|the glowing skull]] found in Arch VII and traded away at the Spider Market is one phylactery.
+- The party strongly suspects that [[items/glowing-skull|the glowing skull]] found in Arch VII and traded away at the Spider's Market is one phylactery.
 - In [[sessions/session-061|Session 61]], Barny clarifies that a lizardfolk shaman from an unidentified clan is studying the probable skull phylactery closely.
 - The party suspects the three-locked soul-bound chest beneath the Imperial Hill Temple may hold another, but has no proof.
-- Varrick advises the party to find the Stylus, but does not explain what it is or why it matters.
-- Lord Varrick suggests the Grey Syndicate may be seeking Valedictus's power or trying to destroy him. Lirina's later testimony supports the latter possibility.
-- In [[sessions/session-068|Session 68 - Ashes to Ashes]], the captive [[npcs/velur/lirina|Lirina]] names Valedictus as an arch-enemy. Selvar's ESP confirms her genuine hatred. Barny's telescope shows a nightmare of Agria devastated by plague, suggesting that she fears such a disaster without proving its cause. She proposes an alliance, but the Bonebreakers remain divided.
+- Varek advises the party to find the Stylus, but does not explain what it is or why it matters.
+- Lord Varek suggests the Grey Syndicate may be seeking Valedictus's power or trying to destroy him. Lirina's later testimony supports the latter possibility.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], the captive [[npcs/vellure/lirina|Lirina]] names Valedictus as an arch-enemy. Selvar's ESP confirms her genuine hatred. Barny's telescope shows a nightmare of Agria devastated by plague, suggesting that she fears such a disaster without proving its cause. She proposes an alliance, but the Bonebreakers remain divided.
 - At the start of [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers reject Lirina's help because they cannot trust her and firmly side with Agatha.
 
 ## Current status
@@ -75,16 +75,16 @@ The Bonebreakers have jailed Lirina, identified as Ash and the Grey Khan, in Iki
 ## Related characters and NPCs
 
 - [[npcs/necropolis/valedictus|Valedictus]]
-- [[npcs/necropolis/lord-varrick|Lord Varrick]]
+- [[npcs/necropolis/lord-varek|Lord Varek]]
 - [[npcs/necropolis/captain-varro|Captain Varro]]
-- [[npcs/velur/lirina|Lirina]]
+- [[npcs/vellure/lirina|Lirina]]
 
 ## Related locations
 
 - [[locations/world/westmarsh/necropolis|The Necropolis]]
 - [[locations/world/westmarsh/necropolis/arch-iii|Arch III]]
 - [[locations/world/westmarsh/necropolis/arch-vii|Arch VII]]
-- [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]]
+- [[locations/world/westmarsh/necropolis/house-varek-tomb|House Varek Tomb]]
 - [[locations/world/westmarsh/imperial-hill-temple|The Imperial Hill Temple]]
 
 ## Related items

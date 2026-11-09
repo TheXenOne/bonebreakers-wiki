@@ -1,10 +1,11 @@
 ---
-title: Aldus Fenwick
+title: Aldous Fenwick
 type: npc
 tags:
   - npc
   - physician
-aliases: []
+aliases:
+  - npcs/west-fort/aldus-fenwick
 status: alive
 primary_location: Westfort
 affiliations:
@@ -15,7 +16,7 @@ source_sessions:
 
 ## Overview
 
-Aldus Fenwick is a physician associated with [[npcs/west-fort/erasmus-vale|Erasmus Vale]] who is travelling from Westfort toward Ikiria during the Grey Syndicate fallout.
+Aldous Fenwick is a physician associated with [[npcs/west-fort/erasmus-vale|Erasmus Vale]] who is travelling from Westfort toward Ikiria during the Grey Syndicate fallout.
 
 ## Appearance
 
@@ -27,7 +28,7 @@ Needs review.
 
 ## Role in the campaign
 
-- Aldus helps identify the practical, civilian side of the larger travelling party caught up in Arthur's exposure.
+- Aldous helps identify the practical, civilian side of the larger travelling party caught up in Arthur's exposure.
 
 ## Affiliations
 
@@ -45,7 +46,7 @@ Needs review.
 
 ## Campaign events
 
-- In [[sessions/session-045|Session 45]], Aldus Fenwick is identified among Arthur's travelling party.
+- In [[sessions/session-045|Session 45]], Aldous Fenwick is identified among Arthur's travelling party.
 
 ## Current status
 

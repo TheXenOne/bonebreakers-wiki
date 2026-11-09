@@ -35,19 +35,19 @@ The Southlands are the duchy of [[npcs/agria/princess-agatha|Princess Agatha]], 
 The Northlands lie north of the Southlands. [[npcs/agria/prince-arthur|Prince Arthur]], Agatha's younger brother, holds the ducal title, although he is under arrest and awaiting trial for plotting against her. The region's known political divisions are:
 
 - **[[locations/world/agria/northlands/kingsport|Kingsport]]:** Agria's wealthy capital and a city-state in its own right, dominated by the Queen's Palace and Arthur's Palace. It lies northwest of Ikiria and almost directly north of Barrow Spa.
-- **[[locations/world/agria/northlands/velluria|Velluria]]:** the western county, ruled by [[npcs/velur/lirina|Lirina]], Countess of Velluria. It contains [[locations/world/agria/northlands/velluria/velur|Velur]], where she has a palace, about one day's travel from Kingsport. Kingsport itself is outside the county.
+- **[[locations/world/agria/northlands/velluria|Velluria]]:** the western county, ruled by [[npcs/vellure/lirina|Lirina]], Countess of Velluria. It contains [[locations/world/agria/northlands/velluria/vellure|Vellure]], where she has a palace, about one day's travel from Kingsport. Kingsport itself is outside the county.
 - **[[locations/world/agria/northlands/grainholm|Grainholm]]:** the central inland county, largely agricultural. The Bonebreakers have not visited it.
 - **[[locations/world/agria/northlands/harrowmere|Harrowmere]]:** the eastern county, ruled by [[npcs/harrow/count-drago-venn|Count Drago Venn]]. Its port, [[locations/world/agria/northlands/harrowmere/harrow|Harrow]], handles exotic and illicit imports and provides the party's first foothold in the Northlands.
 
 - **[[locations/world/agria/northlands/salt-coast|The Salt Coast]]:** the northern fishing county, passed on the voyage to Kingsport.
 
-Fishing settlements line the northern [[locations/world/agria/northlands/salt-coast|Salt Coast]]. The sea approach to Harrow passes through [[locations/world/agria/northlands/harrowmere/narrows|the Narrows]], a confined route of fjords, waterways, and artificial canals. The Bonebreakers reach Kingsport from Harrow after three days sailing along the coast, then follow Arthur's connections inland to Velur in Velluria.
+Fishing settlements line the northern [[locations/world/agria/northlands/salt-coast|Salt Coast]]. The sea approach to Harrow passes through [[locations/world/agria/northlands/harrowmere/narrows|the Narrows]], a confined route of fjords, waterways, and artificial canals. The Bonebreakers reach Kingsport from Harrow after three days sailing along the coast, then follow Arthur's connections inland to Vellure in Velluria.
 
 ## The succession and the Bonebreakers
 
 Queen Audrey is reportedly unwell. Agatha remains the recognised heir and Duchess of the Southlands, but is hiding from a continuing threat to her life. Arthur's arrest has exposed his dealings with the Grey Syndicate without resolving the succession crisis: Agatha warns that her death would leave him the only surviving heir despite the proceedings against him.
 
-Agatha has asked the Bonebreakers to investigate the wider Northlands conspiracy. They find her secretly in Harrow, follow contacts to Kingsport, and uncover evidence of Arthur's close connection to Lirina. At the countess's masquerade in Velur, the party captures Lirina and confirms that she means at least to become Duchess in Arthur's absence. Her rooms hold an assassin's equipment and the encoded letters of her spy network, one of them a warning meant for the Grey Khan. A letter stolen from [[npcs/velur/lady-miranda|Lady Miranda]], a royal cousin, urges her to meet Wendell Prye before he gives evidence. Barny's telescope reveals another noble's nightmare of Audrey's murder; no actual attack or plan is established. Rumours that the Queen intends to close Arthur's Palace permanently are also unconfirmed.
+Agatha has asked the Bonebreakers to investigate the wider Northlands conspiracy. They find her secretly in Harrow, follow contacts to Kingsport, and uncover evidence of Arthur's close connection to Lirina. At the countess's masquerade in Vellure, the party captures Lirina and confirms that she means at least to become Duchess in Arthur's absence. Her rooms hold an assassin's equipment and the encoded letters of her spy network, one of them a warning meant for the Grey Khan. A letter stolen from [[npcs/vellure/lady-miranda|Lady Miranda]], a royal cousin, urges her to meet Wendell Prye before he gives evidence. Barny's telescope reveals another noble's nightmare of Audrey's murder; no actual attack or plan is established. Rumours that the Queen intends to close Arthur's Palace permanently are also unconfirmed.
 
 ## Associated people and groups
 
@@ -63,7 +63,7 @@ Agatha has asked the Bonebreakers to investigate the wider Northlands conspiracy
 
 - In [[sessions/session-064|Session 64]], the party finds Agatha alive in hiding, accepts her commission, and follows northern political contacts from Harrow to Kingsport.
 - In [[sessions/session-065|Session 65]], evidence from Arthur’s Palace points toward Lirina and Velluria, but the wider threat to Agatha remains unidentified.
-- In [[sessions/session-066|Session 66 - Masquerade]], the party enters Lirina's masquerade at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]. She appears to recognise the Bonebreakers. Nila hears rumours that the countess wants Arthur's place, but no change to his position is confirmed.
+- In [[sessions/session-066|Session 66 - Masquerade]], the party enters Lirina's masquerade at the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]]. She appears to recognise the Bonebreakers. Nila hears rumours that the countess wants Arthur's place, but no change to his position is confirmed.
 - In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], Lirina is jailed in Ikiria, with contact between her and Arthur forbidden. The Bonebreakers pursue her poetry cipher towards [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]], travelling through the wooded highlands north of the city. Grainholm lies beyond the woods, with the Thorngate River continuing north towards the sea.
 
 ## Related sessions

@@ -46,7 +46,7 @@ Westfort is a frontier settlement on Agria's western edge, guarding the crossing
 - [[locations/world/agria/west-fort/temple-of-saint-lucia-the-merciful|Temple of Saint Lucia the Merciful]], Sister Aldrith's small healing temple.
 - [[locations/world/agria/west-fort/vexs-warehouse|Vex's Warehouse]], used as both a criminal base and a stolen-arms cache.
 - [[locations/world/agria/west-fort/tincture-and-tonic|The Tincture & Tonic]], Erasmus Vale's apothecary and herb market.
-- [[locations/world/agria/west-fort/ironhands-forge|Ironhand's Forge]], a smithy known for sturdy work and occasional magical gear.
+- [[locations/world/agria/west-fort/ironhand-forge|Ironhand Forge]], a smithy known for sturdy work and occasional magical gear.
 
 ## Associated people and groups
 

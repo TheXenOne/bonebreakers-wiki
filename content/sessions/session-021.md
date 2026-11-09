@@ -1,5 +1,5 @@
 ---
-title: Session 21 - Soup for the Abbott
+title: Session 21 - Soup for the Abbot
 type: session
 session: 21
 date: 2025-09-15
@@ -19,7 +19,7 @@ The Bonebreakers return to the [[locations/world/agria/southlands/mercy|Cathedra
 
 The assault begins violently. The party rides and fights through the gates, cuts down the first defenders, and is quickly forced into a running battle with Crimson Knights and Sons of Bahal inside the complex. After pushing through the first resistance, they turn east and find twelve ragged priests hidden on straw in rooms marked with blood-soaked religious slogans. The priests are desperate, hungry, and frightened; in exchange for food and protection, they give the Bonebreakers the library key and become the party's first real foothold inside the occupied church.
 
-From there, the Bonebreakers shift into disguise and sabotage. In the kitchen, a cook mistakes them for cathedral troops and serves them gristle stew, giving Barny the opening to poison the cauldron. The party then dons stolen uniforms and pushes the bubbling food deeper into the complex under the cry of "Soup for the Abbott," using the ruse to move through enemy-held space without immediately drawing the whole garrison onto them.
+From there, the Bonebreakers shift into disguise and sabotage. In the kitchen, a cook mistakes them for cathedral troops and serves them gristle stew, giving Barny the opening to poison the cauldron. The party then dons stolen uniforms and pushes the bubbling food deeper into the complex under the cry of "Soup for the Abbot," using the ruse to move through enemy-held space without immediately drawing the whole garrison onto them.
 
 The disguise carries them into the northern dome, a soot-darkened nave hung with crimson banners, and from there to a side chamber where [[npcs/mercy/captain-fardr|Captain Fardr]] is found raving, armed, and fighting imaginary enemies. Selvar charms him, but the escape nearly collapses when four undead Sons of Bahal patrol past and refuse to fall for the soup ruse. Virien seals the door long enough for the Bonebreakers to smash their way out through the windows and retreat with Fardr to the farmstead.
 
@@ -33,7 +33,7 @@ The final discoveries come in the bishop's quarters and library. Behind a secret
 - The party breaks back through the cathedral gates and defeats several defenders.
 - Twelve surviving priests are found and agree to cooperate.
 - Frank poisons the kitchen stew to weaken the enemy's position.
-- The party uses a "Soup for the Abbott" disguise to move through the cathedral.
+- The party uses a "Soup for the Abbot" disguise to move through the cathedral.
 - Captain Fardr is charmed and reveals that the bishop became undead and that the corruption began about two years earlier.
 - A second push reaches the nave and altar area.
 - Red candles in the bishop's quarters paralyse several party members.

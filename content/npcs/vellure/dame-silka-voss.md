@@ -4,6 +4,7 @@ type: npc
 tags:
   - npc
 aliases:
+  - npcs/velur/dame-silka-voss
   - Silka Voss
   - Dame Voss
 source_sessions:
@@ -12,7 +13,7 @@ source_sessions:
 
 ## Overview
 
-Dame Silka Voss is Captain of the Vellurian Watch, an armoured officer who commands the guards sent to search [[npcs/velur/lirina|Countess Lirina]]'s [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]. She attempts to arrest the Bonebreakers after [[npcs/velur/opal|Opal]], Lirina's attendant, identifies [[characters/active-players/laura/characters/rose|Rose]] as an impostor. The party overpowers her and escapes with the countess, leaving its conflict with the Watch unsettled.
+Dame Silka Voss is Captain of the Vellurian Watch, an armoured officer who commands the guards sent to search [[npcs/vellure/lirina|Countess Lirina]]'s [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]]. She attempts to arrest the Bonebreakers after [[npcs/vellure/opal|Opal]], Lirina's attendant, identifies [[characters/active-players/laura/characters/rose|Rose]] as an impostor. The party overpowers her and escapes with the countess, leaving its conflict with the Watch unsettled.
 
 ## Encounter with the Bonebreakers
 

@@ -62,8 +62,8 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 - [[npcs/west-fort/sister-aldrith|Sister Aldrith]]
 - [[npcs/west-fort/kenric|Kenric]]
 - [[npcs/west-fort/gorin-heavyhoof|Gorin Heavyhoof]]
-- [[npcs/west-fort/private-jordan|Private Jordan]]
-- [[npcs/west-fort/aldus-fenwick|Aldus Fenwick]]
+- [[npcs/west-fort/private-jorin|Private Jorin]]
+- [[npcs/west-fort/aldous-fenwick|Aldous Fenwick]]
 - [[npcs/west-fort/west-fort-garrison|Westfort Garrison]]
 - [[npcs/west-fort/west-fort-allies-and-traders|Westfort Allies and Traders]]
 - [[npcs/west-fort/grey-syndicate/index|Grey Syndicate]]
@@ -87,7 +87,7 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 
 - [[npcs/necropolis/cornelius-vane|Cornelius Vane]]
 - [[npcs/necropolis/captain-varro|Captain Varro]]
-- [[npcs/necropolis/lord-varrick|Lord Varrick]]
+- [[npcs/necropolis/lord-varek|Lord Varek]]
 - [[npcs/necropolis/mortimer|Mortimer]]
 - [[npcs/necropolis/the-bloated-one|The Bloated One]]
 - [[npcs/necropolis/the-tribune|The Tribune]]
@@ -106,14 +106,14 @@ Named NPC pages organised by primary campaign context. Group pages are retained 
 - [[npcs/harrow/lord-elron|Lord Elron]]
 - [[npcs/harrow/drakford|Drakford]]
 - [[npcs/kingsport/brother-sedge|Brother Sedge]]
-- [[npcs/kingsport/elspeth-crane|Mistress Elspeth Crane]]
+- [[npcs/kingsport/elswyth-crane|Mistress Elswyth Crane]]
 - [[npcs/kingsport/corvin-dace|Corvin Dace]]
 - [[npcs/kingsport/sir-aldric-hale|Sir Aldric Hale]]
-- [[npcs/kingsport/hugh-malory|Hugh Malory]]
+- [[npcs/kingsport/hugh-mallory|Hugh Mallory]]
 - [[npcs/kingsport/nessa|Nessa]]
 
-## Velur
+## Vellure
 
-- [[npcs/velur/lirina|Lirina]]
-- [[npcs/velur/lady-miranda|Lady Miranda]]
-- [[npcs/velur/lord-petrand-kush|Lord Petrand Kush]]
+- [[npcs/vellure/lirina|Lirina]]
+- [[npcs/vellure/lady-miranda|Lady Miranda]]
+- [[npcs/vellure/lord-petran-cask|Lord Petran Cask]]

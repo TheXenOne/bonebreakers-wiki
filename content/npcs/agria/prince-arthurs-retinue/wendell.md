@@ -44,7 +44,7 @@ Deeply frightened by the end of his appearances.
 ## Associated locations
 
 - [[locations/world/agria/southlands/mercy|The Mercy]]
-- [[locations/world/westmarsh/spiders-market|The Spider Market]]
+- [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 - [[locations/world/agria/southlands/ikiria/east-agria-company-headquarters|East Agria Company Headquarters]]
 
 ## Relationships
@@ -59,12 +59,12 @@ Deeply frightened by the end of his appearances.
 - In [[sessions/session-046|Session 46]], an assassin wearing Tobold's face reveals he was sent to kill the secretary, and Ash later offers gold in exchange for him.
 - In [[sessions/session-047|Session 47]], Wendell is persuaded to testify to Commander Smith, helping trigger Arthur's arrest.
 - In [[sessions/session-064|Session 64]], [[characters/active-players/ben-l/characters/tess-tattercloak|Tess]] impersonates him with Glamour to persuade Brother Sedge to admit the Bonebreakers to Arthur's Palace. Wendell himself is not present.
-- In [[sessions/session-065|Session 65]], the Bonebreakers claim he sent them while searching Arthur's Palace. Hugh Malory has heard rumours that Wendell turned against Arthur and welcomes the apparent reassurance; Elspeth and Corvin remain sceptical of the visitors' authority. Wendell is not present.
-- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], a letter stolen from [[npcs/velur/lady-miranda|Lady Miranda]] at Lirina's masquerade urges her to meet Wendell before he gives his evidence. The writer claims to be a friend of Arthur who seeks only the truth. Wendell is not present.
+- In [[sessions/session-065|Session 65]], the Bonebreakers claim he sent them while searching Arthur's Palace. Hugh Mallory has heard rumours that Wendell turned against Arthur and welcomes the apparent reassurance; Elswyth and Corvin remain sceptical of the visitors' authority. Wendell is not present.
+- In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], a letter stolen from [[npcs/vellure/lady-miranda|Lady Miranda]] at Lirina's masquerade urges her to meet Wendell before he gives his evidence. The writer claims to be a friend of Arthur who seeks only the truth. Wendell is not present.
 
 ## Current status
 
-Alive and a direct witness against Arthur since [[sessions/session-047|Session 47]]. He is still expected to give evidence against Arthur, and an unidentified party is steering [[npcs/velur/lady-miranda|Lady Miranda]] toward him before he does.
+Alive and a direct witness against Arthur since [[sessions/session-047|Session 47]]. He is still expected to give evidence against Arthur, and an unidentified party is steering [[npcs/vellure/lady-miranda|Lady Miranda]] toward him before he does.
 
 ## Related sessions
 

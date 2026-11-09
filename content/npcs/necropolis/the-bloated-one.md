@@ -43,12 +43,12 @@ Horse-sized, necrotic, grotesquely swollen with gas, wrapped in deep robes, and 
 - In [[sessions/session-051|Session 51]], Mortimer names the Bloated One while explaining the purpose of the undead labourers' work. The party later finds a hidden map that marks the Bloated One's domain.
 - In [[sessions/session-052|Session 52]], Cyder speaks with the Bloated One while pretending to come from Section 22. The Bloated One says Section 22 was demolished and reused for Section 12 because the restoration works have no fresh source of stone and keep reusing other parts of the city.
 - The party finds a maintenance corridor behind the school that emerges behind the Bloated One, prepares an ambush, and kills it before it can properly respond.
-- The Bloated One explodes on death, hitting Micaelis, Steve, Luthien, and Selvar. Micaelis and Steve are worst affected by a rotting disease.
+- The Bloated One explodes on death, hitting Michaelis, Steve, Luthien, and Selvar. Michaelis and Steve are worst affected by a rotting disease.
 - In [[sessions/session-053|Session 53]], the Bonebreakers find only its Senior Administrator sash.
 
 ## Current status
 
-Dead. Its domain remains dangerous, but Steve and Micaelis are no longer infected by its rotting disease after Ulrich cures them at the Mercy.
+Dead. Its domain remains dangerous, but Steve and Michaelis are no longer infected by its rotting disease after Ulrich cures them at the Mercy.
 
 ## Related sessions
 

@@ -23,11 +23,11 @@ Arden climbs the second ladder and uses a crowbar to slide aside the stone slab 
 
 An armadillo-like creature wanders into the workshop. [[characters/active-players/laura/characters/rose|Rose]] tries to feed it, but Wistor's lightning and Arden's first strike reveal it as a rust monster: Arden's magical mace rusts away completely, and the creature devours Rose's spear. Ulrich turns sticks into snakes, helping the party kill it before it can consume more equipment. He then collects several of the sealed jars.
 
-North of the workshop, the Bonebreakers enter [[locations/world/westmarsh/necropolis/house-varrick-tomb|the tomb of House Varrick]]. Twelve sarcophagi line a rectangular chamber around a raised black-marble coffin. Although Ulrich detects no evil intent, a voice inside the open coffin challenges the party's purpose. Arden explains that they only seek a route back to the Nexus and agrees to exchange information. [[npcs/necropolis/lord-varrick|Lord Varrick]], an undead noble of the once-powerful [[factions/necropolis/house-varrick|House Varrick]], asks whether his family is remembered. Wistor tells him that the plague destroyed most civilisation in Westmarsh and that the house has been forgotten.
+North of the workshop, the Bonebreakers enter [[locations/world/westmarsh/necropolis/house-varek-tomb|the tomb of House Varek]]. Twelve sarcophagi line a rectangular chamber around a raised black-marble coffin. Although Ulrich detects no evil intent, a voice inside the open coffin challenges the party's purpose. Arden explains that they only seek a route back to the Nexus and agrees to exchange information. [[npcs/necropolis/lord-varek|Lord Varek]], an undead noble of the once-powerful [[factions/necropolis/house-varek|House Varek]], asks whether his family is remembered. Wistor tells him that the plague destroyed most civilisation in Westmarsh and that the house has been forgotten.
 
-In return, Lord Varrick answers the party's questions. He suggests that the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]] may be seeking the necromantic power of [[npcs/necropolis/valedictus|High Priest Valedictus]], or may instead intend to destroy him. Varrick remembers Valedictus as an expansionist necromancer who rejected his petitions three times, ignored heavy opposition within the Imperial City, and sought dominion across the continent. When the party confirms that undead activity is worsening in Agria, Varrick warns that it will continue while Valedictus remains in power. He advises the Bonebreakers to find [[items/the-stylus|the Stylus]] and reveals that Valedictus possesses three phylacteries.
+In return, Lord Varek answers the party's questions. He suggests that the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]] may be seeking the necromantic power of [[npcs/necropolis/valedictus|High Priest Valedictus]], or may instead intend to destroy him. Varek remembers Valedictus as an expansionist necromancer who rejected his petitions three times, ignored heavy opposition within the Imperial City, and sought dominion across the continent. When the party confirms that undead activity is worsening in Agria, Varek warns that it will continue while Valedictus remains in power. He advises the Bonebreakers to find [[items/the-stylus|the Stylus]] and reveals that Valedictus possesses three phylacteries.
 
-Wistor records the tomb's carved family history, which shows Varrick's three failed petitions. The party then reconsiders the skull found amid broken chains and stakes in Arch VII's Foundation Chamber and later traded away by [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]]. They suspect that [[items/glowing-skull|the glowing skull]] is one of Valedictus's phylacteries and that another may lie inside the three-locked, soul-bound chest at the Imperial Hill entrance.
+Wistor records the tomb's carved family history, which shows Varek's three failed petitions. The party then reconsiders the skull found amid broken chains and stakes in Arch VII's Foundation Chamber and later traded away by [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve]]. They suspect that [[items/glowing-skull|the glowing skull]] is one of Valedictus's phylacteries and that another may lie inside the three-locked, soul-bound chest at the Imperial Hill entrance.
 
 After backtracking to the armoury, Nila fails to pick the locked gate, so Ulrich surrounds the group with Silence while they dismantle it using hammers, spikes, and crowbars. An incorporeal spirit wanders past despite the lack of noise. Its supernatural presence terrifies Nila and Rose, ages each of them ten years, and sends them fleeing. Neither Arden nor Ulrich can turn it, Wistor's breath cannot harm it, and its claws reach through the gate to drain four points of Wistor's Constitution. Ulrich averts a likely disaster by casting Continual Light directly upon the spirit and permanently blinding it.
 
@@ -44,8 +44,8 @@ The lower trapdoor into the Mercy remains spiked shut, but Wistor casts Knock an
 - The party recovers military valuables and unpaid wages worth 1,980 gold pieces from a hidden room.
 - Gas released from sealed jars nearly incapacitates the party and temporarily paralyses Arden and Selvar.
 - A rust monster destroys Arden's magical mace and eats Rose's spear before the party kills it.
-- Lord Varrick identifies Valedictus as an expansionist necromancer, warns that Agria's undead problem will worsen while he remains in power, and reveals that he has three phylacteries.
-- Lord Varrick advises the party to find the Stylus.
+- Lord Varek identifies Valedictus as an expansionist necromancer, warns that Agria's undead problem will worsen while he remains in power, and reveals that he has three phylacteries.
+- Lord Varek advises the party to find the Stylus.
 - The party suspects that the glowing skull Steve traded away is one of Valedictus's phylacteries and that the three-locked chest may hold another.
 - An incorporeal spirit ages Nila and Rose by ten years and drains four points of Wistor's Constitution. Ulrich permanently blinds it with Continual Light, allowing the party to survive.
 - Barny permanently takes control of one wight and six skeletons with a Potion of Control Undead.
@@ -56,7 +56,7 @@ The lower trapdoor into the Mercy remains spiked shut, but Wistor casts Knock an
 
 - The trapped armoury and hidden pay room beneath the [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]]
 - The resin-filled embalming workshop
-- [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]]
+- [[locations/world/westmarsh/necropolis/house-varek-tomb|House Varek Tomb]]
 - The Arch I drill yard and bridge
 - [[locations/world/westmarsh/necropolis#The Nexus|The Nexus]]
 - The well and lower trapdoor beneath [[locations/world/agria/southlands/mercy|the Mercy]]
@@ -70,7 +70,7 @@ The lower trapdoor into the Mercy remains spiked shut, but Wistor casts Knock an
 - [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barnobuck "Barny" the Bizarre]]
 - [[characters/active-players/laura/characters/rose|Rose]]
 - [[characters/active-players/alessandro/characters/selvar|Selvar]]
-- [[npcs/necropolis/lord-varrick|Lord Varrick]]
+- [[npcs/necropolis/lord-varek|Lord Varek]]
 - [[npcs/necropolis/valedictus|Valedictus]]
 - A rust monster
 - A powerful incorporeal spirit
@@ -95,7 +95,7 @@ The lower trapdoor into the Mercy remains spiked shut, but Wistor casts Knock an
 - [[quests/major/active/valedictus-and-his-phylacteries|Valedictus and His Phylacteries]] become a concrete threat: Valedictus sought continental dominion, remains linked to worsening undead activity, and has three phylacteries. The Stylus is a separate lead of unknown importance. Status: Active.
 - The glowing skull seen in the spirit's nightmare is strongly implicated as one phylactery. Steve traded it at the Broken Crown, while the vision now places it in lizardfolk hands; how it changed hands remains unknown. Status: Partially resolved.
 - The three-locked soul-bound chest may contain another phylactery, but this is only the party's suspicion. Status: Still unresolved.
-- Lord Varrick suggests the Grey Syndicate may seek Valedictus's power or may be trying to destroy him. Their actual objective in the Necropolis remains unknown. Status: Still unresolved.
+- Lord Varek suggests the Grey Syndicate may seek Valedictus's power or may be trying to destroy him. Their actual objective in the Necropolis remains unknown. Status: Still unresolved.
 - The Tribune ordered a secret passage sealed, confirming direct authority beyond the earlier work-ledger reference. The Tribune's identity and motive remain unknown. Status: Partially resolved.
 - The Imperial Hill command quarter connects to the Nexus through Arch I. Status: Resolved in Session 60.
 - Wistor's Knock spell proves the spiked trapdoor can be reopened from below. The Bonebreakers return to the Mercy and spike it shut again. Status: Resolved in Session 60.

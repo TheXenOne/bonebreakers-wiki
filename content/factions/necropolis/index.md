@@ -7,4 +7,4 @@ tags:
 
 Groups, houses, and organised powers preserved within the Necropolis.
 
-- [[factions/necropolis/house-varrick|House Varrick]]
+- [[factions/necropolis/house-varek|House Varek]]

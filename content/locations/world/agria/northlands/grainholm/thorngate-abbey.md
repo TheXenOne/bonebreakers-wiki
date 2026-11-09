@@ -11,7 +11,7 @@ source_sessions:
 
 ## Overview
 
-Thorngate Abbey is a monastic community in [[locations/world/agria/northlands/grainholm|Grainholm]], [[locations/world/agria|Agria]]. Its monks publish literary works, brew alcohol, and make other produce. It is the Bonebreakers' destination in their effort to decipher [[npcs/velur/lirina|Lirina]]'s spy correspondence: [[npcs/flux-academy/illitharien-morel|Illitharien Morel]] identifies the abbey after tracing the poetry book used as her cipher to monastic copying. The party hopes to find another copy and the missing key there.
+Thorngate Abbey is a monastic community in [[locations/world/agria/northlands/grainholm|Grainholm]], [[locations/world/agria|Agria]]. Its monks publish literary works, brew alcohol, and make other produce. It is the Bonebreakers' destination in their effort to decipher [[npcs/vellure/lirina|Lirina]]'s spy correspondence: [[npcs/flux-academy/illitharien-morel|Illitharien Morel]] identifies the abbey after tracing the poetry book used as her cipher to monastic copying. The party hopes to find another copy and the missing key there.
 
 ## Geography and approach
 

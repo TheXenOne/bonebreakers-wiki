@@ -41,8 +41,8 @@ tags:
 - [[locations/world/agria/northlands/harrowmere/harrow|Harrow]]
 - [[locations/world/agria/northlands/harrowmere/narrows|The Narrows]]
 - [[locations/world/agria/northlands/harrowmere/harrow/anchor-and-chain|The Anchor & Chain]]
-- [[locations/world/agria/northlands/velluria/velur|Velur]]
-- [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]
+- [[locations/world/agria/northlands/velluria/vellure|Vellure]]
+- [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]]
 
 ## Institutions
 
@@ -61,13 +61,13 @@ tags:
 - [[locations/world/agria/southlands/ikiria/tower-of-arkeus-whizkeyrd|Tower of Arkeus Whizkeyrd]]
 - [[locations/world/agria/southlands/ikiria/halls-of-the-blood-king|The Halls of the Blood King]]
 - [[locations/world/fos-imeras/golden-asclepeion|The Golden Asclepeion]]
-- [[locations/world/westmarsh/spiders-market|The Spider Market]]
+- [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 - [[locations/world/westmarsh/hobgoblin-mine|The Hobgoblin Mine]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 - [[locations/world/westmarsh/imperial-hill-temple|The Imperial Hill Temple]]
 - [[locations/world/westmarsh/necropolis|The Necropolis]]
 - [[locations/world/westmarsh/necropolis/imperial-family-tomb|The Imperial Family Tomb]]
-- [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]]
+- [[locations/world/westmarsh/necropolis/house-varek-tomb|House Varek Tomb]]
 - [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|The Sunken Market]]
 
 ## Kingsport

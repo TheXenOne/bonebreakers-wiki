@@ -1,11 +1,11 @@
 ---
-title: The Cartographer's Hall
+title: The Cartographers' Hall
 type: location
 tags:
   - location
   - hall
 aliases:
-  - Cartographer's Hall
+  - Cartographers' Hall
 parent_location: "[[locations/world/agria/southlands/ikiria/plats|The Plats]]"
 source_sessions:
   - 48
@@ -13,11 +13,11 @@ source_sessions:
 
 ## Overview
 
-The Cartographer's Hall is a named hall in the northern Plats.
+The Cartographers' Hall is a named hall in the northern Plats.
 
 ## Geography or layout
 
-- It stands in the commercial quarter near [[locations/world/agria/southlands/ikiria/plats/salt-wharf-market|the Salt Wharf Market]].
+- It stands in the commercial quarter near [[locations/world/agria/southlands/ikiria/plats/saltwharf-market|the Saltwharf Market]].
 
 ## Campaign events
 

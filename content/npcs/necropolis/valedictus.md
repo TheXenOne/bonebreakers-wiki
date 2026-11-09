@@ -18,7 +18,7 @@ source_sessions:
 
 ## Overview
 
-Valedictus is an ancient imperial high priest and necromancer who sought dominion across the continent and remains a threat within [[locations/world/westmarsh/necropolis|the Necropolis]]. He is the author of the treatise on souls, binding, compulsion, and necrotic arts recovered by the Bonebreakers. [[npcs/necropolis/captain-varro|Captain Varro]] places him in the temple district beyond [[locations/world/westmarsh/necropolis/arch-iii|Arch III]] and warns that he “sees all.” [[npcs/necropolis/lord-varrick|Lord Varrick]] says he remains in power and possesses three phylacteries.
+Valedictus is an ancient imperial high priest and necromancer who sought dominion across the continent and remains a threat within [[locations/world/westmarsh/necropolis|the Necropolis]]. He is the author of the treatise on souls, binding, compulsion, and necrotic arts recovered by the Bonebreakers. [[npcs/necropolis/captain-varro|Captain Varro]] places him in the temple district beyond [[locations/world/westmarsh/necropolis/arch-iii|Arch III]] and warns that he “sees all.” [[npcs/necropolis/lord-varek|Lord Varek]] says he remains in power and possesses three phylacteries.
 
 ## Known history
 
@@ -27,8 +27,8 @@ Valedictus is an ancient imperial high priest and necromancer who sought dominio
 - In [[sessions/session-059|Session 59]], Varro describes priests meddling with necromancy in events that appear connected to the empire's downfall.
 - Varro says the priests did something evil in the vault. When the party asks who the priest involved was, he considers the answer too unlucky to speak and instead writes “Valedictus,” implying a connection without explaining precisely what Valedictus did.
 - Varro identifies Valedictus as the high priest in Arch III's temple district and says that he “sees all.”
-- In [[sessions/session-060|Session 60]], Lord Varrick says Valedictus rejected his petitions three times, ignored substantial opposition in the Imperial City, and sought to spread his dark arts and dominion across the continent.
-- Varrick warns that Agria's undead problem will worsen while Valedictus remains in power, reveals that Valedictus has three phylacteries, and advises the party to find [[items/the-stylus|the Stylus]].
+- In [[sessions/session-060|Session 60]], Lord Varek says Valedictus rejected his petitions three times, ignored substantial opposition in the Imperial City, and sought to spread his dark arts and dominion across the continent.
+- Varek warns that Agria's undead problem will worsen while Valedictus remains in power, reveals that Valedictus has three phylacteries, and advises the party to find [[items/the-stylus|the Stylus]].
 - The party strongly suspects that [[items/glowing-skull|the glowing skull]] found in Arch VII and later traded away is one of those phylacteries. They suspect the three-locked soul-bound chest beneath the Imperial Hill Temple may hold another, but have no proof.
 - In [[sessions/session-061|Session 61]], Barny clarifies that the probable skull phylactery is being studied closely by a lizardfolk shaman from an unidentified clan.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], Lirina names Valedictus as an arch-enemy she wants destroyed. Selvar's ESP confirms her hatred. Her offer to help the Bonebreakers combat the Necropolis's evil remains undecided.
@@ -36,14 +36,14 @@ Valedictus is an ancient imperial high priest and necromancer who sought dominio
 
 ## Current status
 
-Still in power according to Lord Varrick, though the Bonebreakers have not entered the temple district or seen Valedictus directly. The party now has new leads involving [[quests/major/active/valedictus-and-his-phylacteries|his phylacteries]] and the Stylus, but does not yet know how either can be used against him.
+Still in power according to Lord Varek, though the Bonebreakers have not entered the temple district or seen Valedictus directly. The party now has new leads involving [[quests/major/active/valedictus-and-his-phylacteries|his phylacteries]] and the Stylus, but does not yet know how either can be used against him.
 
 ## Related locations
 
 - [[locations/world/westmarsh/necropolis|The Necropolis]]
 - [[locations/world/westmarsh/necropolis/arch-vii|Arch VII]]
 - [[locations/world/westmarsh/imperial-hill-temple|The Imperial Hill Temple]]
-- [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]]
+- [[locations/world/westmarsh/necropolis/house-varek-tomb|House Varek Tomb]]
 
 ## Related sessions
 

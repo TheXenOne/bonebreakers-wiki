@@ -5,6 +5,7 @@ tags:
   - npc
   - noble
 aliases:
+  - npcs/velur/lady-miranda
   - Miranda
 source_sessions:
   - 66
@@ -14,7 +15,7 @@ source_sessions:
 
 ## Overview
 
-Lady Miranda is an unmarried noblewoman and a distant cousin of the royal family, attending [[npcs/velur/lirina|Lirina]]'s masquerade at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] with her own guards. [[characters/active-players/deri/characters/francis-spencer-gray|Frank]] flirts with her successfully while posing as a Ramen noble. A letter [[characters/active-players/marta/characters/nila|Nila]] steals from her urges her to meet [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]] before he gives his evidence.
+Lady Miranda is an unmarried noblewoman and a distant cousin of the royal family, attending [[npcs/vellure/lirina|Lirina]]'s masquerade at the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]] with her own guards. [[characters/active-players/deri/characters/francis-spencer-gray|Frank]] flirts with her successfully while posing as a Ramen noble. A letter [[characters/active-players/marta/characters/nila|Nila]] steals from her urges her to meet [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]] before he gives his evidence.
 
 ## Relationship with the Bonebreakers
 

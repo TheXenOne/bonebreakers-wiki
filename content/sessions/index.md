@@ -26,7 +26,7 @@ Published session pages:
 - [[sessions/session-018|Session 18 - New Beginnings]]
 - [[sessions/session-019|Session 19 - The Bell Tolls]]
 - [[sessions/session-020|Session 20 - The Burned and the Bound]]
-- [[sessions/session-021|Session 21 - Soup for the Abbott]]
+- [[sessions/session-021|Session 21 - Soup for the Abbot]]
 - [[sessions/session-022|Session 22 - Frank's Gambit and the Finger of Death]]
 - [[sessions/session-023|Session 23 - Secrets in the Stone]]
 - [[sessions/session-024|Session 24 - Ninjas in the Dark]]

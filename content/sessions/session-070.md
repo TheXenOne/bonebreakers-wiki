@@ -21,7 +21,7 @@ After the fatal [[sessions/session-069|hostage ambush]], [[characters/active-pla
 
 Arden approaches them and explains that death need not be the end. He offers to take both parents and their daughter's body to [[locations/world/agria/southlands/barrowshire/barrow-spa|Barrow Spa]], where she could be resurrected. The farmer refuses: he does not believe in that kind of magic and simply wants his daughter's body returned. Arden repeats the offer, but neither parent accepts. Steve instead offers to pay for the funeral, which they agree to. This softens their anger somewhat, but they want nothing more to do with Belenus. Arden agrees to cancel their subscription and waive the cancellation fee.
 
-The Bonebreakers continue to [[locations/world/agria/southlands/ikiria|Ikiria]] and take [[npcs/velur/lirina|Lirina]] into the dungeons. [[characters/active-players/laura/characters/rose|Rose]] berates the countess over the hostage's death while the party thoroughly inspects the prison to satisfy itself that she can be held securely.
+The Bonebreakers continue to [[locations/world/agria/southlands/ikiria|Ikiria]] and take [[npcs/vellure/lirina|Lirina]] into the dungeons. [[characters/active-players/laura/characters/rose|Rose]] berates the countess over the hostage's death while the party thoroughly inspects the prison to satisfy itself that she can be held securely.
 
 The Bonebreakers warn the guards to expect an attempt to break her out. [[npcs/agria/east-agria-company/commander-smith|Commander Smith]] assures them that this is the safest available place to hold her. They specifically order the guards never to allow Lirina to speak with [[npcs/agria/prince-arthur|Arthur]], who is also imprisoned in Ikiria. Having rejected her proposed alliance and committed themselves to [[npcs/agria/princess-agatha|Agatha]], they leave the exposed Grey Khan in custody rather than continue travelling with her.
 
@@ -31,11 +31,11 @@ The Bonebreakers ask Morel about the half-orc poet whose work provides the ciphe
 
 The party decides that the abbey may hold another copy of the poetry book and potentially the missing key to Lirina's letters. To avoid the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]]'s orcs, they choose the most concealed route they can through unfamiliar parts of Agria. They head directly north from Ikiria towards mountainous highlands covered in dense forest. [[locations/world/agria/northlands/grainholm|Grainholm]] lies beyond the woods, with the Thorngate River continuing north towards the sea. The abbey remains their destination; they have not reached it.
 
-Shortly before entering the woods, the party encounters several jackalweres. [[characters/active-players/deri/characters/akal-dreek|Akal]] enlarges himself, and Arden casts Growth of Animal on Akal's wolf. [[characters/active-players/alessandro/characters/selvar|Selvar]] casts Fireball into the attackers. Steve and [[characters/active-players/john/characters/micaelis|Micaelis]] are caught at its edge but dodge the worst of the blast. The Bonebreakers defeat the jackalweres and recover gems and money, but Akal's wolf is killed in the fighting.
+Shortly before entering the woods, the party encounters several jackalweres. [[characters/active-players/deri/characters/akal-dreek|Akal]] enlarges himself, and Arden casts Growth of Animal on Akal's wolf. [[characters/active-players/alessandro/characters/selvar|Selvar]] casts Fireball into the attackers. Steve and [[characters/active-players/john/characters/michaelis|Michaelis]] are caught at its edge but dodge the worst of the blast. The Bonebreakers defeat the jackalweres and recover gems and money, but Akal's wolf is killed in the fighting.
 
-The party enters the thick, gloomy deciduous forest and camps overnight. During the following day's travel, a huge winged creature approaches above the trees. [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]] casts Fly and takes to the air. Arden places Bran's Heroic Aura on Steve and casts Striking on Micaelis, who braces his spear. [[characters/active-players/ben/characters/ulrich|Ulrich]] blesses the party, Rose climbs a tree, and [[characters/active-players/marta/characters/nila|Nila]] hides to gain an advantage.
+The party enters the thick, gloomy deciduous forest and camps overnight. During the following day's travel, a huge winged creature approaches above the trees. [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]] casts Fly and takes to the air. Arden places Bran's Heroic Aura on Steve and casts Striking on Michaelis, who braces his spear. [[characters/active-players/ben/characters/ulrich|Ulrich]] blesses the party, Rose climbs a tree, and [[characters/active-players/marta/characters/nila|Nila]] hides to gain an advantage.
 
-As the creature emerges, the Bonebreakers identify it as a wyvern. Bran's Heroic Aura forces it to attack Steve, who is ready and avoids the blow. Barny blinds it, Micaelis strikes with his spear, and the others join the attack. Steve delivers the killing blow. The party finds 2,000 electrum pieces on the creature.
+As the creature emerges, the Bonebreakers identify it as a wyvern. Bran's Heroic Aura forces it to attack Steve, who is ready and avoids the blow. Barny blinds it, Michaelis strikes with his spear, and the others join the attack. Steve delivers the killing blow. The party finds 2,000 electrum pieces on the creature.
 
 Barny then raises the dead wyvern in full view of his companions. Arden sees the strange magic and becomes deeply suspicious. He still trusts Barny enough to withhold an immediate confrontation, but the creature's apparent return to life leaves him uneasy.
 
@@ -72,9 +72,9 @@ Arden heads up the trail. A trap triggers, dropping something onto him and injur
 
 ## NPCs and characters involved
 
-- **Bonebreakers:** Arden, Steve, Rose, Akal, Selvar, Micaelis, Barny, Ulrich, and Nila.
+- **Bonebreakers:** Arden, Steve, Rose, Akal, Selvar, Michaelis, Barny, Ulrich, and Nila.
 - **The farmer and his wife** — grieving parents who refuse resurrection and abandon their Belenite subscription.
-- [[npcs/velur/lirina|Lirina]] — jailed under precautions against escape and contact with Arthur.
+- [[npcs/vellure/lirina|Lirina]] — jailed under precautions against escape and contact with Arthur.
 - [[npcs/agria/east-agria-company/commander-smith|Commander Smith]] — assures the party of the prison's security.
 - [[npcs/flux-academy/illitharien-morel|Illitharien Morel]] — completes historical research and identifies the monks' connection to the poetry book.
 - **Trevor** — a tree befriended by Arden that witnessed the orcs' fight with the giant boar.

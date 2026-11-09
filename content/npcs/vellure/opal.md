@@ -1,5 +1,7 @@
 ---
 title: Opal
+aliases:
+  - npcs/velur/opal
 type: npc
 tags:
   - npc
@@ -10,7 +12,7 @@ source_sessions:
 
 ## Overview
 
-Opal is [[npcs/velur/lirina|Countess Lirina]]'s attendant, a small, slight woman associated with the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] in Velur. She recognises [[characters/active-players/laura/characters/rose|Rose]] as an impostor when the Bonebreakers are concealing their capture of the countess. Her warning to [[npcs/velur/dame-silka-voss|Dame Silka Voss]] helps expose the deception and leads to the party's attempted arrest.
+Opal is [[npcs/vellure/lirina|Countess Lirina]]'s attendant, a small, slight woman associated with the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]] in Vellure. She recognises [[characters/active-players/laura/characters/rose|Rose]] as an impostor when the Bonebreakers are concealing their capture of the countess. Her warning to [[npcs/vellure/dame-silka-voss|Dame Silka Voss]] helps expose the deception and leads to the party's attempted arrest.
 
 ## Encounters with the Bonebreakers
 

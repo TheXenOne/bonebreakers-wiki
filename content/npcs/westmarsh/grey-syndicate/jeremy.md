@@ -29,7 +29,7 @@ Needs review beyond his operational role.
 
 ## Role in the campaign
 
-- Jeremy is the party's first reliable bridge from Vex to Ash and the Spider Market.
+- Jeremy is the party's first reliable bridge from Vex to Ash and the Spider's Market.
 
 ## Affiliations
 
@@ -38,7 +38,7 @@ Needs review beyond his operational role.
 ## Associated locations
 
 - [[locations/world/agria/west-fort/index|Westfort]]
-- [[locations/world/westmarsh/spiders-market|The Spider Market]]
+- [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 
 ## Relationships
 
@@ -47,7 +47,7 @@ Needs review beyond his operational role.
 
 ## Campaign events
 
-- In [[sessions/session-036|Session 36]], magical pressure makes Jeremy reveal Ash as his handler and points the party toward the Spider Market.
+- In [[sessions/session-036|Session 36]], magical pressure makes Jeremy reveal Ash as his handler and points the party toward the Spider's Market.
 - He remains tied to the continuing siege and counterstrike investigations in later Westfort sessions.
 
 ## Current status

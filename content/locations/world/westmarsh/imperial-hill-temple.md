@@ -26,7 +26,7 @@ Beyond the vault, glowing lichen lights old barracks and a four-way intersection
 
 The [[items/imperial-command-quarter-map|Imperial Command-Quarter Map]] labels the entry chamber as the vault, marks secret passages in the barracks and mess hall, and confirms that the party entered the Necropolis through a concealed back route.
 
-Secret passages connect the command quarter to at least two family burial sites. One prison route leads to the heavily guarded [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]]. A second route behind the armoury mannequin descends by ladder, follows a passage, then climbs another ladder into a resin-filled embalming workshop and continues to [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]].
+Secret passages connect the command quarter to at least two family burial sites. One prison route leads to the heavily guarded [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]]. A second route behind the armoury mannequin descends by ladder, follows a passage, then climbs another ladder into a resin-filled embalming workshop and continues to [[locations/world/westmarsh/necropolis/house-varek-tomb|House Varek Tomb]].
 
 ## Connection to the Nexus
 
@@ -61,7 +61,7 @@ The command quarter belongs to District One and connects to [[locations/world/we
 - Frank promises to lay Varro to rest. Varro then leaves the armoury unlocked, allowing the party to take weapons, armour, and 800 gold pieces before a gas trap activates.
 - In [[sessions/session-059|Session 59]], Frank opens the armoury chest and finds 800 gold pieces and an unread document.
 - In [[sessions/session-060|Session 60]], Nila and Wistor join the party. Nila reads the chest document and learns that the Tribune ordered a secret passage sealed, while the party recovers military valuables and unpaid wages from a hidden room beneath the armoury.
-- A second secret route passes through an embalming workshop into House Varrick Tomb. Lord Varrick reveals that Valedictus has three phylacteries and advises the party to find the Stylus.
+- A second secret route passes through an embalming workshop into House Varek Tomb. Lord Varek reveals that Valedictus has three phylacteries and advises the party to find the Stylus.
 - Ulrich permanently blinds an otherwise unstoppable spirit, allowing the party to dismantle the armoury gate and reach the Arch I drill yard.
 - The Bonebreakers pass through Arch I into the Nexus, confirming the command quarter's connection.
 

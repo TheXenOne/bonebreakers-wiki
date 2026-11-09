@@ -14,7 +14,7 @@ See also: [[sessions/index|Sessions]]
 
 ## Narrative recap
 
-At [[locations/world/agria/southlands/mercy|the Mercy]], the Bonebreakers settle the debate over [[npcs/velur/lirina|Countess Lirina]]'s proposed alliance. They decide that she cannot be trusted and firmly side with [[npcs/agria/princess-agatha|Princess Agatha]], rejecting cooperation with the countess against Valedictus.
+At [[locations/world/agria/southlands/mercy|the Mercy]], the Bonebreakers settle the debate over [[npcs/vellure/lirina|Countess Lirina]]'s proposed alliance. They decide that she cannot be trusted and firmly side with [[npcs/agria/princess-agatha|Princess Agatha]], rejecting cooperation with the countess against Valedictus.
 
 With their allegiance decided, they set out towards [[locations/world/agria/southlands/ikiria|Ikiria]], intending to leave Lirina there and attempt contact with Agatha. The countess remains their prisoner, identified as Ash and the Grey Khan; the princess has yet to receive their findings.
 
@@ -46,7 +46,7 @@ The Bonebreakers kill most of the ninja orcs and finish dealing with the attack,
 
 - [[characters/active-players/deri/characters/akal-dreek|Akal Dreek]] — sets fire to the carriages while the party debates the demand.
 - [[characters/active-players/laura/characters/rose|Rose]] — pursues the hostage-taker but cannot reach the girl before he kills her.
-- [[npcs/velur/lirina|Countess Lirina]] — the Bonebreakers' captive, whose proposed alliance they reject; the orcs demand her in exchange for the hostage.
+- [[npcs/vellure/lirina|Countess Lirina]] — the Bonebreakers' captive, whose proposed alliance they reject; the orcs demand her in exchange for the hostage.
 - **The farmer and his wife** — innocent travellers whose daughter is taken hostage and killed.
 - **The farmers' daughter** — killed by her captor during the pursuit.
 - **The ninja orcs** — ambush the party and demand Lirina; most are killed and two escape.

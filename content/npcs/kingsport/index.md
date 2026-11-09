@@ -7,8 +7,8 @@ tags:
 ## Pages
 
 - [[npcs/kingsport/brother-sedge|Brother Sedge]]
-- [[npcs/kingsport/elspeth-crane|Mistress Elspeth Crane]]
+- [[npcs/kingsport/elswyth-crane|Mistress Elswyth Crane]]
 - [[npcs/kingsport/corvin-dace|Corvin Dace]]
 - [[npcs/kingsport/sir-aldric-hale|Sir Aldric Hale]]
-- [[npcs/kingsport/hugh-malory|Hugh Malory]]
+- [[npcs/kingsport/hugh-mallory|Hugh Mallory]]
 - [[npcs/kingsport/nessa|Nessa]]

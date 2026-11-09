@@ -11,13 +11,14 @@ source_sessions:
   - 69
   - 70
 aliases:
-  - Lirina Kartashan
+  - npcs/velur/lirina
+  - Lirina Kartashyan
   - Countess Lirina
 ---
 
 ## Overview
 
-Lirina Kartashan is Countess of [[locations/world/agria/northlands/velluria|Velluria]], mistress of the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] in Velur, and the woman behind [[npcs/westmarsh/grey-syndicate/ash|Ash]] and the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]. Tall, slender, and beautiful, she has a graceful, poised manner; [[npcs/kingsport/hugh-malory|Hugh Malory]] describes her as exceptionally charming and charismatic. She runs a spy network and pursues the ducal seat, treating [[npcs/agria/prince-arthur|Arthur]] as a useful tool. She claims that her violent campaigns serve Agria's stability.
+Lirina Kartashyan is Countess of [[locations/world/agria/northlands/velluria|Velluria]], mistress of the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]] in Vellure, and the woman behind [[npcs/westmarsh/grey-syndicate/ash|Ash]] and the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]. Tall, slender, and beautiful, she has a graceful, poised manner; [[npcs/kingsport/hugh-mallory|Hugh Mallory]] describes her as exceptionally charming and charismatic. She runs a spy network and pursues the ducal seat, treating [[npcs/agria/prince-arthur|Arthur]] as a useful tool. She claims that her violent campaigns serve Agria's stability.
 
 The Bonebreakers know her as an enemy responsible for killing one of their companions, kidnapping children, burning an inn with the party inside, and orchestrating invasions that caused enormous suffering. She invokes Agria's stability to justify her violence while pursuing greater political power. She is imprisoned in [[locations/world/agria/southlands/ikiria|Ikiria]], with guards instructed to prevent contact with Arthur. Her offer of cooperation against [[npcs/necropolis/valedictus|Valedictus]], whom she hates, fails to win their trust: the Bonebreakers reject the alliance and firmly side with [[npcs/agria/princess-agatha|Princess Agatha]].
 
@@ -29,7 +30,7 @@ Lirina says Arthur adored her and had an intensely hostile relationship with Aga
 
 ## Household
 
-[[npcs/velur/opal|Opal]] attends Lirina during the masquerade at the Gilt Palace. She later recognises Rose's impersonation of the countess and alerts Dame Silka Voss during the Watch's search.
+[[npcs/vellure/opal|Opal]] attends Lirina during the masquerade at the Gilt Palace. She later recognises Rose's impersonation of the countess and alerts Dame Silka Voss during the Watch's search.
 
 ## Covert activities
 
@@ -60,7 +61,7 @@ Lirina knows the Bonebreakers can contact Agatha but not where the princess is h
 - Her precise role in Arthur's decisions and the continuing threat to Agatha.
 - The cause and likelihood of the kingdom-wide plague she fears.
 - How she concealed her identity as Ash, and why she wants back the dagger found in her armoury: **Needs review**.
-- The Watch's response to her removal from Velur.
+- The Watch's response to her removal from Vellure.
 - Who sent the ninja orcs to demand her release, and what the two escaped attackers will do next: **Needs review**.
 - Whether a breakout will be attempted, and whether the guards can keep her isolated from Arthur.
 

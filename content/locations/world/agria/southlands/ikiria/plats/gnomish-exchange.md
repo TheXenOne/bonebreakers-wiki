@@ -17,7 +17,7 @@ The Gnomish Exchange is a named commercial site in the northern section of [[loc
 
 ## Geography or layout
 
-- It stands near other dockside commercial sites such as [[locations/world/agria/southlands/ikiria/plats/salt-wharf-market|the Salt Wharf Market]] and [[locations/world/agria/southlands/ikiria/plats/cartographers-hall|the Cartographer's Hall]].
+- It stands near other dockside commercial sites such as [[locations/world/agria/southlands/ikiria/plats/saltwharf-market|the Saltwharf Market]] and [[locations/world/agria/southlands/ikiria/plats/cartographers-hall|the Cartographers' Hall]].
 
 ## Campaign events
 

@@ -23,7 +23,7 @@ The Plats are Ikiria's lower cliffside district, stretching along the docks bene
 
 - The district runs north to south where the docks meet the sea at the foot of Ikiria's cliffs.
 - The very north tip includes [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|The Temple of Merciful Life]].
-- The northern section is commercial, with sites such as the weighing house, [[locations/world/agria/southlands/ikiria/plats/gnomish-exchange|the Gnomish Exchange]], [[locations/world/agria/southlands/ikiria/plats/salt-wharf-market|the Salt Wharf Market]], [[locations/world/agria/southlands/ikiria/plats/cartographers-hall|the Cartographer's Hall]], and [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]].
+- The northern section is commercial, with sites such as the weighing house, [[locations/world/agria/southlands/ikiria/plats/gnomish-exchange|the Gnomish Exchange]], [[locations/world/agria/southlands/ikiria/plats/saltwharf-market|the Saltwharf Market]], [[locations/world/agria/southlands/ikiria/plats/cartographers-hall|the Cartographers' Hall]], and [[locations/world/agria/southlands/ikiria/plats/public-well|the Public Well]].
 - The central section is residential, with the infirmary, [[locations/world/agria/southlands/ikiria/plats/squeeze|the Squeeze]], the stalled ship lift, [[locations/world/agria/southlands/ikiria/plats/pell-and-hammer|the Pell and Hammer]], [[locations/world/agria/southlands/ikiria/plats/pyre-square|Pyre Square]], and [[locations/world/agria/southlands/ikiria/plats/madame-gorvettis|Madame Gorvetti's]].
 - The southern section includes the cemetery, [[locations/world/agria/southlands/ikiria/plats/corpse-pit|the Corpse Pit]], [[locations/world/agria/southlands/ikiria/plats/salting-house|the Salting House]], the automaton graveyard, and the hoist used for constructs.
 - The district's internal links include [[locations/world/agria/southlands/ikiria/plats/flux-bridge|the Flux Bridge]] and [[locations/world/agria/southlands/ikiria/plats/magistrates-span|the Magistrate's Span]], both important crossings during the lockdown.
@@ -32,8 +32,8 @@ The Plats are Ikiria's lower cliffside district, stretching along the docks bene
 
 - [[locations/world/agria/southlands/ikiria/plats/temple-of-merciful-life|The Temple of Merciful Life]]
 - [[locations/world/agria/southlands/ikiria/plats/gnomish-exchange|The Gnomish Exchange]]
-- [[locations/world/agria/southlands/ikiria/plats/salt-wharf-market|The Salt Wharf Market]]
-- [[locations/world/agria/southlands/ikiria/plats/cartographers-hall|The Cartographer's Hall]]
+- [[locations/world/agria/southlands/ikiria/plats/saltwharf-market|The Saltwharf Market]]
+- [[locations/world/agria/southlands/ikiria/plats/cartographers-hall|The Cartographers' Hall]]
 - [[locations/world/agria/southlands/ikiria/plats/public-well|The Public Well]]
 - [[locations/world/agria/southlands/ikiria/plats/flux-bridge|The Flux Bridge]]
 - [[locations/world/agria/southlands/ikiria/plats/squeeze|The Squeeze]]
@@ -44,7 +44,7 @@ The Plats are Ikiria's lower cliffside district, stretching along the docks bene
 - [[locations/world/agria/southlands/ikiria/plats/corpse-pit|The Corpse Pit]]
 - [[locations/world/agria/southlands/ikiria/plats/tilted-tankard|The Tilted Tankard]]
 - [[locations/world/agria/southlands/ikiria/plats/listing-tavern|The Listing Tavern]]
-- [[locations/world/agria/southlands/ikiria/plats/reefers-row|Reefer's Row]]
+- [[locations/world/agria/southlands/ikiria/plats/reekers-row|Reekers' Row]]
 - [[locations/world/agria/southlands/ikiria/plats/salting-house|The Salting House]]
 
 ## Associated people and groups

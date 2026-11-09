@@ -1,5 +1,5 @@
 ---
-title: The Spider Market
+title: The Spider's Market
 type: location
 tags:
   - location
@@ -21,7 +21,7 @@ source_sessions:
 
 ## Overview
 
-The Spider Market is a neutral monster market in [[locations/world/westmarsh|Westmarsh]]. Orcs, hobgoblins, bugbears, lizardfolk, and other dangerous groups gather here under an uneasy truce to trade, bargain, and exchange information.
+The Spider's Market is a neutral monster market in [[locations/world/westmarsh|Westmarsh]]. Orcs, hobgoblins, bugbears, lizardfolk, and other dangerous groups gather here under an uneasy truce to trade, bargain, and exchange information.
 
 ## Geography and layout
 

@@ -1,9 +1,11 @@
 ---
 title: Gilt Palace
+aliases:
+  - locations/world/agria/northlands/velluria/velur/gilt-palace
 type: location
 tags:
   - location
-parent_location: "[[locations/world/agria/northlands/velluria/velur|Velur]]"
+parent_location: "[[locations/world/agria/northlands/velluria/vellure|Vellure]]"
 source_sessions:
   - 66
   - 67
@@ -12,7 +14,7 @@ source_sessions:
 
 ## Overview
 
-The Gilt Palace is [[npcs/velur/lirina|Lirina]]'s palace in [[locations/world/agria/northlands/velluria/velur|Velur]], dominating the city with an exterior that resembles both a fortress and an entertainment venue. The Bonebreakers infiltrate Lirina's masquerade here to investigate her relationship with [[npcs/agria/prince-arthur|Prince Arthur]] and whether she is involved in the threat to [[npcs/agria/princess-agatha|Agatha]]. Her private rooms upstairs hide evidence of her covert activities.
+The Gilt Palace is [[npcs/vellure/lirina|Lirina]]'s palace in [[locations/world/agria/northlands/velluria/vellure|Vellure]], dominating the city with an exterior that resembles both a fortress and an entertainment venue. The Bonebreakers infiltrate Lirina's masquerade here to investigate her relationship with [[npcs/agria/prince-arthur|Prince Arthur]] and whether she is involved in the threat to [[npcs/agria/princess-agatha|Agatha]]. Her private rooms upstairs hide evidence of her covert activities.
 
 ## Known layout
 

@@ -27,7 +27,7 @@ The Imperial Command-Quarter Map charts the Necropolis rooms reached through the
 
 ## Known history
 
-- In [[sessions/session-059|Session 59]], Micaelis examines the map while Varro temporarily leaves the mess hall.
+- In [[sessions/session-059|Session 59]], Michaelis examines the map while Varro temporarily leaves the mess hall.
 - The party uses its information to open the mess-hall secret passage and recover 160 gold pieces hidden in the prison.
 - In [[sessions/session-060|Session 60]], the map confirms the route back to the Nexus as District One, Arch One.
 

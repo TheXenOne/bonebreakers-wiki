@@ -29,7 +29,7 @@ Magic-user.
 - In [[sessions/session-060|Session 60]], Wistor buys the Tribune's document from Arden for fifteen gold pieces and finds a secret passage by turning the mannequin in the trapped armoury.
 - He releases dangerous gas from jars in an embalming workshop and helps identify the behaviour of its resin and flame-tracking carvings.
 - His lightning attack helps expose an armadillo-like creature as a rust monster.
-- He tells Lord Varrick that the plague destroyed Westmarsh civilisation and that House Varrick is no longer remembered, then records the house's carved history.
+- He tells Lord Varek that the plague destroyed Westmarsh civilisation and that House Varek is no longer remembered, then records the house's carved history.
 - A powerful incorporeal spirit drains four points of his Constitution after his breath weapon fails to harm it.
 - He casts Knock on the spiked lower trapdoor, allowing the party to return to the Mercy.
 - He kills three giant crabs with Lightning Bolt during the northern approach to Westfort and helps kill the bugbears that attack the party's camp. He attempts to question the final bugbear, but it refuses to speak.

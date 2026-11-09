@@ -43,8 +43,8 @@ It is known for impossible architecture, ancient imperial markings, undead guard
 - [[npcs/necropolis/cornelius-vane|Cornelius Vane]] says he entered the Necropolis from Westmarsh through Arch VI and became trapped for what felt to him like eleven days, though he had entered six months earlier.
 - In [[sessions/session-051|Session 51]], the Bonebreakers follow Arch VI upward into a storm-lashed gatehouse and rampart, with Westmarsh visible beyond the walls.
 - The [[locations/world/westmarsh/imperial-hill-temple|Imperial Hill Temple]] opens through a soul-bound vault into District One, a command quarter of barracks, prisons, a mess hall, funerary rooms, an armoury, and a vast drill yard. The route joins the Nexus through [[locations/world/westmarsh/necropolis/arch-i|Arch I]].
-- Adventurers at [[locations/world/westmarsh/spiders-market|the Spider Market]] describe a western entrance several days west of the market, beyond outer walls and guarded by skeleton patrols.
-- A captured Grey Syndicate recruiter later places the Necropolis roughly 50 miles west of the Spider Market.
+- Adventurers at [[locations/world/westmarsh/spiders-market|the Spider's Market]] describe a western entrance several days west of the market, beyond outer walls and guarded by skeleton patrols.
+- A captured Grey Syndicate recruiter later places the Necropolis roughly 50 miles west of the Spider's Market.
 
 ## The Nexus
 
@@ -67,9 +67,9 @@ Pressing the eagle's gemstone eyes causes ash-like curtains across the arches to
 
 - In [[sessions/session-039|Session 39]], [[npcs/westmarsh/grey-syndicate/ash|Ash]] offers the Bonebreakers a deal through the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]]: investigate a nearby necropolis, share information, and keep whatever treasure they find.
 - In [[sessions/session-040|Session 40]], Ash repeats the offer and adds 1,000 gold up front while refusing to explain the Syndicate's wider business.
-- In [[sessions/session-046|Session 46]], a battered adventuring party at the Spider Market says they entered a western necropolis site, climbed over outer walls, and were attacked by skeleton patrols. They report that only three of seven survived.
+- In [[sessions/session-046|Session 46]], a battered adventuring party at the Spider's Market says they entered a western necropolis site, climbed over outer walls, and were attacked by skeleton patrols. They report that only three of seven survived.
 - The same adventurers describe a great dome in the centre of the outer walls, which may correspond to the Nexus or another domed structure. Needs review.
-- In [[sessions/session-047|Session 47]], a captured Grey Syndicate recruiter places the Necropolis roughly 50 miles west of the Spider Market.
+- In [[sessions/session-047|Session 47]], a captured Grey Syndicate recruiter places the Necropolis roughly 50 miles west of the Spider's Market.
 
 ## Possible Ikiria link
 
@@ -80,7 +80,7 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - [[npcs/necropolis/cornelius-vane|Cornelius Vane]] is the first trapped explorer the Bonebreakers find inside the known route.
 - [[npcs/necropolis/captain-varro|Captain Varro]] is a weary wight officer who quietly assists the party in the command quarter.
 - [[npcs/necropolis/valedictus|Valedictus]] wrote the iron-bound necromantic treatise found in Arch VII. When the party asks Captain Varro which priest was involved in the evil done within the vault, he refuses to speak the answer and writes Valedictus's name instead.
-- [[npcs/necropolis/lord-varrick|Lord Varrick]] is an undead noble who reveals that Valedictus has three phylacteries and advises the party to find [[items/the-stylus|the Stylus]].
+- [[npcs/necropolis/lord-varek|Lord Varek]] is an undead noble who reveals that Valedictus has three phylacteries and advises the party to find [[items/the-stylus|the Stylus]].
 - Skeleton patrols, unnatural geometry, undead guardians, and necromantic relics all mark the site.
 - The Grey Syndicate has repeatedly tried to draw the Bonebreakers toward the western Necropolis entrance.
 
@@ -91,7 +91,7 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - [[sessions/session-042|Session 42]] and [[sessions/session-043|Session 43]] continue the delve, though the exact scene split is partly unclear.
 - [[sessions/session-044|Session 44]] adds the claw-scarred corridor, the chimera hoard, and a sealed domed room seen from below.
 - By [[sessions/session-046|Session 46]], rumours suggest a western entrance from Westmarsh as well.
-- In [[sessions/session-047|Session 47]], a captured recruiter places the Necropolis roughly 50 miles west of the Spider Market, lending more weight to the western-route rumours.
+- In [[sessions/session-047|Session 47]], a captured recruiter places the Necropolis roughly 50 miles west of the Spider's Market, lending more weight to the western-route rumours.
 - In [[sessions/session-048|Session 48]] through [[sessions/session-050|Session 50]], evidence in Ikiria raises the possibility that related ancient necromancy or Westmarsh material is being used in the city's crisis.
 - In [[sessions/session-051|Session 51]], the party confirms more of Arch VI, explores Arch V, meets [[npcs/necropolis/mortimer|Mortimer]], and recovers the [[items/party-inventory/arch-v-necropolis-map|Arch V map]] pointing toward the Bloated One's domain.
 - In [[sessions/session-052|Session 52]], the party explores the [[locations/world/westmarsh/necropolis/arch-v/childrens-quarters|Arch V children's quarters]], breaks a looping street, reads the [[items/bloated-one-work-ledger|Bloated One work ledger]], kills the Bloated One, and suffers a necrotic disease when it explodes.
@@ -100,7 +100,7 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - In [[sessions/session-055|Session 55]], the party identifies the area as the [[locations/world/westmarsh/necropolis/arch-iv/sunken-market|Sunken Market]], recovers the [[items/party-inventory/arch-iv-sunken-market-map|Arch IV Sunken Market Map]] from the counting house, defeats serpents and snake-men, and encounters [[factions/religions-and-cults/dark-druids-of-the-deep-one|dark druids of the Deep One]].
 - In [[sessions/session-058|Session 58]], the party finds the Imperial Hill Temple while crossing Westmarsh and discovers a soul-bound vault guarded by skeletal legionnaires and disenchanters.
 - In [[sessions/session-059|Session 59]], the party confirms that the site is a secret Necropolis entrance, maps the surrounding command quarter, meets Captain Varro, and learns more about Valedictus and Arch VIII. Secret passages also lead into the separate district containing the [[locations/world/westmarsh/necropolis/imperial-family-tomb|Imperial Family Tomb]]. The session ends when the party triggers a poisonous-gas trap while looting the armoury.
-- In [[sessions/session-060|Session 60]], the party survives the trapped armoury, explores an embalming workshop and [[locations/world/westmarsh/necropolis/house-varrick-tomb|House Varrick Tomb]], and learns that Valedictus has three phylacteries. A powerful spirit's nightmare implicates [[items/glowing-skull|the glowing skull]] as one of them. The party then crosses the Arch I drill yard, returns to the Nexus, and reopens the Mercy trapdoor with Knock.
+- In [[sessions/session-060|Session 60]], the party survives the trapped armoury, explores an embalming workshop and [[locations/world/westmarsh/necropolis/house-varek-tomb|House Varek Tomb]], and learns that Valedictus has three phylacteries. A powerful spirit's nightmare implicates [[items/glowing-skull|the glowing skull]] as one of them. The party then crosses the Arch I drill yard, returns to the Nexus, and reopens the Mercy trapdoor with Knock.
 
 ## Related sessions
 
@@ -143,7 +143,7 @@ Later events in [[locations/world/agria/southlands/ikiria/index|Ikiria]] suggest
 - The dark druids of the Deep One are active inside Arch IV, but their origin and purpose remain unknown.
 - The identity of the prominent family in the Imperial Family Tomb and the purpose of its guardians' missing reliquaries remain unknown.
 - The prison warning against trusting a halfling, the reworked halfling funerary carvings, and the threat to the vault remain unexplained.
-- Valedictus remains in power according to Lord Varrick, but his precise connection to the soul-bound vault remains unclear.
+- Valedictus remains in power according to Lord Varek, but his precise connection to the soul-bound vault remains unclear.
 - Captain Varro remains undead, and the Bonebreakers have promised to lay him to rest.
 - [[npcs/necropolis/valedictus|Valedictus]] is the high priest in Arch III's temple district and is said to “see all”; the party has not met him directly.
 - The command quarter reached through the Imperial Hill Temple connects to the Nexus through Arch I.

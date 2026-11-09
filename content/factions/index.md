@@ -18,7 +18,7 @@ Organisations, kingdoms, guilds, cults, institutions, and political powers that 
 
 ## Necropolis factions
 
-- [[factions/necropolis/house-varrick|House Varrick]]
+- [[factions/necropolis/house-varek|House Varek]]
 
 ## Guilds and companies
 

@@ -10,7 +10,7 @@ source_sessions:
 
 ## Overview
 
-This anti-divination amulet is a later Spider Market purchase, and it is currently owned by [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]].
+This anti-divination amulet is a later Spider's Market purchase, and it is currently owned by [[characters/active-players/ben-l/characters/arden-sable|Arden Sable]].
 
 ## Known properties
 
@@ -18,7 +18,7 @@ This anti-divination amulet is a later Spider Market purchase, and it is current
 
 ## Known history
 
-- In [[sessions/session-046|Session 46]], Arden buys the amulet while the party is operating around the Spider Market and negotiating with Grey Syndicate figures.
+- In [[sessions/session-046|Session 46]], Arden buys the amulet while the party is operating around the Spider's Market and negotiating with Grey Syndicate figures.
 
 ## Current status
 

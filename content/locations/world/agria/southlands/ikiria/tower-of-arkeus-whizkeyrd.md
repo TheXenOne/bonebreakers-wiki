@@ -21,7 +21,7 @@ The Tower of Arkeus Whizkeyrd stands on the cliffs outside [[locations/world/agr
 
 - Entry requires solving puzzle-like access points rather than forcing a simple door.
 - The interior includes exhibit rooms, laboratories, damaged passages, detainment spaces, and an astral chamber at the heart of the crisis.
-- The Harmonic Regulator and a translucent tuning fork are key objects tied to the tower's workings.
+- The Harmonics Regulator and a translucent tuning fork are key objects tied to the tower's workings.
 
 ## Notable sublocations
 
@@ -42,7 +42,7 @@ The Tower of Arkeus Whizkeyrd stands on the cliffs outside [[locations/world/agr
 
 - In [[sessions/session-026|Session 26]], the Bonebreakers enter the tower while investigating sentient weapons across Ikiria.
 - [[sessions/session-027|Session 27]] reveals fractured versions of Arkeus and the tuning fork.
-- In [[sessions/session-028|Session 28]], the party recovers the Harmonic Regulator, frees Arkeus, and ends the city-wide crisis.
+- In [[sessions/session-028|Session 28]], the party recovers the Harmonics Regulator, frees Arkeus, and ends the city-wide crisis.
 
 ## Related sessions
 

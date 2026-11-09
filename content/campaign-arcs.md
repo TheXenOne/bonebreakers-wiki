@@ -46,11 +46,11 @@ The Bonebreakers kill Sebastaeia and break her hold over the Asclepieion, but a 
 
 Aboard the Eleftheria, they return to the Asclepieion, destroy the remaining harpies and rescue further prisoners, including **Princess Agatha of Agria** and several nobles. With the missing Imperials saved, the Ramen fleet honours its bargain and allows the Bonebreakers to leave.
 
-They sail home as heroes, unaware that rescuing Agatha has just drawn them into the affairs of the Agrial crown.
+They sail home as heroes, unaware that rescuing Agatha has just drawn them into the affairs of the Agrian crown.
 
 # Church of the Crimson Flame Arc
 
-Back in Ikiria, Princess Agatha reveals herself as heir to the Agrial throne and governor of the East Agria Company. Impressed by Fos Imeras, she recruits the Bonebreakers for missions too dangerous—and too politically sensitive—for the crown to undertake openly.
+Back in Ikiria, Princess Agatha reveals herself as heir to the Agrian throne and governor of the East Agria Company. Impressed by Fos Imeras, she recruits the Bonebreakers for missions too dangerous—and too politically sensitive—for the crown to undertake openly.
 
 Their first target is the **Deathless Plague**, which has ravaged the Southlands while the Church of the Crimson Flame grows increasingly brutal in its attempts to contain it. The Bonebreakers assault the church’s cathedral and uncover the truth: the Crimson Bishop himself has been undead for years, while the faith that once tried to cure the afflicted has collapsed into torture, execution and fanaticism.
 
@@ -68,7 +68,7 @@ With the Mercy established, Barny’s search for forbidden magical knowledge dra
 
 Their new power immediately attracts enemies.
 
-Black-clad orcs raid the Mercy and kidnap four priests, demanding a vast ransom from their leader, **Gruumsh One-tusk**. The trail leads back to the Shrine of Mulvis, now occupied by a hundred-strong orc warband.
+Black-clad orcs raid the Mercy and kidnap four priests, demanding a vast ransom from their leader, **Gruumsh One-Tusk**. The trail leads back to the Shrine of Mulvis, now occupied by a hundred-strong orc warband.
 
 Rather than pay, the Bonebreakers infiltrate their old hunting ground. Sleep spells, traps, grease and fire turn the shrine into a killing ground. Gruumsh’s forces are devastated, the priests are freed and the warlord is forced to surrender his treasure and withdraw.
 
@@ -216,7 +216,7 @@ Among its ancient military halls they encounter undead remnants of the Empire. C
 
 **Valedictus.**
 
-Lord Varrick finally explains why. **High Priest Valedictus** was a master of necromancy who sought to spread his dark arts across the continent and establish dominion over it. His continued power, Varrick warns, is connected to the worsening undead incursions beyond the Necropolis.
+Lord Varek finally explains why. **High Priest Valedictus** was a master of necromancy who sought to spread his dark arts across the continent and establish dominion over it. His continued power, Varek warns, is connected to the worsening undead incursions beyond the Necropolis.
 
 Valedictus cannot be destroyed simply by killing him. He possesses **multiple phylacteries**, and the Bonebreakers may need a mysterious object known only as **the Stylus** to stop him.
 
@@ -272,17 +272,17 @@ The Necropolis must wait.
 
 Agatha sends the Bonebreakers to investigate. Posing as pilgrims and Arthur's sympathisers, they follow Harrow's political contacts to Kingsport, where Tess impersonates Wendell Prye to gain entry to [[locations/world/agria/northlands/kingsport/arthurs-palace|Arthur's Palace]].
 
-Behind the sealed cabinets and covered furniture, the party finds jealousy, ambition, and a trail leading to **[[npcs/velur/lirina|Lirina]], Countess of Velluria**. Arthur's letters and repeated visits suggest a close relationship. Her own warning is brief: “Do nothing rash. Commit nothing to paper.”
+Behind the sealed cabinets and covered furniture, the party finds jealousy, ambition, and a trail leading to **[[npcs/vellure/lirina|Lirina]], Countess of Velluria**. Arthur's letters and repeated visits suggest a close relationship. Her own warning is brief: “Do nothing rash. Commit nothing to paper.”
 
 The investigation also becomes a robbery. Small thefts grow into the stripping of palace valuables, culminating in Arthur's jewellery and expensive clothes. The Bonebreakers blame **[[npcs/kingsport/corvin-dace|Corvin Dace]]**, a supposed official whose lies and flight make them doubt his identity. With planted jewels and a charmed housekeeper's support, they secure his arrest and the Queen's Guard's gratitude.
 
-Corvin's true purpose remains unknown. The Bonebreakers travel to [[locations/world/agria/northlands/velluria/velur|Velur]] to attend Lirina's masquerade. Winston introduces Frank to a forger, who supplies two invitations. Nila, Rose, and Barny enter the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] as a server and entertainers. Frank and Steve arrive as a Ramen noble and his bodyguard, while Arden and Ulrich attend as clerics.
+Corvin's true purpose remains unknown. The Bonebreakers travel to [[locations/world/agria/northlands/velluria/vellure|Vellure]] to attend Lirina's masquerade. Winston introduces Frank to a forger, who supplies two invitations. Nila, Rose, and Barny enter the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]] as a server and entertainers. Frank and Steve arrive as a Ramen noble and his bodyguard, while Arden and Ulrich attend as clerics.
 
 The countess speaks about Agria's political uncertainty beside an empty ducal chair. Her gaze pauses on each Bonebreaker, suggesting that she recognises them. Nila hears rumours that Lirina wants Arthur's place and steals a letter from a noblewoman with royal connections. During his performance, Barny's telescope reveals another noble's nightmare of Audrey being murdered. Barny brings the dream into his act, prompting the noble to deny it. His subsequent dismemberment and reassembly of his undead assistant horrify the guests.
 
-Then Barny's candle puts out every light in the ballroom. Lirina cries “Assassins!” and runs for the servants' quarters, straight into Steve, Selvar, Rose, and Nila. Bound, gagged, and read by ESP, she proves to be playing for power: at the very least, she means to become Duchess while Arthur is gone. Rose takes her clothes and her place, convincing the servants and charming **[[npcs/velur/lord-petrand-kush|Lord Petrand Kush]]**, the Master of Revels, while Ulrich and Arden calm the guests and see them out.
+Then Barny's candle puts out every light in the ballroom. Lirina cries “Assassins!” and runs for the servants' quarters, straight into Steve, Selvar, Rose, and Nila. Bound, gagged, and read by ESP, she proves to be playing for power: at the very least, she means to become Duchess while Arthur is gone. Rose takes her clothes and her place, convincing the servants and charming **[[npcs/vellure/lord-petran-cask|Lord Petran Cask]]**, the Master of Revels, while Ulrich and Arden calm the guests and see them out.
 
-Upstairs, the party searches the countess's rooms. A poetry book serves as the cipher for a stack of encoded letters. A false wardrobe hides clothes for night work, a secret door opens onto a back alley, and a locked closet holds daggers, poisons, and a disguise kit. A letter stolen from **[[npcs/velur/lady-miranda|Lady Miranda]]**, a royal cousin, urges her to meet Wendell Prye before he gives his evidence against Arthur.
+Upstairs, the party searches the countess's rooms. A poetry book serves as the cipher for a stack of encoded letters. A false wardrobe hides clothes for night work, a secret door opens onto a back alley, and a locked closet holds daggers, poisons, and a disguise kit. A letter stolen from **[[npcs/vellure/lady-miranda|Lady Miranda]]**, a royal cousin, urges her to meet Wendell Prye before he gives his evidence against Arthur.
 
 Under interrogation, her thoughts give more away. She has aliases. The letters belong to her spy network. She appears to distinguish herself from the **[[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]**, while knowing who the Khan is, and one of her messages is written to warn the Khan that the Bonebreakers are in the Northlands and expected at her masquerade.
 
@@ -292,7 +292,7 @@ Back at [[locations/world/agria/southlands/mercy|the Mercy]], Selvar's ESP ident
 
 She says her plans will continue without her and that nobody directs her; she admits treating Arthur as a useful tool and justifies the invasion as an attempt to garrison Westfort with her own army.
 
-Lirina wants **Valedictus** destroyed, and her hatred is real. Barny's telescope shows her nightmare of plague devastating Agria, suggesting that she fears such a disaster without establishing its cause. After Micaelis reveals that the party can contact Agatha, but refuses to disclose her location, Lirina offers an alliance: the Bonebreakers may keep all treasure found in the Necropolis in exchange for help destroying its evil and stabilising Agria. She promises greater possibilities if she becomes Duchess.
+Lirina wants **Valedictus** destroyed, and her hatred is real. Barny's telescope shows her nightmare of plague devastating Agria, suggesting that she fears such a disaster without establishing its cause. After Michaelis reveals that the party can contact Agatha, but refuses to disclose her location, Lirina offers an alliance: the Bonebreakers may keep all treasure found in the Necropolis in exchange for help destroying its evil and stabilising Agria. She promises greater possibilities if she becomes Duchess.
 
 Her offer divides the Bonebreakers almost evenly. She has killed one of their companions, kidnapped children, burned an inn with the party inside, and orchestrated invasions that caused enormous suffering. Those opposed reject an alliance with her because of these crimes. Others argue that her help against Valedictus could justify cooperating with an evil enemy. Her desire to defeat the lich and her justifications for her crimes leave the party facing a choice about how far it is willing to go. No agreement is reached. Lirina remains captive, her network may still be operating, and the party has not reported its findings to Agatha.
 

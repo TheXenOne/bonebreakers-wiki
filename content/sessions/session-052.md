@@ -23,7 +23,7 @@ The Bonebreakers then go back into Arch V and try to solve the loop rather than 
 
 The party finally meets [[npcs/necropolis/the-bloated-one|the Bloated One]] in the unfinished halls beyond: a horse-sized, necrotic, swollen figure wrapped in deep robes. [[characters/inactive-players/connor/characters/cyder|Cyder]] tries to bluff it with a foreman's sash and a claim to be from Section 22, only to learn that Section 22 was demolished and reused for Section 12 because the restoration works have no fresh source of stone and keep cannibalising other parts of the city. Before fighting, the Bonebreakers return to the school to investigate the anomaly, find a maintenance passage behind it, and emerge directly behind the Bloated One. The "warm air" anomaly now seems likely to be the creature itself venting gas.
 
-The ambush works almost too well. With Bless, Silence, Web, Mirror Image, and conjured snakes already in play, the Bonebreakers kill the Bloated One before it can properly respond. Its death still punishes them: the body explodes in necrotic force, catching [[characters/active-players/john/characters/micaelis|Micaelis]], Steve, [[characters/active-players/marta/characters/luthien|Luthien]], and [[characters/active-players/alessandro/characters/selvar|Selvar]]. Micaelis and Steve are hit hardest, suffering a rotting disease that will turn them into zombies if it drains their Constitution to zero. As the party starts searching the remains, eleven zombies arrive.
+The ambush works almost too well. With Bless, Silence, Web, Mirror Image, and conjured snakes already in play, the Bonebreakers kill the Bloated One before it can properly respond. Its death still punishes them: the body explodes in necrotic force, catching [[characters/active-players/john/characters/michaelis|Michaelis]], Steve, [[characters/active-players/marta/characters/luthien|Luthien]], and [[characters/active-players/alessandro/characters/selvar|Selvar]]. Michaelis and Steve are hit hardest, suffering a rotting disease that will turn them into zombies if it drains their Constitution to zero. As the party starts searching the remains, eleven zombies arrive.
 
 ## Important events
 
@@ -41,7 +41,7 @@ The ambush works almost too well. With Bless, Silence, Web, Mirror Image, and co
 - Cyder speaks with the Bloated One while wearing a foreman's sash and learns that Section 22 was demolished to reuse materials for Section 12 because the works have no fresh source of stone.
 - The party finds a maintenance corridor behind the school that emerges behind the Bloated One.
 - The Bonebreakers ambush and kill the Bloated One before it can properly respond.
-- The Bloated One explodes in a necrotic blast, infecting Micaelis and Steve with a Constitution-draining disease.
+- The Bloated One explodes in a necrotic blast, infecting Michaelis and Steve with a Constitution-draining disease.
 - Eleven zombies arrive as the party begins looting the Bloated One's remains.
 
 ## Locations visited
@@ -65,7 +65,7 @@ The ambush works almost too well. With Bless, Silence, Web, Mirror Image, and co
 - [[characters/active-players/jaykob/characters/steve-ligma-smith|Steve "Ligma" Smith]]
 - [[characters/active-players/alessandro/characters/selvar|Selvar]]
 - [[characters/inactive-players/connor/characters/cyder|Cyder]]
-- [[characters/active-players/john/characters/micaelis|Micaelis]]
+- [[characters/active-players/john/characters/michaelis|Michaelis]]
 - [[characters/active-players/marta/characters/luthien|Luthien]]
 - [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barnobuck "Barny" the Bizarre]]
 
@@ -87,7 +87,7 @@ The ambush works almost too well. With Bless, Silence, Web, Mirror Image, and co
 - The [[items/party-inventory/arch-v-iron-key|iron key]] found where the map container was hidden has no known lock yet. Status: Still unresolved.
 - The looping street in Arch V can be broken with a symmetrical floor marking, but the purpose and maintainer of the chalk arrows remain unclear. Status: Partially resolved.
 - The [[items/bloated-one-work-ledger|work ledger]] shows a long-running restoration bureaucracy, annual Bloated One inspections, and an instruction not to report the warm-air anomaly to [[npcs/necropolis/the-tribune|the Tribune]]. Status: Still unresolved.
-- The party kills [[npcs/necropolis/the-bloated-one|the Bloated One]], but its explosion infects Micaelis and Steve with a Constitution-draining disease. Status: Partially resolved.
+- The party kills [[npcs/necropolis/the-bloated-one|the Bloated One]], but its explosion infects Michaelis and Steve with a Constitution-draining disease. Status: Partially resolved.
 - Eleven zombies arrive while the party is still near the Bloated One's remains. Status: Still unresolved.
 
 ## Related sessions
