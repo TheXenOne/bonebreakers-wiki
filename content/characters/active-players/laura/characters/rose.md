@@ -36,6 +36,7 @@ source_sessions:
   - 66
   - 67
   - 68
+  - 69
 ---
 
 ## Overview
@@ -90,6 +91,7 @@ Needs review.
 - In [[sessions/session-066|Session 66 - Masquerade]], Rose infiltrates Lirina's masquerade as an acrobat called “The Crimson Lotus”, persuading the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] organisers to accept her as the opening act. She performs on suspended silks, falls to the floor, and manages to play off the accident.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Rose helps capture [[npcs/velur/lirina|Lirina]] in the servants' quarters and gags her, then swaps clothes with the countess and impersonates her. The disguise satisfies two servants who witnessed the capture and, from the top of the staircase, the whole household. She charms the Master of Revels, [[npcs/velur/lord-petrand-kush|Lord Petrand Kush]], with Steve's sword, and he accepts her as the countess.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], [[npcs/velur/opal|Opal]] recognises Rose as an impostor and Dame Silka Voss attempts to arrest the party. Rose's impersonation still convinces the stable servants to prepare a second carriage and gets her past the exit guards while she continues posing as Lirina and pretends to be ill. The Bonebreakers escape with the real Lirina and return to the Mercy.
+- In [[sessions/session-069|Session 69 - A Cruel Bargain]], Rose pursues a ninja orc fleeing with a farming couple's daughter as his hostage. She tries to catch him with a net; he trips but kills the girl before Rose can reach him.
 
 ## Relationships
 
@@ -98,7 +100,7 @@ Needs review.
 
 ## Current status
 
-Active with the Bonebreakers at the Mercy after escaping Velur. Opal and Dame Silka Voss exposed her impersonation of Lirina, but the disguise still helped the party pass the palace checkpoint. She has been supernaturally aged by ten years.
+Active with the Bonebreakers. She has been supernaturally aged by ten years.
 
 ## Related sessions
 
@@ -127,3 +129,4 @@ Active with the Bonebreakers at the Mercy after escaping Velur. Opal and Dame Si
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-069|Session 69 - A Cruel Bargain]]

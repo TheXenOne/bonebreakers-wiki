@@ -17,6 +17,7 @@ related_sessions:
   - 61
   - 64
   - 68
+  - 69
 related_locations:
   - The Necropolis
   - Arch III
@@ -37,6 +38,7 @@ source_sessions:
   - 61
   - 64
   - 68
+  - 69
 ---
 
 ## Overview
@@ -60,12 +62,13 @@ The Bonebreakers first find Valedictus's necromantic treatise in [[sessions/sess
 - Varrick advises the party to find the Stylus, but does not explain what it is or why it matters.
 - Lord Varrick suggests the Grey Syndicate may be seeking Valedictus's power or trying to destroy him. Lirina's later testimony supports the latter possibility.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], the captive [[npcs/velur/lirina|Lirina]] names Valedictus as an arch-enemy. Selvar's ESP confirms her genuine hatred. Barny's telescope shows a nightmare of Agria devastated by plague, suggesting that she fears such a disaster without proving its cause. She proposes an alliance, but the Bonebreakers remain divided.
+- At the start of [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers reject Lirina's help because they cannot trust her and firmly side with Agatha.
 
 ## Current status
 
 Active. The Bonebreakers know that Valedictus is tied to Arch III and possesses three phylacteries. The phylacteries remain unsecured. One probable phylactery has passed out of their hands and is now being studied by an unidentified lizardfolk shaman. The Stylus is a separate lead of uncertain importance.
 
-The investigation for Agatha has brought the Bonebreakers back to the Mercy with Lirina, identified as Ash and the Grey Khan, as their prisoner. She offers cooperation against the Necropolis's evil and all treasure the party finds there. Her hatred of Valedictus is real, but cooperation means working with the enemy responsible for a companion's death, child kidnappings, arson, and invasions. The party is divided over whether defeating the lich can justify that alliance and has agreed to nothing. Exploration has not resumed.
+The Bonebreakers are travelling towards Ikiria with Lirina, identified as Ash and the Grey Khan, as their prisoner. They intend to leave her there and contact Agatha. She offered cooperation against the Necropolis's evil and all treasure the party finds there. Her hatred of Valedictus is real, but the Bonebreakers have decided she cannot be trusted, rejected her alliance, and firmly sided with Agatha. Exploration has not resumed.
 
 ## Related characters and NPCs
 
@@ -96,6 +99,7 @@ The investigation for Agatha has brought the Bonebreakers back to the Mercy with
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-069|Session 69 - A Cruel Bargain]]
 
 ## Loose ends
 
@@ -104,5 +108,5 @@ The investigation for Agatha has brought the Bonebreakers back to the Mercy with
 - The glowing skull's route from the Broken Crown to the lizardfolk shaman remains unexplained, as do the shaman's identity, clan, location, and purpose.
 - Whether the three-locked chest contains a phylactery remains only a suspicion.
 - The nature, location, function, and importance of the Stylus remain unknown.
-- Lirina genuinely wants Valedictus destroyed, but whether the Bonebreakers will accept her help remains unresolved.
+- Lirina genuinely wants Valedictus destroyed, but the Bonebreakers have rejected her help because they cannot trust her.
 - The cause and likelihood of the kingdom-wide plague in Lirina's nightmare, and any connection to Valedictus, remain unclear.

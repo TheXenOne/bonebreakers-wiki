@@ -13,6 +13,7 @@ source_sessions:
   - 60
   - 61
   - 68
+  - 69
 ---
 
 ## Overview
@@ -31,6 +32,7 @@ Valedictus is an ancient imperial high priest and necromancer who sought dominio
 - The party strongly suspects that [[items/glowing-skull|the glowing skull]] found in Arch VII and later traded away is one of those phylacteries. They suspect the three-locked soul-bound chest beneath the Imperial Hill Temple may hold another, but have no proof.
 - In [[sessions/session-061|Session 61]], Barny clarifies that the probable skull phylactery is being studied closely by a lizardfolk shaman from an unidentified clan.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], Lirina names Valedictus as an arch-enemy she wants destroyed. Selvar's ESP confirms her hatred. Her offer to help the Bonebreakers combat the Necropolis's evil remains undecided.
+- At the start of [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers reject Lirina's proposed help against Valedictus because they cannot trust her and firmly side with Agatha.
 
 ## Current status
 
@@ -50,6 +52,7 @@ Still in power according to Lord Varrick, though the Bonebreakers have not enter
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-061|Session 61]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-069|Session 69 - A Cruel Bargain]]
 
 ## Open questions
 

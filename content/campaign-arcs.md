@@ -206,7 +206,7 @@ The Mercy was built on top of it.
 
 As the Bonebreakers prepare to delve deeper, the cost of their widening war begins to mount.
 
-On the road from the Mercy, the veteran warrior **Bran** sacrifices himself against a pack of terrifying mantid creatures, holding them off so Arden and Michaelis can escape. Arden later creates *Bran’s Heroic Aura* in his memory.
+On the road from the Mercy, the veteran warrior **Bran** sacrifices himself against a pack of terrifying mantid creatures, holding them off so Arden and Michaelis can escape. Arden later creates _Bran’s Heroic Aura_ in his memory.
 
 Meanwhile, Westfort has fallen into siege. The surviving hobgoblin commander has rebuilt his forces, goblins raid the town’s supplies and siege engines batter its defences. Seeking another route through enemy territory, the Bonebreakers infiltrate the hobgoblin fortress once more. There **Luthien** is paralysed and killed by a monstrous Krell, which begins devouring her before the others can recover what remains.
 
@@ -295,3 +295,7 @@ She says her plans will continue without her and that nobody directs her; she ad
 Lirina wants **Valedictus** destroyed, and her hatred is real. Barny's telescope shows her nightmare of plague devastating Agria, suggesting that she fears such a disaster without establishing its cause. After Micaelis reveals that the party can contact Agatha, but refuses to disclose her location, Lirina offers an alliance: the Bonebreakers may keep all treasure found in the Necropolis in exchange for help destroying its evil and stabilising Agria. She promises greater possibilities if she becomes Duchess.
 
 Her offer divides the Bonebreakers almost evenly. She has killed one of their companions, kidnapped children, burned an inn with the party inside, and orchestrated invasions that caused enormous suffering. Those opposed reject an alliance with her because of these crimes. Others argue that her help against Valedictus could justify cooperating with an evil enemy. Her desire to defeat the lich and her justifications for her crimes leave the party facing a choice about how far it is willing to go. No agreement is reached. Lirina remains captive, her network may still be operating, and the party has not reported its findings to Agatha.
+
+The following day, the Bonebreakers settle the debate: they cannot trust Lirina and firmly side with Princess Agatha, rejecting the countess's alliance. They set out for [[locations/world/agria/southlands/ikiria|Ikiria]], intending to leave Lirina there and contact Agatha. Two carriages carrying an innocent farmer and his wife become the setting for an ambush: ninja orcs hold the couple's daughter hostage and demand the countess in exchange for her safety. Akal sets fire to the carriages before the party reaches a decision, and fighting breaks out.
+
+Rose pursues an orc fleeing with the girl and tries to catch him with a net. He trips but kills the hostage before Rose reaches him. Most of the attackers are killed, two escape, and the parents are left grieving. Lirina remains captive; the ambushers' allegiance is unclear, and the plan to leave her in Ikiria and contact Agatha remains unfinished.

@@ -17,11 +17,12 @@ source_sessions:
   - 45
   - 46
   - 68
+  - 69
 ---
 
 ## Overview
 
-The Grey Syndicate is the main covert organisation behind the Westfort sabotage arc and the later royal conspiracy around [[npcs/agria/prince-arthur|Prince Arthur]]. It remains dangerous after the Spider Market decoy raid, even with [[npcs/westmarsh/grey-syndicate/ash|Ash]], identified as Countess Lirina and the Grey Khan, held at the Mercy.
+The Grey Syndicate is the main covert organisation behind the Westfort sabotage arc and the later royal conspiracy around [[npcs/agria/prince-arthur|Prince Arthur]]. It remains dangerous after the Spider Market decoy raid, even with [[npcs/westmarsh/grey-syndicate/ash|Ash]], identified as Countess Lirina and the Grey Khan, held by the Bonebreakers.
 
 ## Key figures
 
@@ -69,10 +70,11 @@ The Grey Syndicate is the main covert organisation behind the Westfort sabotage 
 - In [[sessions/session-039|Session 39]] and [[sessions/session-040|Session 40]], the Syndicate remains tied to the wider siege and rescue effort.
 - In [[sessions/session-044|Session 44]] to [[sessions/session-046|Session 46]], the Syndicate becomes openly linked to Arthur and the struggle over his secretary.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], at the Mercy, Selvar's ESP identifies Lirina as Ash. Her thoughts distinguish Lirina from the Grey Khan, but she affirms that Ash is the Khan; the Bonebreakers conclude that they have captured the Syndicate's leader.
+- At the start of [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers reject Lirina's alliance because they cannot trust her and firmly side with Agatha.
 
 ## Current status
 
-Lirina/Ash is captive at the Mercy, but says her plans will continue without her. Her offer of an alliance against Valedictus remains undecided, and the wider network has not been dismantled.
+Lirina/Ash remains captive while the Bonebreakers travel towards Ikiria, intending to leave her there. A ninja-orc hostage ambush fails to free her; a farming couple's daughter is killed and two attackers escape. Their allegiance is **Needs review**. Lirina says her plans will continue without her. The Bonebreakers have rejected her alliance against Valedictus because they cannot trust her and firmly sided with Agatha. The wider network has not been dismantled.
 
 ## Related sessions
 
@@ -83,8 +85,9 @@ Lirina/Ash is captive at the Mercy, but says her plans will continue without her
 - [[sessions/session-045|Session 45]]
 - [[sessions/session-046|Session 46]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-069|Session 69 - A Cruel Bargain]]
 
 ## Unresolved threads
 
-- Whether the Bonebreakers will accept Lirina's alliance, and what the network will do during her captivity, remain unresolved.
+- What the network will do during Lirina's captivity remains unresolved.
 - The Syndicate's full leadership and long-term goals are still only partly known.

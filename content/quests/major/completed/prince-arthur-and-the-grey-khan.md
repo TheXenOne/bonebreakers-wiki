@@ -97,7 +97,7 @@ The consequences of the conspiracy and arrest for Princess Agatha and the Crown 
 ## Loose ends
 
 - Arthur's final fate is unresolved.
-- Ash's claim is accepted after Lirina's interrogation in [[sessions/session-068|Session 68 - Ashes to Ashes]]. The wider network and proposed alliance remain part of the [[quests/major/active/grey-syndicate-conspiracy|active Syndicate investigation]].
+- Ash's claim is accepted after Lirina's interrogation in [[sessions/session-068|Session 68 - Ashes to Ashes]]. The wider network remains part of the [[quests/major/active/grey-syndicate-conspiracy|active Syndicate investigation]].
 - The consequences for Princess Agatha and the Crown remain unknown.
 
 ## Continuing consequences
@@ -106,4 +106,4 @@ Arthur's arrest remains complete, but his trial and supporters still matter. In 
 
 In [[sessions/session-065|Session 65]], correspondence and travel records point toward [[npcs/velur/lirina|Lirina]] and Velluria, while an incomplete letter anticipates Agatha’s disgrace. These discoveries advance the wider investigation without changing Arthur’s arrested status or resolving his trial. Corvin’s arrest is based on jewels planted by the party and does not prove his involvement in Arthur’s conspiracy.
 
-In [[sessions/session-068|Session 68 - Ashes to Ashes]], the party identifies Lirina as Ash and the Grey Khan. She admits treating Arthur as a useful tool but insists his mistakes were his own. His arrest and completed exposure remain unchanged; the unresolved alliance belongs to the wider Syndicate investigation.
+In [[sessions/session-068|Session 68 - Ashes to Ashes]], the party identifies Lirina as Ash and the Grey Khan. She admits treating Arthur as a useful tool but insists his mistakes were his own.

@@ -8,4 +8,4 @@ Published session pages are listed at [[sessions/index|Sessions]].
 
 Most recent session:
 
-- [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-069|Session 69 - A Cruel Bargain]]

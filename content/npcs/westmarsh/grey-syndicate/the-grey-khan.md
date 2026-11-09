@@ -7,7 +7,7 @@ tags:
 aliases:
   - Grey Khan
 status: captured
-primary_location: The Mercy
+primary_location: On the road to Ikiria
 affiliations:
   - Grey Syndicate
 source_sessions:
@@ -16,11 +16,12 @@ source_sessions:
   - 47
   - 67
   - 68
+  - 69
 ---
 
 ## Overview
 
-The Grey Khan is the leader of the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]], whose support [[npcs/agria/prince-arthur|Prince Arthur]] sought in his plot against Agatha. The Bonebreakers identify the Khan with [[npcs/westmarsh/grey-syndicate/ash|Ash]] and [[npcs/velur/lirina|Countess Lirina]] through their captive's answers and Selvar's ESP. Lirina keeps these identities distinct in her mind, explaining why a direct question about being the Khan produces an apparent denial. She is held at the Mercy, but says her plans will continue without her.
+The Grey Khan is the leader of the [[factions/criminal-and-underworld/grey-syndicate|Grey Syndicate]], whose support [[npcs/agria/prince-arthur|Prince Arthur]] sought in his plot against Agatha. The Bonebreakers identify the Khan with [[npcs/westmarsh/grey-syndicate/ash|Ash]] and [[npcs/velur/lirina|Countess Lirina]] through their captive's answers and Selvar's ESP. Lirina keeps these identities distinct in her mind, explaining why a direct question about being the Khan produces an apparent denial. She is held by the Bonebreakers, but says her plans will continue without her.
 
 ## Appearance
 
@@ -28,7 +29,7 @@ Ash appears to the party as an orc woman; Lirina is tall, slender, and beautiful
 
 ## Personality
 
-Ruthless, transactional, and ambitious. Lirina presents herself as a force for Agria's stability and justifies the invasions as a way to replace Westfort's defenders with her own army. She is responsible for killing a Bonebreaker, kidnapping children, arson, and widespread suffering. Her hatred of Valedictus is real, but the party is divided over whether defeating him can justify cooperating with her.
+Ruthless, transactional, and ambitious. Lirina presents herself as a force for Agria's stability and justifies the invasions as a way to replace Westfort's defenders with her own army. She is responsible for killing a Bonebreaker, kidnapping children, arson, and widespread suffering. Her hatred of Valedictus is real.
 
 ## Role in the campaign
 
@@ -56,10 +57,11 @@ Ruthless, transactional, and ambitious. Lirina presents herself as a force for A
 - In [[sessions/session-047|Session 47]], a captured Syndicate recruiter cannot confirm who the Grey Khan is.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Micaelis asks the captive Lirina whether she is the Grey Khan. Her thoughts show that she knows who the Khan is but is not the Khan. One of her encoded messages is meant for the Khan, warning that the Bonebreakers are active in the Northlands and expected at her masquerade.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], at the Mercy, Selvar's ESP identifies Lirina as Ash. Her thoughts distinguish Lirina from the Grey Khan, but she affirms that Ash is the Khan; the Bonebreakers conclude that they have captured the Syndicate's leader.
+- In [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers reject Lirina's alliance because they cannot trust her and firmly side with Agatha. Later, ninja orcs demand Lirina in exchange for a farming couple's captive daughter while the Bonebreakers travel towards Ikiria. The girl is killed, most attackers die, and two escape. Lirina remains captive; the ambushers' allegiance is **Needs review**.
 
 ## Current status
 
-Identified by the Bonebreakers as Lirina/Ash and captive at the Mercy. Her claim that her plans can continue without her leaves the Syndicate an active concern. The party has not accepted her proposed alliance against Valedictus.
+Identified by the Bonebreakers as Lirina/Ash and captive on the road towards Ikiria. Ninja orcs fail to secure her release through a hostage demand; their allegiance remains unclear. Her claim that her plans can continue without her leaves the Syndicate an active concern. The party has rejected her proposed alliance against Valedictus because it cannot trust her and firmly sided with Agatha.
 
 ## Related sessions
 
@@ -68,9 +70,10 @@ Identified by the Bonebreakers as Lirina/Ash and captive at the Mercy. Her claim
 - [[sessions/session-047|Session 47]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-069|Session 69 - A Cruel Bargain]]
 
 ## Unresolved threads
 
 - How the network operates while its leader is captive.
-- Whether the alliance offer can be reconciled with Agatha's safety and the Syndicate's past crimes.
 - The contents of Lirina's encoded correspondence and the limits of her authority.
+- Who sent the ninja orcs demanding Lirina's release, and what the two escaped attackers will do next: **Needs review**.

@@ -26,6 +26,7 @@ source_sessions:
   - 54
   - 60
   - 68
+  - 69
 ---
 
 ## Overview
@@ -76,6 +77,7 @@ The cathedral later became the Church of the Crimson Flame and fell into corrupt
 - In [[sessions/session-054|Session 54]], the Bonebreakers hold a wake and ceremony for [[characters/active-players/ben-l/retainers-followers/bran-the-wolf|Bran "The Wolf"]] after his death on the road, and plan to commission a statue in his honour.
 - Frank commissions new defensive works: a moat and walls raised to 30 feet.
 - In [[sessions/session-060|Session 60]], the party returns from the Necropolis and a waiting priest begins preparations for [[characters/active-players/marta/characters/luthien|Luthien's]] funeral.
+- In [[sessions/session-068|Session 68 - Ashes to Ashes]], the Bonebreakers bring the captured Lirina here and identify her as Ash and the Grey Khan. The following day, in [[sessions/session-069|Session 69 - A Cruel Bargain]], they leave with her for Ikiria, intending to leave her there and contact Agatha.
 
 ## Related sessions
 
@@ -91,6 +93,7 @@ The cathedral later became the Church of the Crimson Flame and fell into corrupt
 - [[sessions/session-054|Session 54]]
 - [[sessions/session-060|Session 60]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-069|Session 69 - A Cruel Bargain]]
 
 ## Unresolved threads or mysteries
 

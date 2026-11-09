@@ -26,6 +26,7 @@ related_sessions:
   - 65
   - 67
   - 68
+  - 69
 related_locations:
   - Westfort
   - Spider Market
@@ -67,6 +68,7 @@ source_sessions:
   - 65
   - 67
   - 68
+  - 69
 ---
 
 ## Overview
@@ -92,12 +94,13 @@ The thread becomes visible when the party exposes Vex's sabotage cell in [[sessi
 - In [[sessions/session-065|Session 65]], the palace search identifies [[npcs/velur/lirina|Lirina]], Countess of Velluria, as a lead through love letters, portraits, repeated journeys, and her warning against rash action and written commitments. Hugh Malory points to her masquerade in [[locations/world/agria/northlands/velluria/velur|Velur]]. Corvin takes letters and lies about his previous visits. His suspicious palace activity and flight after returning to the Royal Chamberlain's building lead the party to suspect he is not who he claims to be. The Bonebreakers frame him for their own jewellery theft and secure his arrest.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], the Bonebreakers capture Lirina at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]] and find encoded letters, a cipher book, and an assassin's armoury in her rooms. Her thoughts reveal that the letters belong to her spy network, that she knows who the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] is without being the Khan, and that one message is meant to warn the Khan that the Bonebreakers are active in the Northlands and expected at her masquerade.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], at the Mercy, Selvar's ESP identifies Lirina as Ash. Her thoughts distinguish Lirina from the Grey Khan, but she affirms that Ash is the Khan; the Bonebreakers conclude that they have captured the Syndicate's leader. Lirina says her plans will continue without her and justifies the invasion as an attempt to replace Westfort's weak defenders with her own army. Her hatred of Valedictus is genuine, and a nightmare of plague ravaging Agria suggests fear of disaster. She offers an alliance, but the party cannot agree whether to accept.
+- In [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers decide Lirina cannot be trusted, reject her alliance, and firmly side with Princess Agatha. They leave for Ikiria with Lirina, intending to leave her there and contact Agatha. Ninja orcs use two farmers and their captive daughter to demand her release. Akal sets the carriages alight before the party agrees on a response. Rose pursues the fleeing captor, but he kills the girl before she reaches him. Most attackers are killed and two escape. Their allegiance is **Needs review**.
 
 ## Current status
 
-Active, with the leadership mystery resolved from the Bonebreakers' perspective. The party has escaped Velur and holds [[npcs/velur/lirina|Lirina]], identified as Ash and the Grey Khan, at the Mercy. Her thoughts support her claim to answer to no superior, and confirm that she genuinely wants Valedictus destroyed. She says her plans will continue without her; the network has not been dismantled.
+Active, with the leadership mystery resolved from the Bonebreakers' perspective. The party holds [[npcs/velur/lirina|Lirina]], identified as Ash and the Grey Khan, while travelling towards Ikiria. A hostage ambush fails to free her and ends with the farmers' daughter killed and two ninja orcs escaping. Their allegiance is **Needs review**; the attack does not establish Syndicate involvement. Her thoughts support her claim to answer to no superior, and confirm that she genuinely wants Valedictus destroyed. She says her plans will continue without her; the network has not been dismantled.
 
-Lirina offers an alliance against the Necropolis's evil, claiming that she seeks Agria's stability. The Bonebreakers know her responsibility for a companion's death, child kidnappings, arson, and invasions. They remain divided over whether her help against Valedictus can justify cooperating with her, and have made no agreement. Agatha has not received its findings, and Lirina's other encoded letters remain undeciphered.
+Lirina offered an alliance against the Necropolis's evil, claiming that she seeks Agria's stability. The Bonebreakers know her responsibility for a companion's death, child kidnappings, arson, and invasions. They have decided she cannot be trusted, rejected her offer, and firmly sided with Agatha. Agatha has not received its findings, and Lirina's other encoded letters remain undeciphered.
 
 ## Consequences
 
@@ -109,9 +112,10 @@ Lirina offers an alliance against the Necropolis's evil, claiming that she seeks
 - The party has identified the Syndicate leader and holds new documentary evidence, but has not yet reported to Agatha. Lirina's thoughts support her claim to answer to nobody; this does not establish the extent of every force involved in the unrest.
 - One of Lirina's encoded messages is meant to warn the Grey Khan that the Bonebreakers are operating in the Northlands.
 - Capturing the Khan removes her freedom without establishing that the dispersed network has stopped operating.
-- The proposed alliance brings the Syndicate investigation directly into the campaign against Valedictus. No bargain or reconciliation has been reached.
+- Lirina's proposed alliance connects the Syndicate investigation to the campaign against Valedictus, but the Bonebreakers reject her help because they cannot trust her and firmly side with Agatha.
 - Lirina knows the Bonebreakers have contact with Agatha, but not where the princess is hidden.
 - The party has resisted arrest by the Vellurian Watch and removed a reigning countess from her palace; the political response remains unknown.
+- Lirina's captivity has prompted a demand for her release backed by a civilian hostage. The girl is killed and two attackers escape, leaving a threat of uncertain allegiance at large.
 
 ## Related characters and NPCs
 
@@ -157,6 +161,7 @@ Lirina offers an alliance against the Necropolis's evil, claiming that she seeks
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-069|Session 69 - A Cruel Bargain]]
 
 ## Loose ends
 
@@ -164,10 +169,11 @@ Lirina offers an alliance against the Necropolis's evil, claiming that she seeks
 - The Syndicate's next move after losing Arthur's protection, Kargaz's army, and its leader's freedom remains unknown.
 - Whether the Session 53 delay order targeted Westfort, the Necropolis, or another objective remains unresolved.
 - Lirina says the invasion was meant to put her own army in Westfort; how that aim fits Kargaz's promised control and the network's other operations remains unclear.
-- Lirina genuinely wants Valedictus destroyed. Whether the party will cooperate, and what her wider plans entail, remain unresolved.
+- Lirina genuinely wants Valedictus destroyed, but the Bonebreakers have rejected cooperation. What her wider plans entail remains unresolved.
 - Agatha and Smith have been found alive in hiding. The wider threat to Agatha, and any force beyond the Syndicate, remain unidentified.
 - Lirina admits treating Arthur as a useful tool but blames him for his own mistakes. Her precise influence over his decisions and the means of her intended rise to Duchess remain unclear.
 - Her encoded letters are undeciphered; the party holds the cipher book but not the key to using it.
 - The burned message “Smith already knows,” the payment for discretion in Harrow, and Corvin's repeated visits need explanation.
 - The hidden letter's author, recipient, and unclear reference to “con”: **Needs review**.
 - Corvin's arrest does not establish his actual role; the fate of the letters he took is **Needs review**.
+- Who sent the ninja orcs, how they knew to seek Lirina on the road, and whether they have any connection to the Syndicate: **Needs review**. Two escape; the fate of the hostage's killer is also **Needs review**.

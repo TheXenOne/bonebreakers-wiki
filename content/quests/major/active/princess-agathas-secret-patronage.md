@@ -28,6 +28,7 @@ related_sessions:
   - 66
   - 67
   - 68
+  - 69
 related_locations:
   - Fos Imeras
   - Ikiria
@@ -73,6 +74,7 @@ source_sessions:
   - 66
   - 67
   - 68
+  - 69
 ---
 
 ## Overview
@@ -97,12 +99,13 @@ The party first meets Agatha as a stranded noble on [[locations/world/fos-imeras
 - In [[sessions/session-066|Session 66 - Masquerade]], Winston introduces Frank to a forger and the Bonebreakers gain entry to Lirina's masquerade at the [[locations/world/agria/northlands/velluria/velur/gilt-palace|Gilt Palace]]. Nila enters as a server, Rose and Barny as entertainers, and the others as guests with companions. Lirina appears to recognise them. Nila steals a letter from a noblewoman with royal connections and hears rumours that the countess wants Arthur's place. Barny publicly reveals another noble's nightmare of Audrey's murder; the noble denies it.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Barny's act blacks out the ballroom and Lirina flees crying that assassins are present. The Bonebreakers capture her in the servants' quarters, and Rose takes her place before the household. ESP confirms that Lirina intends at least to become Duchess during Arthur's absence. Her private rooms yield encoded letters, their cipher book, covert clothing, a secret exit, and an assassin's armoury. Nila reads the letter stolen from [[npcs/velur/lady-miranda|Lady Miranda]]: an unidentified friend of Arthur urges her to meet [[npcs/agria/prince-arthurs-retinue/wendell|Wendell Prye]] before he gives evidence. Under interrogation, Lirina's thoughts reveal a spy network and a warning written for the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] that the Bonebreakers are expected.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], the Bonebreakers resist Dame Silka Voss's attempt to arrest them, escape Velur with Lirina, and take her to the Mercy. ESP identifies her as Ash and links Ash to the Grey Khan. Lirina admits treating Arthur as a useful tool, says she answers to nobody, and offers cooperation against Valedictus. Micaelis reveals contact with Agatha but refuses to name her hiding place. The alliance debate remains unresolved.
+- In [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers decide Lirina cannot be trusted, reject her alliance, and firmly side with Princess Agatha. They leave for Ikiria with Lirina, intending to leave her there and contact Agatha. Ninja orcs use two farmers and their captive daughter to demand her release. Akal sets the carriages alight before the party agrees on a response. Rose pursues the fleeing captor, but he kills the girl before she reaches him. Most attackers are killed and two escape. Their allegiance is **Needs review**.
 
 ## Current status
 
-Active. Agatha remains in hiding and the Bonebreakers have not reported back. Their investigation has identified the captive [[npcs/velur/lirina|Lirina]] as Ash and the Grey Khan. Having escaped the Watch at the Gilt Palace, they now hold her at the Mercy.
+Active. Agatha remains in hiding and the Bonebreakers have not reported back. Their investigation has identified the captive [[npcs/velur/lirina|Lirina]] as Ash and the Grey Khan. They have rejected her alliance because they cannot trust her and firmly sided with Agatha. They are travelling towards Ikiria, intending to leave Lirina there and attempt contact with the princess. An ambush by ninja orcs ends with a farming couple's daughter killed and two attackers escaping, while Lirina remains captive. The plan to leave her in the city and report back remains unfinished.
 
-Micaelis has revealed that the party is in contact with Agatha, but withheld her location. Lirina says a contract could be made to work with the princess and offers the Bonebreakers an alliance against the Necropolis's evil. No agreement has been reached; protecting Agatha and deciding what to do with the captive remain immediate concerns.
+Micaelis has revealed that the party is in contact with Agatha, but withheld her location. Lirina suggested a contract to work with the princess and offered the Bonebreakers an alliance against the Necropolis's evil. The party has rejected the offer; protecting Agatha and securing the captive remain immediate concerns.
 
 ## Consequences
 
@@ -116,7 +119,8 @@ Micaelis has revealed that the party is in contact with Agatha, but withheld her
 - The masquerade ends in an assassination scare. Guests leave with conflicting rumours, some blaming the party's performers, and Lady Miranda expects serious political consequences.
 - Barny publicly reveals a noble's nightmare of Audrey's murder, prompting the noble to deny it. His subsequent dismemberment and reassembly of his undead assistant horrify the guests.
 - Lirina now knows that Agatha can be reached through the Bonebreakers, but the princess's location remains concealed from her.
-- Cooperation with Lirina could assist the fight against Valedictus, but may conflict with the party's obligations to Agatha and its response to the Syndicate's crimes.
+- The Bonebreakers' firm commitment to Agatha resolves their disagreement over Lirina's alliance offer: they cannot trust the countess and will not cooperate with her against Valedictus.
+- Taking Lirina towards Ikiria brings a hostage demand for her release. The road ambush ends with a civilian hostage killed and Lirina still captive; the attackers' allegiance is unclear.
 
 ## Related characters and NPCs
 
@@ -166,13 +170,14 @@ Micaelis has revealed that the party is in contact with Agatha, but withheld her
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-069|Session 69 - A Cruel Bargain]]
 
 ## Loose ends
 
 - Lirina is identified as the Grey Khan and claims to answer to nobody, supported by ESP. The extent of her operations and any other forces behind the unrest remain uncertain.
 - The party must protect Agatha's secrecy and conceal Count Venn's referral.
 - Lirina's ambition for the ducal seat is confirmed, and her recognition of the party is explained by her spy network. She admits using Arthur, but her precise role in his decisions and the continuing threat to Agatha remains unclear.
-- What to do with the captive countess, whether to accept her alliance, and how the Watch will respond remain undecided.
+- The plan is to leave the captive countess in Ikiria and attempt contact with Agatha. Who will hold Lirina there is **Needs review**. Her alliance offer has been rejected; the Watch's response remains unknown.
 - Lirina's encoded letters remain undeciphered. How she concealed her identity as Ash, and the significance of the dagger she wants returned: **Needs review**.
 - Who is writing to Lady Miranda, and what she is meant to learn from Wendell before he gives evidence, are unknown.
 - The noble's nightmare of Audrey's murder has no confirmed connection to a plot; he says he does not know why he has such a dream.

@@ -30,6 +30,7 @@ related_sessions:
   - 62
   - 64
   - 68
+  - 69
 related_locations:
   - The Mercy
   - Necropolis
@@ -77,6 +78,7 @@ source_sessions:
   - 62
   - 64
   - 68
+  - 69
 ---
 
 ## Overview
@@ -136,6 +138,7 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 - Wistor opens the spiked Mercy trapdoor from below with Knock. The party returns to the Mercy, closes the trapdoor, and spikes it shut again.
 - In [[sessions/session-062|Session 62]], the party obtains eleven Potions of Water Breathing from Erasmus Vale after breaking the siege of Westfort. This removes the practical obstacle that previously forced the Bonebreakers to withdraw from the flooded Sunken Market routes.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], the captive [[npcs/velur/lirina|Lirina]], identified as Ash and the Grey Khan, offers an alliance against the Necropolis's evil. She wants Valedictus destroyed, but the party is divided over cooperating with her.
+- At the start of [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers decide Lirina cannot be trusted, reject her alliance, and firmly side with Agatha before leaving for Ikiria.
 
 ## Current status
 
@@ -143,7 +146,7 @@ Active, with exploration temporarily deferred. The Bonebreakers have escaped the
 
 The delve has produced a new central threat: Valedictus remains in power, possesses three phylacteries, and is connected to the unknown Stylus. The glowing skull that Steve traded away is strongly implicated as one phylactery, while the three-locked soul-bound chest may hold another. The larger unresolved questions also include Captain Varro's release, the sealed Eighth Wing, the guarded Imperial Family Tomb, House Varrick, the Tribune, the restoration works, the Sunken Market, the dark druids, and the possible link between the Necropolis and the Crimson Bishop.
 
-The Bonebreakers have returned to the Mercy through Agatha's investigation, bringing Lirina, identified as Ash and the Grey Khan, as a prisoner. She offers them all treasure they find in the Necropolis in exchange for help destroying its evil and stabilising Agria. Her hatred of Valedictus is real, but the party is divided over working with an enemy responsible for killing, child kidnappings, arson, and invasions. No alliance has been agreed and the delve has not resumed.
+The Bonebreakers are travelling towards Ikiria with Lirina, identified as Ash and the Grey Khan, as their prisoner, intending to leave her there and contact Agatha. She offered them all treasure they find in the Necropolis in exchange for help destroying its evil and stabilising Agria. Her hatred of Valedictus is real, but the Bonebreakers have rejected her alliance because they cannot trust her and firmly sided with Agatha. The delve has not resumed.
 
 ## Consequences
 
@@ -165,7 +168,7 @@ The Bonebreakers have returned to the Mercy through Agatha's investigation, brin
 - The Tribune's sealing order confirms authority beyond the Arch V restoration works.
 - Ulrich's Continual Light leaves a powerful incorporeal spirit permanently blinded but still active in the command quarter.
 - Barny has permanently gained control of a wight and six skeletons, although whether they left the drill yard with him needs review.
-- The Syndicate's interest in the Necropolis now has a stated purpose: its captive leader wants Valedictus destroyed. Her wider plans and the proposed alliance remain unresolved.
+- The Syndicate's interest in the Necropolis now has a stated purpose: its captive leader wants Valedictus destroyed. Her wider plans remain unresolved; the Bonebreakers have rejected the proposed alliance.
 
 ## Related characters and NPCs
 
@@ -221,6 +224,7 @@ The Bonebreakers have returned to the Mercy through Agatha's investigation, brin
 - [[sessions/session-062|Session 62]]
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-069|Session 69 - A Cruel Bargain]]
 
 ## Loose ends
 
@@ -253,4 +257,4 @@ The Bonebreakers have returned to the Mercy through Agatha's investigation, brin
 - The nature and location of the Stylus, the locations of Valedictus's three phylacteries, and the glowing skull's present location remain unresolved.
 - Whether the three-locked soul-bound chest contains another phylactery remains only a suspicion.
 - The other occupants of House Varrick Tomb and the subjects of Lord Varrick's rejected petitions remain unknown.
-- Whether to accept Lirina's alliance, what help she can provide, and how her feared plague relates to the Necropolis remain unresolved.
+- The Bonebreakers have rejected Lirina's alliance. How her feared plague relates to the Necropolis remains unresolved.
