@@ -15,6 +15,7 @@ source_sessions:
   - 64
   - 65
   - 66
+  - 71
 ---
 
 ## Overview
@@ -54,6 +55,7 @@ The Northlands are the northern duchy of Agria, where Prince Arthur holds the du
 - In [[sessions/session-064|Session 64]], the Bonebreakers accept Agatha’s investigation and sail from Harrow past fishing villages on the Salt Coast to the city-state of Kingsport.
 - In [[sessions/session-065|Session 65]], the search of Arthur’s Palace links him to [[npcs/vellure/lirina|Lirina]] through correspondence and increasingly frequent journeys to Velluria. Her masquerade in Vellure offers a lead, while rumours of permanent palace closure remain unconfirmed.
 - In [[sessions/session-066|Session 66 - Masquerade]], the party enters Lirina's gathering at the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]]. Nila hears rumours that Lirina wants Arthur's place and takes a letter from a noblewoman with royal connections. The countess's role in the wider threat remains unproven.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], maps in the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]], reached through the highlands north of Ikiria, mark roads, rivers, noble estates, and East Agria Company routes. The party suspects a scheme involving Northlands unification, but finds no explanation of its purpose or means.
 
 ## Related sessions
 
@@ -63,7 +65,8 @@ The Northlands are the northern duchy of Agria, where Prince Arthur holds the du
 - [[sessions/session-064|Session 64]]
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-066|Session 66 - Masquerade]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]
 
 ## Unresolved threads or mysteries
 
-- The extent and leadership of the conspiracy Agatha suspects across the Northlands remain unknown.
+- The Bonebreakers identify Lirina as the Grey Khan, but the full reach of the threat Agatha suspects remains unknown. The cave stronghold's maps suggest Northlands unification without establishing who would control it or how it would be achieved.

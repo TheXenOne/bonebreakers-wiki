@@ -25,6 +25,7 @@ source_sessions:
   - 65
   - 67
   - 68
+  - 71
 ---
 
 ## Overview
@@ -63,6 +64,7 @@ Needs review.
 - In [[sessions/session-065|Session 65]], he plants some of Arthur's stolen jewels on [[npcs/kingsport/corvin-dace|Corvin Dace]] while Steve restrains him. The fabricated evidence, backed by the charmed Elswyth's testimony, secures Corvin's arrest by the Queen's Guard.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Michaelis guards the doors to the servants' quarters of the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]] while the others capture and hide [[npcs/vellure/lirina|Lirina]], letting nobody in or out. During her interrogation he asks whether she is the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]]; her smile and her thoughts show that she knows who the Khan is but is not the Khan herself.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], Michaelis warns the party of the approaching Watch and drives a carriage out of the Gilt Palace with Rose still posing as Lirina and pretending to be ill. At the Mercy he proposes cooperation with Lirina if she will work with Agatha, revealing the party's contact with the princess while refusing to disclose her location. No agreement follows.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], an otyugh in the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]] bites Michaelis and infects him with a disease that would kill him in six days. Steve lassoes him and pulls him back to the ledge. After the party retreats to the entrance camp, Arden cures the infection.
 
 ## Relationships
 
@@ -70,7 +72,7 @@ Needs review.
 
 ## Current status
 
-Active with the Bonebreakers in Agatha's covert investigation. His planted evidence has helped secure Corvin's arrest for the party's theft. Whether his ancient imperial armour is cursed remains unresolved.
+Active.
 
 ## Related sessions
 
@@ -88,3 +90,4 @@ Active with the Bonebreakers in Agatha's covert investigation. His planted evide
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]

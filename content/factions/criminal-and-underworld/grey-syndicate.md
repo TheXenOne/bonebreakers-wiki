@@ -18,6 +18,7 @@ related_locations:
   - Spider's Market
   - Invasion Fort
   - Westmarsh
+  - Grey Syndicate Caverns
 source_sessions:
   - 35
   - 36
@@ -36,6 +37,7 @@ source_sessions:
   - 68
   - 69
   - 70
+  - 71
 ---
 
 ## Overview
@@ -66,6 +68,7 @@ The Syndicate is the main hidden enemy behind the Westfort sabotage arc and late
 - [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
 - [[locations/world/westmarsh|Westmarsh]]
+- [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]] — concealed communications, provisions, contraband, and planning maps north of Ikiria. Whether it is the principal headquarters remains unknown.
 
 ## Allies and enemies
 
@@ -89,10 +92,11 @@ The Syndicate is the main hidden enemy behind the Westfort sabotage arc and late
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], at the Mercy, Selvar's ESP identifies Lirina as Ash. Her thoughts distinguish Lirina from the Grey Khan, but she affirms that Ash is the Khan; the Bonebreakers conclude that they have captured the Syndicate's leader. She admits using Arthur, justifies replacing Westfort's defenders with her army, and says her plans will continue without her. Her genuine hatred of Valedictus opens the possibility of an alliance, which the Bonebreakers have not accepted.
 - In [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers reject Lirina's alliance because they cannot trust her and firmly side with Agatha. Later, ninja orcs demand Lirina's release while the Bonebreakers travel towards Ikiria. The ambush ends with a civilian hostage killed and two orcs escaping; Lirina remains captive. The attackers' allegiance is **Needs review** and Syndicate involvement is unconfirmed.
 - In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], Lirina is jailed in Ikiria under warnings of a likely breakout and orders forbidding contact with Arthur. Morel identifies Thorngate Abbey as a lead for the poetry cipher. The Bonebreakers choose a concealed forest route to avoid Syndicate orcs, but find evidence of recent orc activity; the forest orcs' allegiance is unconfirmed.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], the Bonebreakers penetrate the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]], where familiar coded messages identify a Syndicate base. They recover page 19 of another [[items/poetry-cipher-book|poetry cipher book]] and take communications, payment records, and emergency payments. The records concern nobles, merchants, and smugglers. A map table suggests a Northlands unification scheme without explaining its purpose or means. The cave orcs remain undefeated.
 
 ## Current status
 
-Active despite Arthur's arrest, the defeat of Kargaz's army, and Lirina/Ash's imprisonment in Ikiria. The Bonebreakers warn the prison guards of a likely breakout and prohibit contact between Lirina and Arthur. Lirina says her plans will continue without her personal direction. She genuinely wants Valedictus destroyed, but the Bonebreakers have rejected her proposed cooperation because they cannot trust her and firmly sided with Agatha. Her justification for the invasion is that her army would have defended Westfort better; her claim to serve Agria's stability does not erase the network's crimes.
+Active despite Lirina's imprisonment in Ikiria.
 
 ## Related sessions
 
@@ -112,6 +116,7 @@ Active despite Arthur's arrest, the defeat of Kargaz's army, and Lirina/Ash's im
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
 - [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]
 
 ## Unresolved threads
 
@@ -120,6 +125,8 @@ Active despite Arthur's arrest, the defeat of Kargaz's army, and Lirina/Ash's im
 - Whether the orc delay order was meant to keep the Bonebreakers away from Westfort, the Necropolis, or something else remains unresolved.
 - Lirina justifies the invasion as a way to garrison Westfort with her own army; how this fits the promise of control to Kargaz remains unclear.
 - Whether a force beyond the Syndicate is involved in the Northlands unrest remains unknown.
-- The contents of Lirina's encoded letters remain unknown. The Bonebreakers are seeking another copy of the poetry cipher and the missing key at Thorngate Abbey.
+- Page 19 supplies the key to Lirina's corresponding letter, but the letter has not yet been decoded. Earlier cipher pages and the other letters remain unresolved, and Thorngate Abbey is still unreached.
 - Whether the ninja orcs who demand Lirina's release act for the Syndicate, and what the two escaped attackers will do next: **Needs review**.
-- Whether the forest orcs on the abbey route belong to the Syndicate, and whether Lirina's network will attempt to free her, remain unresolved.
+- The outside orcs' allegiance and relationship to the cave defenders remain unconfirmed. Their offer of passage requires help against dark orcs, and the party has not yet fulfilled that bargain. Whether the network will attempt to free Lirina also remains unresolved.
+- Whether the caverns are the principal headquarters, who commands the cave orcs, and how the pinned estates and Company routes fit the suspected Northlands plan remain unknown.
+- The identities behind the coded payments, the meaning of the seized records, and ownership of the contraband remain unresolved.

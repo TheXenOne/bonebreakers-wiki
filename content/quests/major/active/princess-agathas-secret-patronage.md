@@ -30,6 +30,7 @@ related_sessions:
   - 68
   - 69
   - 70
+  - 71
 related_locations:
   - Fos Imeras
   - Ikiria
@@ -42,6 +43,7 @@ related_locations:
   - Vellure
   - Gilt Palace
   - Thorngate Abbey
+  - Grey Syndicate Caverns
 related_npcs:
   - Princess Agatha
   - Commander Smith
@@ -79,6 +81,7 @@ source_sessions:
   - 68
   - 69
   - 70
+  - 71
 ---
 
 ## Overview
@@ -105,14 +108,11 @@ The party first meets Agatha as a stranded noble on [[locations/world/fos-imeras
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], the Bonebreakers resist Dame Silka Voss's attempt to arrest them, escape Vellure with Lirina, and take her to the Mercy. ESP identifies her as Ash and links Ash to the Grey Khan. Lirina admits treating Arthur as a useful tool, says she answers to nobody, and offers cooperation against Valedictus. Michaelis reveals contact with Agatha but refuses to name her hiding place. The alliance debate remains unresolved.
 - In [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers decide Lirina cannot be trusted, reject her alliance, and firmly side with Princess Agatha. They leave for Ikiria with Lirina, intending to leave her there and contact Agatha. Ninja orcs use two farmers and their captive daughter to demand her release. Akal sets the carriages alight before the party agrees on a response. Rose pursues the fleeing captor, but he kills the girl before she reaches him. Most attackers are killed and two escape. Their allegiance is **Needs review**.
 - In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], the Bonebreakers jail Lirina in Ikiria, inspect the prison, warn of a likely breakout, and prohibit contact with Arthur. Smith assures them that it is the safest available prison. Morel traces the poetry cipher to monastic copying and identifies [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]] as a lead for another copy and the missing key. The party takes a concealed route north to avoid Syndicate orcs, but trees reveal recent orc activity; those orcs' allegiance is unconfirmed. The abbey has not been reached and no report to Agatha has been delivered.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], orcs lead the party into the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]] after offering passage in exchange for help against dark orcs. Akal conceals the terms, then admits lying after the party is badly hurt by arrow defences and otyughs. Beyond them, familiar coded messages reveal a Syndicate stronghold. Page 19 of another [[items/poetry-cipher-book|poetry cipher book]] supplies the key for Lirina's matching letter. The Bonebreakers take emergency funds, correspondence, and payment records concerning nobles, merchants, and smugglers. A map table suggests a Northlands unification scheme without explaining its purpose. The cave orcs remain undefeated, the contraband crates remain underground, and Agatha has not received the findings.
 
 ## Current status
 
-Active. Agatha remains in hiding and has not yet received the Bonebreakers' report. Their investigation has identified Lirina as Ash and the Grey Khan; they have rejected her alliance and firmly sided with the princess.
-
-Lirina is now jailed in Ikiria, with guards warned to expect a breakout and ordered never to let her speak with Arthur. Smith assures the party of the prison's security. The Bonebreakers have left northwards for Thorngate Abbey, seeking another copy of the poetry cipher and the missing key to her correspondence. Securing a prison for Lirina is complete; deciphering the letters, reporting to Agatha, and resolving the wider threat remain unfinished.
-
-Lirina knows that the party can contact Agatha, but Michaelis has withheld her hiding place.
+Active. Agatha remains in hiding and has not received the Bonebreakers' findings.
 
 ## Consequences
 
@@ -129,7 +129,7 @@ Lirina knows that the party can contact Agatha, but Michaelis has withheld her h
 - The Bonebreakers' firm commitment to Agatha resolves their disagreement over Lirina's alliance offer: they cannot trust the countess and will not cooperate with her against Valedictus.
 - Taking Lirina towards Ikiria brings a hostage demand for her release. The road ambush ends with a civilian hostage killed and Lirina still captive; the attackers' allegiance is unclear.
 - Lirina's placement in Ikiria secures a prison for the captured leader, but the anticipated breakout and risk of communication with Arthur require continuing precautions.
-- The poetry book gives the investigation a new destination at Thorngate Abbey; the letters remain undeciphered until the missing key can be found.
+- The surviving nineteenth page of the [[items/poetry-cipher-book|poetry cipher book]] supplies the key to one of Lirina's letters before the abbey is reached. The party also holds records from a Syndicate stronghold, potentially useful as evidence or blackmail. Their political implications remain unknown. The letter has not yet been decoded.
 
 ## Related characters and NPCs
 
@@ -158,6 +158,7 @@ Lirina knows that the party can contact Agatha, but Michaelis has withheld her h
 - [[locations/world/agria/northlands/velluria/vellure|Vellure]]
 - [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]]
 - [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]]
+- [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]]
 
 ## Related factions
 
@@ -183,6 +184,7 @@ Lirina knows that the party can contact Agatha, but Michaelis has withheld her h
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
 - [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]
 
 ## Loose ends
 
@@ -190,10 +192,11 @@ Lirina knows that the party can contact Agatha, but Michaelis has withheld her h
 - The party must protect Agatha's secrecy and conceal Count Venn's referral.
 - Lirina's ambition for the ducal seat is confirmed, and her recognition of the party is explained by her spy network. She admits using Arthur, but her precise role in his decisions and the continuing threat to Agatha remains unclear.
 - Lirina is jailed in Ikiria, with Smith assuring the party of the prison's security. A breakout remains a concern and contact with Arthur is forbidden. The report to Agatha and the Watch's response remain unresolved.
-- Lirina's encoded letters remain undeciphered. Morel identifies Thorngate Abbey as a lead for another copy of the poetry cipher and its missing key, but the party has not reached it. How she concealed her identity as Ash, and the significance of the dagger she wants returned: **Needs review**.
+- Page 19 supplies the key to Lirina's matching letter, which has not yet been decoded. The rest of the correspondence and the significance of the seized payments remain unknown. The map table suggests Northlands unification without proving an intended outcome. How she concealed her identity as Ash, and the significance of the dagger she wants returned: **Needs review**.
 - Who is writing to Lady Miranda, and what she is meant to learn from Wendell before he gives evidence, are unknown.
 - The noble's nightmare of Audrey's murder has no confirmed connection to a plot; he says he does not know why he has such a dream.
 - Elswyth supports the party while charmed. The consequences of Corvin's false arrest and the fate of the letters he took remain unresolved.
 - What “Smith already knows” means, including which Smith is meant, remains unclear.
 - Queen Audrey II's reported illness remains unexplained: **Needs review**.
 - Agatha's personal authorship of the letter was not explicitly confirmed, although the summons led to her.
+- The recovered records may provide evidence or blackmail material, but the identities behind the coded payments and their connection to the threat against Agatha remain unknown.

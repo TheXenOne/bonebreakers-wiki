@@ -7,6 +7,7 @@ tags:
 parent_location: "[[locations/world/agria/northlands/grainholm|Grainholm]]"
 source_sessions:
   - 70
+  - 71
 ---
 
 ## Overview
@@ -22,10 +23,11 @@ The abbey lies in Grainholm. Its exact site within the county is **Needs review*
 ## Campaign events
 
 - In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], Morel identifies the abbey as a lead for the cipher investigation. The Bonebreakers leave Ikiria to seek another copy of the poetry book, but encounters and traps interrupt their passage through the forest.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], orcs divert the party into the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]] before it reaches the abbey. A second [[items/poetry-cipher-book|poetry cipher book]] there retains page 19, supplying the key for one of Lirina's letters. The earlier pages remain missing.
 
 ## Current status
 
-The Bonebreakers are travelling towards the abbey. Whether it holds another copy of the poetry book, and whether that copy would supply the cipher key, remain unconfirmed.
+Unreached.
 
 ## Related threads
 
@@ -35,3 +37,4 @@ The Bonebreakers are travelling towards the abbey. Whether it holds another copy
 ## Related sessions
 
 - [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]

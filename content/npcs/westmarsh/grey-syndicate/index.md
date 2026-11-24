@@ -19,6 +19,7 @@ source_sessions:
   - 68
   - 69
   - 70
+  - 71
 ---
 
 ## Overview
@@ -57,6 +58,7 @@ The Grey Syndicate is the main covert organisation behind the Westfort sabotage 
 - [[locations/world/agria/west-fort/index|Westfort]]
 - [[locations/world/westmarsh/spiders-market|The Spider's Market]]
 - [[locations/world/westmarsh/invasion-fort|The Invasion Fort]]
+- [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]]
 
 ## Relationships
 
@@ -73,10 +75,11 @@ The Grey Syndicate is the main covert organisation behind the Westfort sabotage 
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], at the Mercy, Selvar's ESP identifies Lirina as Ash. Her thoughts distinguish Lirina from the Grey Khan, but she affirms that Ash is the Khan; the Bonebreakers conclude that they have captured the Syndicate's leader.
 - At the start of [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers reject Lirina's alliance because they cannot trust her and firmly side with Agatha.
 - In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], the Bonebreakers jail Lirina in Ikiria, warn of a likely breakout, and forbid her from speaking with Arthur. Morel identifies Thorngate Abbey as a lead for another copy of the poetry cipher and its missing key.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]] yield communications, payment records, and page 19 of another [[items/poetry-cipher-book|poetry cipher book]], supplying the key to Lirina's matching letter. Maps suggest a wider Northlands scheme without establishing its purpose.
 
 ## Current status
 
-Lirina/Ash is imprisoned in Ikiria, with guards warned of a likely breakout and ordered never to allow contact with Arthur. Smith assures the party of the prison's security. The Bonebreakers have rejected her alliance against Valedictus and firmly sided with Agatha, but have not yet delivered their findings. They are pursuing the poetry cipher towards [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]]. Lirina says her plans can continue without her; the wider network remains active.
+The network remains active despite Lirina's imprisonment in Ikiria.
 
 ## Related sessions
 
@@ -89,6 +92,7 @@ Lirina/Ash is imprisoned in Ikiria, with guards warned of a likely breakout and 
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
 - [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]
 
 ## Unresolved threads
 

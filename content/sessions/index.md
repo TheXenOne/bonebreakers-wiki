@@ -76,3 +76,4 @@ Published session pages:
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
 - [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]

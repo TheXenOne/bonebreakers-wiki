@@ -32,6 +32,7 @@ related_sessions:
   - 68
   - 69
   - 70
+  - 71
 related_locations:
   - The Mercy
   - Necropolis
@@ -81,6 +82,7 @@ source_sessions:
   - 68
   - 69
   - 70
+  - 71
 ---
 
 ## Overview
@@ -144,11 +146,7 @@ After the rescue from Westmarsh, the party returns to the Mercy in [[sessions/se
 
 ## Current status
 
-Active, with exploration temporarily deferred. The Bonebreakers have escaped the command quarter through Arch I and returned to the Mercy. Wistor's Knock spell proves the lower trapdoor can be reopened from the Nexus side, although the party has closed and spiked it again. They now possess eleven Potions of Water Breathing, allowing them to resume exploration of the flooded Sunken Market routes.
-
-The delve has produced a new central threat: Valedictus remains in power, possesses three phylacteries, and is connected to the unknown Stylus. The glowing skull that Steve traded away is strongly implicated as one phylactery, while the three-locked soul-bound chest may hold another. The larger unresolved questions also include Captain Varro's release, the sealed Eighth Wing, the guarded Imperial Family Tomb, House Varek, the Tribune, the restoration works, the Sunken Market, the dark druids, and the possible link between the Necropolis and the Crimson Bishop.
-
-The Bonebreakers have jailed Lirina, identified as Ash and the Grey Khan, in Ikiria and are pursuing the poetry cipher towards [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]]. Her hatred of Valedictus is real, but they have rejected her alliance because they cannot trust her and firmly sided with Agatha. Their findings have not yet reached the princess, and exploration of the Necropolis has not resumed.
+Active, with exploration temporarily deferred.
 
 ## Consequences
 
@@ -228,6 +226,7 @@ The Bonebreakers have jailed Lirina, identified as Ash and the Grey Khan, in Iki
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
 - [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]
 
 ## Loose ends
 

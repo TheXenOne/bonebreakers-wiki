@@ -10,6 +10,7 @@ source_sessions:
   - 68
   - 69
   - 70
+  - 71
 aliases:
   - npcs/velur/lirina
   - Lirina Kartashyan
@@ -34,7 +35,7 @@ Lirina says Arthur adored her and had an intensely hostile relationship with Aga
 
 ## Covert activities
 
-The Bonebreakers recover encoded letters belonging to her spy network and the poetry book used as their cipher from her study in the Gilt Palace. [[npcs/flux-academy/illitharien-morel|Illitharien Morel]] confirms that the poetry was published in Agria and copied by monks, identifying [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]] as a lead for another copy and the missing key. The letters remain undeciphered.
+The Bonebreakers recover encoded letters belonging to her spy network and the poetry book used as their cipher from her study in the Gilt Palace. [[npcs/flux-academy/illitharien-morel|Illitharien Morel]] confirms that the poetry was published in Agria and copied by monks, identifying [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]] as a lead for another copy and the missing key. The [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]] yield another [[items/poetry-cipher-book|poetry cipher book]] with page 19 intact, supplying the key to her corresponding letter. The letter has not yet been decoded, and other missing pages still prevent a full reading of her correspondence. The party also seizes communications and payment records concerning nobles, merchants, and smugglers, potentially useful as evidence against her network.
 
 Her bedroom wardrobe has a false back concealing dark clothing for covert work, and a secret exit leads to an alley behind the palace. A locked closet contains daggers, poisons, and a disguise kit, all apparently sized for her. The evidence strongly suggests that she is an assassin herself.
 
@@ -50,13 +51,12 @@ Lirina regards Valedictus as an arch-enemy she wants destroyed. Selvar's ESP con
 
 ## Current status
 
-Imprisoned in Ikiria after the Bonebreakers reject her alliance and firmly side with Agatha. The party inspects the prison, warns the guards to expect a breakout attempt, and orders that she must never speak with Arthur, who is also imprisoned in the city. [[npcs/agria/east-agria-company/commander-smith|Commander Smith]] assures them this is the safest available place to hold her.
-
-Lirina knows the Bonebreakers can contact Agatha but not where the princess is hidden. Her spy network remains an active concern, and the party is pursuing the poetry cipher towards Thorngate Abbey.
+Imprisoned in Ikiria, with contact with Arthur forbidden.
 
 ## Open questions
 
-- The contents of the encoded letters and the extent of her spy network.
+- The nineteenth letter has not yet been decoded. The remaining encoded correspondence and the extent of her spy network remain unknown.
+- Whether the cave stronghold's maps suggesting Northlands unification reflect her wider plans, and how the seized payment records fit them.
 - Which plans and forces will continue operating while she is captive.
 - Her precise role in Arthur's decisions and the continuing threat to Agatha.
 - The cause and likelihood of the kingdom-wide plague she fears.
@@ -73,3 +73,4 @@ Lirina knows the Bonebreakers can contact Agatha but not where the princess is h
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
 - [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]

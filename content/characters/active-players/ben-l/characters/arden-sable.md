@@ -63,6 +63,7 @@ source_sessions:
   - 66
   - 67
   - 70
+  - 71
 ---
 
 ## Overview
@@ -144,6 +145,7 @@ Cleric of Belenus and Bishop of the Mercy.
 - In [[sessions/session-066|Session 66 - Masquerade]], Arden attends Lirina's masquerade openly as a Belenite bishop, blessing the spectators before entering the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]] with Ulrich. He tries to promote Belenite healing to a physician, who withdraws in alarm when Arden says a companion is almost capable of resurrecting the dead.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Arden helps calm the darkened ballroom of the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]] by revealing his shining holy symbol and casting Bless over the frightened guests. Searching Lirina's bedroom afterwards, he finds the false back in her wardrobe and the covert clothing hidden behind it.
 - In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], Arden offers resurrection to the parents of the murdered hostage, but they refuse and end their Belenite subscription. In the forest north of Ikiria, he befriends a tree he names Trevor and learns that orcs killed a giant boar and concealed the evidence. He leaves the Barrow's glass eyes in Trevor's trunk, hoping to return. After witnessing Barny raise a slain wyvern, Arden confirms that it is undead with Detect Evil. His suspicions grow, although his trust in Barny keeps him from confronting him. Another tree reveals an orc-used trail, where Arden triggers a trap that drops an object onto him.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], The trail trap drops rocks onto Arden before orcs guide the party into the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]]. Wary of Akal's account, he stays at the rear, then sets the trapping portcullis alight during the arrow ambush. After the retreat, Akal admits lying about the outside orcs' fear, increasing Arden's suspicion of him. Arden protects the entrance camp with a warning trap, cures Michaelis's lethal otyugh disease, and spends his remaining healing magic on his companions.
 
 ## Relationships
 
@@ -153,10 +155,11 @@ Cleric of Belenus and Bishop of the Mercy.
 - Often works alongside [[characters/active-players/deri/characters/francis-spencer-gray|Frank]] on public-facing schemes.
 - Trusts [[characters/active-players/callum/characters/barnobuck-the-bizarre|Barny]], but is increasingly suspicious of his magic after witnessing the wyvern's reanimation and confirming that it is undead. He has not confronted him.
 - Befriends Trevor, a tree in the forest north of Ikiria, and hopes to return to him.
+- Becomes suspicious of [[characters/active-players/deri/characters/akal-dreek|Akal]] when he admits lying about the outside orcs being frightened of the party.
 
 ## Current status
 
-Active as Bishop of the Mercy, carrying Bran's sacrifice into his magic and public memory. His trust in Barny is under strain after he confirms that the wyvern Barny raised is undead; the concern remains unspoken.
+Active.
 
 ## Related sessions
 
@@ -213,3 +216,4 @@ Active as Bishop of the Mercy, carrying Bran's sacrifice into his magic and publ
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 - [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]

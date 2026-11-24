@@ -28,6 +28,7 @@ source_sessions:
   - 51
   - 63
   - 64
+  - 71
 ---
 
 ## Overview
@@ -43,7 +44,7 @@ The Company combines trade power, political influence, and private operational r
 - [[npcs/agria/princess-agatha|Princess Agatha]] is Governor of the Company.
 - [[npcs/agria/east-agria-company/commander-smith|Commander Smith]] serves as head of security and field liaison.
 - [[npcs/agria/east-agria-company/admiral-nelson|Admiral Nelson]] commands its maritime arm.
-- [[npcs/agria/east-agria-company/captain-winston|Captain Winston]] commands *Agatha's Favour* on the voyage to Harrow.
+- [[npcs/agria/east-agria-company/captain-winston|Captain Winston]] commands _Agatha's Favour_ on the voyage to Harrow.
 
 ## Notable members
 
@@ -74,12 +75,13 @@ The Company combines trade power, political influence, and private operational r
 - In [[sessions/session-045|Session 45]], Pell is sent to Smith with warning about Prince Arthur.
 - In [[sessions/session-047|Session 47]], Smith receives the evidence against Arthur at Company headquarters and orders his arrest.
 - In [[sessions/session-051|Session 51]], [[npcs/ikiria/vaessa-silvertread|Vaessa Silvertread]] agrees to ask the Company to lift or ease the quarantine because overcrowding is worsening disease in the Plats.
-- In [[sessions/session-063|Session 63]], a Company secretary gives the Bonebreakers an apparent letter from Agatha summoning them to Harrow, and the Company charters *Agatha's Favour* to transport them there.
+- In [[sessions/session-063|Session 63]], a Company secretary gives the Bonebreakers an apparent letter from Agatha summoning them to Harrow, and the Company charters _Agatha's Favour_ to transport them there.
 - In [[sessions/session-064|Session 64]], Agatha, Smith, and Nelson meet the Bonebreakers covertly in Harrow and renew the party’s confidential work for Agatha.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], maps in the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]] mark Company trade routes alongside roads, rivers, and noble estates. The arrangement suggests a Northlands unification scheme, but does not establish the Company's role or awareness.
 
 ## Current status
 
-Active and politically important. Agatha and Smith are alive and operating covertly alongside Nelson; Agatha has sent the Bonebreakers to investigate the threat to her through Arthur’s supporters.
+Active under Princess Agatha's leadership.
 
 ## Related sessions
 
@@ -92,8 +94,10 @@ Active and politically important. Agatha and Smith are alive and operating cover
 - [[sessions/session-051|Session 51]]
 - [[sessions/session-063|Session 63]]
 - [[sessions/session-064|Session 64]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]
 
 ## Unresolved threads
 
 - The Company's full size and internal structure remain only partly described.
 - Whether Agatha truly authorised the summons to Harrow remains unresolved.
+- The purpose of the Company routes marked on the Syndicate maps remains unknown.

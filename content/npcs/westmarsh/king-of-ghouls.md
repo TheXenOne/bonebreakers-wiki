@@ -5,16 +5,18 @@ tags:
   - npc
   - undead
 aliases: []
-status: active
+status: at large
 primary_location: Westmarsh
 affiliations:
   - Ghouls
-source_sessions: []
+source_sessions:
+  - 18
+  - 27
 ---
 
 ## Overview
 
-The King of Ghouls is the undead leader of all ghouls and one of the largest looming threats in Westmarsh. He remains at large.
+The King of Ghouls is the undead leader of all ghouls. Athlestan describes him as a lich who repeatedly returns. Athlestan's vision suggests the King is somewhere in Westmarsh.
 
 ## Appearance
 
@@ -26,7 +28,7 @@ Needs review.
 
 ## Role in the campaign
 
-- The King of Ghouls is treated as a major future danger rather than a directly encountered character.
+- [[characters/inactive-players/matt/characters/athlestan-ghoulsbane|Athlestan Ghoulsbane]]'s order is sworn to destroy the King of Ghouls. Athlestan's [[quests/minor/retired/king-of-ghouls-omens|personal quest against him]] is retired.
 
 ## Affiliations
 
@@ -37,22 +39,11 @@ Needs review.
 
 - [[locations/world/westmarsh|Westmarsh]]
 
-## Relationships
-
-- Athelstan's vision places him in Westmarsh.
-
-## Campaign events
-
-- He is a confirmed threat in Westmarsh, but the party has not yet met him directly.
-
 ## Current status
 
 At large.
 
 ## Related sessions
 
-- Needs review.
-
-## Unresolved threads
-
-- Everything about confronting the King of Ghouls remains unresolved.
+- [[sessions/session-018|Session 18]] — Athlestan describes his order and its enemy.
+- [[sessions/session-027|Session 27]] — The Memory Glove gives Athlestan a vision of the King in Westmarsh.

@@ -9,6 +9,7 @@ This page tracks notable Bonebreaker-held items, including both shared gear and 
 
 ## Notable shared items
 
+- [[items/poetry-cipher-book|Poetry Cipher Book]] — page 19 supplies the key to Lirina's corresponding letter, with earlier pages still missing.
 - [[items/party-inventory/age-reading-enchanted-gloves|Age-Reading Enchanted Gloves]]
 - [[items/party-inventory/amulet-of-protection-against-scrying|Amulet of Protection Against Scrying]]
 - [[items/party-inventory/asclepeion-map|Asclepeion Map]]

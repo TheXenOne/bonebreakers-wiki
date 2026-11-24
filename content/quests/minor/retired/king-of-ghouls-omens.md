@@ -1,8 +1,10 @@
 ---
 title: King of Ghouls Omens
 type: campaign-thread
-status: dormant
+status: retired
 importance: minor
+aliases:
+  - quests/minor/active/king-of-ghouls-omens
 tags:
   - campaign-thread
   - undead
@@ -27,7 +29,7 @@ source_sessions:
 
 ## Overview
 
-Athlestan's long-term mission against the King of Ghouls occasionally breaks into the main campaign, especially when Westmarsh's undead history becomes relevant.
+[[characters/inactive-players/matt/characters/athlestan-ghoulsbane|Athlestan Ghoulsbane]] belongs to an order sworn to destroy the [[npcs/westmarsh/king-of-ghouls|King of Ghouls]]. A vision he receives during the campaign points to Westmarsh.
 
 ## How it began
 
@@ -36,11 +38,11 @@ Athlestan describes his order's purpose in [[sessions/session-018|Session 18]], 
 ## Key developments
 
 - The party learns more about Westmarsh as a land ruined by necrotic disaster.
-- In [[sessions/session-027|Session 27]], Athlestan receives a vision pointing toward the King of Ghouls in Westmarches.
+- In [[sessions/session-027|Session 27]], Athlestan receives a vision pointing toward the King of Ghouls in Westmarsh.
 
 ## Current status
 
-Dormant. It remains an important warning, but not a main active objective yet.
+Retired. Athlestan left the active roster with his mission unresolved. His vision remains a clue to the King's whereabouts.
 
 ## Related characters and NPCs
 

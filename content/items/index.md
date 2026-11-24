@@ -12,6 +12,7 @@ Named magic items, relics, treasures, and notable party-held objects.
 
 ## Other notable items
 
+- [[items/poetry-cipher-book|Poetry Cipher Book]]
 - [[items/party-inventory/arch-iv-sunken-market-map|Arch IV Sunken Market Map]]
 - [[items/party-inventory/arch-v-necropolis-map|Arch V Necropolis Map]]
 - [[items/party-inventory/arch-v-iron-key|Arch V Iron Key]]

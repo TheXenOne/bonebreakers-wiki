@@ -6,14 +6,14 @@ tags:
 
 # Campaign Threads
 
-Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still shape the campaign.
+Quests, mysteries, and recurring dangers from across the campaign.
 
 ## Major Campaign Threads
 
 ### Active Threads
 
-- [[quests/major/active/princess-agathas-secret-patronage|Princess Agatha's Secret Patronage]] — The Bonebreakers have jailed Lirina in Ikiria and are seeking the poetry cipher at Thorngate Abbey. Agatha has not yet received their findings.
-- [[quests/major/active/grey-syndicate-conspiracy|Grey Syndicate Conspiracy]] — Lirina is imprisoned in Ikiria, with a breakout anticipated and contact with Arthur forbidden. The party pursues the cipher key towards Thorngate Abbey; the network remains active.
+- [[quests/major/active/princess-agathas-secret-patronage|Princess Agatha's Secret Patronage]] — The Bonebreakers have seized records from a Syndicate stronghold and found the key to one of Lirina's letters. Agatha has not received the findings, and the wider threat remains unresolved.
+- [[quests/major/active/grey-syndicate-conspiracy|Grey Syndicate Conspiracy]] — Lirina remains jailed while the party penetrates a cave stronghold, recovers page 19 of the cipher, and finds maps suggesting a Northlands scheme. The defenders and wider network remain active.
 - [[quests/major/active/necropolis-beneath-the-mercy|Necropolis Beneath the Mercy]]
 - [[quests/major/active/valedictus-and-his-phylacteries|Valedictus and His Phylacteries]] — The Bonebreakers reject Lirina's help because they cannot trust her; the phylacteries remain unsecured.
 
@@ -38,9 +38,7 @@ Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still s
 
 - [[quests/minor/active/sister-aldriths-relic-bounty|Sister Aldrith's Relic Bounty]]
 - [[quests/minor/active/barnys-search-for-immortality|Barny's Search for Immortality]]
-- [[quests/minor/active/king-of-ghouls-omens|King of Ghouls Omens]]
 - [[quests/minor/active/ulrichs-search-for-the-one-true-god|Ulrich's Search for the One True God]]
-- [[quests/minor/active/ehecats-vow-against-the-ramen-empire|Ehecat's Vow Against the Ramen Empire]]
 - [[quests/minor/active/grazka-and-the-gnolls-of-westmarsh|Grazka and the Gnolls of Westmarsh]]
 - [[quests/minor/active/gryphon-mounts|Gryphon Mounts]]
 
@@ -49,3 +47,8 @@ Open threads, mysteries, jobs, recurring dangers, and resolved arcs that still s
 - [[quests/minor/completed/the-mercys-poisoned-well|The Mercy's Poisoned Well]]
 - [[quests/minor/completed/plague-in-ikiria|Plague in Ikiria]]
 - [[quests/minor/completed/the-purified-of-fos-imeras|The Purified of Fos Imeras]]
+
+### Retired Threads
+
+- [[quests/minor/retired/ehecats-vow-against-the-ramen-empire|Ehecat's Vow Against the Ramen Empire]]
+- [[quests/minor/retired/king-of-ghouls-omens|King of Ghouls Omens]]

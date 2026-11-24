@@ -22,6 +22,7 @@ source_sessions:
   - 68
   - 69
   - 70
+  - 71
 ---
 
 ## Overview
@@ -77,12 +78,11 @@ Pragmatic, politically dangerous, and willing to reward useful service.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], Michaelis reveals to the captive Lirina that the party has been in contact with Agatha, but refuses to disclose her location. Lirina says a contract could be made to cooperate with the princess, without making a commitment. No agreement or report to Agatha follows.
 - At the start of [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers decide Lirina cannot be trusted, reject her alliance, and firmly side with Agatha. They set out towards Ikiria with the intention of leaving Lirina there and attempting contact with Agatha. A fatal hostage ambush interrupts the journey; the intended report remains undelivered.
 - In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], the Bonebreakers jail Lirina in Ikiria and forbid contact with Arthur, then leave to pursue the cipher lead at Thorngate Abbey. Agatha has not yet received their findings.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], the investigation reaches the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]]. The party seizes communications and payment records and finds the cipher page for one of Lirina's letters. Maps suggest a Northlands scheme without explaining it, and the findings have not been delivered to Agatha.
 
 ## Current status
 
-Alive and in hiding, last met covertly in Harrow with Smith and Nelson. She has renewed the Bonebreakers' commission to investigate the Northlands conspiracy, giving it priority over the Necropolis.
-
-Lirina now knows the Bonebreakers can contact her, but Michaelis has withheld her whereabouts. The Bonebreakers have firmly chosen to support Agatha and rejected Lirina's alliance because they cannot trust the countess, but their findings have not yet reached the princess. Lirina has been jailed in Ikiria with contact between her and Arthur forbidden. The Bonebreakers have left to pursue the poetry cipher towards Thorngate Abbey; no report to Agatha has yet been delivered.
+Alive and in hiding, last seen in Harrow.
 
 ## Related sessions
 
@@ -99,6 +99,7 @@ Lirina now knows the Bonebreakers can contact her, but Michaelis has withheld he
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
 - [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]
 
 ## Unresolved threads
 

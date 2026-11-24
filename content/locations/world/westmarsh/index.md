@@ -51,7 +51,7 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 
 - Gnolls, goblins, bugbears, hobgoblins, kobolds, orcs, and undead all operate here.
 - The Grey Syndicate uses the region as a covert base of operations.
-- Dark legends place the King of Ghouls somewhere within Westmarsh.
+- Dark legends place the [[npcs/westmarsh/king-of-ghouls|King of Ghouls]] somewhere within Westmarsh.
 
 ## Campaign events
 
@@ -80,4 +80,3 @@ Westmarsh is a monster-ridden wilderness west of the Southlands. It was once fer
 ## Unresolved threads or mysteries
 
 - The true scale of organisation across Westmarsh remains unresolved.
-- The King of Ghouls remains a looming threat rather than a fully explored one.

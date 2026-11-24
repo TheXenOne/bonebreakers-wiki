@@ -25,7 +25,7 @@ This sentient magic sword is recovered from the Nixies' treasure near [[location
 ## Known history
 
 - In [[sessions/session-017|Session 17]], the party claims the Nixies' treasure and Ehecat discovers that the recovered sword is tied to his lost people.
-- The sword deepens Ehecat's commitment to destroying the Ramen Empire and directly supports [[quests/minor/active/ehecats-vow-against-the-ramen-empire|Ehecat's Vow Against the Ramen Empire]].
+- The sword deepens [[quests/minor/retired/ehecats-vow-against-the-ramen-empire|Ehecat's vow against the Ramen Empire]].
 - In [[sessions/session-018|Session 18]], Ehecat's goals are discussed more openly, keeping the sword's significance in view even when its exact powers stay private.
 
 ## Current status

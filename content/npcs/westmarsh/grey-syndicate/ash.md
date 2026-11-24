@@ -18,6 +18,7 @@ source_sessions:
   - 68
   - 69
   - 70
+  - 71
 ---
 
 ## Overview
@@ -64,12 +65,11 @@ Confident, transactional, and dangerous.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], at the Mercy, Selvar's ESP identifies Lirina as Ash. Her thoughts distinguish Lirina from the Grey Khan, but she affirms that Ash is the Khan; the Bonebreakers conclude that they have captured the Syndicate's leader. She offers cooperation against Valedictus, but the party reaches no agreement.
 - In [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers reject Lirina's alliance because they cannot trust her and firmly side with Agatha. Later, ninja orcs demand Lirina in exchange for a farming couple's captive daughter while the Bonebreakers travel towards Ikiria. The girl is killed, most attackers die, and two escape. Lirina remains captive; the ambushers' allegiance is **Needs review**.
 - In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], the Bonebreakers jail Lirina in Ikiria, warn the guards of a likely breakout, and prohibit contact with Arthur. They leave to pursue the poetry cipher towards Thorngate Abbey.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], the party penetrates the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]] and seizes communications and payment records. Page 19 of another [[items/poetry-cipher-book|poetry cipher book]] supplies the key to Lirina's corresponding letter, potentially providing evidence against her. Maps suggest a Northlands scheme but do not explain it.
 
 ## Current status
 
-Imprisoned as Lirina in Ikiria, with guards warned to expect a breakout attempt and ordered never to allow her to speak with Arthur. Commander Smith assures the Bonebreakers that the prison is the safest available place to hold her. Her plans may continue without her personal direction, leaving the Syndicate an active concern.
-
-The Bonebreakers have rejected her alliance against Valedictus and firmly sided with Agatha. They are seeking another copy of the poetry cipher at [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]]; her other letters remain undeciphered.
+Imprisoned as Lirina in Ikiria, with contact with Arthur forbidden.
 
 ## Related sessions
 
@@ -81,6 +81,7 @@ The Bonebreakers have rejected her alliance against Valedictus and firmly sided 
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
 - [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]
 
 ## Unresolved threads
 

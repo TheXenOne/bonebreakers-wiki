@@ -54,6 +54,7 @@ tags:
 
 ## Dangerous sites
 
+- [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]]
 - [[locations/world/agria/southlands/barrowshire/barrow|The Barrow]]
 - [[locations/world/agria/southlands/barrowshire/tarantella-manor|Tarantella Manor]]
 - [[locations/world/agria/southlands/barrowshire/tarantella-manor/jewellers-sanctum|The Jeweller's Sanctum]]

@@ -32,6 +32,7 @@ source_sessions:
   - 68
   - 69
   - 70
+  - 71
 ---
 
 ## Overview
@@ -76,16 +77,11 @@ Leadership is shared and situational rather than strictly formal.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], the party escapes the Vellurian Watch with the captive countess, identifies Lirina as Ash and the Grey Khan at the Mercy, and debates her alliance offer against Valedictus without reaching a decision.
 - At the start of [[sessions/session-069|Session 69 - A Cruel Bargain]], the company decides Lirina cannot be trusted, rejects her alliance, and firmly sides with Princess Agatha. It sets out towards Ikiria to leave Lirina there and contact Agatha. Ninja orcs demand the countess in exchange for a farming couple's daughter. Akal sets the carriages alight before the party agrees on a response, triggering combat. Rose pursues the fleeing hostage-taker, but he kills the girl before she can reach him. Most attackers are killed and two escape.
 - In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], the company jails Lirina in Ikiria and follows Morel's poetry-cipher lead towards Thorngate Abbey. Akal's wolf is killed by jackalweres. Barny openly raises a slain wyvern, increasing Arden's suspicions. The party's concealed forest route reveals recent orc activity and traps before it reaches the abbey.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], the company survives the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]]' arrow defences and otyughs. Ulrich cures Akal's lethal infection and Arden cures Michaelis's. The party penetrates the stronghold, takes communications and payment records, and finds the cipher page for one of Lirina's letters. Maps suggest a wider Northlands scheme, but the cave orcs remain undefeated and the bargain to feed them to the surviving otyughs is unfulfilled.
 
 ## Current status
 
-Active and increasingly influential. The company is publicly honoured as a defender of Westfort and holds a key to the city.
-
-The party also remains Agatha's covert agent, investigating Arthur's supporters while protecting her concealment.
-
-The company has jailed Lirina, identified as Ash and the Grey Khan, in Ikiria and forbidden contact between her and Arthur. Its commitment to Agatha remains firm, but the princess has not yet received its findings. The Bonebreakers are travelling towards [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]] in search of the poetry cipher's missing key. Recent orc movements and traps complicate the forest route; their connection to the earlier hostage-takers is unconfirmed.
-
-Barny's open reanimation of a wyvern creates an unspoken strain in his relationship with Arden, who has confirmed that the creature is undead.
+Active, serving as Agatha's covert agents.
 
 ## Related sessions
 
@@ -106,6 +102,7 @@ Barny's open reanimation of a wyvern creates an unspoken strain in his relations
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
 - [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]
 
 ## Unresolved threads
 
@@ -113,5 +110,6 @@ Barny's open reanimation of a wyvern creates an unspoken strain in his relations
 - Its future relationship with Agatha, Arthur, and the Mercy's growing political weight remains unresolved.
 - Whether its captured gryphons can be safely trained and bred as mounts remains unresolved.
 - How the Vellurian Watch will respond to the party's escape remains unresolved.
-- Securing the missing cipher key, delivering the report to Agatha, and preventing Lirina's escape remain unfinished.
+- Page 19 supplies the key to one letter. Securing other cipher pages, interpreting the seized records and maps, reporting to Agatha, and preventing Lirina's escape remain unfinished.
+- The cave stronghold remains contested, and neither the promise to the otyughs nor the outside orcs' requested help against dark orcs is complete.
 - Arden has growing suspicions about Barny after the wyvern's reanimation, but has not confronted him.

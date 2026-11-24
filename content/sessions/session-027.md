@@ -76,7 +76,7 @@ The bargain becomes more complicated when Athlestan pulls a failsafe lever and t
 
 - Recovering and using the Harmonics Regulator is now essential to ending the tower crisis. Status: Resolved in Session 28.
 - The true fate of Arkeus Whizkeyrd is still unresolved at session end. Status: Partially resolved.
-- The warning about the King of Ghouls in Westmarches points toward a later regional threat. Status: Partially resolved.
+- The King of Ghouls omen. Status: Partially resolved. Athlestan's vision points to Westmarsh, and his [[quests/minor/retired/king-of-ghouls-omens|quest against the King]] is retired.
 - Several magical objects in the tower are found but not fully understood. Status: Needs review.
 
 ## Related sessions

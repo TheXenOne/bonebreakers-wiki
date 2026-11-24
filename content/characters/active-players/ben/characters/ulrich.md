@@ -54,6 +54,7 @@ source_sessions:
   - 65
   - 66
   - 67
+  - 71
 ---
 
 ## Overview
@@ -124,11 +125,13 @@ Cleric of none.
 - In [[sessions/session-065|Session 65]], he confirms a portrait was recently removed from Arthur's gallery and questions Hugh Mallory, who identifies Lirina and her masquerade as a lead. He considers Speak with Plants in the salon but does not cast it. The guards return the party's confiscated weapons after Corvin's arrest.
 - In [[sessions/session-066|Session 66 - Masquerade]], Ulrich accompanies Arden as a fellow cleric to the [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]] masquerade. He casts Continual Light on the symbol atop Arden's hat and on the gem they present as a gift.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Ulrich restores light to the darkened ballroom with light stones and organises the orderly evacuation of Lirina's guests. In her study he recognises a poetry book as the cipher for her encoded letters, and he opens her hidden armoury with Skeleton Key. During her interrogation he bluffs her with a fake cipher page assembled from the book's burned fragments; her panic lets Selvar read that one message is a warning to the [[npcs/westmarsh/grey-syndicate/the-grey-khan|Grey Khan]] about the Bonebreakers.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], Ulrich blinds an otyugh in the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]] with Light and barely survives the party's retreat. After the Bonebreakers reach safety, he cures Akal's lethal disease. Akal's gratitude leads him to say that Ulrich must follow the underground gods. The source of Ulrich's magic remains unknown.
 
 ## Relationships
 
 - Bought a hunting dog named [[characters/active-players/ben/retainers-followers/fred|Fred]] in [[sessions/session-004|Session 4]].
 - Works closely with the Bonebreakers' other clerics but keeps a distinct religious outlook.
+- [[characters/active-players/deri/characters/akal-dreek|Akal]] is deeply grateful after Ulrich cures his lethal infection and credits his magic to the underground gods. Ulrich's divine patron remains unidentified.
 
 ## Current status
 
@@ -180,3 +183,4 @@ Active.
 - [[sessions/session-065|Session 65]]
 - [[sessions/session-066|Session 66 - Masquerade]]
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]

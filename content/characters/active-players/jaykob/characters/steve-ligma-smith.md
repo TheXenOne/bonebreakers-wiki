@@ -40,6 +40,7 @@ source_sessions:
   - 67
   - 68
   - 70
+  - 71
 ---
 
 ## Overview
@@ -95,6 +96,7 @@ Barbarian.
 - In [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]], Steve slips into the servants' quarters during the blackout and physically restrains [[npcs/vellure/lirina|Lirina]] when she runs into the party, then takes her diamond necklace. Rose uses his sword to charm Lord Petran Cask. During Lirina's interrogation he begins preparing to torture her, and the rest of the party stops him.
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], Steve carries Lirina off the palace balcony and hides with her in the gardens, then charms a checkpoint guard to secure the escape. At the Mercy his questioning, alongside Selvar's ESP, connects Lirina to Ash and Ash to the Grey Khan.
 - In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], Steve's attempt to give money to the murdered hostage's parents offends them, but they accept his offer to pay for the funeral. Later, protected by Bran's Heroic Aura, he faces a wyvern's failed attack and delivers the killing blow before Barny raises it. He also fashions Trevor's damaged branch into a cudgel for Arden and investigates a cord trap without an obvious result.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], Steve convinces the forest orcs that he is an orc raised by humans while negotiating in Chaotic alongside Akal. In the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]], he pulls Michaelis away from the otyughs with a lasso and later breaks through the burning portcullis, allowing the party to escape the murder-hole corridor. He and Akal obtain the outside orcs' agreement to leave the Bonebreakers alone while they rest.
 
 ## Relationships
 
@@ -103,7 +105,7 @@ Barbarian.
 
 ## Current status
 
-Active and cured of the Bloated One's rotting disease.
+Active.
 
 ## Related sessions
 
@@ -135,3 +137,4 @@ Active and cured of the Bloated One's rotting disease.
 - [[sessions/session-067|Session 67 - Will the Real Countess Please Stand Up?]]
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]

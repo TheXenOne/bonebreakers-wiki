@@ -28,6 +28,7 @@ related_sessions:
   - 68
   - 69
   - 70
+  - 71
 related_locations:
   - Westfort
   - Spider's Market
@@ -41,6 +42,7 @@ related_locations:
   - Gilt Palace
   - Thorngate Abbey
   - Ikiria
+  - Grey Syndicate Caverns
 related_npcs:
   - Ash
   - Jeremy
@@ -75,6 +77,7 @@ source_sessions:
   - 68
   - 69
   - 70
+  - 71
 ---
 
 ## Overview
@@ -102,12 +105,11 @@ The thread becomes visible when the party exposes Vex's sabotage cell in [[sessi
 - In [[sessions/session-068|Session 68 - Ashes to Ashes]], at the Mercy, Selvar's ESP identifies Lirina as Ash. Her thoughts distinguish Lirina from the Grey Khan, but she affirms that Ash is the Khan; the Bonebreakers conclude that they have captured the Syndicate's leader. Lirina says her plans will continue without her and justifies the invasion as an attempt to replace Westfort's weak defenders with her own army. Her hatred of Valedictus is genuine, and a nightmare of plague ravaging Agria suggests fear of disaster. She offers an alliance, but the party cannot agree whether to accept.
 - In [[sessions/session-069|Session 69 - A Cruel Bargain]], the Bonebreakers decide Lirina cannot be trusted, reject her alliance, and firmly side with Princess Agatha. They leave for Ikiria with Lirina, intending to leave her there and contact Agatha. Ninja orcs use two farmers and their captive daughter to demand her release. Akal sets the carriages alight before the party agrees on a response. Rose pursues the fleeing captor, but he kills the girl before she reaches him. Most attackers are killed and two escape. Their allegiance is **Needs review**.
 - In [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]], the Bonebreakers jail Lirina in Ikiria, inspect the prison, warn of a likely breakout, and prohibit contact with Arthur. Smith assures them that it is the safest available prison. Morel traces the poetry cipher to monastic copying and identifies [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]] as a lead for another copy and the missing key. The party takes a concealed route north to avoid Syndicate orcs, but trees reveal recent orc activity; those orcs' allegiance is unconfirmed. The abbey has not been reached and no report to Agatha has been delivered.
+- In [[sessions/session-071|Session 71 - The Nineteenth Page]], orcs lead the party into the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]] after offering passage in exchange for help against dark orcs. Akal conceals the terms, then admits lying after the party is badly hurt by arrow defences and otyughs. Beyond them, familiar coded messages reveal a Syndicate stronghold. Page 19 of another [[items/poetry-cipher-book|poetry cipher book]] supplies the key for Lirina's matching letter. The Bonebreakers take emergency funds, correspondence, and payment records concerning nobles, merchants, and smugglers. A map table suggests a Northlands unification scheme without explaining its purpose. The cave orcs remain undefeated, the contraband crates remain underground, and Agatha has not received the findings.
 
 ## Current status
 
-Active, with the leadership mystery resolved from the Bonebreakers' perspective. [[npcs/vellure/lirina|Lirina]], identified as Ash and the Grey Khan, is imprisoned in Ikiria. The party warns of a likely breakout and forbids her from speaking with Arthur. Smith assures them of the prison's security. Lirina says her plans can continue without her; the dispersed network has not been dismantled.
-
-The Bonebreakers have rejected her alliance against Valedictus and firmly sided with Agatha, who has not yet received their findings. Morel identifies Thorngate Abbey as a lead for another copy of the poetry cipher and the missing key. The party is travelling there through the wooded highlands north of Ikiria. Trees describe recent orc movements, but neither those orcs' allegiance nor a connection to the earlier hostage-takers is established. The letters remain undeciphered.
+Active. Lirina is imprisoned in Ikiria, but the Syndicate remains operational.
 
 ## Consequences
 
@@ -124,7 +126,10 @@ The Bonebreakers have rejected her alliance against Valedictus and firmly sided 
 - The party has resisted arrest by the Vellurian Watch and removed a reigning countess from her palace; the political response remains unknown.
 - Lirina's captivity has prompted a demand for her release backed by a civilian hostage. The girl is killed and two attackers escape, leaving a threat of uncertain allegiance at large.
 - Lirina's placement in Ikiria secures a prison for the captured leader, but the anticipated breakout and risk of communication with Arthur require continuing precautions.
-- The poetry book gives the investigation a new destination at Thorngate Abbey; the letters remain undeciphered until the missing key can be found.
+- The surviving nineteenth page of the [[items/poetry-cipher-book|poetry cipher book]] supplies the key to one of Lirina's letters before the abbey is reached. The party also holds records from a Syndicate stronghold, potentially useful as evidence or blackmail. Their political implications remain unknown. The letter has not yet been decoded.
+- The stronghold reveals a store of communications and potential blackmail material extending beyond the previously identified handlers. Possession of records does not establish every named person's culpability.
+- The map table raises a possible Northlands unification objective, but the party has no explanatory orders confirming it.
+- One otyugh is killed and two survive under an unfulfilled food bargain. The party has not cleared or taken control of the lair.
 
 ## Related characters and NPCs
 
@@ -151,6 +156,7 @@ The Bonebreakers have rejected her alliance against Valedictus and firmly sided 
 - [[locations/world/agria/northlands/velluria/vellure/gilt-palace|Gilt Palace]]
 - [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]]
 - [[locations/world/agria/southlands/ikiria|Ikiria]]
+- [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]]
 
 ## Related factions
 
@@ -175,6 +181,7 @@ The Bonebreakers have rejected her alliance against Valedictus and firmly sided 
 - [[sessions/session-068|Session 68 - Ashes to Ashes]]
 - [[sessions/session-069|Session 69 - A Cruel Bargain]]
 - [[sessions/session-070|Session 70 - Dead Wyverns Tell No Tales]]
+- [[sessions/session-071|Session 71 - The Nineteenth Page]]
 
 ## Loose ends
 
@@ -185,10 +192,14 @@ The Bonebreakers have rejected her alliance against Valedictus and firmly sided 
 - Lirina genuinely wants Valedictus destroyed, but the Bonebreakers have rejected cooperation. What her wider plans entail remains unresolved.
 - Agatha has been found alive in hiding; Smith is now in Ikiria. The wider threat to Agatha, and any force beyond the Syndicate, remain unidentified.
 - Lirina admits treating Arthur as a useful tool but blames him for his own mistakes. Her precise influence over his decisions and the means of her intended rise to Duchess remain unclear.
-- Her encoded letters remain undeciphered. Morel traces the poetry cipher to monastic copying and identifies Thorngate Abbey, but another copy and the missing key remain unsecured.
+- Page 19 of the [[items/poetry-cipher-book|poetry cipher book]] supplies the key to Lirina's corresponding letter. The letter has not yet been decoded. Earlier cipher pages, the other letters, and whether Thorngate Abbey holds a complete copy remain unresolved.
 - The burned message “Smith already knows,” the payment for discretion in Harrow, and Corvin's repeated visits need explanation.
 - The hidden letter's author, recipient, and unclear reference to “con”: **Needs review**.
 - Corvin's arrest does not establish his actual role; the fate of the letters he took is **Needs review**.
 - Who sent the ninja orcs, how they knew to seek Lirina on the road, and whether they have any connection to the Syndicate: **Needs review**. Two escape; the fate of the hostage's killer is also **Needs review**.
 - Whether anyone will attempt to break Lirina out of Ikiria's prison or circumvent the prohibition on contact with Arthur remains unresolved.
-- Orcs have passed through the forest on the abbey route, killing a giant boar and attempting to hide the evidence. Their allegiance and any connection to the trapped trail are **Needs review**.
+- Orcs ambush the party on the trapped forest trail and guide it to the caves, offering passage for help against dark orcs. Their allegiance, relationship to the defenders, and connection to the earlier boar encounter or hostage ambush remain unknown.
+- Whether the caverns are the principal stronghold, who commands their defenders, and what lies beyond the river chamber remain unknown.
+- The map table's intended outcome and the roles of the marked estates and Company routes remain unknown.
+- The identities behind the coded payments and the owners of the contraband remain unknown. The place indicated by the “Harromir” trade label is **Needs review**.
+- The bargain with the surviving otyughs is not fulfilled, and the outside orcs' requested help against dark orcs remains unfinished.

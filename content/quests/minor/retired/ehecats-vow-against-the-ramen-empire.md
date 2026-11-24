@@ -1,8 +1,10 @@
 ---
 title: Ehecat's Vow Against the Ramen Empire
 type: campaign-thread
-status: dormant
+status: retired
 importance: minor
+aliases:
+  - quests/minor/active/ehecats-vow-against-the-ramen-empire
 tags:
   - campaign-thread
   - character-objective
@@ -40,7 +42,7 @@ In [[sessions/session-017|Session 17]], Ehecat learns that the sword recovered f
 
 ## Current status
 
-Dormant. The vow remains central to Ehecat, but no sustained action has been taken against the Ramen Empire yet.
+Retired. Ehecat left the active roster with his vow unresolved.
 
 ## Related characters and NPCs
 

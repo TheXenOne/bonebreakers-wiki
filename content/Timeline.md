@@ -76,12 +76,13 @@ source_sessions:
     68,
     69,
     70,
+    71,
   ]
 ---
 
-The Bonebreakers through [[sessions/session-070|Session 70]]. [[#Sessions 61–70|Jump to the latest events]].
+The Bonebreakers through [[sessions/session-071|Session 71]]. [[#Sessions 71–80|Jump to the latest events]].
 
-Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sessions 21–30|21–30]] · [[#Sessions 31–40|31–40]] · [[#Sessions 41–50|41–50]] · [[#Sessions 51–60|51–60]] · [[#Sessions 61–70|61–70]]
+Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sessions 21–30|21–30]] · [[#Sessions 31–40|31–40]] · [[#Sessions 41–50|41–50]] · [[#Sessions 51–60|51–60]] · [[#Sessions 61–70|61–70]] · [[#Sessions 71–80|71–80]]
 
 ## Sessions 1–10
 
@@ -510,3 +511,11 @@ Jump to: [[#Sessions 1–10|1–10]] · [[#Sessions 11–20|11–20]] · [[#Sess
   **Lirina is jailed; the poetry cipher sends the Bonebreakers towards Thorngate Abbey**
 
   In Ikiria, the party secures Lirina in prison, warns of a likely breakout, and forbids contact with Arthur. Morel traces her poetry cipher to monastic copying and identifies [[locations/world/agria/northlands/grainholm/thorngate-abbey|Thorngate Abbey]] as a lead for another copy and the missing key; the report to Agatha remains undelivered. He also identifies Fos Imeras's gnomish shrine origins and reports an unlocated island headquarters with a laboratory. On the concealed route north, Barny openly raises a slain wyvern, increasing Arden's suspicions when he confirms it is undead. Trees reveal recent orc activity, and Arden triggers a trap on an orc-used trail before the party reaches the abbey.
+
+## Sessions 71–80
+
+- [[sessions/session-071|Session 71]]
+
+  **A cave stronghold yields the nineteenth cipher page and evidence of a Northlands scheme**
+
+  Orcs divert the Bonebreakers from the abbey route into the [[locations/world/agria/grey-syndicate-caverns|Grey Syndicate Caverns]]. Akal conceals their demand for help against dark orcs, then admits lying after the party is nearly killed by arrow defences and otyughs. One otyugh is killed and two surrender. Ulrich cures Akal's lethal infection and Arden cures Michaelis's. Returning under a wooden covering, the party promises the survivors orcs as food, finds a second entrance, and seizes Syndicate communications and payment records. Page 19 of another [[items/poetry-cipher-book|cipher book]] supplies the key to Lirina's corresponding letter, which has not yet been decoded. Maps suggest a Northlands unification scheme without explaining it. The party reaches a river cavern with the cave orcs undefeated, the contraband still underground, and the otyugh bargain unfulfilled. Agatha has not received the findings.

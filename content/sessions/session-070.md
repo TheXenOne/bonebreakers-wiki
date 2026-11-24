@@ -94,13 +94,14 @@ Arden heads up the trail. A trap triggers, dropping something onto him and injur
 ## Threads raised this session
 
 - **[[quests/major/active/grey-syndicate-conspiracy|Lirina's custody]]:** **Placement resolved in Session 70; security still unresolved.** She is jailed in Ikiria. Smith assures the party this is the safest available prison, but the Bonebreakers anticipate a breakout and prohibit contact with Arthur.
-- **The encoded letters:** **Partially resolved.** Morel traces the poetry book to monastic copying and identifies Thorngate Abbey. Another copy and the cipher key remain unsecured.
+- **The encoded letters:** **Partially resolved in [[sessions/session-071|Session 71]].** Morel identifies Thorngate Abbey here. Before reaching it, the party finds another cipher book in a Syndicate stronghold with page 19 intact, supplying the key to Lirina's matching letter. The letter has not yet been decoded, and the earlier pages and other letters remain unresolved.
 - **[[quests/major/active/princess-agathas-secret-patronage|Reporting to Agatha]]:** **Still unresolved.** The party secures Lirina but has not delivered its findings to the princess.
 - **Fos Imeras and the gnomish laboratory:** **Partially resolved.** Morel identifies the island's ancient shrine history. The separate headquarters account remains an unlocated lead; its precise connection to Fos Imeras is **Needs review**.
 - **Barny's undead wyvern:** **Still unresolved.** Arden confirms its nature and becomes increasingly suspicious of Barny, without confronting him.
-- **Orcs along the forest route:** **Still unresolved.** Two trees provide evidence of recent activity, and Arden is injured by a trap. The orcs' allegiance and any connection to the earlier hostage-takers remain **Needs review**.
+- **Orcs along the forest route:** **Partially resolved in [[sessions/session-071|Session 71]].** Falling rocks cause Arden's injury, and orcs appear in the surrounding trees. They offer passage for help against dark orcs and guide the party to caves later identified as a Syndicate stronghold. The outside orcs' allegiance and any connection to the earlier hostage-takers remain unknown.
 - **The farmers' loss of faith:** **Resolved in Session 70.** They refuse resurrection, accept funeral support, and end their Belenite subscription.
 
 ## Related sessions
 
 - Previous: [[sessions/session-069|Session 69 - A Cruel Bargain]]
+- Next: [[sessions/session-071|Session 71 - The Nineteenth Page]]
